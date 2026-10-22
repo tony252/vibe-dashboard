@@ -1,7 +1,11 @@
 'use strict';
 /* similar.js — 近似走势查找 前端逻辑（纯前端，无后端） */
 
-const KING = 'https://hantu-zh.github.io/vibe-dashboard/king/?c=';
+// 同源优先：部署在 GitHub Pages 时直接用当前站点的 king/ 子路径，
+// 避免 fork 后把用户引到上游仓库的看板。退化为绝对 URL 仅用于本地 file:// 调试。
+const KING = (location.protocol === 'file:')
+  ? 'https://hantu-zh.github.io/vibe-dashboard/king/?c='
+  : (location.origin + location.pathname.replace(/[^/]*$/, '') + 'king/?c=');
 const SELF_KEY = 'vibe_selfselect';
 
 let ALL = [];            // 全部股票（索引：code/name/board/industry，检索时被补全 c/q）
