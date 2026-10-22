@@ -1,12 +1,31 @@
 {
   "date": "2026-10-21",
-  "updated_at": "2026-10-21 20:03:07",
+  "updated_at": "2026-10-22 13:10:30",
   "stats": {
-    "processed": 16,
+    "processed": 24,
     "alerts": 0,
-    "filtered": 11
+    "filtered": 14
   },
   "events": [
+    {
+      "time": "2026-10-22 07:00",
+      "type": "archive",
+      "title": "【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议",
+      "content": "①中办、国办：全面实施“人工智能+”行动，推动人工智能全方位赋能千行百业②泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议③美股收涨，纳指涨超1%④英伟达携供应链伙伴扩产，加速AI基础设施建设⑤上交所：对南威软件及有关责任人予以监管警示。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2511640",
+      "stocks": [
+        {
+          "name": "南威软件",
+          "code": "603636",
+          "match_reason": "直接提及[南威软件]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
     {
       "time": "2026-10-21 19:57",
       "type": "archive",
@@ -57,6 +76,54 @@
           "name": "百洋股份",
           "code": "002696",
           "match_reason": "直接提及[百洋股份]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-21 17:41",
+      "type": "archive",
+      "title": "【数据看盘】超3亿元资金卖出蔚蓝锂芯，机构联手外资抢筹莱美药业",
+      "content": "①电池产业链今日集体调整，蔚蓝锂芯盘中一度触及跌停，遭四家机构卖出2.39亿，同时深股通卖出0.92亿。\n②莱美药业20CM涨停，获两家机构买入9272万，同时深股通买入8145万。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2511178",
+      "stocks": [
+        {
+          "name": "莱美药业",
+          "code": "300006",
+          "match_reason": "直接提及[莱美药业]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-21 17:23",
+      "type": "archive",
+      "title": "【焦点复盘】创指失守2700点续创年内新低，“宁王”市值单日“蒸发”近1500亿，端侧AI概念活跃依旧",
+      "content": "①连板晋级率跌破三成，高位股内部继续展开缩圈抱团，“羊字辈”玄学炒作热度依旧，海洋王、九阳股份、百洋股份均实现连板晋级；②当前中证500、中证1000指数均站稳5日线上方并实现日线KDJ金叉，后续仍可关注两大指数能否继续向上拓展反弹空间从而激活市场人气。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2511149",
+      "stocks": [
+        {
+          "name": "九阳股份",
+          "code": "002242",
+          "match_reason": "直接提及[九阳股份]（选股推荐）"
+        },
+        {
+          "name": "百洋股份",
+          "code": "002696",
+          "match_reason": "直接提及[百洋股份]（选股推荐）"
+        },
+        {
+          "name": "海洋王",
+          "code": "002724",
+          "match_reason": "直接提及[海洋王]（选股推荐）"
         }
       ],
       "verification": {
@@ -302,7 +369,9 @@
     "002696": "2026-10-21 20:06",
     "600178": "2026-10-21 20:06",
     "002724": "2026-10-21 20:06",
-    "603278": "2026-10-21 20:06"
+    "603278": "2026-10-21 20:06",
+    "603636": "2026-10-22 13:13",
+    "300006": "2026-10-22 13:13"
   },
   "watchlist": [
     {
@@ -311,7 +380,7 @@
       "keywords": "直接提及[天岳先进]（选股推荐）",
       "reason": "新闻提及 | 3次",
       "source": "event",
-      "selected_at": "2026-10-21 20:06",
+      "selected_at": "2026-10-22 13:13",
       "first_seen": "2026-10-21 16:33",
       "is_new": false
     },
@@ -319,11 +388,31 @@
       "name": "百洋股份",
       "code": "002696",
       "keywords": "直接提及[百洋股份]（选股推荐）",
+      "reason": "新闻提及 | 3次",
+      "source": "event",
+      "selected_at": "2026-10-22 13:13",
+      "first_seen": "2026-10-21 20:06",
+      "is_new": false
+    },
+    {
+      "name": "九阳股份",
+      "code": "002242",
+      "keywords": "直接提及[九阳股份]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-21 20:06",
+      "selected_at": "2026-10-22 13:13",
+      "first_seen": "2026-10-21 16:33",
+      "is_new": false
+    },
+    {
+      "name": "海洋王",
+      "code": "002724",
+      "keywords": "直接提及[海洋王]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-10-22 13:13",
       "first_seen": "2026-10-21 20:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "中信建投",
@@ -331,7 +420,7 @@
       "keywords": "直接提及[中信建投]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-21 20:06",
+      "selected_at": "2026-10-22 13:13",
       "first_seen": "2026-10-21 16:33",
       "is_new": false
     },
@@ -341,9 +430,29 @@
       "keywords": "直接提及[云南锗业]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-21 20:06",
+      "selected_at": "2026-10-22 13:13",
       "first_seen": "2026-10-21 16:33",
       "is_new": false
+    },
+    {
+      "name": "南威软件",
+      "code": "603636",
+      "keywords": "直接提及[南威软件]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-22 13:13",
+      "first_seen": "2026-10-22 13:13",
+      "is_new": true
+    },
+    {
+      "name": "莱美药业",
+      "code": "300006",
+      "keywords": "直接提及[莱美药业]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-22 13:13",
+      "first_seen": "2026-10-22 13:13",
+      "is_new": true
     },
     {
       "name": "东安动力",
@@ -351,19 +460,9 @@
       "keywords": "直接提及[东安动力]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-21 20:06",
+      "selected_at": "2026-10-22 13:13",
       "first_seen": "2026-10-21 20:06",
-      "is_new": true
-    },
-    {
-      "name": "海洋王",
-      "code": "002724",
-      "keywords": "直接提及[海洋王]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-21 20:06",
-      "first_seen": "2026-10-21 20:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "大业股份",
@@ -371,9 +470,9 @@
       "keywords": "直接提及[大业股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-21 20:06",
+      "selected_at": "2026-10-22 13:13",
       "first_seen": "2026-10-21 20:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "宇树科技",
@@ -381,7 +480,7 @@
       "keywords": "直接提及[宇树科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-21 20:06",
+      "selected_at": "2026-10-22 13:13",
       "first_seen": "2026-10-21 16:33",
       "is_new": false
     },
@@ -391,17 +490,7 @@
       "keywords": "直接提及[闽东电力]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-21 20:06",
-      "first_seen": "2026-10-21 16:33",
-      "is_new": false
-    },
-    {
-      "name": "九阳股份",
-      "code": "002242",
-      "keywords": "直接提及[九阳股份]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-21 20:06",
+      "selected_at": "2026-10-22 13:13",
       "first_seen": "2026-10-21 16:33",
       "is_new": false
     },
@@ -411,7 +500,7 @@
       "keywords": "直接提及[读者传媒]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-21 20:06",
+      "selected_at": "2026-10-22 13:13",
       "first_seen": "2026-10-21 16:33",
       "is_new": false
     },
@@ -421,7 +510,7 @@
       "keywords": "直接提及[吉大正元]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-21 20:06",
+      "selected_at": "2026-10-22 13:13",
       "first_seen": "2026-10-21 16:33",
       "is_new": false
     },
@@ -431,27 +520,7 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率6.63%</span>",
       "source": "杰克",
-      "selected_at": "2026-10-21 20:06",
-      "first_seen": "2026-10-21 16:33",
-      "is_new": false
-    },
-    {
-      "name": "粤 传 媒",
-      "code": "002181",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.99%</span>",
-      "source": "杰克",
-      "selected_at": "2026-10-21 20:06",
-      "first_seen": "2026-10-21 16:33",
-      "is_new": false
-    },
-    {
-      "name": "金达威",
-      "code": "002626",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率5.83%</span>",
-      "source": "杰克",
-      "selected_at": "2026-10-21 20:06",
+      "selected_at": "2026-10-22 13:13",
       "first_seen": "2026-10-21 16:33",
       "is_new": false
     }
