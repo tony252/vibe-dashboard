@@ -20,7 +20,7 @@
 
  *  1) 只认 6 位纯数字代码 → 美股（AAPL 之类）天然被排除，无需逐页判断；
 
- *  2) 数据四级兜底：kline_cache.json → 腾讯 newfqkline(JSONP) → 腾讯 proxy.finance(JSONP)
+ *  2) 数据四级兜底：kline_cache.json → 腾讯 newfqkline(JSONP) → 腾讯 proxy.finance(JSONP)；板块走 ai_analysis_board_kline.json → 东财
 
  *     → 东财 push2his(JSONP)。**跨域一律走 <script> JSONP**，不用 fetch：
 
@@ -1056,7 +1056,9 @@
 
 
 
-  var BOARD_URL_EXTRA = SELF_BASE + 'ai_board_kline.json';
+  // 2026-10-22: ai_board_kline.json 已停用（一次性手工产物，数据停在 2026-09-11、name 错配个股名），
+  // 板块统一以 ai_analysis_board_kline.json（ai_daily.py 每日采集）为准，缺失/陈旧走东财实时。
+  var BOARD_URL_EXTRA = null;
 
 
 
@@ -1096,7 +1098,7 @@
 
 
 
-    boardPromise = Promise.all([grab(BOARD_URL_EXTRA), grab(BOARD_URL)]).then(function (arr) {
+    boardPromise = Promise.all([Promise.resolve(null), grab(BOARD_URL)]).then(function (arr) {
 
 
 
@@ -1108,7 +1110,7 @@
 
 
 
-      if (extra) { for (k in extra) { merged[String(k).toLowerCase()] = extra[k]; } }
+      if (extra) { for (k in extra) { var mk = String(k).toLowerCase(); merged[mk] = pickNewerBoard(merged[mk], extra[k]); } }
 
 
 
@@ -1297,6 +1299,49 @@
     if (first != null) for (i = 0; i < out.length; i++) { if (out[i] == null) out[i] = first; else break; }
     return out;
   }
+/* 缓存是收盘快照：kline_cache.json 由 CI 每日生成，盘中/跨日会缺当天那根。
+   用「最近应有交易日」近似判断缓存新鲜度（不引入交易日历，节假日最多多打一次实时请求）。 */
+function lastTradingDayGuess() {
+  var now = new Date();
+  var d = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  var opened = now.getHours() > 9 || (now.getHours() === 9 && now.getMinutes() >= 30);
+  var wd = d.getDay();
+  if (!(wd >= 1 && wd <= 5 && opened)) {
+    do { d.setDate(d.getDate() - 1); wd = d.getDay(); } while (wd === 0 || wd === 6);
+  }
+  var m = d.getMonth() + 1, dd = d.getDate();
+  return d.getFullYear() + '-' + (m < 10 ? '0' + m : m) + '-' + (dd < 10 ? '0' + dd : dd);
+}
+
+function isDayCacheStale(res) {
+  var bars = res && res.bars;
+  if (!bars || !bars.length) return false;
+  var last = String(bars[bars.length - 1].d || "").slice(0, 10);
+  return !!last && last < lastTradingDayGuess();
+}
+
+/* 板块缓存记录形如 {name, kline:[[date,o,c,l,h,v],...]}，取末根日期用于比新旧 */
+function latestBarDate(rec) {
+  var kl = rec && rec.kline;
+  return (kl && kl.length) ? String(kl[kl.length - 1][0]).slice(0, 10) : "";
+}
+
+/* 两份板块缓存同 key 时取末根更新的那份（旧文件不得盖住新文件） */
+function pickNewerBoard(a, b) {
+  if (!a) return b;
+  if (!b) return a;
+  return latestBarDate(b) > latestBarDate(a) ? b : a;
+}
+
+/* 给可能长时间挂起的实时请求加上限，超时按失败处理（后续回落缓存） */
+function withTimeout(p, ms) {
+  return new Promise(function (resolve) {
+    var done = false, t = setTimeout(function () { if (!done) { done = true; resolve(null); } }, ms);
+    p.then(function (r) { if (!done) { done = true; clearTimeout(t); resolve(r); } },
+           function () { if (!done) { done = true; clearTimeout(t); resolve(null); } });
+  });
+}
+
 function getKline(code, period) {
 
     var key = code + '|' + period;
@@ -1353,23 +1398,22 @@ function getKline(code, period) {
 
 
 
+        // 缓存陈旧（缺当天那根）→ 改走实时源，缓存留作失败兜底（个股 / 板块通用）
+        var stale = null;
+
+        if (hit && isDayCacheStale(hit)) { stale = hit; hit = null; }
+
         if (hit) return hit;
 
-
-
-        if (isBk) return fromEastmoney(code, period);
+        if (isBk) return withTimeout(fromEastmoney(code, period), 4500).then(function (r) { return r || stale; });
 
 
 
         return fromTencent(code, period).then(function (r) {
 
-
-
           return r || fromEastmoney(code, period);
 
-
-
-        });
+        }).then(function (r) { return r || stale; });
 
 
 
