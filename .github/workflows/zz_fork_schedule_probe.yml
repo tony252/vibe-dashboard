@@ -1,0 +1,19 @@
+# [fork] 探针：用于验证 fork 仓库中新建的工作流文件能否被登记 cron 触发器。
+# 仅写入一条运行记录，不做任何数据抓取或回推；确认后删除本文件。
+name: zz fork schedule probe
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    name: probe
+    runs-on: ubuntu-latest
+    steps:
+      - name: record
+        run: echo "fork schedule probe at $(date -u +%FT%TZ)"
