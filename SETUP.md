@@ -64,10 +64,11 @@ GitHub Pages 从 `main` **根目录**提供文件，`vibe-dashboard/` 子目录�
 （2026-09-08 已踩过这个坑：`sync_func.py` 里 12 处路径写着 `vibe-dashboard\index.html`
 等根本不存在的文件，导致主页 embed 注入与推送**长期静默失败**，主页一直停在旧快照。）
 
-### 步骤 3：配置两个 Secrets（GitHub 网页操作）
+### 步骤 3：配置 Secrets（GitHub 网页操作）
 仓库 **Settings → Secrets and variables → Actions → New repository secret**：
 - `XUEQIU_COOKIES`：雪球 cookie 文件的**全部文本内容**（新闻模块需要；从 Qclaw 的 `xueqiu_cookies.txt` 复制）
-- `DINGTALK_TOKEN`：钉钉机器人 `access_token=` 后面那一串（保留通知用）
+- `DINGTALK_WEBHOOK`：钉钉机器人 `access_token=` 后面那一串（保留通知用；工作流读的是这个名字，`DINGTALK_TOKEN` 不生效）
+- `MX_APIKEY`：妙想 API key（`_gx_quarter_rank.py` 季度环比增长榜单需要）
 
 > `GITHUB_TOKEN` **不用配**，GitHub Actions 自动提供。
 
@@ -79,7 +80,7 @@ GitHub Pages 从 `main` **根目录**提供文件，`vibe-dashboard/` 子目录�
 
 ## 三、验证是否跑通
 1. Actions 页面看最新一次运行的日志，确认没有 `ModuleNotFoundError` / 路径错误。
-2. 等一个交易时段（如 15:30 后），打开 https://hantu-zh.github.io/vibe-dashboard/ 看数据是否更新。
+2. 等一个交易时段（如 15:30 后），打开仓库主页显示的 Pages 地址（fork 即 `https://<你的用户名>.github.io/<仓库名>/`）看数据是否更新。
 3. 若某任务显示 `>> skip xxx.py（尚未提交到仓库）`，说明步骤 2 漏了文件。
 
 ---
@@ -102,4 +103,4 @@ GitHub Pages 从 `main` **根目录**提供文件，`vibe-dashboard/` 子目录�
 | `>> skip xxx.py（尚未提交）` | 步骤 2 漏了生成脚本 |
 | 数据一直不更新 | 看 Actions 日志；多半是数据源限流/海外 IP 问题（见限制 1） |
 | `401/403 push failed` | `permissions: contents: write` 已设；确认不是用了无写权限的 token |
-| 钉钉没收到通知 | 检查 `DINGTALK_TOKEN` Secret 是否正确 |
+| 钉钉没收到通知 | 检查 `DINGTALK_WEBHOOK` Secret 是否正确 |
