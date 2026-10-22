@@ -26,7 +26,8 @@ if not GITHUB_TOKEN:
         GITHUB_TOKEN = open(WORKSPACE / ".github_token", encoding='utf-8-sig').read().strip()
     except Exception:
         GITHUB_TOKEN = None
-GITHUB_REPO = "hantu-zh/vibe-dashboard"
+# GitHub Actions 自动注入 GITHUB_REPOSITORY，fork 后回推自己的仓库；本地运行回退默认值。
+GITHUB_REPO = os.environ.get("GITHUB_REPOSITORY", "hantu-zh/vibe-dashboard")
 
 # ── 钉钉配置 ─────────────────────────────────────────────
 # BUGFIX(2026-10-03): 原实现「裸读 .env.dingtalk 整文件当 token」有两处硬伤：

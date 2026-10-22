@@ -27,7 +27,8 @@ def _gh_token():
     except Exception:
         return None
 TOKEN = _gh_token()
-REPO = 'hantu-zh/vibe-dashboard'
+# GitHub Actions 自动注入 GITHUB_REPOSITORY，fork 后回推自己的仓库；本地运行回退默认值。
+REPO = os.environ.get('GITHUB_REPOSITORY', 'hantu-zh/vibe-dashboard')
 BRANCH = 'main'
 API = 'https://api.github.com'
 HEADERS = {'Authorization': f'token {TOKEN}', 'Accept': 'application/vnd.github.v3+json', 'User-Agent': 'QClaw/1.0'}

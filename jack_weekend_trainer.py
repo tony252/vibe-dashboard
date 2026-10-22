@@ -299,7 +299,8 @@ def _sync_to_vibe_dashboard():
     print("📡 正在同步到 vibe-dashboard...")
 
     TOKEN = _load_github_token()
-    REPO = "hantu-zh/vibe-dashboard"
+    # GitHub Actions 自动注入 GITHUB_REPOSITORY，fork 后回推自己的仓库
+    REPO = os.environ.get("GITHUB_REPOSITORY", "hantu-zh/vibe-dashboard")
     BRANCH = "main"
     GITHUB_API = "https://api.github.com/repos"
 

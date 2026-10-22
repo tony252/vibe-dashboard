@@ -27,7 +27,9 @@ def _gh_token():
         return None
 TOKEN = _gh_token()
 
-REPO = 'hantu-zh/vibe-dashboard'
+# 仓库标识：GitHub Actions 会自动注入 GITHUB_REPOSITORY（形如 owner/repo），
+# 因此 fork 后数据会回推到自己的 fork，而不是上游仓库。本地运行无该变量时回退到默认值。
+REPO = os.environ.get('GITHUB_REPOSITORY', 'hantu-zh/vibe-dashboard')
 BRANCH = 'main'
 LOCAL_HTML = paths.w(r'index.html')
 LOCAL_PICKS = paths.w(r'daily_picks.json')

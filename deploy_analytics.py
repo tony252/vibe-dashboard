@@ -4,7 +4,8 @@
 import os, json, base64, subprocess, time
 
 TOKEN = os.environ['T1'] + os.environ['T2'] + os.environ['T3'] + os.environ['T4']
-REPO = os.environ.get('REPO', 'hantu-zh/vibe-dashboard')
+# 优先级：显式 REPO > Actions 自动注入的 GITHUB_REPOSITORY > 默认值
+REPO = os.environ.get('REPO') or os.environ.get('GITHUB_REPOSITORY') or 'hantu-zh/vibe-dashboard'
 REPO_DIR = os.environ.get('REPO_DIR', 'C:/Users/china/.qclaw/workspace/vibe-dashboard')
 BRANCH = os.environ.get('BRANCH', 'main')
 COMMIT_MSG = os.environ.get('COMMIT_MSG', 'feat: add vibe-analytics silent tracking beacon')

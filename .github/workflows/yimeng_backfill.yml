@@ -56,7 +56,8 @@ jobs:
           if not os.path.exists(p):
               print("no board kline file"); raise SystemExit
           tok = os.environ["GITHUB_TOKEN"]
-          api = "https://api.github.com/repos/hantu-zh/vibe-dashboard/contents/" + p + "?ref=main"
+          repo = os.environ.get("GITHUB_REPOSITORY", "hantu-zh/vibe-dashboard")
+          api = "https://api.github.com/repos/" + repo + "/contents/" + p + "?ref=main"
           req = urllib.request.Request(api, headers={"Authorization": "token " + tok, "Accept": "application/vnd.github+json", "User-Agent": "backfill"})
           try:
               sha = json.loads(urllib.request.urlopen(req, timeout=30).read())["sha"]
@@ -65,7 +66,7 @@ jobs:
           body = {"message": "chore: backfill 刷新板块K线缓存", "content": base64.b64encode(open(p, "rb").read()).decode(), "branch": "main"}
           if sha:
               body["sha"] = sha
-          req2 = urllib.request.Request("https://api.github.com/repos/hantu-zh/vibe-dashboard/contents/" + p,
+          req2 = urllib.request.Request("https://api.github.com/repos/" + repo + "/contents/" + p,
               data=json.dumps(body).encode(), method="PUT")
           req2.add_header("Authorization", "token " + tok)
           req2.add_header("Accept", "application/vnd.github+json")

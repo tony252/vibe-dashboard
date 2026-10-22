@@ -64,9 +64,12 @@ def _gh_token():
         return None
 
 
-def get_remote_html(repo='hantu-zh/vibe-dashboard', branch='main', path='index.html'):
+def get_remote_html(repo=None, branch='main', path='index.html'):
     """以 GitHub 远端最新版为基准读取 index.html（避免自续调度 job 的陈旧本地副本覆盖前端改动）。
     <=1MB 走 contents API 取 base64；超大队列（contents 不返回 content）则回退本地。"""
+    # GitHub Actions 自动注入 GITHUB_REPOSITORY，fork 后读自己的仓库；本地运行回退默认值。
+    if repo is None:
+        repo = os.environ.get('GITHUB_REPOSITORY', 'hantu-zh/vibe-dashboard')
     tok = _gh_token()
     if not tok:
         return None

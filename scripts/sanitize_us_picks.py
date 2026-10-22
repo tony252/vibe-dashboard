@@ -17,7 +17,9 @@ import urllib.request
 
 TOK = os.environ.get("TOKEN") or os.environ.get("GITHUB_TOKEN")
 FILE = "us_picks.json"
-API = f"https://api.github.com/repos/hantu-zh/vibe-dashboard/contents/{FILE}"
+# GitHub Actions 自动注入 GITHUB_REPOSITORY，fork 后读写自己的仓库；本地运行回退默认值。
+_REPO = os.environ.get("GITHUB_REPOSITORY", "hantu-zh/vibe-dashboard")
+API = f"https://api.github.com/repos/{_REPO}/contents/{FILE}"
 
 HEADERS = {
     "Authorization": "token " + (TOK or ""),

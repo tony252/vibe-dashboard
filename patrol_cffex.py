@@ -26,7 +26,8 @@ import subprocess
 import datetime
 
 API = 'https://api.github.com'
-REPO = 'hantu-zh/vibe-dashboard'
+# GitHub Actions 自动注入 GITHUB_REPOSITORY，fork 后回推自己的仓库；本地运行回退默认值。
+REPO = os.environ.get('GITHUB_REPOSITORY', 'hantu-zh/vibe-dashboard')
 BRANCH = 'main'
 TOKEN = os.environ.get('GITHUB_TOKEN', '')
 MAX_ATTEMPTS = int(os.environ.get('CFFEX_PATROL_ATTEMPTS', '6'))
