@@ -4,6 +4,10 @@ name: vibe-dashboard sync
 
 on:
   # 以下 cron 均为 UTC；括号内为上海时间（Asia/Shanghai = UTC+8）
+  # [fork] GitHub 对 fork 的定时工作流默认停用（官方文档 "Disabling and enabling workflows"：
+  #  "When a public repository is forked, scheduled workflows are disabled by default."）。
+  #  在 fork 默认分支改动本工作流文件即可重新登记 schedule 触发器；本注释即为该改动，
+  #  不改变任何触发语义，其余 cron 与上游保持一致。
   schedule:
     - cron: '*/15 * * * *'        # 每15分钟：新闻随时更新 + 全量同步推送
     - cron: '3 * * * *'           # 上海每小时 :03 ETF 雷达（独立每小时任务，不挤占每15分钟同步）
