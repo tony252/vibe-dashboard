@@ -63,9 +63,9 @@
       "turnover": 96.9,
       "change_5d": 44.4,
       "volume": 6.105,
-      "tag": "newhigh",
+      "tag": "volume",
       "score": 5,
-      "reason": "涨幅榜前列(第1名),飙升74.0%"
+      "reason": "量价齐升,换手96.9%,成交6.1亿"
     },
     {
       "code": "920207",
@@ -75,9 +75,9 @@
       "turnover": 23.5,
       "change_5d": 18.0,
       "volume": 3.335,
-      "tag": "newhigh",
+      "tag": "volume",
       "score": 5,
-      "reason": "涨幅榜前列(第2名),飙升30.0%"
+      "reason": "量价齐升,换手23.5%,成交3.3亿"
     },
     {
       "code": "920091",
@@ -87,45 +87,9 @@
       "turnover": 19.1,
       "change_5d": 18.0,
       "volume": 0.858,
-      "tag": "newhigh",
-      "score": 5,
-      "reason": "涨幅榜前列(第3名),飙升30.0%"
-    },
-    {
-      "code": "603721",
-      "name": "中广天择",
-      "price": 21.77,
-      "change_pct": 10.01,
-      "turnover": 18.7,
-      "change_5d": 6.0,
-      "volume": 4.763,
       "tag": "volume",
       "score": 5,
-      "reason": "量价齐升,换手18.7%,成交4.8亿"
-    },
-    {
-      "code": "002343",
-      "name": "慈文传媒",
-      "price": 10.89,
-      "change_pct": 10.0,
-      "turnover": 42.4,
-      "change_5d": 6.0,
-      "volume": 21.239,
-      "tag": "volume",
-      "score": 5,
-      "reason": "量价齐升,换手42.4%,成交21.2亿"
-    },
-    {
-      "code": "603278",
-      "name": "大业股份",
-      "price": 15.96,
-      "change_pct": 9.99,
-      "turnover": 33.4,
-      "change_5d": 6.0,
-      "volume": 16.638,
-      "tag": "volume",
-      "score": 5,
-      "reason": "量价齐升,换手33.4%,成交16.6亿"
+      "reason": "量价齐升,换手19.1%,成交0.9亿"
     },
     {
       "code": "920162",
@@ -163,5 +127,6 @@
       "score": 4,
       "reason": "高换手23.8%,成交1.6亿"
     }
-  ]
+  ],
+  "updated_at": "2026-10-23 15:36:46"
 }
