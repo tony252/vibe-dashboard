@@ -1,12 +1,31 @@
 {
   "date": "2026-10-23",
-  "updated_at": "2026-10-24 12:03:05",
+  "updated_at": "2026-10-24 20:03:05",
   "stats": {
-    "processed": 41,
+    "processed": 50,
     "alerts": 0,
     "filtered": 20
   },
   "events": [
+    {
+      "time": "2026-10-24 14:49",
+      "type": "archive",
+      "title": "罕见！刚取得董秘证4个月的财务总监转董秘，面对媒体采访“祸从口出”，一纸监管函来了！",
+      "content": "来源：企业上市 2026年10月21日，上交所一纸监管警示函送到南威软件，对象是公司时任董秘张媛。距离她6月2日正式履职，不过四个半月。",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-24/doc-iniwicvn8044032.shtml",
+      "stocks": [
+        {
+          "name": "南威软件",
+          "code": "603636",
+          "match_reason": "直接提及[南威软件]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
     {
       "time": "2026-10-23 19:42",
       "type": "archive",
@@ -442,25 +461,6 @@
         "memory": false,
         "source": true
       }
-    },
-    {
-      "time": "2026-10-23 13:09:09",
-      "type": "archive",
-      "title": "大金融板块持续反弹 汇金科技触及20cm涨停",
-      "content": "午后大金融板块持续反弹，汇金科技触及20cm涨停，此前华林证券涨停，同花顺、大智慧、华信永道、汇金股份、华鑫股份等跟涨。",
-      "source": "东方财富",
-      "source_url": "https://finance.eastmoney.com/a/202610233905905389.html",
-      "stocks": [
-        {
-          "name": "华鑫股份",
-          "code": "600621",
-          "match_reason": "直接提及[华鑫股份]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
     }
   ],
   "keywords": {
@@ -519,7 +519,8 @@
     "603466": "2026-10-23 20:06",
     "300369": "2026-10-23 20:06",
     "603278": "2026-10-24 12:06",
-    "605488": "2026-10-24 12:06"
+    "605488": "2026-10-24 12:06",
+    "603636": "2026-10-24 20:06"
   },
   "watchlist": [
     {
@@ -528,7 +529,7 @@
       "keywords": "直接提及[宇树科技]（选股推荐）",
       "reason": "新闻提及 | 4次",
       "source": "event",
-      "selected_at": "2026-10-24 12:06",
+      "selected_at": "2026-10-24 20:06",
       "first_seen": "2026-10-23 16:32",
       "is_new": false
     },
@@ -538,7 +539,7 @@
       "keywords": "直接提及[能科科技]（选股推荐）",
       "reason": "新闻提及 | 3次",
       "source": "event",
-      "selected_at": "2026-10-24 12:06",
+      "selected_at": "2026-10-24 20:06",
       "first_seen": "2026-10-23 20:06",
       "is_new": false
     },
@@ -548,7 +549,7 @@
       "keywords": "直接提及[凡拓数创]（选股推荐）",
       "reason": "新闻提及 | 3次",
       "source": "event",
-      "selected_at": "2026-10-24 12:06",
+      "selected_at": "2026-10-24 20:06",
       "first_seen": "2026-10-23 16:32",
       "is_new": false
     },
@@ -558,7 +559,7 @@
       "keywords": "直接提及[天娱数科]（选股推荐）",
       "reason": "新闻提及 | 3次",
       "source": "event",
-      "selected_at": "2026-10-24 12:06",
+      "selected_at": "2026-10-24 20:06",
       "first_seen": "2026-10-23 16:32",
       "is_new": false
     },
@@ -568,7 +569,7 @@
       "keywords": "直接提及[海洋王]（选股推荐）",
       "reason": "新闻提及 | 3次",
       "source": "event",
-      "selected_at": "2026-10-24 12:06",
+      "selected_at": "2026-10-24 20:06",
       "first_seen": "2026-10-23 16:32",
       "is_new": false
     },
@@ -578,9 +579,9 @@
       "keywords": "直接提及[大业股份]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-24 12:06",
+      "selected_at": "2026-10-24 20:06",
       "first_seen": "2026-10-24 12:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "工商银行",
@@ -588,7 +589,7 @@
       "keywords": "直接提及[工商银行]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-24 12:06",
+      "selected_at": "2026-10-24 20:06",
       "first_seen": "2026-10-23 16:32",
       "is_new": false
     },
@@ -598,9 +599,19 @@
       "keywords": "直接提及[利亚德]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-24 12:06",
+      "selected_at": "2026-10-24 20:06",
       "first_seen": "2026-10-23 16:32",
       "is_new": false
+    },
+    {
+      "name": "南威软件",
+      "code": "603636",
+      "keywords": "直接提及[南威软件]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-24 20:06",
+      "first_seen": "2026-10-24 20:06",
+      "is_new": true
     },
     {
       "name": "风语筑",
@@ -608,7 +619,7 @@
       "keywords": "直接提及[风语筑]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-24 12:06",
+      "selected_at": "2026-10-24 20:06",
       "first_seen": "2026-10-23 20:06",
       "is_new": false
     },
@@ -618,7 +629,7 @@
       "keywords": "直接提及[绿盟科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-24 12:06",
+      "selected_at": "2026-10-24 20:06",
       "first_seen": "2026-10-23 20:06",
       "is_new": false
     },
@@ -628,9 +639,9 @@
       "keywords": "直接提及[福莱新材]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-24 12:06",
+      "selected_at": "2026-10-24 20:06",
       "first_seen": "2026-10-24 12:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "云南锗业",
@@ -638,7 +649,7 @@
       "keywords": "直接提及[云南锗业]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-24 12:06",
+      "selected_at": "2026-10-24 20:06",
       "first_seen": "2026-10-23 16:32",
       "is_new": false
     },
@@ -648,7 +659,7 @@
       "keywords": "直接提及[正裕工业]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-24 12:06",
+      "selected_at": "2026-10-24 20:06",
       "first_seen": "2026-10-23 16:32",
       "is_new": false
     },
@@ -658,17 +669,7 @@
       "keywords": "直接提及[信通电子]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-24 12:06",
-      "first_seen": "2026-10-23 16:32",
-      "is_new": false
-    },
-    {
-      "name": "拉卡拉",
-      "code": "300773",
-      "keywords": "直接提及[拉卡拉]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-24 12:06",
+      "selected_at": "2026-10-24 20:06",
       "first_seen": "2026-10-23 16:32",
       "is_new": false
     }
