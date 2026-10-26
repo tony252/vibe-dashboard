@@ -1,4 +1,23 @@
 {
- "date": "2026-10-23",
- "picks": []
+ "date": "2026-10-26",
+ "picks": [
+  {
+   "code": "600323",
+   "name": "瀚蓝环境",
+   "price": 31.45,
+   "change_pct": 2.34,
+   "change_5d": 2.31,
+   "dist_52w_pct": -4.67,
+   "break_pct": 2.04,
+   "dev25_pct": 5.8,
+   "ma25": 29.73,
+   "ma60": 29.9,
+   "trend": false,
+   "amount_5d_yi": 8.71,
+   "consec_days": 1,
+   "score": 0.7,
+   "tag": "fourweek",
+   "reason": "近52周高-4.7% | 4周新高+2.0% | 偏离25日线+5.8% | 连续1日 | 5日均额8.7亿"
+  }
+ ]
 }
