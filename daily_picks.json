@@ -161683,5 +161683,92 @@
         }
       ]
     }
+  },
+  "2026-10-26": {
+    "高欣资金净流入": {
+      "time": "08:33",
+      "picks": [
+        {
+          "code": "601728",
+          "name": "中国电信",
+          "net_amount_5d": 10433.0,
+          "net_ratio_avg": 3.43,
+          "positive_days": 3,
+          "change_pct": 1.79,
+          "price": 6.84,
+          "score": 26.75
+        },
+        {
+          "code": "601698",
+          "name": "中国卫通",
+          "net_amount_5d": -4374.0,
+          "net_ratio_avg": -2.69,
+          "positive_days": 1,
+          "change_pct": 1.95,
+          "price": 22.45,
+          "score": 11.47
+        },
+        {
+          "code": "601628",
+          "name": "中国人寿",
+          "net_amount_5d": -7720.0,
+          "net_ratio_avg": -2.97,
+          "positive_days": 2,
+          "change_pct": 1.89,
+          "price": 34.5,
+          "score": 11.42
+        },
+        {
+          "code": "601658",
+          "name": "邮储银行",
+          "net_amount_5d": -5102.0,
+          "net_ratio_avg": -0.94,
+          "positive_days": 2,
+          "change_pct": -1.44,
+          "price": 5.48,
+          "score": 10.43
+        },
+        {
+          "code": "601601",
+          "name": "中国太保",
+          "net_amount_5d": -38551.0,
+          "net_ratio_avg": -5.93,
+          "positive_days": 1,
+          "change_pct": 2.52,
+          "price": 28.89,
+          "score": 6.89
+        },
+        {
+          "code": "601668",
+          "name": "中国建筑",
+          "net_amount_5d": -35909.0,
+          "net_ratio_avg": -4.35,
+          "positive_days": 1,
+          "change_pct": 0.0,
+          "price": 4.5,
+          "score": 5.0
+        },
+        {
+          "code": "601688",
+          "name": "华泰证券",
+          "net_amount_5d": -42700.0,
+          "net_ratio_avg": -8.3,
+          "positive_days": 0,
+          "change_pct": 1.95,
+          "price": 17.25,
+          "score": 1.46
+        },
+        {
+          "code": "601766",
+          "name": "中国中车",
+          "net_amount_5d": -35403.0,
+          "net_ratio_avg": -7.0,
+          "positive_days": 0,
+          "change_pct": 0.32,
+          "price": 6.35,
+          "score": 0.24
+        }
+      ]
+    }
   }
 }
