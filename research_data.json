@@ -1,12 +1,117 @@
 {
   "date": "2026-10-26",
-  "updated_at": "2026-10-26 16:33:18",
+  "updated_at": "2026-10-26 20:03:22",
   "stats": {
-    "processed": 13,
+    "processed": 27,
     "alerts": 0,
-    "filtered": 13
+    "filtered": 20
   },
   "events": [
+    {
+      "time": "2026-10-26 19:39",
+      "type": "archive",
+      "title": "主力热捧医疗，医疗ETF华宝（512170）放量上穿年线！医疗器械挑大梁，拐点到了？2000亿巨头9连阳",
+      "content": "10月26日，A股弱势震荡，医疗强势突围，器械股一马当先，新产业领涨9.34%，大博医疗涨7.22%，三诺生物涨6.89%，2000亿市值巨头迈瑞医疗涨3.63%创6个月新高，斩获9连阳！",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/money/fund/etf/2026-10-26/doc-iniwqarp9279869.shtml",
+      "stocks": [
+        {
+          "name": "新产业",
+          "code": "300832",
+          "match_reason": "直接提及[新产业]（选股推荐）"
+        },
+        {
+          "name": "三诺生物",
+          "code": "300298",
+          "match_reason": "直接提及[三诺生物]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-26 19:37",
+      "type": "archive",
+      "title": "七个交易日累计涨幅超65%，宇树科技提示风险",
+      "content": "王兴兴提到，宇树现在一年大概要生产几万台机器人，以及几十万个关节电机和模组。 10月26日，宇树科技股价延续上涨势头，盘中涨幅一度超18%，而后股价有所回落...",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/roll/2026-10-26/doc-iniwqart2171011.shtml",
+      "stocks": [
+        {
+          "name": "宇树科技",
+          "code": "688836",
+          "match_reason": "直接提及[宇树科技]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-26 19:27",
+      "type": "archive",
+      "title": "追偿3.74亿！三家中介机构再告泽达易盛造假“帮手”",
+      "content": "作者 |谢美浴 编辑 | 付影 来源 | 独角金融 泽达易盛欺诈发行余波未了。 10月24日，格尔软件（603232.SH）公告，公司近日收到上海金融法院送达的《民事起诉状》等材料...",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/stock/s/2026-10-26/doc-iniwqarr5393368.shtml",
+      "stocks": [
+        {
+          "name": "格尔软件",
+          "code": "603232",
+          "match_reason": "直接提及[格尔软件]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-26 19:25",
+      "type": "archive",
+      "title": "7天反弹超65%，总市值重回2700亿元！宇树科技紧急提示风险",
+      "content": " 10月26日盘后，宇树科技发布公告称，公司股票于2026年10月22日、10月23日、10月26日连续三个交易日收盘价格涨幅偏离值累计超过30%，属于股票交易异常波动情形。",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-10-26/doc-iniwqarn2483271.shtml",
+      "stocks": [
+        {
+          "name": "宇树科技",
+          "code": "688836",
+          "match_reason": "直接提及[宇树科技]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-26 19:09",
+      "type": "archive",
+      "title": "首份三季报超预期，银行再起攻势，银行ETF华宝（512800）标的指数涨1.79%！重视四季度“日历效应”",
+      "content": "10月26日，银行板块再起攻势，全天逆市走强，工商银行涨超3%，南京银行、建设银行、交通银行、上海银行等7股涨超2%，农业银行等26股涨逾1%。",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/money/fund/etf/2026-10-26/doc-iniwqart2163651.shtml",
+      "stocks": [
+        {
+          "name": "工商银行",
+          "code": "601398",
+          "match_reason": "直接提及[工商银行]（选股推荐）"
+        },
+        {
+          "name": "农业银行",
+          "code": "601288",
+          "match_reason": "直接提及[农业银行]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
     {
       "time": "2026-10-26 16:31",
       "type": "archive",
@@ -76,6 +181,63 @@
           "name": "凡拓数创",
           "code": "301313",
           "match_reason": "直接提及[凡拓数创]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-26 12:14",
+      "type": "archive",
+      "title": "【午报】沪指探底回升微跌0.18%，大消费板块逆势走强，算力硬件再陷调整",
+      "content": "①今日早盘市场震荡回落后小幅回升，三大指数跌幅有所收窄，大消费方向逆势走强，医药商业、机器人概念于盘中反复活跃，算力硬件再度陷入调整；\n②个股层面，早盘涨停数量为42家，封板率70%，连板股数量为10家，上海九百4连板。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2514826",
+      "stocks": [
+        {
+          "name": "上海九百",
+          "code": "600838",
+          "match_reason": "直接提及[上海九百]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-26 11:07",
+      "type": "archive",
+      "title": "4天票房仅118万，影视龙头，跳水跌停",
+      "content": "①今日AI漫剧概念震荡走弱，博纳影业、慈文传媒双双跌停；\n②《三星堆·未来往事》上映4天累计票房仅为118.2万元；\n③博纳影业近10个交易日跌幅为27.77%。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2514772",
+      "stocks": [
+        {
+          "name": "慈文传媒",
+          "code": "002343",
+          "match_reason": "直接提及[慈文传媒]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-26 10:47",
+      "type": "archive",
+      "title": "宇树科技大涨超8%，近7日股价飙升超6成",
+      "content": "①今日宇树科技盘中涨幅一度突破8%，截至发稿涨8.49%报677元/股，总市值重回2700亿元；\n②自10月16日起的7个交易日，该股累计涨幅已超60%。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2514756",
+      "stocks": [
+        {
+          "name": "宇树科技",
+          "code": "688836",
+          "match_reason": "直接提及[宇树科技]（选股推荐）"
         }
       ],
       "verification": {
@@ -249,25 +411,6 @@
         "memory": false,
         "source": true
       }
-    },
-    {
-      "time": "2026-10-23 12:14",
-      "type": "archive",
-      "title": "【午报】创业板指震荡走低跌超2%，全市场超4800股飘绿，白酒、大金融逆势活跃",
-      "content": "①今日早盘震荡走低，创业板指再度跌超2%，全市场超4800股下跌，白酒、大金融盘中逆势活跃，算力硬件板块则延续调整；\n②个股层面，早盘涨停数量为19家，炸板率39%，连板股数量为8家，上海九百3连板。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2513228",
-      "stocks": [
-        {
-          "name": "上海九百",
-          "code": "600838",
-          "match_reason": "直接提及[上海九百]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
     }
   ],
   "keywords": {
@@ -304,7 +447,7 @@
       "现金管理"
     ]
   },
-  "mode": "report",
+  "mode": "scan",
   "week": 44,
   "stock_meta": {
     "688836": "2026-10-26 16:33",
@@ -321,18 +464,24 @@
     "600838": "2026-10-26 16:33",
     "688212": "2026-10-26 16:33",
     "300652": "2026-10-26 16:33",
-    "688165": "2026-10-26 16:33"
+    "688165": "2026-10-26 16:33",
+    "300832": "2026-10-26 20:06",
+    "300298": "2026-10-26 20:06",
+    "603232": "2026-10-26 20:06",
+    "601398": "2026-10-26 20:06",
+    "601288": "2026-10-26 20:06",
+    "002343": "2026-10-26 20:06"
   },
   "watchlist": [
     {
       "name": "宇树科技",
       "code": "688836",
       "keywords": "直接提及[宇树科技]（选股推荐）",
-      "reason": "新闻提及 | 3次",
+      "reason": "新闻提及 | 6次",
       "source": "event",
-      "selected_at": "2026-10-26 16:33",
+      "selected_at": "2026-10-26 20:06",
       "first_seen": "2026-10-26 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "凡拓数创",
@@ -340,9 +489,9 @@
       "keywords": "直接提及[凡拓数创]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-26 16:33",
+      "selected_at": "2026-10-26 20:06",
       "first_seen": "2026-10-26 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "大业股份",
@@ -350,8 +499,58 @@
       "keywords": "直接提及[大业股份]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-26 16:33",
+      "selected_at": "2026-10-26 20:06",
       "first_seen": "2026-10-26 16:33",
+      "is_new": false
+    },
+    {
+      "name": "新产业",
+      "code": "300832",
+      "keywords": "直接提及[新产业]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-26 20:06",
+      "first_seen": "2026-10-26 20:06",
+      "is_new": true
+    },
+    {
+      "name": "三诺生物",
+      "code": "300298",
+      "keywords": "直接提及[三诺生物]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-26 20:06",
+      "first_seen": "2026-10-26 20:06",
+      "is_new": true
+    },
+    {
+      "name": "格尔软件",
+      "code": "603232",
+      "keywords": "直接提及[格尔软件]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-26 20:06",
+      "first_seen": "2026-10-26 20:06",
+      "is_new": true
+    },
+    {
+      "name": "工商银行",
+      "code": "601398",
+      "keywords": "直接提及[工商银行]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-26 20:06",
+      "first_seen": "2026-10-26 20:06",
+      "is_new": true
+    },
+    {
+      "name": "农业银行",
+      "code": "601288",
+      "keywords": "直接提及[农业银行]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-26 20:06",
+      "first_seen": "2026-10-26 20:06",
       "is_new": true
     },
     {
@@ -360,9 +559,9 @@
       "keywords": "直接提及[震安科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-26 16:33",
+      "selected_at": "2026-10-26 20:06",
       "first_seen": "2026-10-26 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "科大讯飞",
@@ -370,9 +569,9 @@
       "keywords": "直接提及[科大讯飞]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-26 16:33",
+      "selected_at": "2026-10-26 20:06",
       "first_seen": "2026-10-26 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "养元饮品",
@@ -380,8 +579,28 @@
       "keywords": "直接提及[养元饮品]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-26 16:33",
+      "selected_at": "2026-10-26 20:06",
       "first_seen": "2026-10-26 16:33",
+      "is_new": false
+    },
+    {
+      "name": "上海九百",
+      "code": "600838",
+      "keywords": "直接提及[上海九百]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-26 20:06",
+      "first_seen": "2026-10-26 16:33",
+      "is_new": false
+    },
+    {
+      "name": "慈文传媒",
+      "code": "002343",
+      "keywords": "直接提及[慈文传媒]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-26 20:06",
+      "first_seen": "2026-10-26 20:06",
       "is_new": true
     },
     {
@@ -390,9 +609,9 @@
       "keywords": "直接提及[华瓷股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-26 16:33",
+      "selected_at": "2026-10-26 20:06",
       "first_seen": "2026-10-26 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "德明利",
@@ -400,79 +619,9 @@
       "keywords": "直接提及[德明利]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-26 16:33",
+      "selected_at": "2026-10-26 20:06",
       "first_seen": "2026-10-26 16:33",
-      "is_new": true
-    },
-    {
-      "name": "天娱数科",
-      "code": "002354",
-      "keywords": "直接提及[天娱数科]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-26 16:33",
-      "first_seen": "2026-10-26 16:33",
-      "is_new": true
-    },
-    {
-      "name": "海洋王",
-      "code": "002724",
-      "keywords": "直接提及[海洋王]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-26 16:33",
-      "first_seen": "2026-10-26 16:33",
-      "is_new": true
-    },
-    {
-      "name": "福莱新材",
-      "code": "605488",
-      "keywords": "直接提及[福莱新材]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-26 16:33",
-      "first_seen": "2026-10-26 16:33",
-      "is_new": true
-    },
-    {
-      "name": "上海九百",
-      "code": "600838",
-      "keywords": "直接提及[上海九百]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-26 16:33",
-      "first_seen": "2026-10-26 16:33",
-      "is_new": true
-    },
-    {
-      "name": "澳华内镜",
-      "code": "688212",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"12.00\">涨幅12.00%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.59%</span>",
-      "source": "杰克",
-      "selected_at": "2026-10-26 16:33",
-      "first_seen": "2026-10-26 16:33",
-      "is_new": true
-    },
-    {
-      "name": "雷迪克",
-      "code": "300652",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"10.85\">涨幅10.85%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.76%</span>",
-      "source": "杰克",
-      "selected_at": "2026-10-26 16:33",
-      "first_seen": "2026-10-26 16:33",
-      "is_new": true
-    },
-    {
-      "name": "埃夫特",
-      "code": "688165",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"10.53\">涨幅10.53%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.47%</span>",
-      "source": "杰克",
-      "selected_at": "2026-10-26 16:33",
-      "first_seen": "2026-10-26 16:33",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
