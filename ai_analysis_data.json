@@ -3,345 +3,345 @@
     "indices": [
       {
         "name": "上证指数",
-        "current": 3679.25,
-        "pct": -0.3
+        "current": 3668.7,
+        "pct": -0.59
       },
       {
         "name": "深证成指",
-        "current": 11570.56,
-        "pct": -0.88
+        "current": 11492.66,
+        "pct": -1.55
       },
       {
         "name": "创业板指",
-        "current": 2641.24,
-        "pct": -1.6
+        "current": 2618.79,
+        "pct": -2.43
       },
       {
         "name": "沪深300",
-        "current": 4077.28,
-        "pct": -0.68
+        "current": 4067.77,
+        "pct": -0.91
       },
       {
         "name": "科创50",
-        "current": 1325.34,
-        "pct": -1.5
+        "current": 1314.13,
+        "pct": -2.33
       },
       {
         "name": "上证50",
-        "current": 2736.55,
-        "pct": -0.77
+        "current": 2734.46,
+        "pct": -0.84
       },
       {
         "name": "中证500",
-        "current": 6768.6,
-        "pct": -0.67
+        "current": 6711.71,
+        "pct": -1.51
       },
       {
         "name": "中证1000",
-        "current": 6694.36,
-        "pct": -0.6
+        "current": 6629.96,
+        "pct": -1.55
       }
     ],
     "top_gainers": [
+      {
+        "name": "延华智能",
+        "code": "002178",
+        "price": 5.34,
+        "change_pct": 10.1,
+        "turnover": 3.75
+      },
       {
         "name": "闽发铝业",
         "code": "002578",
         "price": 3.6,
         "change_pct": 10.09,
-        "turnover": 2.42
+        "turnover": 3.91
+      },
+      {
+        "name": "东方海洋",
+        "code": "002086",
+        "price": 2.3,
+        "change_pct": 10.05,
+        "turnover": 10.54
       },
       {
         "name": "青岛食品",
         "code": "001219",
         "price": 13.62,
         "change_pct": 10.02,
-        "turnover": 2.44
+        "turnover": 3.3
       },
       {
-        "name": "天奇股份",
-        "code": "002009",
-        "price": 19.03,
-        "change_pct": 10.0,
-        "turnover": 2.05
+        "name": "中天火箭",
+        "code": "003009",
+        "price": 46.49,
+        "change_pct": 10.01,
+        "turnover": 2.31
       },
       {
         "name": "榕基软件",
         "code": "002474",
         "price": 7.82,
         "change_pct": 9.99,
-        "turnover": 6.32
-      },
-      {
-        "name": "创维数字",
-        "code": "000810",
-        "price": 11.02,
-        "change_pct": 9.98,
-        "turnover": 3.87
+        "turnover": 6.69
       },
       {
         "name": "襄阳轴承",
         "code": "000678",
         "price": 14.55,
         "change_pct": 9.98,
-        "turnover": 9.38
+        "turnover": 10.79
       },
       {
-        "name": "天娱数科",
-        "code": "002354",
-        "price": 8.83,
-        "change_pct": 9.96,
-        "turnover": 1.54
+        "name": "永和智控",
+        "code": "002795",
+        "price": 6.86,
+        "change_pct": 9.41,
+        "turnover": 2.29
       },
       {
-        "name": "光洋股份",
-        "code": "002708",
-        "price": 15.53,
-        "change_pct": 9.14,
-        "turnover": 3.71
-      },
-      {
-        "name": "万向钱潮",
-        "code": "000559",
-        "price": 12.51,
-        "change_pct": 8.31,
-        "turnover": 2.03
-      },
-      {
-        "name": "ST西王",
-        "code": "000639",
-        "price": 1.74,
-        "change_pct": 7.41,
-        "turnover": 2.65
-      },
-      {
-        "name": "豪美新材",
-        "code": "002988",
-        "price": 33.46,
-        "change_pct": 7.11,
-        "turnover": 1.14
-      },
-      {
-        "name": "*ST冀凯",
-        "code": "002691",
-        "price": 4.11,
-        "change_pct": 6.48,
-        "turnover": 0.38
+        "name": "创维数字",
+        "code": "000810",
+        "price": 10.95,
+        "change_pct": 9.28,
+        "turnover": 5.63
       },
       {
         "name": "大博医疗",
         "code": "002901",
-        "price": 41.73,
-        "change_pct": 6.16,
-        "turnover": 0.21
+        "price": 42.92,
+        "change_pct": 9.18,
+        "turnover": 0.73
       },
       {
-        "name": "联域股份",
-        "code": "001326",
-        "price": 95.12,
-        "change_pct": 5.69,
-        "turnover": 1.34
+        "name": "英特集团",
+        "code": "000411",
+        "price": 10.42,
+        "change_pct": 9.0,
+        "turnover": 1.15
       },
       {
-        "name": "北大医药",
-        "code": "000788",
-        "price": 6.02,
-        "change_pct": 5.61,
-        "turnover": 2.36
+        "name": "万向钱潮",
+        "code": "000559",
+        "price": 12.53,
+        "change_pct": 8.48,
+        "turnover": 3.25
+      },
+      {
+        "name": "天娱数科",
+        "code": "002354",
+        "price": 8.7,
+        "change_pct": 8.34,
+        "turnover": 9.12
+      },
+      {
+        "name": "光洋股份",
+        "code": "002708",
+        "price": 15.41,
+        "change_pct": 8.29,
+        "turnover": 7.67
+      },
+      {
+        "name": "天奇股份",
+        "code": "002009",
+        "price": 18.59,
+        "change_pct": 7.46,
+        "turnover": 8.06
       }
     ],
     "sectors": [
       {
+        "name": "会展服务",
+        "code": "BK1565",
+        "pct": 7.85,
+        "amount_yi": 2.0,
+        "net_inflow_yi": 0.1
+      },
+      {
         "name": "其他数字媒体",
         "code": "BK1295",
-        "pct": 9.22,
-        "amount_yi": 12.9,
+        "pct": 6.93,
+        "amount_yi": 21.0,
+        "net_inflow_yi": 0.6
+      },
+      {
+        "name": "医药流通",
+        "code": "BK1607",
+        "pct": 3.16,
+        "amount_yi": 10.6,
+        "net_inflow_yi": 0.9
+      },
+      {
+        "name": "医药商业",
+        "code": "BK1042",
+        "pct": 3.15,
+        "amount_yi": 14.2,
         "net_inflow_yi": 0.7
       },
       {
-        "name": "会展服务",
-        "code": "BK1565",
-        "pct": 5.48,
-        "amount_yi": 0.9,
-        "net_inflow_yi": 0.1
-      },
-      {
-        "name": "摩托车",
-        "code": "BK1521",
-        "pct": 2.83,
-        "amount_yi": 2.1,
-        "net_inflow_yi": 0.1
-      },
-      {
-        "name": "烘焙食品",
-        "code": "BK1582",
-        "pct": 2.66,
-        "amount_yi": 1.6,
-        "net_inflow_yi": 0.2
-      },
-      {
-        "name": "油气开采Ⅲ",
-        "code": "BK1574",
-        "pct": 1.79,
-        "amount_yi": 2.5,
-        "net_inflow_yi": -0.1
-      },
-      {
-        "name": "油气开采Ⅱ",
-        "code": "BK1276",
-        "pct": 1.79,
-        "amount_yi": 2.5,
+        "name": "线下药店",
+        "code": "BK1606",
+        "pct": 3.12,
+        "amount_yi": 3.6,
         "net_inflow_yi": -0.1
       },
       {
         "name": "快递",
         "code": "BK1489",
-        "pct": 1.5,
-        "amount_yi": 1.4,
-        "net_inflow_yi": 0.1
+        "pct": 2.52,
+        "amount_yi": 3.9,
+        "net_inflow_yi": 0.3
       },
       {
-        "name": "休闲食品",
-        "code": "BK1281",
-        "pct": 1.41,
-        "amount_yi": 3.1,
+        "name": "烘焙食品",
+        "code": "BK1582",
+        "pct": 2.37,
+        "amount_yi": 3.2,
+        "net_inflow_yi": 0.3
+      },
+      {
+        "name": "医院",
+        "code": "BK1601",
+        "pct": 1.96,
+        "amount_yi": 11.4,
+        "net_inflow_yi": 0.3
+      },
+      {
+        "name": "摩托车",
+        "code": "BK1521",
+        "pct": 1.88,
+        "amount_yi": 6.3,
         "net_inflow_yi": 0.2
       },
       {
         "name": "医疗设备",
         "code": "BK1605",
-        "pct": 1.3,
-        "amount_yi": 12.3,
-        "net_inflow_yi": 0.2
+        "pct": 1.73,
+        "amount_yi": 36.9,
+        "net_inflow_yi": 1.0
       },
       {
-        "name": "印刷",
-        "code": "BK1534",
-        "pct": 1.29,
-        "amount_yi": 0.5,
-        "net_inflow_yi": 0.0
-      },
-      {
-        "name": "其他黑色家电",
-        "code": "BK1454",
-        "pct": 1.23,
-        "amount_yi": 5.0,
-        "net_inflow_yi": 0.7
-      },
-      {
-        "name": "磁性材料",
-        "code": "BK1618",
-        "pct": 1.16,
-        "amount_yi": 4.8,
+        "name": "休闲食品",
+        "code": "BK1281",
+        "pct": 1.73,
+        "amount_yi": 7.4,
         "net_inflow_yi": 0.3
+      },
+      {
+        "name": "零食",
+        "code": "BK1583",
+        "pct": 1.66,
+        "amount_yi": 3.8,
+        "net_inflow_yi": 0.0
       }
     ],
     "us_stocks": [],
     "us_indices": [],
     "strong_stocks": [
       {
+        "name": "延华智能",
+        "code": "002178",
+        "price": 5.34,
+        "change_pct": 10.1,
+        "turnover": 3.75
+      },
+      {
         "name": "闽发铝业",
         "code": "002578",
         "price": 3.6,
         "change_pct": 10.09,
-        "turnover": 2.42
+        "turnover": 3.91
+      },
+      {
+        "name": "东方海洋",
+        "code": "002086",
+        "price": 2.3,
+        "change_pct": 10.05,
+        "turnover": 10.54
       },
       {
         "name": "青岛食品",
         "code": "001219",
         "price": 13.62,
         "change_pct": 10.02,
-        "turnover": 2.44
+        "turnover": 3.3
       },
       {
-        "name": "天奇股份",
-        "code": "002009",
-        "price": 19.03,
-        "change_pct": 10.0,
-        "turnover": 2.05
+        "name": "中天火箭",
+        "code": "003009",
+        "price": 46.49,
+        "change_pct": 10.01,
+        "turnover": 2.31
       },
       {
         "name": "榕基软件",
         "code": "002474",
         "price": 7.82,
         "change_pct": 9.99,
-        "turnover": 6.32
-      },
-      {
-        "name": "创维数字",
-        "code": "000810",
-        "price": 11.02,
-        "change_pct": 9.98,
-        "turnover": 3.87
+        "turnover": 6.69
       },
       {
         "name": "襄阳轴承",
         "code": "000678",
         "price": 14.55,
         "change_pct": 9.98,
-        "turnover": 9.38
+        "turnover": 10.79
       },
       {
-        "name": "天娱数科",
-        "code": "002354",
-        "price": 8.83,
-        "change_pct": 9.96,
-        "turnover": 1.54
+        "name": "永和智控",
+        "code": "002795",
+        "price": 6.86,
+        "change_pct": 9.41,
+        "turnover": 2.29
       },
       {
-        "name": "光洋股份",
-        "code": "002708",
-        "price": 15.53,
-        "change_pct": 9.14,
-        "turnover": 3.71
-      },
-      {
-        "name": "万向钱潮",
-        "code": "000559",
-        "price": 12.51,
-        "change_pct": 8.31,
-        "turnover": 2.03
-      },
-      {
-        "name": "ST西王",
-        "code": "000639",
-        "price": 1.74,
-        "change_pct": 7.41,
-        "turnover": 2.65
-      },
-      {
-        "name": "豪美新材",
-        "code": "002988",
-        "price": 33.46,
-        "change_pct": 7.11,
-        "turnover": 1.14
-      },
-      {
-        "name": "*ST冀凯",
-        "code": "002691",
-        "price": 4.11,
-        "change_pct": 6.48,
-        "turnover": 0.38
+        "name": "创维数字",
+        "code": "000810",
+        "price": 10.95,
+        "change_pct": 9.28,
+        "turnover": 5.63
       },
       {
         "name": "大博医疗",
         "code": "002901",
-        "price": 41.73,
-        "change_pct": 6.16,
-        "turnover": 0.21
+        "price": 42.92,
+        "change_pct": 9.18,
+        "turnover": 0.73
       },
       {
-        "name": "联域股份",
-        "code": "001326",
-        "price": 95.12,
-        "change_pct": 5.69,
-        "turnover": 1.34
+        "name": "英特集团",
+        "code": "000411",
+        "price": 10.42,
+        "change_pct": 9.0,
+        "turnover": 1.15
       },
       {
-        "name": "北大医药",
-        "code": "000788",
-        "price": 6.02,
-        "change_pct": 5.61,
-        "turnover": 2.36
+        "name": "万向钱潮",
+        "code": "000559",
+        "price": 12.53,
+        "change_pct": 8.48,
+        "turnover": 3.25
+      },
+      {
+        "name": "天娱数科",
+        "code": "002354",
+        "price": 8.7,
+        "change_pct": 8.34,
+        "turnover": 9.12
+      },
+      {
+        "name": "光洋股份",
+        "code": "002708",
+        "price": 15.41,
+        "change_pct": 8.29,
+        "turnover": 7.67
+      },
+      {
+        "name": "天奇股份",
+        "code": "002009",
+        "price": 18.59,
+        "change_pct": 7.46,
+        "turnover": 8.06
       }
     ],
     "yimeng_stocks": [
@@ -572,5 +572,5 @@
       }
     ]
   },
-  "timestamp": "2026-10-26T09:34:32"
+  "timestamp": "2026-10-26T09:49:06"
 }
