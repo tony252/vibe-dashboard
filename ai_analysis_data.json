@@ -3,43 +3,43 @@
     "indices": [
       {
         "name": "上证指数",
-        "current": 3683.92,
-        "pct": -0.18
+        "current": 3688.62,
+        "pct": -0.05
       },
       {
         "name": "深证成指",
-        "current": 11551.72,
-        "pct": -1.05
+        "current": 11588.51,
+        "pct": -0.73
       },
       {
         "name": "创业板指",
-        "current": 2639.85,
-        "pct": -1.65
+        "current": 2653.68,
+        "pct": -1.13
       },
       {
         "name": "沪深300",
-        "current": 4083.14,
-        "pct": -0.54
+        "current": 4088.21,
+        "pct": -0.42
       },
       {
         "name": "科创50",
-        "current": 1319.97,
-        "pct": -1.9
+        "current": 1323.94,
+        "pct": -1.6
       },
       {
         "name": "上证50",
-        "current": 2741.39,
-        "pct": -0.59
+        "current": 2741.99,
+        "pct": -0.57
       },
       {
         "name": "中证500",
-        "current": 6745.66,
-        "pct": -1.01
+        "current": 6767.33,
+        "pct": -0.69
       },
       {
         "name": "中证1000",
-        "current": 6661.8,
-        "pct": -1.08
+        "current": 6685.46,
+        "pct": -0.73
       }
     ],
     "top_gainers": [
@@ -48,191 +48,191 @@
         "code": "002178",
         "price": 5.34,
         "change_pct": 10.1,
-        "turnover": 4.97
+        "turnover": 5.02
       },
       {
         "name": "闽发铝业",
         "code": "002578",
         "price": 3.6,
         "change_pct": 10.09,
-        "turnover": 7.72
+        "turnover": 7.73
       },
       {
         "name": "招商蛇口",
         "code": "001979",
         "price": 8.31,
         "change_pct": 10.07,
-        "turnover": 1.29
+        "turnover": 1.33
       },
       {
         "name": "百洋股份",
         "code": "002696",
         "price": 11.28,
         "change_pct": 10.05,
-        "turnover": 25.83
+        "turnover": 25.94
       },
       {
         "name": "永和智控",
         "code": "002795",
         "price": 6.9,
         "change_pct": 10.05,
-        "turnover": 4.05
+        "turnover": 4.07
       },
       {
         "name": "东方海洋",
         "code": "002086",
         "price": 2.3,
         "change_pct": 10.05,
-        "turnover": 13.75
+        "turnover": 13.82
       },
       {
         "name": "万向钱潮",
         "code": "000559",
         "price": 12.71,
         "change_pct": 10.04,
-        "turnover": 5.89
+        "turnover": 5.91
       },
       {
         "name": "桂发祥",
         "code": "002820",
         "price": 10.19,
         "change_pct": 10.04,
-        "turnover": 7.37
+        "turnover": 7.4
       },
       {
         "name": "英特集团",
         "code": "000411",
         "price": 10.52,
         "change_pct": 10.04,
-        "turnover": 2.57
+        "turnover": 2.59
       },
       {
         "name": "皇台酒业",
         "code": "000995",
         "price": 13.37,
         "change_pct": 10.04,
-        "turnover": 22.51
+        "turnover": 22.69
+      },
+      {
+        "name": "传智教育",
+        "code": "003032",
+        "price": 8.66,
+        "change_pct": 10.04,
+        "turnover": 7.83
       },
       {
         "name": "和泰机电",
         "code": "001225",
         "price": 31.08,
         "change_pct": 10.02,
-        "turnover": 4.2
+        "turnover": 4.24
+      },
+      {
+        "name": "模塑科技",
+        "code": "000700",
+        "price": 13.07,
+        "change_pct": 10.02,
+        "turnover": 12.48
       },
       {
         "name": "青岛食品",
         "code": "001219",
         "price": 13.62,
         "change_pct": 10.02,
-        "turnover": 3.81
+        "turnover": 3.84
       },
       {
         "name": "英 力 特",
         "code": "000635",
         "price": 8.02,
         "change_pct": 10.01,
-        "turnover": 5.71
-      },
-      {
-        "name": "生 意 宝",
-        "code": "002095",
-        "price": 16.48,
-        "change_pct": 10.01,
-        "turnover": 2.33
-      },
-      {
-        "name": "阳光乳业",
-        "code": "001318",
-        "price": 12.1,
-        "change_pct": 10.0,
-        "turnover": 12.23
+        "turnover": 5.77
       }
     ],
     "sectors": [
       {
         "name": "会展服务",
         "code": "BK1565",
-        "pct": 8.56,
-        "amount_yi": 4.6,
+        "pct": 9.2,
+        "amount_yi": 4.8,
         "net_inflow_yi": 0.3
       },
       {
         "name": "其他数字媒体",
         "code": "BK1295",
-        "pct": 5.85,
-        "amount_yi": 32.9,
+        "pct": 7.81,
+        "amount_yi": 33.6,
         "net_inflow_yi": 0.7
+      },
+      {
+        "name": "视频媒体",
+        "code": "BK1296",
+        "pct": 5.04,
+        "amount_yi": 17.5,
+        "net_inflow_yi": 1.8
       },
       {
         "name": "烘焙食品",
         "code": "BK1582",
-        "pct": 4.19,
-        "amount_yi": 6.9,
+        "pct": 4.69,
+        "amount_yi": 7.1,
         "net_inflow_yi": 0.6
       },
       {
         "name": "人力资源服务",
         "code": "BK1568",
-        "pct": 3.52,
-        "amount_yi": 1.3,
+        "pct": 4.39,
+        "amount_yi": 1.4,
         "net_inflow_yi": 0.0
-      },
-      {
-        "name": "房产租赁经纪",
-        "code": "BK1341",
-        "pct": 3.28,
-        "amount_yi": 11.3,
-        "net_inflow_yi": 1.1
-      },
-      {
-        "name": "休闲食品",
-        "code": "BK1281",
-        "pct": 3.08,
-        "amount_yi": 18.3,
-        "net_inflow_yi": 0.6
-      },
-      {
-        "name": "其他专业服务",
-        "code": "BK1567",
-        "pct": 3.08,
-        "amount_yi": 1.5,
-        "net_inflow_yi": 0.0
-      },
-      {
-        "name": "汽车经销商",
-        "code": "BK1523",
-        "pct": 3.01,
-        "amount_yi": 1.9,
-        "net_inflow_yi": 0.3
-      },
-      {
-        "name": "医药流通",
-        "code": "BK1607",
-        "pct": 2.97,
-        "amount_yi": 26.1,
-        "net_inflow_yi": 1.6
-      },
-      {
-        "name": "医药商业",
-        "code": "BK1042",
-        "pct": 2.92,
-        "amount_yi": 34.7,
-        "net_inflow_yi": 1.6
       },
       {
         "name": "游戏Ⅲ",
         "code": "BK1301",
-        "pct": 2.91,
-        "amount_yi": 73.9,
-        "net_inflow_yi": 5.9
+        "pct": 3.7,
+        "amount_yi": 79.3,
+        "net_inflow_yi": 6.9
       },
       {
         "name": "游戏Ⅱ",
         "code": "BK1046",
-        "pct": 2.91,
-        "amount_yi": 73.9,
-        "net_inflow_yi": 5.9
+        "pct": 3.7,
+        "amount_yi": 79.3,
+        "net_inflow_yi": 6.9
+      },
+      {
+        "name": "休闲食品",
+        "code": "BK1281",
+        "pct": 3.6,
+        "amount_yi": 19.1,
+        "net_inflow_yi": 0.6
+      },
+      {
+        "name": "零食",
+        "code": "BK1583",
+        "pct": 3.39,
+        "amount_yi": 10.4,
+        "net_inflow_yi": 0.0
+      },
+      {
+        "name": "医药流通",
+        "code": "BK1607",
+        "pct": 3.17,
+        "amount_yi": 26.7,
+        "net_inflow_yi": 1.7
+      },
+      {
+        "name": "医药商业",
+        "code": "BK1042",
+        "pct": 3.16,
+        "amount_yi": 35.7,
+        "net_inflow_yi": 1.7
+      },
+      {
+        "name": "房产租赁经纪",
+        "code": "BK1341",
+        "pct": 3.15,
+        "amount_yi": 11.7,
+        "net_inflow_yi": 1.3
       }
     ],
     "us_stocks": [],
@@ -243,105 +243,105 @@
         "code": "002178",
         "price": 5.34,
         "change_pct": 10.1,
-        "turnover": 4.97
+        "turnover": 5.02
       },
       {
         "name": "闽发铝业",
         "code": "002578",
         "price": 3.6,
         "change_pct": 10.09,
-        "turnover": 7.72
+        "turnover": 7.73
       },
       {
         "name": "招商蛇口",
         "code": "001979",
         "price": 8.31,
         "change_pct": 10.07,
-        "turnover": 1.29
+        "turnover": 1.33
       },
       {
         "name": "百洋股份",
         "code": "002696",
         "price": 11.28,
         "change_pct": 10.05,
-        "turnover": 25.83
+        "turnover": 25.94
       },
       {
         "name": "永和智控",
         "code": "002795",
         "price": 6.9,
         "change_pct": 10.05,
-        "turnover": 4.05
+        "turnover": 4.07
       },
       {
         "name": "东方海洋",
         "code": "002086",
         "price": 2.3,
         "change_pct": 10.05,
-        "turnover": 13.75
+        "turnover": 13.82
       },
       {
         "name": "万向钱潮",
         "code": "000559",
         "price": 12.71,
         "change_pct": 10.04,
-        "turnover": 5.89
+        "turnover": 5.91
       },
       {
         "name": "桂发祥",
         "code": "002820",
         "price": 10.19,
         "change_pct": 10.04,
-        "turnover": 7.37
+        "turnover": 7.4
       },
       {
         "name": "英特集团",
         "code": "000411",
         "price": 10.52,
         "change_pct": 10.04,
-        "turnover": 2.57
+        "turnover": 2.59
       },
       {
         "name": "皇台酒业",
         "code": "000995",
         "price": 13.37,
         "change_pct": 10.04,
-        "turnover": 22.51
+        "turnover": 22.69
+      },
+      {
+        "name": "传智教育",
+        "code": "003032",
+        "price": 8.66,
+        "change_pct": 10.04,
+        "turnover": 7.83
       },
       {
         "name": "和泰机电",
         "code": "001225",
         "price": 31.08,
         "change_pct": 10.02,
-        "turnover": 4.2
+        "turnover": 4.24
+      },
+      {
+        "name": "模塑科技",
+        "code": "000700",
+        "price": 13.07,
+        "change_pct": 10.02,
+        "turnover": 12.48
       },
       {
         "name": "青岛食品",
         "code": "001219",
         "price": 13.62,
         "change_pct": 10.02,
-        "turnover": 3.81
+        "turnover": 3.84
       },
       {
         "name": "英 力 特",
         "code": "000635",
         "price": 8.02,
         "change_pct": 10.01,
-        "turnover": 5.71
-      },
-      {
-        "name": "生 意 宝",
-        "code": "002095",
-        "price": 16.48,
-        "change_pct": 10.01,
-        "turnover": 2.33
-      },
-      {
-        "name": "阳光乳业",
-        "code": "001318",
-        "price": 12.1,
-        "change_pct": 10.0,
-        "turnover": 12.23
+        "turnover": 5.77
       }
     ],
     "yimeng_stocks": [
@@ -572,5 +572,5 @@
       }
     ]
   },
-  "timestamp": "2026-10-26T11:49:18"
+  "timestamp": "2026-10-26T13:05:11"
 }
