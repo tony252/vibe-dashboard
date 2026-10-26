@@ -151,13 +151,6 @@
     ],
     "sectors": [
       {
-        "name": "其他制造业",
-        "code": "ZC41",
-        "pct": 2.11,
-        "amount_yi": 33.5,
-        "net_inflow_yi": 0
-      },
-      {
         "name": "酒饮料茶制造业",
         "code": "ZC15",
         "pct": 1.22,
@@ -165,10 +158,10 @@
         "net_inflow_yi": 0
       },
       {
-        "name": "农副食品加工业",
-        "code": "ZC13",
+        "name": "石油炼焦加工业",
+        "code": "ZC25",
         "pct": 0.89,
-        "amount_yi": 53.6,
+        "amount_yi": 33.9,
         "net_inflow_yi": 0
       },
       {
@@ -179,17 +172,31 @@
         "net_inflow_yi": 0
       },
       {
-        "name": "石油炼焦加工业",
-        "code": "ZC25",
-        "pct": 0.63,
-        "amount_yi": 6.2,
+        "name": "食品制造业",
+        "code": "ZC14",
+        "pct": 0.74,
+        "amount_yi": 123.2,
         "net_inflow_yi": 0
       },
       {
         "name": "铁路船舶航天业",
         "code": "ZC37",
-        "pct": 0.44,
-        "amount_yi": 21.1,
+        "pct": 0.71,
+        "amount_yi": 202.6,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "家具制造业",
+        "code": "ZC21",
+        "pct": 0.56,
+        "amount_yi": 19.8,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "金属制品修理业",
+        "code": "ZC43",
+        "pct": 0.56,
+        "amount_yi": 0.4,
         "net_inflow_yi": 0
       },
       {
@@ -207,6 +214,13 @@
         "net_inflow_yi": 0
       },
       {
+        "name": "农副食品加工业",
+        "code": "ZC13",
+        "pct": 0.24,
+        "amount_yi": 73.2,
+        "net_inflow_yi": 0
+      },
+      {
         "name": "文教体育用品业",
         "code": "ZC24",
         "pct": 0.15,
@@ -218,20 +232,6 @@
         "code": "ZC27",
         "pct": 0.07,
         "amount_yi": 516.4,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "专用设备制造业",
-        "code": "ZC35",
-        "pct": -0.02,
-        "amount_yi": 6.3,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "化学原料制品业",
-        "code": "ZC26",
-        "pct": -0.4,
-        "amount_yi": 648.9,
         "net_inflow_yi": 0
       }
     ],
@@ -558,5 +558,5 @@
       }
     ]
   },
-  "timestamp": "2026-10-26T17:22:34"
+  "timestamp": "2026-10-26T23:28:33"
 }
