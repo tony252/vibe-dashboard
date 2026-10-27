@@ -1,23 +1,41 @@
 {
- "date": "2026-10-26",
+ "date": "2026-10-27",
  "picks": [
   {
-   "code": "600323",
-   "name": "瀚蓝环境",
-   "price": 31.45,
-   "change_pct": 2.34,
-   "change_5d": 2.31,
-   "dist_52w_pct": -4.67,
-   "break_pct": 2.04,
-   "dev25_pct": 5.8,
-   "ma25": 29.73,
-   "ma60": 29.9,
-   "trend": false,
-   "amount_5d_yi": 8.71,
+   "code": "601398",
+   "name": "工商银行",
+   "price": 8.62,
+   "change_pct": 0.47,
+   "change_5d": 0.47,
+   "dist_52w_pct": -0.46,
+   "break_pct": 0.23,
+   "dev25_pct": 3.55,
+   "ma25": 8.32,
+   "ma60": 8.05,
+   "trend": true,
+   "amount_5d_yi": 198.35,
    "consec_days": 1,
-   "score": 0.7,
+   "score": 9.1,
    "tag": "fourweek",
-   "reason": "近52周高-4.7% | 4周新高+2.0% | 偏离25日线+5.8% | 连续1日 | 5日均额8.7亿"
+   "reason": "近52周高-0.5% | 4周新高+0.2% | 偏离25日线+3.5% | 连续1日 | 5日均额198.3亿"
+  },
+  {
+   "code": "600901",
+   "name": "江苏金租",
+   "price": 7.38,
+   "change_pct": 4.24,
+   "change_5d": 1.79,
+   "dist_52w_pct": -0.67,
+   "break_pct": 1.1,
+   "dev25_pct": 5.68,
+   "ma25": 6.98,
+   "ma60": 6.75,
+   "trend": true,
+   "amount_5d_yi": 12.05,
+   "consec_days": 1,
+   "score": 8.7,
+   "tag": "fourweek",
+   "reason": "近52周高-0.7% | 4周新高+1.1% | 偏离25日线+5.7% | 连续1日 | 5日均额12.1亿"
   }
  ]
 }
