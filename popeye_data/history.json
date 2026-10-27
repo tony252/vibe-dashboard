@@ -1609,24 +1609,24 @@
     "capital": 100000,
     "positions": [
       {
-        "code": "002763",
-        "name": "汇洁股份",
-        "buy_price": 7.3,
+        "code": "300507",
+        "name": "苏奥传感",
+        "buy_price": 6.53,
         "buy_date": "2026-10-27",
-        "shares": 1300,
-        "cost": 9490.0,
+        "shares": 1500,
+        "cost": 9795.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 5.951
+        "change_at_buy": 12.199
       },
       {
-        "code": "603767",
-        "name": "中马传动",
-        "buy_price": 16.48,
+        "code": "688306",
+        "name": "均普智能",
+        "buy_price": 11.35,
         "buy_date": "2026-10-27",
-        "shares": 600,
-        "cost": 9888.0,
+        "shares": 800,
+        "cost": 9080.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 5.981
+        "change_at_buy": 10.516
       },
       {
         "code": "002181",
@@ -1639,14 +1639,24 @@
         "change_at_buy": 10.041
       },
       {
-        "code": "002196",
-        "name": "方正电机",
-        "buy_price": 11.07,
+        "code": "002205",
+        "name": "国统股份",
+        "buy_price": 11.4,
         "buy_date": "2026-10-27",
-        "shares": 900,
-        "cost": 9963.0,
+        "shares": 800,
+        "cost": 9120.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 10.04
+        "change_at_buy": 10.039
+      },
+      {
+        "code": "002823",
+        "name": "凯中精密",
+        "buy_price": 13.49,
+        "buy_date": "2026-10-27",
+        "shares": 700,
+        "cost": 9443.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.033
       },
       {
         "code": "600838",
@@ -1697,18 +1707,8 @@
         "cost": 9516.0,
         "reason": "黄金区间3-6%",
         "change_at_buy": 9.986
-      },
-      {
-        "code": "001219",
-        "name": "青岛食品",
-        "buy_price": 14.98,
-        "buy_date": "2026-10-27",
-        "shares": 600,
-        "cost": 8988.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 9.985
       }
     ],
-    "total_cost": 95252.0
+    "total_cost": 94361.0
   }
 }
