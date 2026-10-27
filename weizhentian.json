@@ -1,18 +1,31 @@
 {
- "date": "20261026",
+ "date": "20261027",
  "picks": [
   {
-   "code": "sh603236",
-   "name": "移远通信",
+   "code": "sz002983",
+   "name": "芯瑞达",
    "n": 3,
-   "close": 76.09,
-   "zt_price": 83.72,
-   "ma10": 74.33,
-   "ma25": 72.38,
-   "turnover": 6.98,
-   "turnover_ratio": 0.52,
-   "volume": 28382235,
-   "ma20vol": 19674569
+   "close": 22.78,
+   "zt_price": 23.43,
+   "ma10": 21.93,
+   "ma25": 21.9,
+   "turnover": 2.75,
+   "turnover_ratio": 0.58,
+   "volume": 3560718,
+   "ma20vol": 2818098
+  },
+  {
+   "code": "sz300354",
+   "name": "东华测试",
+   "n": 5,
+   "close": 28.85,
+   "zt_price": 29.3,
+   "ma10": 27.84,
+   "ma25": 27.39,
+   "turnover": 6.66,
+   "turnover_ratio": 0.72,
+   "volume": 5560230,
+   "ma20vol": 3714525
   }
  ]
 }
