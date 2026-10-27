@@ -1,12 +1,69 @@
 {
   "date": "2026-10-26",
-  "updated_at": "2026-10-26 20:03:22",
+  "updated_at": "2026-10-27 12:03:38",
   "stats": {
-    "processed": 27,
+    "processed": 34,
     "alerts": 0,
     "filtered": 20
   },
   "events": [
+    {
+      "time": "2026-10-27 11:40",
+      "type": "archive",
+      "title": "1分钟拉涨停，600838五连板",
+      "content": " 10月27日，零售股上海九百（600838）开盘仅1分钟便拉涨停，报13.31元/股，录得五连板。截至发稿，公司股价自10月20日以来已连续6个交易日上涨，期间累计涨幅接近65%。",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-27/doc-iniwrqsu2162821.shtml",
+      "stocks": [
+        {
+          "name": "上海九百",
+          "code": "600838",
+          "match_reason": "直接提及[上海九百]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-27 11:24",
+      "type": "archive",
+      "title": "野村：机器人“ChatGPT时刻”或提前到来 行业看好宇树科技等具备快速迭代与成本控制力的制造商",
+      "content": "文/新浪财经香港站 王柳潞 野村发研究报告指出，机器人产业的技术演进正在复刻大语言模型（LLM）的发展轨迹，其标志性的“ChatGPT 时刻”到来速度或超市场预期。",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-10-27/doc-iniwrqsu2145435.shtml",
+      "stocks": [
+        {
+          "name": "宇树科技",
+          "code": "688836",
+          "match_reason": "直接提及[宇树科技]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-27 11:03",
+      "type": "archive",
+      "title": "中国人寿早盘涨近3% 近日拟向控股股东出售所持养老险公司33.73%股权",
+      "content": "中国人寿（02628）早盘涨近3%，截至发稿，股价上涨2.74%，现报23.96港元，成交额6.33亿港元。 近日，中国人寿发布公告，公司拟与控股股东集团公司于2026年12月31日前订立公...",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-27/doc-iniwrqsz1528587.shtml",
+      "stocks": [
+        {
+          "name": "中国人寿",
+          "code": "601628",
+          "match_reason": "直接提及[中国人寿]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
     {
       "time": "2026-10-26 19:39",
       "type": "archive",
@@ -105,6 +162,25 @@
           "name": "农业银行",
           "code": "601288",
           "match_reason": "直接提及[农业银行]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-26 17:23",
+      "type": "archive",
+      "title": "【焦点复盘】沪指低开高走涨0.19%，人形机器人概念火热依旧，宇树科技股价一度站上700元",
+      "content": "①连板晋级率升至五成以上，人形机器人概念热度居高不下，20厘米人气股华阳智能等多股实现连板晋级，宇树科技日内一度站上700元，总市值一度逼近3000亿；②“四大行”、“三桶油”等权重红利股护盘力挺沪指，中国石油收涨近5%，股价创2008年5月以来新高。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2515278",
+      "stocks": [
+        {
+          "name": "宇树科技",
+          "code": "688836",
+          "match_reason": "直接提及[宇树科技]（选股推荐）"
         }
       ],
       "verification": {
@@ -320,97 +396,6 @@
         "memory": false,
         "source": true
       }
-    },
-    {
-      "time": "2026-10-23 17:35",
-      "type": "archive",
-      "title": "【焦点复盘】双创指数全天现超7%巨震，两市成交额逼近2万亿，宇树科技收获上市以来首个涨停",
-      "content": "①连板晋级率升至33.33%，市场短线情绪有所回暖，两只最高标晋级6连板，海洋王上演“地天板”，大业股份上演“准地天板”。②受多重利好共振，人形机器人、物理AI概念持续站上风口再现批量涨停，其中宇树科技上市以来首次封板，总市值重返2500亿上方。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2513652",
-      "stocks": [
-        {
-          "name": "海洋王",
-          "code": "002724",
-          "match_reason": "直接提及[海洋王]（选股推荐）"
-        },
-        {
-          "name": "宇树科技",
-          "code": "688836",
-          "match_reason": "直接提及[宇树科技]（选股推荐）"
-        },
-        {
-          "name": "大业股份",
-          "code": "603278",
-          "match_reason": "直接提及[大业股份]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-10-23 17:07",
-      "type": "archive",
-      "title": "股价首超中际旭创！宇树科技获首个20cm涨停，A股股价排行榜更迭，这些为新晋标的",
-      "content": "①今日，宇树科技获20cm涨停，股价重返600元上方，并超越CPO热股中际旭创（612.63元）。\n②当前股价前20只个股中，电子股占比接近50%，机械设备、通信股分别占25%、15%。\n③当前A股股价前20只个股中，共有4只为下半年上市的次新股。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2513615",
-      "stocks": [
-        {
-          "name": "宇树科技",
-          "code": "688836",
-          "match_reason": "直接提及[宇树科技]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-10-23 16:28",
-      "type": "archive",
-      "title": "【每日收评】A股午后绝地反攻，创业板指放量涨超4%，全市场超4500股收红",
-      "content": "①市场午后快速反弹，三大指数集体探底回升，创业板指涨超4%，两市成交额大幅提升至1.96万亿；\n②盘面上，机器人、物理AI概念股上演涨停潮，大业股份6连板，福莱新材、兆威机电5天3板，此外大金融、大消费也表现活跃，算力硬件股同样展开修复。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2513562",
-      "stocks": [
-        {
-          "name": "大业股份",
-          "code": "603278",
-          "match_reason": "直接提及[大业股份]（选股推荐）"
-        },
-        {
-          "name": "福莱新材",
-          "code": "605488",
-          "match_reason": "直接提及[福莱新材]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-10-23 14:21",
-      "type": "archive",
-      "title": "宇树科技，20cm涨停",
-      "content": "①10月23日宇树科技收获20CM涨停，股价突破600元，市值重返2500亿元，本周累计涨幅超40%；\n②商务部商务大数据显示，前三季度重点平台具身智能机器人销售额增长22.6%。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2513370",
-      "stocks": [
-        {
-          "name": "宇树科技",
-          "code": "688836",
-          "match_reason": "直接提及[宇树科技]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
     }
   ],
   "keywords": {
@@ -470,16 +455,27 @@
     "603232": "2026-10-26 20:06",
     "601398": "2026-10-26 20:06",
     "601288": "2026-10-26 20:06",
-    "002343": "2026-10-26 20:06"
+    "002343": "2026-10-26 20:06",
+    "601628": "2026-10-27 12:06"
   },
   "watchlist": [
     {
       "name": "宇树科技",
       "code": "688836",
       "keywords": "直接提及[宇树科技]（选股推荐）",
-      "reason": "新闻提及 | 6次",
+      "reason": "新闻提及 | 5次",
       "source": "event",
-      "selected_at": "2026-10-26 20:06",
+      "selected_at": "2026-10-27 12:06",
+      "first_seen": "2026-10-26 16:33",
+      "is_new": false
+    },
+    {
+      "name": "上海九百",
+      "code": "600838",
+      "keywords": "直接提及[上海九百]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-10-27 12:06",
       "first_seen": "2026-10-26 16:33",
       "is_new": false
     },
@@ -489,19 +485,19 @@
       "keywords": "直接提及[凡拓数创]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-26 20:06",
+      "selected_at": "2026-10-27 12:06",
       "first_seen": "2026-10-26 16:33",
       "is_new": false
     },
     {
-      "name": "大业股份",
-      "code": "603278",
-      "keywords": "直接提及[大业股份]（选股推荐）",
-      "reason": "新闻提及 | 2次",
+      "name": "中国人寿",
+      "code": "601628",
+      "keywords": "直接提及[中国人寿]（选股推荐）",
+      "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-26 20:06",
-      "first_seen": "2026-10-26 16:33",
-      "is_new": false
+      "selected_at": "2026-10-27 12:06",
+      "first_seen": "2026-10-27 12:06",
+      "is_new": true
     },
     {
       "name": "新产业",
@@ -509,9 +505,9 @@
       "keywords": "直接提及[新产业]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-26 20:06",
+      "selected_at": "2026-10-27 12:06",
       "first_seen": "2026-10-26 20:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "三诺生物",
@@ -519,9 +515,9 @@
       "keywords": "直接提及[三诺生物]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-26 20:06",
+      "selected_at": "2026-10-27 12:06",
       "first_seen": "2026-10-26 20:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "格尔软件",
@@ -529,9 +525,9 @@
       "keywords": "直接提及[格尔软件]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-26 20:06",
+      "selected_at": "2026-10-27 12:06",
       "first_seen": "2026-10-26 20:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "工商银行",
@@ -539,9 +535,9 @@
       "keywords": "直接提及[工商银行]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-26 20:06",
+      "selected_at": "2026-10-27 12:06",
       "first_seen": "2026-10-26 20:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "农业银行",
@@ -549,9 +545,9 @@
       "keywords": "直接提及[农业银行]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-26 20:06",
+      "selected_at": "2026-10-27 12:06",
       "first_seen": "2026-10-26 20:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "震安科技",
@@ -559,7 +555,7 @@
       "keywords": "直接提及[震安科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-26 20:06",
+      "selected_at": "2026-10-27 12:06",
       "first_seen": "2026-10-26 16:33",
       "is_new": false
     },
@@ -569,7 +565,7 @@
       "keywords": "直接提及[科大讯飞]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-26 20:06",
+      "selected_at": "2026-10-27 12:06",
       "first_seen": "2026-10-26 16:33",
       "is_new": false
     },
@@ -579,17 +575,7 @@
       "keywords": "直接提及[养元饮品]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-26 20:06",
-      "first_seen": "2026-10-26 16:33",
-      "is_new": false
-    },
-    {
-      "name": "上海九百",
-      "code": "600838",
-      "keywords": "直接提及[上海九百]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-26 20:06",
+      "selected_at": "2026-10-27 12:06",
       "first_seen": "2026-10-26 16:33",
       "is_new": false
     },
@@ -599,9 +585,9 @@
       "keywords": "直接提及[慈文传媒]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-26 20:06",
+      "selected_at": "2026-10-27 12:06",
       "first_seen": "2026-10-26 20:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "华瓷股份",
@@ -609,7 +595,7 @@
       "keywords": "直接提及[华瓷股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-26 20:06",
+      "selected_at": "2026-10-27 12:06",
       "first_seen": "2026-10-26 16:33",
       "is_new": false
     },
@@ -619,7 +605,7 @@
       "keywords": "直接提及[德明利]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-26 20:06",
+      "selected_at": "2026-10-27 12:06",
       "first_seen": "2026-10-26 16:33",
       "is_new": false
     }
