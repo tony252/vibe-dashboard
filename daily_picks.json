@@ -181326,6 +181326,16 @@
       "time": "15:30",
       "picks": [
         {
+          "code": "301052",
+          "name": "果麦文化",
+          "price": 32.45,
+          "change_pct": 3.509,
+          "turnover": 38.85763,
+          "volume_yi": 10.26,
+          "score": 100,
+          "reason": "换手38.9% | 涨幅+3.5%"
+        },
+        {
           "code": "000995",
           "name": "皇台酒业",
           "price": 14.28,
@@ -181344,6 +181354,36 @@
           "volume_yi": 20.9,
           "score": 100,
           "reason": "换手28.8% | 涨幅+10.0%"
+        },
+        {
+          "code": "002086",
+          "name": "东方海洋",
+          "price": 2.39,
+          "change_pct": 3.913,
+          "turnover": 27.06492,
+          "volume_yi": 10.6,
+          "score": 100,
+          "reason": "换手27.1% | 涨幅+3.9%"
+        },
+        {
+          "code": "600241",
+          "name": "时代万恒",
+          "price": 9.69,
+          "change_pct": 3.859,
+          "turnover": 26.05788,
+          "volume_yi": 7.28,
+          "score": 100,
+          "reason": "换手26.1% | 涨幅+3.9%"
+        },
+        {
+          "code": "002995",
+          "name": "天地在线",
+          "price": 18.52,
+          "change_pct": 3.061,
+          "turnover": 24.40245,
+          "volume_yi": 5.59,
+          "score": 100,
+          "reason": "换手24.4% | 涨幅+3.1%"
         },
         {
           "code": "300307",
@@ -181406,6 +181446,26 @@
           "reason": "换手19.5% | 涨幅+5.7%"
         },
         {
+          "code": "300839",
+          "name": "博汇股份",
+          "price": 20.0,
+          "change_pct": 4.712,
+          "turnover": 19.23625,
+          "volume_yi": 11.24,
+          "score": 100,
+          "reason": "换手19.2% | 涨幅+4.7%"
+        },
+        {
+          "code": "002376",
+          "name": "新北洋",
+          "price": 7.9,
+          "change_pct": 3.947,
+          "turnover": 18.56017,
+          "volume_yi": 11.73,
+          "score": 100,
+          "reason": "换手18.6% | 涨幅+3.9%"
+        },
+        {
           "code": "605488",
           "name": "福莱新材",
           "price": 44.19,
@@ -181414,66 +181474,6 @@
           "volume_yi": 23.74,
           "score": 100,
           "reason": "换手17.9% | 涨幅+5.3%"
-        },
-        {
-          "code": "600693",
-          "name": "东百集团",
-          "price": 9.71,
-          "change_pct": 7.65,
-          "turnover": 17.9285,
-          "volume_yi": 14.46,
-          "score": 100,
-          "reason": "换手17.9% | 涨幅+7.7%"
-        },
-        {
-          "code": "301225",
-          "name": "恒勃股份",
-          "price": 63.97,
-          "change_pct": 5.214,
-          "turnover": 17.5519,
-          "volume_yi": 4.97,
-          "score": 100,
-          "reason": "换手17.6% | 涨幅+5.2%"
-        },
-        {
-          "code": "300976",
-          "name": "达瑞电子",
-          "price": 57.13,
-          "change_pct": 6.985,
-          "turnover": 16.50502,
-          "volume_yi": 11.53,
-          "score": 100,
-          "reason": "换手16.5% | 涨幅+7.0%"
-        },
-        {
-          "code": "002181",
-          "name": "粤 传 媒",
-          "price": 10.4,
-          "change_pct": 6.557,
-          "turnover": 15.5354,
-          "volume_yi": 18.53,
-          "score": 100,
-          "reason": "换手15.5% | 涨幅+6.6%"
-        },
-        {
-          "code": "001318",
-          "name": "阳光乳业",
-          "price": 13.31,
-          "change_pct": 10.0,
-          "turnover": 15.53504,
-          "volume_yi": 5.57,
-          "score": 100,
-          "reason": "换手15.5% | 涨幅+10.0%"
-        },
-        {
-          "code": "300411",
-          "name": "金盾股份",
-          "price": 8.49,
-          "change_pct": 7.062,
-          "turnover": 15.02616,
-          "volume_yi": 3.89,
-          "score": 100,
-          "reason": "换手15.0% | 涨幅+7.1%"
         }
       ]
     }
