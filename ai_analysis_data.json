@@ -3,43 +3,43 @@
     "indices": [
       {
         "name": "上证指数",
-        "current": 3698.12,
-        "pct": 0.02
+        "current": 3695.18,
+        "pct": -0.06
       },
       {
         "name": "深证成指",
-        "current": 11549.59,
-        "pct": 0.13
+        "current": 11512.99,
+        "pct": -0.19
       },
       {
         "name": "创业板指",
-        "current": 2640.5,
-        "pct": 0.09
+        "current": 2627.15,
+        "pct": -0.42
       },
       {
         "name": "沪深300",
-        "current": 4103.04,
-        "pct": -0.01
+        "current": 4097.82,
+        "pct": -0.14
       },
       {
         "name": "科创50",
-        "current": 1305.27,
-        "pct": -0.78
+        "current": 1300.1,
+        "pct": -1.17
       },
       {
         "name": "上证50",
-        "current": 2758.16,
-        "pct": -0.39
+        "current": 2756.86,
+        "pct": -0.44
       },
       {
         "name": "中证500",
-        "current": 6699.33,
-        "pct": -0.2
+        "current": 6676.66,
+        "pct": -0.54
       },
       {
         "name": "中证1000",
-        "current": 6637.06,
-        "pct": 0.09
+        "current": 6612.27,
+        "pct": -0.28
       }
     ],
     "top_gainers": [
@@ -55,184 +55,184 @@
         "code": "002434",
         "price": 6.67,
         "change_pct": 10.07,
-        "turnover": 1.99
+        "turnover": 2.14
       },
       {
         "name": "粤 传 媒",
         "code": "002181",
         "price": 10.74,
         "change_pct": 10.04,
-        "turnover": 11.09
+        "turnover": 11.17
       },
       {
         "name": "方正电机",
         "code": "002196",
         "price": 11.07,
         "change_pct": 10.04,
-        "turnover": 13.9
+        "turnover": 14.36
       },
       {
         "name": "广百股份",
         "code": "002187",
         "price": 5.92,
         "change_pct": 10.04,
-        "turnover": 3.37
+        "turnover": 3.41
       },
       {
         "name": "襄阳轴承",
         "code": "000678",
         "price": 16.01,
         "change_pct": 10.03,
-        "turnover": 15.59
+        "turnover": 15.63
       },
       {
         "name": "光洋股份",
         "code": "002708",
         "price": 17.22,
         "change_pct": 10.03,
-        "turnover": 3.58
+        "turnover": 3.61
       },
       {
         "name": "万安科技",
         "code": "002590",
         "price": 10.53,
         "change_pct": 10.03,
-        "turnover": 1.61
+        "turnover": 1.71
       },
       {
         "name": "浙江世宝",
         "code": "002703",
         "price": 15.92,
         "change_pct": 10.02,
-        "turnover": 4.43
+        "turnover": 4.51
+      },
+      {
+        "name": "天地在线",
+        "code": "002995",
+        "price": 19.77,
+        "change_pct": 10.02,
+        "turnover": 12.71
       },
       {
         "name": "亚太股份",
         "code": "002284",
         "price": 9.67,
         "change_pct": 10.01,
-        "turnover": 1.8
+        "turnover": 1.82
       },
       {
         "name": "桂发祥",
         "code": "002820",
         "price": 11.21,
         "change_pct": 10.01,
-        "turnover": 15.15
+        "turnover": 15.45
       },
       {
         "name": "福晶科技",
         "code": "002222",
         "price": 51.57,
         "change_pct": 10.0,
-        "turnover": 4.02
+        "turnover": 4.21
       },
       {
         "name": "润建股份",
         "code": "002929",
         "price": 56.96,
         "change_pct": 10.0,
-        "turnover": 8.76
+        "turnover": 8.85
       },
       {
         "name": "江顺科技",
         "code": "001400",
         "price": 80.28,
         "change_pct": 10.0,
-        "turnover": 5.03
-      },
-      {
-        "name": "大洋电机",
-        "code": "002249",
-        "price": 7.7,
-        "change_pct": 10.0,
-        "turnover": 7.71
+        "turnover": 5.05
       }
     ],
     "sectors": [
       {
         "name": "文字媒体",
         "code": "BK1298",
-        "pct": 6.02,
-        "amount_yi": 24.3,
-        "net_inflow_yi": 2.4
+        "pct": 4.36,
+        "amount_yi": 26.6,
+        "net_inflow_yi": 2.5
       },
       {
         "name": "会展服务",
         "code": "BK1565",
-        "pct": 3.69,
-        "amount_yi": 6.4,
+        "pct": 4.02,
+        "amount_yi": 6.8,
         "net_inflow_yi": -0.4
-      },
-      {
-        "name": "百货",
-        "code": "BK1551",
-        "pct": 3.05,
-        "amount_yi": 28.1,
-        "net_inflow_yi": 1.2
-      },
-      {
-        "name": "学历教育",
-        "code": "BK1558",
-        "pct": 2.96,
-        "amount_yi": 4.9,
-        "net_inflow_yi": 1.2
       },
       {
         "name": "粘胶",
         "code": "BK1416",
-        "pct": 2.83,
-        "amount_yi": 3.6,
-        "net_inflow_yi": 0.3
+        "pct": 2.89,
+        "amount_yi": 3.9,
+        "net_inflow_yi": 0.4
       },
       {
-        "name": "玻纤制造",
-        "code": "BK1462",
-        "pct": 2.75,
-        "amount_yi": 37.8,
-        "net_inflow_yi": 2.1
+        "name": "学历教育",
+        "code": "BK1558",
+        "pct": 2.76,
+        "amount_yi": 5.0,
+        "net_inflow_yi": 1.2
       },
       {
-        "name": "商用载客车",
-        "code": "BK1531",
-        "pct": 2.7,
-        "amount_yi": 3.2,
-        "net_inflow_yi": 0.7
+        "name": "公路货运",
+        "code": "BK1487",
+        "pct": 2.76,
+        "amount_yi": 1.1,
+        "net_inflow_yi": 0.0
       },
       {
-        "name": "烘焙食品",
-        "code": "BK1582",
-        "pct": 2.51,
-        "amount_yi": 7.3,
-        "net_inflow_yi": -0.1
+        "name": "百货",
+        "code": "BK1551",
+        "pct": 2.71,
+        "amount_yi": 30.4,
+        "net_inflow_yi": 1.2
       },
       {
-        "name": "水产饲料",
-        "code": "BK1509",
-        "pct": 2.34,
-        "amount_yi": 13.9,
-        "net_inflow_yi": -0.6
+        "name": "电机Ⅲ",
+        "code": "BK1307",
+        "pct": 2.62,
+        "amount_yi": 61.2,
+        "net_inflow_yi": 5.3
       },
       {
-        "name": "多业态零售",
-        "code": "BK1553",
-        "pct": 2.34,
-        "amount_yi": 12.6,
-        "net_inflow_yi": -0.2
+        "name": "电机Ⅱ",
+        "code": "BK1030",
+        "pct": 2.62,
+        "amount_yi": 61.2,
+        "net_inflow_yi": 5.3
       },
       {
         "name": "纺织鞋类制造",
         "code": "BK1347",
-        "pct": 2.23,
-        "amount_yi": 0.6,
+        "pct": 2.57,
+        "amount_yi": 0.7,
         "net_inflow_yi": -0.0
       },
       {
-        "name": "超市",
-        "code": "BK1552",
-        "pct": 2.2,
-        "amount_yi": 9.0,
+        "name": "商用载客车",
+        "code": "BK1531",
+        "pct": 2.54,
+        "amount_yi": 3.5,
         "net_inflow_yi": 0.7
+      },
+      {
+        "name": "多业态零售",
+        "code": "BK1553",
+        "pct": 2.4,
+        "amount_yi": 14.7,
+        "net_inflow_yi": -0.1
+      },
+      {
+        "name": "镍",
+        "code": "BK1622",
+        "pct": 2.29,
+        "amount_yi": 6.7,
+        "net_inflow_yi": 0.1
       }
     ],
     "us_stocks": [],
@@ -250,98 +250,98 @@
         "code": "002434",
         "price": 6.67,
         "change_pct": 10.07,
-        "turnover": 1.99
+        "turnover": 2.14
       },
       {
         "name": "粤 传 媒",
         "code": "002181",
         "price": 10.74,
         "change_pct": 10.04,
-        "turnover": 11.09
+        "turnover": 11.17
       },
       {
         "name": "方正电机",
         "code": "002196",
         "price": 11.07,
         "change_pct": 10.04,
-        "turnover": 13.9
+        "turnover": 14.36
       },
       {
         "name": "广百股份",
         "code": "002187",
         "price": 5.92,
         "change_pct": 10.04,
-        "turnover": 3.37
+        "turnover": 3.41
       },
       {
         "name": "襄阳轴承",
         "code": "000678",
         "price": 16.01,
         "change_pct": 10.03,
-        "turnover": 15.59
+        "turnover": 15.63
       },
       {
         "name": "光洋股份",
         "code": "002708",
         "price": 17.22,
         "change_pct": 10.03,
-        "turnover": 3.58
+        "turnover": 3.61
       },
       {
         "name": "万安科技",
         "code": "002590",
         "price": 10.53,
         "change_pct": 10.03,
-        "turnover": 1.61
+        "turnover": 1.71
       },
       {
         "name": "浙江世宝",
         "code": "002703",
         "price": 15.92,
         "change_pct": 10.02,
-        "turnover": 4.43
+        "turnover": 4.51
+      },
+      {
+        "name": "天地在线",
+        "code": "002995",
+        "price": 19.77,
+        "change_pct": 10.02,
+        "turnover": 12.71
       },
       {
         "name": "亚太股份",
         "code": "002284",
         "price": 9.67,
         "change_pct": 10.01,
-        "turnover": 1.8
+        "turnover": 1.82
       },
       {
         "name": "桂发祥",
         "code": "002820",
         "price": 11.21,
         "change_pct": 10.01,
-        "turnover": 15.15
+        "turnover": 15.45
       },
       {
         "name": "福晶科技",
         "code": "002222",
         "price": 51.57,
         "change_pct": 10.0,
-        "turnover": 4.02
+        "turnover": 4.21
       },
       {
         "name": "润建股份",
         "code": "002929",
         "price": 56.96,
         "change_pct": 10.0,
-        "turnover": 8.76
+        "turnover": 8.85
       },
       {
         "name": "江顺科技",
         "code": "001400",
         "price": 80.28,
         "change_pct": 10.0,
-        "turnover": 5.03
-      },
-      {
-        "name": "大洋电机",
-        "code": "002249",
-        "price": 7.7,
-        "change_pct": 10.0,
-        "turnover": 7.71
+        "turnover": 5.05
       }
     ],
     "yimeng_stocks": [
@@ -558,5 +558,5 @@
       }
     ]
   },
-  "timestamp": "2026-10-27T10:22:54"
+  "timestamp": "2026-10-27T10:36:05"
 }
