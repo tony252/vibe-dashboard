@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "yimeng": [
     {
       "code": "000995",
@@ -38,41 +38,89 @@
   ],
   "stocks": [
     {
-      "code": "300504",
-      "name": "天邑股份",
-      "price": 17.69,
-      "change_pct": 20.01,
-      "turnover": 11.9,
+      "code": "301359",
+      "name": "东南电子",
+      "price": 19.08,
+      "change_pct": 20.0,
+      "turnover": 4.2,
       "change_5d": 12.0,
-      "volume": 4.385,
+      "volume": 0.551,
       "tag": "newhigh",
       "score": 5,
       "reason": "涨幅榜前列(第1名),飙升20.0%"
     },
     {
-      "code": "301682",
-      "name": "宏明电子",
-      "price": 102.1,
+      "code": "301488",
+      "name": "豪恩汽电",
+      "price": 97.87,
       "change_pct": 20.0,
-      "turnover": 23.7,
+      "turnover": 3.0,
       "change_5d": 12.0,
-      "volume": 7.137,
+      "volume": 1.232,
       "tag": "newhigh",
       "score": 5,
       "reason": "涨幅榜前列(第2名),飙升20.0%"
     },
     {
-      "code": "301314",
-      "name": "科瑞思",
-      "price": 67.37,
-      "change_pct": 20.0,
-      "turnover": 30.2,
-      "change_5d": 12.0,
-      "volume": 5.633,
+      "code": "300613",
+      "name": "富瀚微",
+      "price": 72.31,
+      "change_pct": 19.72,
+      "turnover": 4.9,
+      "change_5d": 11.8,
+      "volume": 7.581,
       "tag": "newhigh",
       "score": 5,
-      "reason": "涨幅榜前列(第3名),飙升20.0%"
+      "reason": "涨幅榜前列(第3名),飙升19.7%"
+    },
+    {
+      "code": "600838",
+      "name": "上海九百",
+      "price": 13.93,
+      "change_pct": 4.66,
+      "turnover": 10.5,
+      "change_5d": 2.8,
+      "volume": 5.845,
+      "tag": "volume",
+      "score": 5,
+      "reason": "量价齐升,换手10.5%,成交5.8亿"
+    },
+    {
+      "code": "688286",
+      "name": "敏芯股份",
+      "price": 64.99,
+      "change_pct": 4.97,
+      "turnover": 2.8,
+      "change_5d": 3.0,
+      "volume": 1.395,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手2.8%,成交1.4亿"
+    },
+    {
+      "code": "920157",
+      "name": "宇特光电",
+      "price": 56.2,
+      "change_pct": 4.85,
+      "turnover": 5.4,
+      "change_5d": 2.9,
+      "volume": 0.386,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手5.4%,成交0.4亿"
+    },
+    {
+      "code": "002929",
+      "name": "润建股份",
+      "price": 56.43,
+      "change_pct": 4.42,
+      "turnover": 4.4,
+      "change_5d": 2.7,
+      "volume": 5.419,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手4.4%,成交5.4亿"
     }
   ],
-  "updated_at": "2026-10-27 17:19:15"
+  "updated_at": "2026-10-28 09:34:39"
 }
