@@ -3,235 +3,221 @@
     "indices": [
       {
         "name": "上证指数",
-        "current": 3678.43,
-        "pct": 0.83
+        "current": 3677.99,
+        "pct": 0.81
       },
       {
         "name": "深证成指",
-        "current": 11452.8,
-        "pct": 1.84
+        "current": 11473.52,
+        "pct": 2.03
       },
       {
         "name": "创业板指",
-        "current": 2625.99,
-        "pct": 3.05
+        "current": 2633.94,
+        "pct": 3.37
       },
       {
         "name": "沪深300",
-        "current": 4076.18,
-        "pct": 0.66
+        "current": 4079.85,
+        "pct": 0.75
       },
       {
         "name": "科创50",
-        "current": 1280.38,
-        "pct": 2.24
+        "current": 1281.37,
+        "pct": 2.32
       },
       {
         "name": "上证50",
-        "current": 2746.87,
-        "pct": 0.0
+        "current": 2745.67,
+        "pct": -0.04
       },
       {
         "name": "中证500",
-        "current": 6635.21,
-        "pct": 1.9
+        "current": 6641.74,
+        "pct": 2.0
       },
       {
         "name": "中证1000",
-        "current": 6579.69,
-        "pct": 2.37
+        "current": 6579.85,
+        "pct": 2.38
       }
     ],
     "top_gainers": [
       {
-        "name": "萃华退",
-        "code": "002731",
-        "price": 0.28,
-        "change_pct": 12.0,
-        "turnover": 15.33
+        "name": "近岸蛋白",
+        "code": "688137",
+        "price": 127.2,
+        "change_pct": 20.0,
+        "turnover": 13.45
       },
       {
-        "name": "五方光电",
-        "code": "002962",
-        "price": 12.83,
-        "change_pct": 10.03,
-        "turnover": 9.66
+        "name": "百纳千成",
+        "code": "300291",
+        "price": 6.24,
+        "change_pct": 20.0,
+        "turnover": 18.83
       },
       {
-        "name": "中欣氟材",
-        "code": "002915",
-        "price": 16.02,
-        "change_pct": 10.03,
-        "turnover": 3.92
+        "name": "富瀚微",
+        "code": "300613",
+        "price": 72.48,
+        "change_pct": 20.0,
+        "turnover": 6.78
       },
       {
-        "name": "宁波东力",
-        "code": "002164",
-        "price": 16.9,
-        "change_pct": 10.03,
-        "turnover": 5.46
+        "name": "斯迪克",
+        "code": "300806",
+        "price": 43.92,
+        "change_pct": 20.0,
+        "turnover": 9.69
       },
       {
-        "name": "振邦智能",
-        "code": "003028",
-        "price": 25.91,
-        "change_pct": 10.02,
-        "turnover": 5.77
+        "name": "东南电子",
+        "code": "301359",
+        "price": 19.08,
+        "change_pct": 20.0,
+        "turnover": 5.22
       },
       {
-        "name": "万向钱潮",
-        "code": "000559",
-        "price": 13.18,
-        "change_pct": 10.02,
-        "turnover": 3.18
+        "name": "豪恩汽电",
+        "code": "301488",
+        "price": 97.87,
+        "change_pct": 20.0,
+        "turnover": 6.01
       },
       {
-        "name": "实丰文化",
-        "code": "002862",
-        "price": 15.38,
-        "change_pct": 10.01,
-        "turnover": 6.25
+        "name": "必易微",
+        "code": "688045",
+        "price": 55.87,
+        "change_pct": 20.0,
+        "turnover": 6.66
       },
       {
-        "name": "青岛食品",
-        "code": "001219",
-        "price": 16.48,
-        "change_pct": 10.01,
-        "turnover": 1.72
+        "name": "恒工精密",
+        "code": "301261",
+        "price": 62.89,
+        "change_pct": 20.0,
+        "turnover": 8.44
       },
       {
-        "name": "金安国纪",
-        "code": "002636",
-        "price": 58.59,
-        "change_pct": 10.01,
-        "turnover": 3.73
+        "name": "百普赛斯",
+        "code": "301080",
+        "price": 101.24,
+        "change_pct": 20.0,
+        "turnover": 12.92
       },
       {
-        "name": "长缆科技",
-        "code": "002879",
-        "price": 14.95,
-        "change_pct": 10.01,
-        "turnover": 5.2
+        "name": "儒竞科技",
+        "code": "301525",
+        "price": 47.52,
+        "change_pct": 19.97,
+        "turnover": 13.83
       },
       {
-        "name": "长江材料",
-        "code": "001296",
-        "price": 20.23,
-        "change_pct": 10.01,
-        "turnover": 8.22
+        "name": "莱美药业",
+        "code": "300006",
+        "price": 9.92,
+        "change_pct": 19.95,
+        "turnover": 26.21
       },
       {
-        "name": "江顺科技",
-        "code": "001400",
-        "price": 88.31,
-        "change_pct": 10.0,
-        "turnover": 19.93
+        "name": "田中精机",
+        "code": "300461",
+        "price": 39.89,
+        "change_pct": 18.72,
+        "turnover": 16.44
       },
       {
-        "name": "西子洁能",
-        "code": "002534",
-        "price": 15.4,
-        "change_pct": 10.0,
-        "turnover": 1.49
-      },
-      {
-        "name": "双环传动",
-        "code": "002472",
-        "price": 45.55,
-        "change_pct": 10.0,
-        "turnover": 7.37
-      },
-      {
-        "name": "铖昌科技",
-        "code": "001270",
-        "price": 80.0,
-        "change_pct": 10.0,
-        "turnover": 4.82
+        "name": "伟创电气",
+        "code": "688698",
+        "price": 44.88,
+        "change_pct": 18.42,
+        "turnover": 8.32
       }
     ],
     "sectors": [
       {
         "name": "仪器仪表制造业",
         "code": "ZC40",
-        "pct": 4.06,
-        "amount_yi": 224.2,
+        "pct": 4.3,
+        "amount_yi": 247.4,
         "net_inflow_yi": 0
       },
       {
         "name": "通用设备制造业",
         "code": "ZC34",
-        "pct": 3.95,
-        "amount_yi": 567.3,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "食品制造业",
-        "code": "ZC14",
-        "pct": 3.56,
-        "amount_yi": 6.9,
+        "pct": 3.86,
+        "amount_yi": 624.8,
         "net_inflow_yi": 0
       },
       {
         "name": "计算机电子设备业",
         "code": "ZC39",
-        "pct": 3.46,
-        "amount_yi": 2962.2,
+        "pct": 3.7,
+        "amount_yi": 3319.8,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "食品制造业",
+        "code": "ZC14",
+        "pct": 3.33,
+        "amount_yi": 7.6,
         "net_inflow_yi": 0
       },
       {
         "name": "金属制品业",
         "code": "ZC33",
-        "pct": 3.19,
-        "amount_yi": 228.6,
+        "pct": 3.18,
+        "amount_yi": 250.8,
         "net_inflow_yi": 0
       },
       {
         "name": "木材加工业",
         "code": "ZC20",
-        "pct": 2.93,
-        "amount_yi": 9.1,
+        "pct": 3.0,
+        "amount_yi": 10.0,
         "net_inflow_yi": 0
       },
       {
         "name": "橡胶塑料制品业",
         "code": "ZC29",
-        "pct": 2.69,
-        "amount_yi": 217.1,
+        "pct": 2.74,
+        "amount_yi": 242.2,
         "net_inflow_yi": 0
       },
       {
         "name": "汽车制造业",
         "code": "ZC36",
-        "pct": 2.54,
-        "amount_yi": 575.6,
+        "pct": 2.48,
+        "amount_yi": 632.2,
         "net_inflow_yi": 0
       },
       {
         "name": "铁路船舶航天业",
         "code": "ZC37",
-        "pct": 2.3,
-        "amount_yi": 13.9,
+        "pct": 2.44,
+        "amount_yi": 15.8,
         "net_inflow_yi": 0
       },
       {
         "name": "皮革毛皮制鞋业",
         "code": "ZC19",
-        "pct": 1.97,
-        "amount_yi": 12.0,
+        "pct": 1.87,
+        "amount_yi": 13.5,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "印刷媒介复制业",
+        "code": "ZC23",
+        "pct": 1.73,
+        "amount_yi": 8.3,
         "net_inflow_yi": 0
       },
       {
         "name": "非金属矿物制品业",
         "code": "ZC30",
-        "pct": 1.65,
-        "amount_yi": 284.7,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "化学原料制品业",
-        "code": "ZC26",
-        "pct": 1.49,
-        "amount_yi": 613.2,
+        "pct": 1.69,
+        "amount_yi": 318.3,
         "net_inflow_yi": 0
       }
     ],
@@ -239,109 +225,95 @@
     "us_indices": [],
     "strong_stocks": [
       {
-        "name": "萃华退",
-        "code": "002731",
-        "price": 0.28,
-        "change_pct": 12.0,
-        "turnover": 15.33
+        "name": "近岸蛋白",
+        "code": "688137",
+        "price": 127.2,
+        "change_pct": 20.0,
+        "turnover": 13.45
       },
       {
-        "name": "五方光电",
-        "code": "002962",
-        "price": 12.83,
-        "change_pct": 10.03,
-        "turnover": 9.66
+        "name": "百纳千成",
+        "code": "300291",
+        "price": 6.24,
+        "change_pct": 20.0,
+        "turnover": 18.83
       },
       {
-        "name": "中欣氟材",
-        "code": "002915",
-        "price": 16.02,
-        "change_pct": 10.03,
-        "turnover": 3.92
+        "name": "富瀚微",
+        "code": "300613",
+        "price": 72.48,
+        "change_pct": 20.0,
+        "turnover": 6.78
       },
       {
-        "name": "宁波东力",
-        "code": "002164",
-        "price": 16.9,
-        "change_pct": 10.03,
-        "turnover": 5.46
+        "name": "斯迪克",
+        "code": "300806",
+        "price": 43.92,
+        "change_pct": 20.0,
+        "turnover": 9.69
       },
       {
-        "name": "振邦智能",
-        "code": "003028",
-        "price": 25.91,
-        "change_pct": 10.02,
-        "turnover": 5.77
+        "name": "东南电子",
+        "code": "301359",
+        "price": 19.08,
+        "change_pct": 20.0,
+        "turnover": 5.22
       },
       {
-        "name": "万向钱潮",
-        "code": "000559",
-        "price": 13.18,
-        "change_pct": 10.02,
-        "turnover": 3.18
+        "name": "豪恩汽电",
+        "code": "301488",
+        "price": 97.87,
+        "change_pct": 20.0,
+        "turnover": 6.01
       },
       {
-        "name": "实丰文化",
-        "code": "002862",
-        "price": 15.38,
-        "change_pct": 10.01,
-        "turnover": 6.25
+        "name": "必易微",
+        "code": "688045",
+        "price": 55.87,
+        "change_pct": 20.0,
+        "turnover": 6.66
       },
       {
-        "name": "青岛食品",
-        "code": "001219",
-        "price": 16.48,
-        "change_pct": 10.01,
-        "turnover": 1.72
+        "name": "恒工精密",
+        "code": "301261",
+        "price": 62.89,
+        "change_pct": 20.0,
+        "turnover": 8.44
       },
       {
-        "name": "金安国纪",
-        "code": "002636",
-        "price": 58.59,
-        "change_pct": 10.01,
-        "turnover": 3.73
+        "name": "百普赛斯",
+        "code": "301080",
+        "price": 101.24,
+        "change_pct": 20.0,
+        "turnover": 12.92
       },
       {
-        "name": "长缆科技",
-        "code": "002879",
-        "price": 14.95,
-        "change_pct": 10.01,
-        "turnover": 5.2
+        "name": "儒竞科技",
+        "code": "301525",
+        "price": 47.52,
+        "change_pct": 19.97,
+        "turnover": 13.83
       },
       {
-        "name": "长江材料",
-        "code": "001296",
-        "price": 20.23,
-        "change_pct": 10.01,
-        "turnover": 8.22
+        "name": "莱美药业",
+        "code": "300006",
+        "price": 9.92,
+        "change_pct": 19.95,
+        "turnover": 26.21
       },
       {
-        "name": "江顺科技",
-        "code": "001400",
-        "price": 88.31,
-        "change_pct": 10.0,
-        "turnover": 19.93
+        "name": "田中精机",
+        "code": "300461",
+        "price": 39.89,
+        "change_pct": 18.72,
+        "turnover": 16.44
       },
       {
-        "name": "西子洁能",
-        "code": "002534",
-        "price": 15.4,
-        "change_pct": 10.0,
-        "turnover": 1.49
-      },
-      {
-        "name": "双环传动",
-        "code": "002472",
-        "price": 45.55,
-        "change_pct": 10.0,
-        "turnover": 7.37
-      },
-      {
-        "name": "铖昌科技",
-        "code": "001270",
-        "price": 80.0,
-        "change_pct": 10.0,
-        "turnover": 4.82
+        "name": "伟创电气",
+        "code": "688698",
+        "price": 44.88,
+        "change_pct": 18.42,
+        "turnover": 8.32
       }
     ],
     "yimeng_stocks": [
@@ -565,5 +537,5 @@
       }
     ]
   },
-  "timestamp": "2026-10-28T14:29:05"
+  "timestamp": "2026-10-28T14:58:09"
 }
