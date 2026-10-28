@@ -318,18 +318,25 @@
     ],
     "yimeng_stocks": [
       {
-        "name": "皇台酒业",
-        "code": "000995",
-        "price": 14.28,
-        "change_pct": 6.81,
-        "turnover": 31.67
+        "name": "上海九百",
+        "code": "600838",
+        "price": 13.99,
+        "change_pct": 5.11,
+        "turnover": 38.22
       },
       {
-        "name": "东方海洋",
-        "code": "002086",
-        "price": 2.39,
-        "change_pct": 3.91,
-        "turnover": 27.06
+        "name": "洛轴股份",
+        "code": "301699",
+        "price": 33.39,
+        "change_pct": 3.99,
+        "turnover": 41.58
+      },
+      {
+        "name": "肯特股份",
+        "code": "301591",
+        "price": 40.31,
+        "change_pct": 6.84,
+        "turnover": 31.79
       }
     ],
     "slowrise": [
@@ -537,5 +544,5 @@
       }
     ]
   },
-  "timestamp": "2026-10-28T16:54:48"
+  "timestamp": "2026-10-28T17:12:14"
 }
