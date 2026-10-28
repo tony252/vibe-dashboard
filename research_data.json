@@ -1,10 +1,10 @@
 {
   "date": "2026-10-28",
-  "updated_at": "2026-10-28 17:06:03",
+  "updated_at": "2026-10-28 20:03:13",
   "stats": {
-    "processed": 14,
+    "processed": 21,
     "alerts": 0,
-    "filtered": 14
+    "filtered": 15
   },
   "events": [
     {
@@ -95,6 +95,25 @@
           "name": "中国太保",
           "code": "601601",
           "match_reason": "直接提及[中国太保]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-28 12:24",
+      "type": "archive",
+      "title": "【午报】创业板指半日涨3%，全市场近4500股收红，人形机器人概念股再度爆发",
+      "content": "①今日早盘市场震荡走高，创业板指涨3%，全市场近4500股收红，机器人概念股掀涨停潮，算力硬件、半导体等热门赛道同样展开反弹；\n②个股层面，早盘涨停数量为78家，封板率80%，连板股数量为8家，襄阳轴承5连板。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2517555",
+      "stocks": [
+        {
+          "name": "襄阳轴承",
+          "code": "000678",
+          "match_reason": "直接提及[襄阳轴承]（选股推荐）"
         }
       ],
       "verification": {
@@ -333,7 +352,7 @@
       "现金管理"
     ]
   },
-  "mode": "report",
+  "mode": "scan",
   "week": 44,
   "stock_meta": {
     "601601": "2026-10-28 17:06",
@@ -350,7 +369,8 @@
     "600838": "2026-10-28 17:06",
     "605488": "2026-10-28 17:06",
     "688836": "2026-10-28 17:06",
-    "600143": "2026-10-28 17:06"
+    "600143": "2026-10-28 17:06",
+    "000678": "2026-10-28 20:06"
   },
   "watchlist": [
     {
@@ -359,9 +379,9 @@
       "keywords": "直接提及[中国太保]（选股推荐）",
       "reason": "新闻提及 | 3次",
       "source": "event",
-      "selected_at": "2026-10-28 17:06",
+      "selected_at": "2026-10-28 20:06",
       "first_seen": "2026-10-28 17:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "中国平安",
@@ -369,9 +389,9 @@
       "keywords": "直接提及[中国平安]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-28 17:06",
+      "selected_at": "2026-10-28 20:06",
       "first_seen": "2026-10-28 17:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "中信建投",
@@ -379,8 +399,18 @@
       "keywords": "直接提及[中信建投]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-28 17:06",
+      "selected_at": "2026-10-28 20:06",
       "first_seen": "2026-10-28 17:06",
+      "is_new": false
+    },
+    {
+      "name": "襄阳轴承",
+      "code": "000678",
+      "keywords": "直接提及[襄阳轴承]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-28 20:06",
+      "first_seen": "2026-10-28 20:06",
       "is_new": true
     },
     {
@@ -389,9 +419,9 @@
       "keywords": "直接提及[五粮液]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-28 17:06",
+      "selected_at": "2026-10-28 20:06",
       "first_seen": "2026-10-28 17:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "华泰证券",
@@ -399,9 +429,9 @@
       "keywords": "直接提及[华泰证券]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-28 17:06",
+      "selected_at": "2026-10-28 20:06",
       "first_seen": "2026-10-28 17:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "大洋电机",
@@ -409,9 +439,9 @@
       "keywords": "直接提及[大洋电机]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-28 17:06",
+      "selected_at": "2026-10-28 20:06",
       "first_seen": "2026-10-28 17:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "慈文传媒",
@@ -419,9 +449,9 @@
       "keywords": "直接提及[慈文传媒]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-28 17:06",
+      "selected_at": "2026-10-28 20:06",
       "first_seen": "2026-10-28 17:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "华瓷股份",
@@ -429,9 +459,9 @@
       "keywords": "直接提及[华瓷股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-28 17:06",
+      "selected_at": "2026-10-28 20:06",
       "first_seen": "2026-10-28 17:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "海洋王",
@@ -439,9 +469,9 @@
       "keywords": "直接提及[海洋王]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-28 17:06",
+      "selected_at": "2026-10-28 20:06",
       "first_seen": "2026-10-28 17:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "工商银行",
@@ -449,9 +479,9 @@
       "keywords": "直接提及[工商银行]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-28 17:06",
+      "selected_at": "2026-10-28 20:06",
       "first_seen": "2026-10-28 17:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "贵州茅台",
@@ -459,9 +489,9 @@
       "keywords": "直接提及[贵州茅台]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-28 17:06",
+      "selected_at": "2026-10-28 20:06",
       "first_seen": "2026-10-28 17:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "上海九百",
@@ -469,9 +499,9 @@
       "keywords": "直接提及[上海九百]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-28 17:06",
+      "selected_at": "2026-10-28 20:06",
       "first_seen": "2026-10-28 17:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "福莱新材",
@@ -479,9 +509,9 @@
       "keywords": "直接提及[福莱新材]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-28 17:06",
+      "selected_at": "2026-10-28 20:06",
       "first_seen": "2026-10-28 17:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "宇树科技",
@@ -489,19 +519,9 @@
       "keywords": "直接提及[宇树科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-28 17:06",
+      "selected_at": "2026-10-28 20:06",
       "first_seen": "2026-10-28 17:06",
-      "is_new": true
-    },
-    {
-      "name": "金发科技",
-      "code": "600143",
-      "keywords": "直接提及[金发科技]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-28 17:06",
-      "first_seen": "2026-10-28 17:06",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
