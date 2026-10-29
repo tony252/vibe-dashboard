@@ -191571,6 +191571,67 @@
           "eps": 6.83
         }
       ]
+    },
+    "大力水手菠菜涨停战法": {
+      "time": "09:17",
+      "picks": [
+        {
+          "code": "600078",
+          "name": "澄星股份",
+          "base_score": 50,
+          "heat_score": 50.9,
+          "final_score": 50.54,
+          "price": 9.42,
+          "chg_pct": 0.0,
+          "vol_ratio": 3.85,
+          "turnover": 0,
+          "ma60": 10.24,
+          "ma_gap": 7.99,
+          "pullback_pct": 8.81
+        },
+        {
+          "code": "600062",
+          "name": "华润双鹤",
+          "base_score": 50,
+          "heat_score": 41.67,
+          "final_score": 45.0,
+          "price": 15.53,
+          "chg_pct": 0.0,
+          "vol_ratio": 2.52,
+          "turnover": 0,
+          "ma60": 16.14,
+          "ma_gap": 3.77,
+          "pullback_pct": 6.78
+        },
+        {
+          "code": "600116",
+          "name": "三峡水利",
+          "base_score": 50,
+          "heat_score": 30.11,
+          "final_score": 38.07,
+          "price": 5.71,
+          "chg_pct": 0.0,
+          "vol_ratio": 1.8,
+          "turnover": 0,
+          "ma60": 6.25,
+          "ma_gap": 8.69,
+          "pullback_pct": 8.93
+        },
+        {
+          "code": "600101",
+          "name": "明星电力",
+          "base_score": 50,
+          "heat_score": 28.97,
+          "final_score": 37.38,
+          "price": 7.29,
+          "chg_pct": 0.0,
+          "vol_ratio": 1.58,
+          "turnover": 0,
+          "ma60": 7.87,
+          "ma_gap": 7.39,
+          "pullback_pct": 8.42
+        }
+      ]
     }
   }
 }
