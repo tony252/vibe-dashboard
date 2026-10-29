@@ -2,21 +2,21 @@
  "mode": "cloud-daily",
  "live": true,
  "start_capital": 150000.0,
- "equity": 167621.52,
+ "equity": 167086.52,
  "cash": 63443.52,
- "exposure": 104178.0,
- "ret_pct": 11.75,
+ "exposure": 103643.0,
+ "ret_pct": 11.39,
  "regime": "NEUTRAL",
- "regime_detail": "2026-10-27 净持仓均值 -0.06%（IF -0.0%，IH -0.1%，IC -0.0%，IM -0.1%）",
+ "regime_detail": "2026-10-28 净持仓均值 -0.06%（IF -0.0%，IH -0.1%，IC -0.0%，IM -0.1%）",
  "adaptive": {
   "regime": "NEUTRAL",
-  "regime_detail": "2026-10-27 净持仓均值 -0.06%（IF -0.0%，IH -0.1%，IC -0.0%，IM -0.1%）",
+  "regime_detail": "2026-10-28 净持仓均值 -0.06%（IF -0.0%，IH -0.1%，IC -0.0%，IM -0.1%）",
   "mood_trend": "FLAT",
-  "mood_slope": 0.0011,
-  "mood_vol": 0.0045,
+  "mood_slope": 0.0006,
+  "mood_vol": 0.0036,
   "year_end": false,
   "quarter_end": false,
-  "cffex_days": 94,
+  "cffex_days": 95,
   "params": {
    "exposure_cap": 0.72,
    "single_cap": 0.15,
@@ -93,21 +93,21 @@
    }
   ]
  },
- "updated": "2026-10-28 22:17",
- "run_date": "2026-10-28",
+ "updated": "2026-10-29 22:34",
+ "run_date": "2026-10-29",
  "source_freshness": {
   "strong_stocks": {
-   "updated": "2026-10-27 23:27",
+   "updated": "2026-10-29 00:00",
    "used": true,
-   "stale_days": 1
+   "stale_days": 0
   },
   "strongbuy_data": {
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "used": true,
    "stale_days": 0
   },
   "daily_picks": {
-   "updated": "2026-10-28",
+   "updated": "2026-10-29",
    "used": true,
    "stale_days": null
   }
@@ -116,22 +116,22 @@
   {
    "id": "cloud-main-A",
    "mandate": 100000.0,
-   "equity": 115783.84,
+   "equity": 115403.84,
    "cash": 36109.84,
-   "exposure": 79674.0,
-   "pnl": 15783.84,
-   "pnl_pct": 15.78,
+   "exposure": 79294.0,
+   "pnl": 15403.84,
+   "pnl_pct": 15.4,
    "status": "盈利追加",
    "strategies": "strong,strongbuy,daily_picks"
   },
   {
    "id": "cloud-sat-B",
    "mandate": 50000.0,
-   "equity": 51837.69,
+   "equity": 51682.69,
    "cash": 27333.69,
-   "exposure": 24504.0,
-   "pnl": 1837.69,
-   "pnl_pct": 3.68,
+   "exposure": 24349.0,
+   "pnl": 1682.69,
+   "pnl_pct": 3.37,
    "status": "盈利追加",
    "strategies": "strong,strongbuy"
   }
@@ -202,10 +202,10 @@
    "name": "渝 开 发",
    "qty": 100,
    "avg": 4.069,
-   "last": 3.97,
-   "value": 397.0,
-   "pnl": -9.9,
-   "pnl_pct": -2.43,
+   "last": 3.9,
+   "value": 390.0,
+   "pnl": -16.9,
+   "pnl_pct": -4.15,
    "strategy": "strong",
    "account": "cloud-main-A"
   },
@@ -238,10 +238,10 @@
    "name": "华自科技",
    "qty": 100,
    "avg": 9.03,
-   "last": 8.98,
-   "value": 898.0,
-   "pnl": -5.0,
-   "pnl_pct": -0.55,
+   "last": 8.64,
+   "value": 864.0,
+   "pnl": -39.0,
+   "pnl_pct": -4.32,
    "strategy": "strong",
    "account": "cloud-main-A"
   },
@@ -250,10 +250,10 @@
    "name": "津投城开",
    "qty": 200,
    "avg": 2.396,
-   "last": 2.46,
-   "value": 492.0,
-   "pnl": 12.8,
-   "pnl_pct": 2.67,
+   "last": 2.45,
+   "value": 490.0,
+   "pnl": 10.8,
+   "pnl_pct": 2.25,
    "strategy": "strong",
    "account": "cloud-main-A"
   },
@@ -286,10 +286,10 @@
    "name": "因赛集团",
    "qty": 500,
    "avg": 28.324,
-   "last": 28.35,
-   "value": 14175.0,
-   "pnl": 13.0,
-   "pnl_pct": 0.09,
+   "last": 27.74,
+   "value": 13870.0,
+   "pnl": -292.0,
+   "pnl_pct": -2.06,
    "strategy": "strong",
    "account": "cloud-main-A"
   },
@@ -298,10 +298,10 @@
    "name": "电声股份",
    "qty": 300,
    "avg": 8.709,
-   "last": 8.94,
-   "value": 2682.0,
-   "pnl": 69.3,
-   "pnl_pct": 2.65,
+   "last": 8.73,
+   "value": 2619.0,
+   "pnl": 6.3,
+   "pnl_pct": 0.24,
    "strategy": "strong",
    "account": "cloud-main-A"
   },
@@ -334,10 +334,10 @@
    "name": "天邑股份",
    "qty": 100,
    "avg": 17.729,
-   "last": 17.69,
-   "value": 1769.0,
-   "pnl": -3.9,
-   "pnl_pct": -0.22,
+   "last": 18.55,
+   "value": 1855.0,
+   "pnl": 82.1,
+   "pnl_pct": 4.63,
    "strategy": "strongbuy",
    "account": "cloud-main-A"
   },
@@ -346,10 +346,10 @@
    "name": "东方海洋",
    "qty": 500,
    "avg": 2.396,
-   "last": 2.53,
-   "value": 1265.0,
-   "pnl": 67.0,
-   "pnl_pct": 5.59,
+   "last": 2.42,
+   "value": 1210.0,
+   "pnl": 12.0,
+   "pnl_pct": 1.0,
    "strategy": "strongbuy",
    "account": "cloud-main-A"
   },
@@ -430,10 +430,10 @@
    "name": "通源石油",
    "qty": 100,
    "avg": 8.85,
-   "last": 8.48,
-   "value": 848.0,
-   "pnl": -37.0,
-   "pnl_pct": -4.18,
+   "last": 8.49,
+   "value": 849.0,
+   "pnl": -36.0,
+   "pnl_pct": -4.07,
    "strategy": "strongbuy",
    "account": "cloud-sat-B"
   },
@@ -442,10 +442,10 @@
    "name": "因赛集团",
    "qty": 200,
    "avg": 28.324,
-   "last": 28.35,
-   "value": 5670.0,
-   "pnl": 5.2,
-   "pnl_pct": 0.09,
+   "last": 27.74,
+   "value": 5548.0,
+   "pnl": -116.8,
+   "pnl_pct": -2.06,
    "strategy": "strong",
    "account": "cloud-sat-B"
   },
@@ -454,10 +454,10 @@
    "name": "电声股份",
    "qty": 300,
    "avg": 8.709,
-   "last": 8.94,
-   "value": 2682.0,
-   "pnl": 69.3,
-   "pnl_pct": 2.65,
+   "last": 8.73,
+   "value": 2619.0,
+   "pnl": 6.3,
+   "pnl_pct": 0.24,
    "strategy": "strong",
    "account": "cloud-sat-B"
   },
@@ -466,10 +466,10 @@
    "name": "天邑股份",
    "qty": 100,
    "avg": 17.729,
-   "last": 17.69,
-   "value": 1769.0,
-   "pnl": -3.9,
-   "pnl_pct": -0.22,
+   "last": 18.55,
+   "value": 1855.0,
+   "pnl": 82.1,
+   "pnl_pct": 4.63,
    "strategy": "strongbuy",
    "account": "cloud-sat-B"
   },
@@ -478,10 +478,10 @@
    "name": "皇台酒业",
    "qty": 100,
    "avg": 14.313,
-   "last": 14.7,
-   "value": 1470.0,
-   "pnl": 38.7,
-   "pnl_pct": 2.7,
+   "last": 14.24,
+   "value": 1424.0,
+   "pnl": -7.3,
+   "pnl_pct": -0.51,
    "strategy": "strongbuy",
    "account": "cloud-sat-B"
   },
@@ -490,10 +490,10 @@
    "name": "东方海洋",
    "qty": 100,
    "avg": 2.396,
-   "last": 2.53,
-   "value": 253.0,
-   "pnl": 13.4,
-   "pnl_pct": 5.59,
+   "last": 2.42,
+   "value": 242.0,
+   "pnl": 2.4,
+   "pnl_pct": 1.0,
    "strategy": "strongbuy",
    "account": "cloud-sat-B"
   },
@@ -2379,18 +2379,22 @@
   {
    "ts": "2026-10-28 22:17",
    "equity": 167621.52
+  },
+  {
+   "ts": "2026-10-29 22:34",
+   "equity": 167086.52
   }
  ],
  "allocations": {
   "strong": {
    "alloc_total": 50000.0,
    "assigned": 50000.0,
-   "deployed": 49903.0
+   "deployed": 49307.0
   },
   "strongbuy": {
    "alloc_total": 35000.0,
    "assigned": 35000.0,
-   "deployed": 34319.0
+   "deployed": 34380.0
   },
   "daily_picks": {
    "alloc_total": 20000.0,
