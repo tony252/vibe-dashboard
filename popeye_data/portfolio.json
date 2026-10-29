@@ -3,56 +3,6 @@
   "capital": 100000,
   "positions": [
     {
-      "code": "300952",
-      "name": "恒辉安防",
-      "buy_price": 19.25,
-      "buy_date": "2026-10-29",
-      "shares": 500,
-      "cost": 9625.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 5.827
-    },
-    {
-      "code": "002361",
-      "name": "神剑股份",
-      "buy_price": 9.8,
-      "buy_date": "2026-10-29",
-      "shares": 1000,
-      "cost": 9800.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 5.832
-    },
-    {
-      "code": "300006",
-      "name": "莱美药业",
-      "buy_price": 10.49,
-      "buy_date": "2026-10-29",
-      "shares": 900,
-      "cost": 9441.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 5.746
-    },
-    {
-      "code": "688613",
-      "name": "奥精医疗",
-      "buy_price": 18.31,
-      "buy_date": "2026-10-29",
-      "shares": 500,
-      "cost": 9155.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 5.594
-    },
-    {
-      "code": "688479",
-      "name": "友车科技",
-      "buy_price": 29.9,
-      "buy_date": "2026-10-29",
-      "shares": 300,
-      "cost": 8970.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 5.505
-    },
-    {
       "code": "601188",
       "name": "龙江交通",
       "buy_price": 3.5,
@@ -101,7 +51,57 @@
       "cost": 9396.0,
       "reason": "黄金区间3-6%",
       "change_at_buy": 10.011
+    },
+    {
+      "code": "002565",
+      "name": "顺灏股份",
+      "buy_price": 8.14,
+      "buy_date": "2026-10-29",
+      "shares": 1200,
+      "cost": 9768.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 10.0
+    },
+    {
+      "code": "000701",
+      "name": "厦门信达",
+      "buy_price": 5.62,
+      "buy_date": "2026-10-29",
+      "shares": 1700,
+      "cost": 9554.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 9.98
+    },
+    {
+      "code": "002531",
+      "name": "天顺风能",
+      "buy_price": 7.06,
+      "buy_date": "2026-10-29",
+      "shares": 1400,
+      "cost": 9884.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 9.969
+    },
+    {
+      "code": "003032",
+      "name": "传智教育",
+      "buy_price": 9.05,
+      "buy_date": "2026-10-29",
+      "shares": 1100,
+      "cost": 9955.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 9.964
+    },
+    {
+      "code": "603279",
+      "name": "景津装备",
+      "buy_price": 12.53,
+      "buy_date": "2026-10-29",
+      "shares": 700,
+      "cost": 8771.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 9.624
     }
   ],
-  "total_cost": 95218.0
+  "total_cost": 96159.0
 }
