@@ -1,24 +1,176 @@
 {
-  "date": "2026-10-28",
-  "updated_at": "2026-10-29 12:25:12",
+  "date": "2026-10-29",
+  "updated_at": "2026-10-29 16:33:19",
   "stats": {
-    "processed": 30,
+    "processed": 16,
     "alerts": 0,
-    "filtered": 20
+    "filtered": 16
   },
   "events": [
     {
-      "time": "2026-10-29 11:50",
+      "time": "2026-10-29 16:25",
       "type": "archive",
-      "title": "20%涨停！突然，逆市拉升！热门赛道，传来重磅消息",
-      "content": "机器人概念股反复活跃！ 今日（10月29日），A股部分机器人概念股逆市上涨。盘中，邵阳液压（301079）直线拉升封住20%涨停，上海沪工、航天晨光、山东矿机10%涨停，万里扬...",
+      "title": "全聚德三季报“增利不增收”：利润增长靠“省”，收入持续缩水",
+      "content": "来源：证券之星 近日，全聚德（002186.SZ）交出一份收入下滑但盈利增长的三季报。但拆解财报可见，其本期盈利增长主要建立在去年同期的低基数之上，且更多依赖费用压缩。",
       "source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-29/doc-iniwwiew6034391.shtml",
+      "source_url": "https://finance.sina.com.cn/stock/s/2026-10-29/doc-iniwwtux5235721.shtml",
       "stocks": [
         {
-          "name": "万里扬",
-          "code": "002434",
-          "match_reason": "直接提及[万里扬]（选股推荐）"
+          "name": "全聚德",
+          "code": "002186",
+          "match_reason": "直接提及[全聚德]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-29 16:20",
+      "type": "archive",
+      "title": "高盛降中国平安H、A股目标价至68港元与70元人民币 营运利润超预期难掩新业务价值跌54%",
+      "content": "文/新浪财经香港站 王柳潞 高盛发研究报告表示，维持中国平安（02318.HK）“买入”评级，但受寿险新保单销售承压影响，将其H股目标价下调至68港元...",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-10-29/doc-iniwwtuu2755781.shtml",
+      "stocks": [
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "match_reason": "直接提及[中国平安]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-29 15:40",
+      "type": "archive",
+      "title": "1分钟直线涨停！002086，7天3板，股民：“等等我啊，我还没上车”",
+      "content": "来源：华夏时报 今日午后，医疗器械概念板块局部表现活跃，东方海洋1分钟直线拉升涨停、走出7天3板，西部材料回封涨停，英科医疗、爱伦医疗涨超7%。",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/wm/2026-10-29/doc-iniwwpnx8877687.shtml",
+      "stocks": [
+        {
+          "name": "东方海洋",
+          "code": "002086",
+          "match_reason": "直接提及[东方海洋]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-29 08:26",
+      "type": "archive",
+      "title": "券商晨会精华：产业政策强化将带来诸多结构性机会",
+      "content": "中信证券认为，产业政策强化将带来诸多结构性机会；中信建投认为，被动基金重回增长，主动权益加仓医药；东吴证券认为，关注美国州长选举AI产业投资的影响",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2518616",
+      "stocks": [
+        {
+          "name": "中信建投",
+          "code": "601066",
+          "match_reason": "直接提及[中信建投]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-29 08:20",
+      "type": "archive",
+      "title": "10月29日投资避雷针：AI巨额投资未产生足够回报 谷歌业绩不及预期盘后跌近10%",
+      "content": "①10月成品油下海量环比减少，柴油终端利润进一步走低；\n②福莱新材第三季度净利润同比下降69.88%环比下降87%，截至三季度末公司柔性传感器项目累计收入466.75万元；\n③AI巨额投资未产生足够回报，谷歌第三季度营收和利润均不及预期，公司股价盘后跌近10%。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2518619",
+      "stocks": [
+        {
+          "name": "福莱新材",
+          "code": "605488",
+          "match_reason": "直接提及[福莱新材]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-29 07:53",
+      "type": "archive",
+      "title": "人工智能、新能源等下游需求改善 国产工业母机订单排到明年",
+      "content": "①据央视财经报道，今年以来，在人工智能、新能源等新兴产业带动下，高端工业母机需求持续爆发。\n②中泰证券研报指出，系统缺货延续，机床多个下游需求改善，继续看多板块行情。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2518594",
+      "stocks": [
+        {
+          "name": "中泰证券",
+          "code": "600918",
+          "match_reason": "直接提及[中泰证券]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-29 07:00",
+      "type": "archive",
+      "title": "【早报】美联储按兵不动，沃什宣布：减少议息频次；美股存储芯片板块，全线爆发；谷歌业绩不及预期，盘后大跌",
+      "content": "①8000亿元新型政策性金融工具投放完成②央行：三季度末人民币房地产贷款余额同比下降5.2%③美联储维持基准利率不变，中间派库克转鹰④宁德时代、五粮液披露回购进展⑤世纪华通、沐曦股份、广合科技等计划回购股份。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2518583",
+      "stocks": [
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "match_reason": "直接提及[五粮液]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-28 20:32",
+      "type": "archive",
+      "title": "多家A股公司抛出回购计划，两只龙头股披露回购进展",
+      "content": "①世纪华通拟回购资金总额不低于3亿元且不超过6亿元；\n②广合科技拟回购资金总额不低于1亿元且不超过2亿元；\n③五粮液已累计回购股份2175.34万股，已支付总金额16.01亿元。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2518264",
+      "stocks": [
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "match_reason": "直接提及[五粮液]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-28 19:46",
+      "type": "archive",
+      "title": "A股上市银行市净率修复加速，农行股价再创年内新高，高股息板块吸引力望延续",
+      "content": "①目前42家A股上市银行平均市净率已由上半年末的0.54倍修复至0.61倍，且有三家A股上市银行市净率在0.9倍以上，其中农业银行是唯一的国有大行。\n②作为高股息代表，银行股尤其是国有行股稳定的现金流回报对险资、理财及长线配置资金构成吸引力，“高股息”板块的确定性逻辑有望延续。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2518180",
+      "stocks": [
+        {
+          "name": "农业银行",
+          "code": "601288",
+          "match_reason": "直接提及[农业银行]（选股推荐）"
         }
       ],
       "verification": {
@@ -57,6 +209,11 @@
           "name": "百洋股份",
           "code": "002696",
           "match_reason": "直接提及[百洋股份]（选股推荐）"
+        },
+        {
+          "name": "华瓷股份",
+          "code": "001216",
+          "match_reason": "直接提及[华瓷股份]（选股推荐）"
         }
       ],
       "verification": {
@@ -84,63 +241,6 @@
       }
     },
     {
-      "time": "2026-10-28 17:04",
-      "type": "archive",
-      "title": "中国平安：前三季度平安产险原保险保费收入2652.15亿元，同比增长3.5%",
-      "content": "10月28日金融一线消息，中国平安发布截至2026年9月30日止九个月的未经审计业绩公告。2026年前三季度，平安产险原保险保费收入2652.15亿元，同比增长3.5%...",
-      "source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/jryx/insurance/2026-10-28/doc-iniwukpz6004028.shtml",
-      "stocks": [
-        {
-          "name": "中国平安",
-          "code": "601318",
-          "match_reason": "直接提及[中国平安]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-10-28 17:01",
-      "type": "archive",
-      "title": "中国平安：前三季度实现归属于母公司股东的营运利润1259.05亿元，同比增长8.3%",
-      "content": "10月28日金融一线消息，中国平安发布截至2026年9月30日止九个月的未经审计业绩公告。数据显示，2026年前三季度，集团实现归属于母公司股东的营运利润1259.05亿元...",
-      "source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/jryx/insurance/2026-10-28/doc-iniwukpz6002534.shtml",
-      "stocks": [
-        {
-          "name": "中国平安",
-          "code": "601318",
-          "match_reason": "直接提及[中国平安]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-10-28 16:54",
-      "type": "archive",
-      "title": "中国太保：第三季度净利润56.28亿元，同比减少68.4%",
-      "content": "10月28日金融一线消息，中国太保发布2026年第三季度报告。报告披露，前三季度中国太保实现保险服务收入 2188.51 亿元，同比增长0.9%。",
-      "source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/jryx/insurance/2026-10-28/doc-iniwukpw3396501.shtml",
-      "stocks": [
-        {
-          "name": "中国太保",
-          "code": "601601",
-          "match_reason": "直接提及[中国太保]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
       "time": "2026-10-28 16:48",
       "type": "archive",
       "title": "【每日收评】创业板指放量涨超3%，机器人概念延续强势，算力硬件股集体反弹",
@@ -152,44 +252,6 @@
           "name": "襄阳轴承",
           "code": "000678",
           "match_reason": "直接提及[襄阳轴承]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-10-28 16:43",
-      "type": "archive",
-      "title": "中国太保：前三季度太保寿险实现规模保费2676.51亿元，同比增长1.4%",
-      "content": "10月28日金融一线消息，中国太保发布2026年第三季度报告。数据显示，2026年前三季度，太保寿险实现规模保费2676.51亿元，同比增长1.4%；保险服务收入646.34亿元...",
-      "source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/jryx/insurance/2026-10-28/doc-iniwukpu6622639.shtml",
-      "stocks": [
-        {
-          "name": "中国太保",
-          "code": "601601",
-          "match_reason": "直接提及[中国太保]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-10-28 16:41",
-      "type": "archive",
-      "title": "中国太保：前三季度实现保险服务收入2188.51亿元，同比增长0.9%",
-      "content": "10月28日金融一线消息，中国太保发布2026年第三季度报告。数据显示，2026年前三季度，公司实现保险服务收入2188.51亿元，同比增长0.9%。",
-      "source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/jryx/insurance/2026-10-28/doc-iniwukpx9537262.shtml",
-      "stocks": [
-        {
-          "name": "中国太保",
-          "code": "601601",
-          "match_reason": "直接提及[中国太保]（选股推荐）"
         }
       ],
       "verification": {
@@ -258,159 +320,6 @@
         "memory": false,
         "source": true
       }
-    },
-    {
-      "time": "2026-10-27 17:42",
-      "type": "archive",
-      "title": "【数据看盘】机构活跃度明显下降，紫阳东路席位1.22亿元抢筹大洋电机",
-      "content": "①龙虎榜机构活跃度明显下降，买入的个股数量和净买入规模大幅减少。\n②人形机器人概念股大洋电机逆势涨停，获国泰海通证券武汉紫阳东路营业部买入1.22亿。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2516735",
-      "stocks": [
-        {
-          "name": "大洋电机",
-          "code": "002249",
-          "match_reason": "直接提及[大洋电机]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-10-27 17:18",
-      "type": "archive",
-      "title": "【焦点复盘】科创50高开低走跌4.81%，工行、建行逆势创历史新高，油气巨头尾盘竞价跳水翻绿",
-      "content": "①连板晋级率降至三成以下，高位股内部分化，海洋王走出8天7板，但前期人气股慈文传媒、华瓷股份连续2日报收跌停。 ②高股息红利股全天逆势活跃，工商银行、建设银行刷新历史新高，但此前创18年新高的中国石油尾盘集合竞价跳水翻绿。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2516667",
-      "stocks": [
-        {
-          "name": "慈文传媒",
-          "code": "002343",
-          "match_reason": "直接提及[慈文传媒]（选股推荐）"
-        },
-        {
-          "name": "华瓷股份",
-          "code": "001216",
-          "match_reason": "直接提及[华瓷股份]（选股推荐）"
-        },
-        {
-          "name": "海洋王",
-          "code": "002724",
-          "match_reason": "直接提及[海洋王]（选股推荐）"
-        },
-        {
-          "name": "工商银行",
-          "code": "601398",
-          "match_reason": "直接提及[工商银行]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-10-27 14:31",
-      "type": "archive",
-      "title": "A股千元股，只剩茅台了",
-      "content": "继寒武纪、源杰科技之后，联讯仪器成为本月又一只出局的千元股，当前A股千元股仅剩贵州茅台一只。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2516348",
-      "stocks": [
-        {
-          "name": "贵州茅台",
-          "code": "600519",
-          "match_reason": "直接提及[贵州茅台]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-10-27 12:07",
-      "type": "archive",
-      "title": "【午报】科创50高开低走跌1.5%，全市场超3700股飘绿，大消费、银行股逆势走强",
-      "content": "①今日早盘开后震荡回落，科创50指数跌超1%，量能进一步萎缩，机器人、智能驾驶等题材持续活跃，大消费、银行板块逆势走高；\n②个股层面，早盘涨停数量为46家，连板股数量为13家，上海九百晋级5连板。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2516219",
-      "stocks": [
-        {
-          "name": "上海九百",
-          "code": "600838",
-          "match_reason": "直接提及[上海九百]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-10-27 08:07",
-      "type": "archive",
-      "title": "10月27日投资避雷针：福莱新材、宇树科技等机器人概念股密集提示风险",
-      "content": "①内存条有价无市，出厂价还在涨，渠道价已经倒挂；\n②6天4板福莱新材公告，柔性传感器项目收入占公司整体收入比重极低；\n③Anthropic警告算力扩张将持续消耗大量现金，资本开支或显著增长。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2515947",
-      "stocks": [
-        {
-          "name": "福莱新材",
-          "code": "605488",
-          "match_reason": "直接提及[福莱新材]（选股推荐）"
-        },
-        {
-          "name": "宇树科技",
-          "code": "688836",
-          "match_reason": "直接提及[宇树科技]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-10-27 07:54",
-      "type": "archive",
-      "title": "券商晨会精华：AI+办公打开下一个万亿级市场",
-      "content": "中金公司认为，AI+办公，打开下一个万亿级市场；中信建投认为，AI艺人、AI综艺有望接棒AI短剧，AI内容娱乐生态再丰富；招商证券认为，入口价值正逐渐显现，大厂Agent与AI终端密集落地。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2515938",
-      "stocks": [
-        {
-          "name": "中信建投",
-          "code": "601066",
-          "match_reason": "直接提及[中信建投]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-10-26 20:23",
-      "type": "archive",
-      "title": "A股又一波增持回购来了，金发科技拟最高回购5亿元",
-      "content": "①长芯博创：拟2亿元至3亿元回购公司股份。\n②金发科技：拟3亿元至5亿元回购股份用于注销。\n③金诚信：拟3亿元至4亿元回购股份用于股权激励或员工持股计划。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2515503",
-      "stocks": [
-        {
-          "name": "金发科技",
-          "code": "600143",
-          "match_reason": "直接提及[金发科技]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
     }
   ],
   "keywords": {
@@ -447,69 +356,35 @@
       "现金管理"
     ]
   },
-  "mode": "scan",
+  "mode": "report",
   "week": 44,
   "stock_meta": {
-    "601601": "2026-10-28 17:06",
-    "601318": "2026-10-28 17:06",
-    "601066": "2026-10-28 17:06",
-    "000858": "2026-10-28 17:06",
-    "601688": "2026-10-28 17:06",
-    "002249": "2026-10-28 17:06",
-    "002343": "2026-10-28 17:06",
-    "001216": "2026-10-28 17:06",
-    "002724": "2026-10-28 17:06",
-    "601398": "2026-10-28 17:06",
-    "600519": "2026-10-28 17:06",
-    "600838": "2026-10-28 17:06",
-    "605488": "2026-10-28 17:06",
-    "688836": "2026-10-28 17:06",
-    "600143": "2026-10-28 17:06",
-    "000678": "2026-10-28 20:06",
-    "002434": "2026-10-29 12:28",
-    "301428": "2026-10-29 12:28",
-    "002696": "2026-10-29 12:28"
+    "000858": "2026-10-29 16:33",
+    "601066": "2026-10-29 16:33",
+    "000678": "2026-10-29 16:33",
+    "002186": "2026-10-29 16:33",
+    "601318": "2026-10-29 16:33",
+    "002086": "2026-10-29 16:33",
+    "605488": "2026-10-29 16:33",
+    "600918": "2026-10-29 16:33",
+    "601288": "2026-10-29 16:33",
+    "301428": "2026-10-29 16:33",
+    "002696": "2026-10-29 16:33",
+    "001216": "2026-10-29 16:33",
+    "600519": "2026-10-29 16:33",
+    "601688": "2026-10-29 16:33",
+    "001219": "2026-10-29 16:33"
   },
   "watchlist": [
     {
-      "name": "中国太保",
-      "code": "601601",
-      "keywords": "直接提及[中国太保]（选股推荐）",
+      "name": "五粮液",
+      "code": "000858",
+      "keywords": "直接提及[五粮液]（选股推荐）",
       "reason": "新闻提及 | 3次",
       "source": "event",
-      "selected_at": "2026-10-29 12:28",
-      "first_seen": "2026-10-28 17:06",
-      "is_new": false
-    },
-    {
-      "name": "贵州茅台",
-      "code": "600519",
-      "keywords": "直接提及[贵州茅台]（选股推荐）",
-      "reason": "新闻提及 | 2次",
-      "source": "event",
-      "selected_at": "2026-10-29 12:28",
-      "first_seen": "2026-10-28 17:06",
-      "is_new": false
-    },
-    {
-      "name": "中国平安",
-      "code": "601318",
-      "keywords": "直接提及[中国平安]（选股推荐）",
-      "reason": "新闻提及 | 2次",
-      "source": "event",
-      "selected_at": "2026-10-29 12:28",
-      "first_seen": "2026-10-28 17:06",
-      "is_new": false
-    },
-    {
-      "name": "襄阳轴承",
-      "code": "000678",
-      "keywords": "直接提及[襄阳轴承]（选股推荐）",
-      "reason": "新闻提及 | 2次",
-      "source": "event",
-      "selected_at": "2026-10-29 12:28",
-      "first_seen": "2026-10-28 20:06",
-      "is_new": false
+      "selected_at": "2026-10-29 16:33",
+      "first_seen": "2026-10-29 16:33",
+      "is_new": true
     },
     {
       "name": "中信建投",
@@ -517,18 +392,78 @@
       "keywords": "直接提及[中信建投]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-29 12:28",
-      "first_seen": "2026-10-28 17:06",
-      "is_new": false
+      "selected_at": "2026-10-29 16:33",
+      "first_seen": "2026-10-29 16:33",
+      "is_new": true
     },
     {
-      "name": "万里扬",
-      "code": "002434",
-      "keywords": "直接提及[万里扬]（选股推荐）",
+      "name": "襄阳轴承",
+      "code": "000678",
+      "keywords": "直接提及[襄阳轴承]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-10-29 16:33",
+      "first_seen": "2026-10-29 16:33",
+      "is_new": true
+    },
+    {
+      "name": "全聚德",
+      "code": "002186",
+      "keywords": "直接提及[全聚德]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-29 12:28",
-      "first_seen": "2026-10-29 12:28",
+      "selected_at": "2026-10-29 16:33",
+      "first_seen": "2026-10-29 16:33",
+      "is_new": true
+    },
+    {
+      "name": "中国平安",
+      "code": "601318",
+      "keywords": "直接提及[中国平安]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-29 16:33",
+      "first_seen": "2026-10-29 16:33",
+      "is_new": true
+    },
+    {
+      "name": "东方海洋",
+      "code": "002086",
+      "keywords": "直接提及[东方海洋]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-29 16:33",
+      "first_seen": "2026-10-29 16:33",
+      "is_new": true
+    },
+    {
+      "name": "福莱新材",
+      "code": "605488",
+      "keywords": "直接提及[福莱新材]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-29 16:33",
+      "first_seen": "2026-10-29 16:33",
+      "is_new": true
+    },
+    {
+      "name": "中泰证券",
+      "code": "600918",
+      "keywords": "直接提及[中泰证券]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-29 16:33",
+      "first_seen": "2026-10-29 16:33",
+      "is_new": true
+    },
+    {
+      "name": "农业银行",
+      "code": "601288",
+      "keywords": "直接提及[农业银行]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-29 16:33",
+      "first_seen": "2026-10-29 16:33",
       "is_new": true
     },
     {
@@ -537,8 +472,8 @@
       "keywords": "直接提及[世纪恒通]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-29 12:28",
-      "first_seen": "2026-10-29 12:28",
+      "selected_at": "2026-10-29 16:33",
+      "first_seen": "2026-10-29 16:33",
       "is_new": true
     },
     {
@@ -547,49 +482,9 @@
       "keywords": "直接提及[百洋股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-29 12:28",
-      "first_seen": "2026-10-29 12:28",
+      "selected_at": "2026-10-29 16:33",
+      "first_seen": "2026-10-29 16:33",
       "is_new": true
-    },
-    {
-      "name": "五粮液",
-      "code": "000858",
-      "keywords": "直接提及[五粮液]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-29 12:28",
-      "first_seen": "2026-10-28 17:06",
-      "is_new": false
-    },
-    {
-      "name": "华泰证券",
-      "code": "601688",
-      "keywords": "直接提及[华泰证券]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-29 12:28",
-      "first_seen": "2026-10-28 17:06",
-      "is_new": false
-    },
-    {
-      "name": "大洋电机",
-      "code": "002249",
-      "keywords": "直接提及[大洋电机]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-29 12:28",
-      "first_seen": "2026-10-28 17:06",
-      "is_new": false
-    },
-    {
-      "name": "慈文传媒",
-      "code": "002343",
-      "keywords": "直接提及[慈文传媒]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-29 12:28",
-      "first_seen": "2026-10-28 17:06",
-      "is_new": false
     },
     {
       "name": "华瓷股份",
@@ -597,29 +492,39 @@
       "keywords": "直接提及[华瓷股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-29 12:28",
-      "first_seen": "2026-10-28 17:06",
-      "is_new": false
+      "selected_at": "2026-10-29 16:33",
+      "first_seen": "2026-10-29 16:33",
+      "is_new": true
     },
     {
-      "name": "海洋王",
-      "code": "002724",
-      "keywords": "直接提及[海洋王]（选股推荐）",
+      "name": "贵州茅台",
+      "code": "600519",
+      "keywords": "直接提及[贵州茅台]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-29 12:28",
-      "first_seen": "2026-10-28 17:06",
-      "is_new": false
+      "selected_at": "2026-10-29 16:33",
+      "first_seen": "2026-10-29 16:33",
+      "is_new": true
     },
     {
-      "name": "工商银行",
-      "code": "601398",
-      "keywords": "直接提及[工商银行]（选股推荐）",
+      "name": "华泰证券",
+      "code": "601688",
+      "keywords": "直接提及[华泰证券]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-29 12:28",
-      "first_seen": "2026-10-28 17:06",
-      "is_new": false
+      "selected_at": "2026-10-29 16:33",
+      "first_seen": "2026-10-29 16:33",
+      "is_new": true
+    },
+    {
+      "name": "青岛食品",
+      "code": "001219",
+      "keywords": "涨停",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.98\">涨幅9.98%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率7.77%</span>",
+      "source": "杰克",
+      "selected_at": "2026-10-29 16:33",
+      "first_seen": "2026-10-29 16:33",
+      "is_new": true
     }
   ]
 }
