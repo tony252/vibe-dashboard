@@ -318,25 +318,53 @@
     ],
     "yimeng_stocks": [
       {
-        "name": "上海九百",
-        "code": "600838",
-        "price": 13.99,
-        "change_pct": 5.11,
-        "turnover": 38.22
+        "name": "天娱数科",
+        "code": "002354",
+        "price": 8.36,
+        "change_pct": 2.2,
+        "turnover": 27.82
       },
       {
-        "name": "洛轴股份",
-        "code": "301699",
-        "price": 33.39,
-        "change_pct": 3.99,
-        "turnover": 41.58
+        "name": "襄阳轴承",
+        "code": "000678",
+        "price": 18.75,
+        "change_pct": 6.47,
+        "turnover": 41.93
       },
       {
-        "name": "肯特股份",
-        "code": "301591",
-        "price": 40.31,
-        "change_pct": 6.84,
-        "turnover": 31.79
+        "name": "凡拓数创",
+        "code": "301313",
+        "price": 64.82,
+        "change_pct": 2.89,
+        "turnover": 33.32
+      },
+      {
+        "name": "慈文传媒",
+        "code": "002343",
+        "price": 8.97,
+        "change_pct": 2.98,
+        "turnover": 38.72
+      },
+      {
+        "name": "百洋股份",
+        "code": "002696",
+        "price": 12.35,
+        "change_pct": 4.93,
+        "turnover": 36.2
+      },
+      {
+        "name": "江顺科技",
+        "code": "001400",
+        "price": 92.16,
+        "change_pct": 4.36,
+        "turnover": 25.23
+      },
+      {
+        "name": "华是科技",
+        "code": "301218",
+        "price": 68.39,
+        "change_pct": 5.43,
+        "turnover": 25.27
       }
     ],
     "slowrise": [
@@ -544,5 +572,5 @@
       }
     ]
   },
-  "timestamp": "2026-10-29T15:59:22"
+  "timestamp": "2026-10-29T16:24:14"
 }
