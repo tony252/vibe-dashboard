@@ -191331,6 +191331,246 @@
           "final_score": 103
         }
       ]
+    },
+    "高欣资金净流入": {
+      "time": "09:04",
+      "picks": [
+        {
+          "code": "600519",
+          "name": "贵州茅台",
+          "net_amount_5d": 85659.0,
+          "net_ratio_avg": 2.88,
+          "positive_days": 4,
+          "change_pct": -1.85,
+          "price": 1330.75,
+          "score": 62.28
+        },
+        {
+          "code": "601318",
+          "name": "中国平安",
+          "net_amount_5d": 62982.0,
+          "net_ratio_avg": 3.18,
+          "positive_days": 4,
+          "change_pct": -0.57,
+          "price": 52.31,
+          "score": 62.08
+        },
+        {
+          "code": "601166",
+          "name": "兴业银行",
+          "net_amount_5d": 26324.0,
+          "net_ratio_avg": 1.61,
+          "positive_days": 3,
+          "change_pct": 0.0,
+          "price": 19.1,
+          "score": 37.03
+        },
+        {
+          "code": "601138",
+          "name": "工业富联",
+          "net_amount_5d": -2314.0,
+          "net_ratio_avg": -2.42,
+          "positive_days": 2,
+          "change_pct": 5.92,
+          "price": 48.64,
+          "score": 35.93
+        },
+        {
+          "code": "600809",
+          "name": "山西汾酒",
+          "net_amount_5d": -2499.0,
+          "net_ratio_avg": -0.46,
+          "positive_days": 3,
+          "change_pct": -1.52,
+          "price": 111.6,
+          "score": 35.46
+        },
+        {
+          "code": "600406",
+          "name": "国电南瑞",
+          "net_amount_5d": 17330.0,
+          "net_ratio_avg": 1.73,
+          "positive_days": 3,
+          "change_pct": -0.6,
+          "price": 23.34,
+          "score": 30.08
+        },
+        {
+          "code": "601012",
+          "name": "隆基绿能",
+          "net_amount_5d": 15810.0,
+          "net_ratio_avg": 2.12,
+          "positive_days": 3,
+          "change_pct": -1.57,
+          "price": 11.27,
+          "score": 29.39
+        },
+        {
+          "code": "600436",
+          "name": "片仔癀",
+          "net_amount_5d": -2696.0,
+          "net_ratio_avg": -1.22,
+          "positive_days": 2,
+          "change_pct": -0.64,
+          "price": 127.34,
+          "score": 28.62
+        },
+        {
+          "code": "600918",
+          "name": "中泰证券",
+          "net_amount_5d": -2380.0,
+          "net_ratio_avg": -3.69,
+          "positive_days": 1,
+          "change_pct": -0.37,
+          "price": 5.37,
+          "score": 26.07
+        },
+        {
+          "code": "600585",
+          "name": "海螺水泥",
+          "net_amount_5d": 1894.0,
+          "net_ratio_avg": 1.24,
+          "positive_days": 3,
+          "change_pct": -2.87,
+          "price": 17.95,
+          "score": 18.12
+        }
+      ]
+    },
+    "财报+技术双滤排名": {
+      "time": "09:09",
+      "picks": [
+        {
+          "code": "600643",
+          "name": "爱建集团",
+          "price": 0,
+          "change": 0,
+          "score": 100,
+          "level": "连续2季双增长",
+          "consec": 2,
+          "industry": "多元金融",
+          "roe": 3.7,
+          "gross": 24.853939752,
+          "eps": 0.232
+        },
+        {
+          "code": "300860",
+          "name": "锋尚文化",
+          "price": 0,
+          "change": 0,
+          "score": 100,
+          "level": "连续2季双增长",
+          "consec": 2,
+          "industry": "专业服务",
+          "roe": 0.23,
+          "gross": 18.2026153399,
+          "eps": 0.0371
+        },
+        {
+          "code": "605577",
+          "name": "龙版传媒",
+          "price": 0,
+          "change": 0,
+          "score": 100,
+          "level": "连续2季双增长",
+          "consec": 2,
+          "industry": "出版",
+          "roe": 6.63,
+          "gross": 44.5975066871,
+          "eps": 0.5972
+        },
+        {
+          "code": "600490",
+          "name": "鹏欣资源",
+          "price": 0,
+          "change": 0,
+          "score": 100,
+          "level": "连续2季双增长",
+          "consec": 2,
+          "industry": "工业金属",
+          "roe": 12.1,
+          "gross": 28.2178534653,
+          "eps": 0.3643
+        },
+        {
+          "code": "603230",
+          "name": "内蒙新华",
+          "price": 0,
+          "change": 0,
+          "score": 98.8,
+          "level": "连续2季双增长",
+          "consec": 2,
+          "industry": "出版",
+          "roe": 2.27,
+          "gross": 37.5456292806,
+          "eps": 0.18
+        },
+        {
+          "code": "603099",
+          "name": "长白山",
+          "price": 0,
+          "change": 0,
+          "score": 96.1,
+          "level": "连续2季双增长",
+          "consec": 2,
+          "industry": "旅游及景区",
+          "roe": 9.04,
+          "gross": 41.1775147225,
+          "eps": 0.51
+        },
+        {
+          "code": "300424",
+          "name": "航新科技",
+          "price": 0,
+          "change": 0,
+          "score": 96.1,
+          "level": "连续2季双增长",
+          "consec": 2,
+          "industry": "航空装备Ⅱ",
+          "roe": -1.06,
+          "gross": 21.2243506,
+          "eps": -0.0319
+        },
+        {
+          "code": "300291",
+          "name": "百纳千成",
+          "price": 0,
+          "change": 0,
+          "score": 93.9,
+          "level": "连续2季双增长",
+          "consec": 2,
+          "industry": "影视院线",
+          "roe": -0.25,
+          "gross": 15.9894494117,
+          "eps": -0.0053
+        },
+        {
+          "code": "603156",
+          "name": "养元饮品",
+          "price": 0,
+          "change": 0,
+          "score": 93.7,
+          "level": "连续2季双增长",
+          "consec": 2,
+          "industry": "饮料乳品",
+          "roe": 12.76,
+          "gross": 41.2323510158,
+          "eps": 0.8971
+        },
+        {
+          "code": "600809",
+          "name": "山西汾酒",
+          "price": 0,
+          "change": 0,
+          "score": 92.7,
+          "level": "连续2季双增长",
+          "consec": 2,
+          "industry": "白酒Ⅱ",
+          "roe": 20.26,
+          "gross": 74.0138985827,
+          "eps": 6.83
+        }
+      ]
     }
   }
 }
