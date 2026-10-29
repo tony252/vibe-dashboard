@@ -1,12 +1,88 @@
 {
   "date": "2026-10-28",
-  "updated_at": "2026-10-28 20:03:13",
+  "updated_at": "2026-10-29 12:25:12",
   "stats": {
-    "processed": 21,
+    "processed": 30,
     "alerts": 0,
-    "filtered": 15
+    "filtered": 20
   },
   "events": [
+    {
+      "time": "2026-10-29 11:50",
+      "type": "archive",
+      "title": "20%涨停！突然，逆市拉升！热门赛道，传来重磅消息",
+      "content": "机器人概念股反复活跃！ 今日（10月29日），A股部分机器人概念股逆市上涨。盘中，邵阳液压（301079）直线拉升封住20%涨停，上海沪工、航天晨光、山东矿机10%涨停，万里扬...",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-29/doc-iniwwiew6034391.shtml",
+      "stocks": [
+        {
+          "name": "万里扬",
+          "code": "002434",
+          "match_reason": "直接提及[万里扬]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-28 17:43",
+      "type": "archive",
+      "title": "【数据看盘】六家机构激烈博弈世纪恒通，多路资金联手抢筹万向钱潮",
+      "content": "①物理AI概念股世纪恒通盘中一度触及20CM涨停，随后涨幅收窄，获两家机构买入1.24亿，同时遭四家机构卖出7178万。\n②人形机器人万向钱潮走出4天3板，获国泰海通证券武汉紫阳东路营业部买入1.19亿，国泰海通证券上海新闸路营业部买入3995万，同时深股通买入3092万。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2518045",
+      "stocks": [
+        {
+          "name": "世纪恒通",
+          "code": "301428",
+          "match_reason": "直接提及[世纪恒通]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-28 17:31",
+      "type": "archive",
+      "title": "【焦点复盘】沪指、创业板指放量收复5日线，AI制药概念卷土重来，机器人概念午后现批量炸板",
+      "content": "①连板晋级率降至25%，高位股分化依旧，百洋股份等多只“羊字辈”个股涨停，华瓷股份遭遇连续3日跌停。 ②今日沪指、创业板指双双放量向上收复5日均线，且日线MACD绿柱持续收窄，短线即使遇阻回落，向下空间也相对有限。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2517952",
+      "stocks": [
+        {
+          "name": "百洋股份",
+          "code": "002696",
+          "match_reason": "直接提及[百洋股份]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-28 17:06",
+      "type": "archive",
+      "title": "茅台、药明康德重回公募十大重仓！公募重仓格局生变",
+      "content": "①中际旭创稳居公募头号重仓股，与宁德时代终结连续减持，但终结减持的是ETF，主动基金还在卖；\n②贵州茅台、药明康德“重回”公募十大重仓，前者是被动标配，后者是主动看多；\n③主动基金AI算力产业链“换马”，增持医药、有色板块。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2517921",
+      "stocks": [
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "match_reason": "直接提及[贵州茅台]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
     {
       "time": "2026-10-28 17:04",
       "type": "archive",
@@ -57,6 +133,25 @@
           "name": "中国太保",
           "code": "601601",
           "match_reason": "直接提及[中国太保]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-28 16:48",
+      "type": "archive",
+      "title": "【每日收评】创业板指放量涨超3%，机器人概念延续强势，算力硬件股集体反弹",
+      "content": "①今日市场全天震荡反弹，三大指数集体收红，创业板指涨超3%，全市场超4100股上涨，两市成交额提升至1.63万亿；\n②盘面上，人形机器人概念股再度爆发，襄阳轴承等10余股涨停，算力硬件与半导体芯片同样展开反弹。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2517912",
+      "stocks": [
+        {
+          "name": "襄阳轴承",
+          "code": "000678",
+          "match_reason": "直接提及[襄阳轴承]（选股推荐）"
         }
       ],
       "verification": {
@@ -370,7 +465,10 @@
     "605488": "2026-10-28 17:06",
     "688836": "2026-10-28 17:06",
     "600143": "2026-10-28 17:06",
-    "000678": "2026-10-28 20:06"
+    "000678": "2026-10-28 20:06",
+    "002434": "2026-10-29 12:28",
+    "301428": "2026-10-29 12:28",
+    "002696": "2026-10-29 12:28"
   },
   "watchlist": [
     {
@@ -379,7 +477,17 @@
       "keywords": "直接提及[中国太保]（选股推荐）",
       "reason": "新闻提及 | 3次",
       "source": "event",
-      "selected_at": "2026-10-28 20:06",
+      "selected_at": "2026-10-29 12:28",
+      "first_seen": "2026-10-28 17:06",
+      "is_new": false
+    },
+    {
+      "name": "贵州茅台",
+      "code": "600519",
+      "keywords": "直接提及[贵州茅台]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-10-29 12:28",
       "first_seen": "2026-10-28 17:06",
       "is_new": false
     },
@@ -389,8 +497,18 @@
       "keywords": "直接提及[中国平安]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-28 20:06",
+      "selected_at": "2026-10-29 12:28",
       "first_seen": "2026-10-28 17:06",
+      "is_new": false
+    },
+    {
+      "name": "襄阳轴承",
+      "code": "000678",
+      "keywords": "直接提及[襄阳轴承]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-10-29 12:28",
+      "first_seen": "2026-10-28 20:06",
       "is_new": false
     },
     {
@@ -399,18 +517,38 @@
       "keywords": "直接提及[中信建投]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-28 20:06",
+      "selected_at": "2026-10-29 12:28",
       "first_seen": "2026-10-28 17:06",
       "is_new": false
     },
     {
-      "name": "襄阳轴承",
-      "code": "000678",
-      "keywords": "直接提及[襄阳轴承]（选股推荐）",
+      "name": "万里扬",
+      "code": "002434",
+      "keywords": "直接提及[万里扬]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-28 20:06",
-      "first_seen": "2026-10-28 20:06",
+      "selected_at": "2026-10-29 12:28",
+      "first_seen": "2026-10-29 12:28",
+      "is_new": true
+    },
+    {
+      "name": "世纪恒通",
+      "code": "301428",
+      "keywords": "直接提及[世纪恒通]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-29 12:28",
+      "first_seen": "2026-10-29 12:28",
+      "is_new": true
+    },
+    {
+      "name": "百洋股份",
+      "code": "002696",
+      "keywords": "直接提及[百洋股份]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-29 12:28",
+      "first_seen": "2026-10-29 12:28",
       "is_new": true
     },
     {
@@ -419,7 +557,7 @@
       "keywords": "直接提及[五粮液]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-28 20:06",
+      "selected_at": "2026-10-29 12:28",
       "first_seen": "2026-10-28 17:06",
       "is_new": false
     },
@@ -429,7 +567,7 @@
       "keywords": "直接提及[华泰证券]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-28 20:06",
+      "selected_at": "2026-10-29 12:28",
       "first_seen": "2026-10-28 17:06",
       "is_new": false
     },
@@ -439,7 +577,7 @@
       "keywords": "直接提及[大洋电机]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-28 20:06",
+      "selected_at": "2026-10-29 12:28",
       "first_seen": "2026-10-28 17:06",
       "is_new": false
     },
@@ -449,7 +587,7 @@
       "keywords": "直接提及[慈文传媒]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-28 20:06",
+      "selected_at": "2026-10-29 12:28",
       "first_seen": "2026-10-28 17:06",
       "is_new": false
     },
@@ -459,7 +597,7 @@
       "keywords": "直接提及[华瓷股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-28 20:06",
+      "selected_at": "2026-10-29 12:28",
       "first_seen": "2026-10-28 17:06",
       "is_new": false
     },
@@ -469,7 +607,7 @@
       "keywords": "直接提及[海洋王]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-28 20:06",
+      "selected_at": "2026-10-29 12:28",
       "first_seen": "2026-10-28 17:06",
       "is_new": false
     },
@@ -479,47 +617,7 @@
       "keywords": "直接提及[工商银行]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-28 20:06",
-      "first_seen": "2026-10-28 17:06",
-      "is_new": false
-    },
-    {
-      "name": "贵州茅台",
-      "code": "600519",
-      "keywords": "直接提及[贵州茅台]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-28 20:06",
-      "first_seen": "2026-10-28 17:06",
-      "is_new": false
-    },
-    {
-      "name": "上海九百",
-      "code": "600838",
-      "keywords": "直接提及[上海九百]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-28 20:06",
-      "first_seen": "2026-10-28 17:06",
-      "is_new": false
-    },
-    {
-      "name": "福莱新材",
-      "code": "605488",
-      "keywords": "直接提及[福莱新材]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-28 20:06",
-      "first_seen": "2026-10-28 17:06",
-      "is_new": false
-    },
-    {
-      "name": "宇树科技",
-      "code": "688836",
-      "keywords": "直接提及[宇树科技]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-28 20:06",
+      "selected_at": "2026-10-29 12:28",
       "first_seen": "2026-10-28 17:06",
       "is_new": false
     }
