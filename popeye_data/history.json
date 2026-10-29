@@ -1817,5 +1817,112 @@
       }
     ],
     "total_cost": 94847.0
+  },
+  "2026-10-29": {
+    "date": "2026-10-29",
+    "capital": 100000,
+    "positions": [
+      {
+        "code": "300952",
+        "name": "恒辉安防",
+        "buy_price": 19.25,
+        "buy_date": "2026-10-29",
+        "shares": 500,
+        "cost": 9625.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.827
+      },
+      {
+        "code": "002361",
+        "name": "神剑股份",
+        "buy_price": 9.8,
+        "buy_date": "2026-10-29",
+        "shares": 1000,
+        "cost": 9800.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.832
+      },
+      {
+        "code": "300006",
+        "name": "莱美药业",
+        "buy_price": 10.49,
+        "buy_date": "2026-10-29",
+        "shares": 900,
+        "cost": 9441.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.746
+      },
+      {
+        "code": "688613",
+        "name": "奥精医疗",
+        "buy_price": 18.31,
+        "buy_date": "2026-10-29",
+        "shares": 500,
+        "cost": 9155.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.594
+      },
+      {
+        "code": "688479",
+        "name": "友车科技",
+        "buy_price": 29.9,
+        "buy_date": "2026-10-29",
+        "shares": 300,
+        "cost": 8970.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.505
+      },
+      {
+        "code": "601188",
+        "name": "龙江交通",
+        "buy_price": 3.5,
+        "buy_date": "2026-10-29",
+        "shares": 2800,
+        "cost": 9800.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.063
+      },
+      {
+        "code": "600261",
+        "name": "阳光照明",
+        "buy_price": 3.72,
+        "buy_date": "2026-10-29",
+        "shares": 2600,
+        "cost": 9672.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.059
+      },
+      {
+        "code": "603703",
+        "name": "盛洋科技",
+        "buy_price": 10.86,
+        "buy_date": "2026-10-29",
+        "shares": 900,
+        "cost": 9774.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.03
+      },
+      {
+        "code": "002679",
+        "name": "福建金森",
+        "buy_price": 10.65,
+        "buy_date": "2026-10-29",
+        "shares": 900,
+        "cost": 9585.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.021
+      },
+      {
+        "code": "603536",
+        "name": "惠发食品",
+        "buy_price": 10.44,
+        "buy_date": "2026-10-29",
+        "shares": 900,
+        "cost": 9396.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.011
+      }
+    ],
+    "total_cost": 95218.0
   }
 }
