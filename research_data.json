@@ -1,12 +1,55 @@
 {
   "date": "2026-10-29",
-  "updated_at": "2026-10-29 16:33:19",
+  "updated_at": "2026-10-29 20:03:17",
   "stats": {
-    "processed": 16,
+    "processed": 27,
     "alerts": 0,
-    "filtered": 16
+    "filtered": 19
   },
   "events": [
+    {
+      "time": "2026-10-29 19:45",
+      "type": "archive",
+      "title": "投资承压，谁吞掉了中国太保两成净利润？",
+      "content": " 10月28日，中国太保发布2026年第三季度报告。数据显示，前三季度，公司实现保险服务收入2188.51亿元，同比增长0.9%，实现净利润364.03亿元，同比下降20.3%。",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwwyas2784215.shtml",
+      "stocks": [
+        {
+          "name": "中国太保",
+          "code": "601601",
+          "match_reason": "直接提及[中国太保]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-29 19:26",
+      "type": "archive",
+      "title": "白酒龙头绩后大涨！吃喝板块午后走强，食品饮料ETF华宝（515710）标的指数逆市涨近1%！",
+      "content": "吃喝板块今日（10月29日）逆市走高。截至收盘，一鸣食品涨停，天味食品涨超7%，山西汾酒涨5%，贵州茅台、泸州老窖、今世缘等亦涨幅居前。",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/money/fund/etf/2026-10-29/doc-iniwwyat8766919.shtml",
+      "stocks": [
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "match_reason": "直接提及[贵州茅台]（选股推荐）"
+        },
+        {
+          "name": "山西汾酒",
+          "code": "600809",
+          "match_reason": "直接提及[山西汾酒]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
     {
       "time": "2026-10-29 16:25",
       "type": "archive",
@@ -57,6 +100,25 @@
           "name": "东方海洋",
           "code": "002086",
           "match_reason": "直接提及[东方海洋]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-29 12:06",
+      "type": "archive",
+      "title": "【午报】创业板指低开低走跌超3%，银行股逆势走强，四大行总市值突破10万亿",
+      "content": "①今日早盘低开低走，创业板指跌超3%，全市场超4700股飘绿，银行股逆势走强，四大行总市值突破10万亿，算力硬件方向领跌，天孚通信逼近跌停；\n②个股层面，今日早盘涨停数量为35家，炸板率41%，连板股数量为10家，青岛食品4连板。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2518878",
+      "stocks": [
+        {
+          "name": "青岛食品",
+          "code": "001219",
+          "match_reason": "直接提及[青岛食品]（选股推荐）"
         }
       ],
       "verification": {
@@ -356,7 +418,7 @@
       "现金管理"
     ]
   },
-  "mode": "report",
+  "mode": "scan",
   "week": 44,
   "stock_meta": {
     "000858": "2026-10-29 16:33",
@@ -373,7 +435,9 @@
     "001216": "2026-10-29 16:33",
     "600519": "2026-10-29 16:33",
     "601688": "2026-10-29 16:33",
-    "001219": "2026-10-29 16:33"
+    "001219": "2026-10-29 16:33",
+    "601601": "2026-10-29 20:06",
+    "600809": "2026-10-29 20:06"
   },
   "watchlist": [
     {
@@ -382,9 +446,19 @@
       "keywords": "直接提及[五粮液]（选股推荐）",
       "reason": "新闻提及 | 3次",
       "source": "event",
-      "selected_at": "2026-10-29 16:33",
+      "selected_at": "2026-10-29 20:06",
       "first_seen": "2026-10-29 16:33",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "name": "贵州茅台",
+      "code": "600519",
+      "keywords": "直接提及[贵州茅台]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-10-29 20:06",
+      "first_seen": "2026-10-29 16:33",
+      "is_new": false
     },
     {
       "name": "中信建投",
@@ -392,9 +466,9 @@
       "keywords": "直接提及[中信建投]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-29 16:33",
+      "selected_at": "2026-10-29 20:06",
       "first_seen": "2026-10-29 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "襄阳轴承",
@@ -402,8 +476,28 @@
       "keywords": "直接提及[襄阳轴承]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-29 16:33",
+      "selected_at": "2026-10-29 20:06",
       "first_seen": "2026-10-29 16:33",
+      "is_new": false
+    },
+    {
+      "name": "中国太保",
+      "code": "601601",
+      "keywords": "直接提及[中国太保]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-29 20:06",
+      "first_seen": "2026-10-29 20:06",
+      "is_new": true
+    },
+    {
+      "name": "山西汾酒",
+      "code": "600809",
+      "keywords": "直接提及[山西汾酒]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-29 20:06",
+      "first_seen": "2026-10-29 20:06",
       "is_new": true
     },
     {
@@ -412,9 +506,9 @@
       "keywords": "直接提及[全聚德]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-29 16:33",
+      "selected_at": "2026-10-29 20:06",
       "first_seen": "2026-10-29 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "中国平安",
@@ -422,9 +516,9 @@
       "keywords": "直接提及[中国平安]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-29 16:33",
+      "selected_at": "2026-10-29 20:06",
       "first_seen": "2026-10-29 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "东方海洋",
@@ -432,9 +526,19 @@
       "keywords": "直接提及[东方海洋]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-29 16:33",
+      "selected_at": "2026-10-29 20:06",
       "first_seen": "2026-10-29 16:33",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "name": "青岛食品",
+      "code": "001219",
+      "keywords": "直接提及[青岛食品]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-29 20:06",
+      "first_seen": "2026-10-29 16:33",
+      "is_new": false
     },
     {
       "name": "福莱新材",
@@ -442,9 +546,9 @@
       "keywords": "直接提及[福莱新材]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-29 16:33",
+      "selected_at": "2026-10-29 20:06",
       "first_seen": "2026-10-29 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "中泰证券",
@@ -452,9 +556,9 @@
       "keywords": "直接提及[中泰证券]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-29 16:33",
+      "selected_at": "2026-10-29 20:06",
       "first_seen": "2026-10-29 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "农业银行",
@@ -462,9 +566,9 @@
       "keywords": "直接提及[农业银行]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-29 16:33",
+      "selected_at": "2026-10-29 20:06",
       "first_seen": "2026-10-29 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "世纪恒通",
@@ -472,9 +576,9 @@
       "keywords": "直接提及[世纪恒通]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-29 16:33",
+      "selected_at": "2026-10-29 20:06",
       "first_seen": "2026-10-29 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "百洋股份",
@@ -482,49 +586,9 @@
       "keywords": "直接提及[百洋股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-29 16:33",
+      "selected_at": "2026-10-29 20:06",
       "first_seen": "2026-10-29 16:33",
-      "is_new": true
-    },
-    {
-      "name": "华瓷股份",
-      "code": "001216",
-      "keywords": "直接提及[华瓷股份]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-29 16:33",
-      "first_seen": "2026-10-29 16:33",
-      "is_new": true
-    },
-    {
-      "name": "贵州茅台",
-      "code": "600519",
-      "keywords": "直接提及[贵州茅台]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-29 16:33",
-      "first_seen": "2026-10-29 16:33",
-      "is_new": true
-    },
-    {
-      "name": "华泰证券",
-      "code": "601688",
-      "keywords": "直接提及[华泰证券]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-29 16:33",
-      "first_seen": "2026-10-29 16:33",
-      "is_new": true
-    },
-    {
-      "name": "青岛食品",
-      "code": "001219",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.98\">涨幅9.98%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率7.77%</span>",
-      "source": "杰克",
-      "selected_at": "2026-10-29 16:33",
-      "first_seen": "2026-10-29 16:33",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
