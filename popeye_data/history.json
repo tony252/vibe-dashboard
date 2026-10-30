@@ -1924,5 +1924,112 @@
       }
     ],
     "total_cost": 96040.0
+  },
+  "2026-10-30": {
+    "date": "2026-10-30",
+    "capital": 100000,
+    "positions": [
+      {
+        "code": "300030",
+        "name": "阳普医疗",
+        "buy_price": 7.31,
+        "buy_date": "2026-10-30",
+        "shares": 1300,
+        "cost": 9503.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 20.033
+      },
+      {
+        "code": "300149",
+        "name": "睿智医药",
+        "buy_price": 8.87,
+        "buy_date": "2026-10-30",
+        "shares": 1100,
+        "cost": 9757.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 11.014
+      },
+      {
+        "code": "003032",
+        "name": "传智教育",
+        "buy_price": 9.96,
+        "buy_date": "2026-10-30",
+        "shares": 1000,
+        "cost": 9960.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.055
+      },
+      {
+        "code": "601083",
+        "name": "锦江航运",
+        "buy_price": 13.93,
+        "buy_date": "2026-10-30",
+        "shares": 700,
+        "cost": 9751.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.032
+      },
+      {
+        "code": "600215",
+        "name": "派斯林",
+        "buy_price": 6.37,
+        "buy_date": "2026-10-30",
+        "shares": 1500,
+        "cost": 9555.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.017
+      },
+      {
+        "code": "603002",
+        "name": "宏昌电子",
+        "buy_price": 14.1,
+        "buy_date": "2026-10-30",
+        "shares": 700,
+        "cost": 9870.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 9.984
+      },
+      {
+        "code": "000676",
+        "name": "智度股份",
+        "buy_price": 6.61,
+        "buy_date": "2026-10-30",
+        "shares": 1500,
+        "cost": 9915.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 9.983
+      },
+      {
+        "code": "603089",
+        "name": "正裕工业",
+        "buy_price": 10.12,
+        "buy_date": "2026-10-30",
+        "shares": 900,
+        "cost": 9108.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 6.191
+      },
+      {
+        "code": "300829",
+        "name": "金丹科技",
+        "buy_price": 25.03,
+        "buy_date": "2026-10-30",
+        "shares": 300,
+        "cost": 7509.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 17.072
+      },
+      {
+        "code": "300739",
+        "name": "明阳电路",
+        "buy_price": 22.87,
+        "buy_date": "2026-10-30",
+        "shares": 400,
+        "cost": 9148.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 14.867
+      }
+    ],
+    "total_cost": 94076.0
   }
 }
