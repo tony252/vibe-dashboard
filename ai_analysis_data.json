@@ -151,24 +151,10 @@
         "net_inflow_yi": 0
       },
       {
-        "name": "石油炼焦加工业",
-        "code": "ZC25",
-        "pct": 1.04,
-        "amount_yi": 37.1,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "食品制造业",
-        "code": "ZC14",
-        "pct": 0.59,
-        "amount_yi": 165.7,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "农副食品加工业",
-        "code": "ZC13",
-        "pct": 0.1,
-        "amount_yi": 93.6,
+        "name": "其他制造业",
+        "code": "ZC41",
+        "pct": 0.78,
+        "amount_yi": 45.6,
         "net_inflow_yi": 0
       },
       {
@@ -186,13 +172,6 @@
         "net_inflow_yi": 0
       },
       {
-        "name": "黑色金属冶炼业",
-        "code": "ZC31",
-        "pct": -0.59,
-        "amount_yi": 35.3,
-        "net_inflow_yi": 0
-      },
-      {
         "name": "纺织服装服饰业",
         "code": "ZC18",
         "pct": -0.61,
@@ -207,10 +186,10 @@
         "net_inflow_yi": 0
       },
       {
-        "name": "家具制造业",
-        "code": "ZC21",
-        "pct": -1.34,
-        "amount_yi": 18.6,
+        "name": "黑色金属冶炼业",
+        "code": "ZC31",
+        "pct": -1.31,
+        "amount_yi": 51.7,
         "net_inflow_yi": 0
       },
       {
@@ -225,6 +204,27 @@
         "code": "ZC28",
         "pct": -1.49,
         "amount_yi": 65.3,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "农副食品加工业",
+        "code": "ZC13",
+        "pct": -1.55,
+        "amount_yi": 53.5,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "有色金属冶炼业",
+        "code": "ZC32",
+        "pct": -1.7,
+        "amount_yi": 456.3,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "金属制品修理业",
+        "code": "ZC43",
+        "pct": -1.77,
+        "amount_yi": 479.2,
         "net_inflow_yi": 0
       }
     ],
@@ -544,5 +544,5 @@
       }
     ]
   },
-  "timestamp": "2026-10-30T23:16:22"
+  "timestamp": "2026-10-30T17:23:53"
 }
