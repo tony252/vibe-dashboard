@@ -1,44 +1,31 @@
 {
- "date": "20261029",
+ "date": "20261030",
  "picks": [
   {
    "code": "sh600094",
    "name": "大名城",
-   "n": 3,
-   "close": 4.44,
+   "n": 4,
+   "close": 4.5,
    "zt_price": 4.83,
-   "ma10": 4.31,
-   "ma25": 4.22,
-   "turnover": 2.83,
-   "turnover_ratio": 0.64,
-   "volume": 60265600,
-   "ma20vol": 42408637
+   "ma10": 4.36,
+   "ma25": 4.24,
+   "turnover": 2.06,
+   "turnover_ratio": 0.47,
+   "volume": 43869400,
+   "ma20vol": 43096894
   },
   {
-   "code": "sh603138",
-   "name": "海量数据",
-   "n": 3,
-   "close": 15.42,
-   "zt_price": 17.0,
-   "ma10": 15.36,
-   "ma25": 14.83,
-   "turnover": 11.19,
-   "turnover_ratio": 0.74,
-   "volume": 32278176,
-   "ma20vol": 24704114
-  },
-  {
-   "code": "sz002403",
-   "name": "爱仕达",
-   "n": 7,
-   "close": 10.84,
-   "zt_price": 11.15,
-   "ma10": 10.79,
-   "ma25": 10.39,
-   "turnover": 7.15,
-   "turnover_ratio": 0.73,
-   "volume": 21246900,
-   "ma20vol": 22157351
+   "code": "sh603683",
+   "name": "晶华新材",
+   "n": 4,
+   "close": 16.45,
+   "zt_price": 17.16,
+   "ma10": 15.92,
+   "ma25": 15.42,
+   "turnover": 11.82,
+   "turnover_ratio": 0.71,
+   "volume": 34095648,
+   "ma20vol": 25884488
   }
  ]
 }
