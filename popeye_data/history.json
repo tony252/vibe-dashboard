@@ -1930,24 +1930,14 @@
     "capital": 100000,
     "positions": [
       {
-        "code": "300030",
-        "name": "阳普医疗",
-        "buy_price": 7.31,
-        "buy_date": "2026-10-30",
-        "shares": 1300,
-        "cost": 9503.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 20.033
-      },
-      {
         "code": "300149",
         "name": "睿智医药",
-        "buy_price": 8.87,
+        "buy_price": 9.16,
         "buy_date": "2026-10-30",
-        "shares": 1100,
-        "cost": 9757.0,
+        "shares": 1000,
+        "cost": 9160.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 11.014
+        "change_at_buy": 14.643
       },
       {
         "code": "003032",
@@ -1970,6 +1960,16 @@
         "change_at_buy": 10.032
       },
       {
+        "code": "600664",
+        "name": "哈药股份",
+        "buy_price": 5.82,
+        "buy_date": "2026-10-30",
+        "shares": 1700,
+        "cost": 9894.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.019
+      },
+      {
         "code": "600215",
         "name": "派斯林",
         "buy_price": 6.37,
@@ -1978,6 +1978,16 @@
         "cost": 9555.0,
         "reason": "黄金区间3-6%",
         "change_at_buy": 10.017
+      },
+      {
+        "code": "600258",
+        "name": "首旅酒店",
+        "buy_price": 12.43,
+        "buy_date": "2026-10-30",
+        "shares": 800,
+        "cost": 9944.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.0
       },
       {
         "code": "603002",
@@ -2000,36 +2010,26 @@
         "change_at_buy": 9.983
       },
       {
-        "code": "603089",
-        "name": "正裕工业",
-        "buy_price": 10.12,
+        "code": "300121",
+        "name": "阳谷华泰",
+        "buy_price": 10.14,
         "buy_date": "2026-10-30",
         "shares": 900,
-        "cost": 9108.0,
+        "cost": 9126.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 6.191
-      },
-      {
-        "code": "300829",
-        "name": "金丹科技",
-        "buy_price": 25.03,
-        "buy_date": "2026-10-30",
-        "shares": 300,
-        "cost": 7509.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 17.072
+        "change_at_buy": 8.333
       },
       {
         "code": "300739",
         "name": "明阳电路",
-        "buy_price": 22.87,
+        "buy_price": 23.89,
         "buy_date": "2026-10-30",
         "shares": 400,
-        "cost": 9148.0,
+        "cost": 9556.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 14.867
+        "change_at_buy": 19.99
       }
     ],
-    "total_cost": 94076.0
+    "total_cost": 96731.0
   }
 }
