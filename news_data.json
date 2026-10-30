@@ -1,50 +1,543 @@
 {
-  "update_time": "2026-10-30 17:18:42",
-  "total": 408,
+  "update_time": "2026-10-30 17:33:54",
+  "total": 413,
   "source_stats": {
+    "新浪财经": 50,
     "雪球": 10,
-    "新浪财经": 45,
     "网易财经": 223,
     "同花顺": 100,
     "财联社": 30
   },
-  "hot_count": 12,
-  "important_count": 69,
+  "hot_count": 9,
+  "important_count": 63,
   "items": [
     {
-      "id": "xq4906523",
+      "id": "sinacomos:niwzazq5448417",
+      "time_str": "",
+      "time": 1793352707000,
+      "title": "工商银行：三季度末不良贷款率1.29%，下降0.02个百分点",
+      "text": "10月30日金融一线消息，中国工商银行股份有限公司发布2026年第三季度报告，该行三季度末，按照贷款质量五级分类，不良贷款余额4167.76亿元，比上年末增加177.63亿元...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwzazq5448417.shtml",
+      "sub_source": "金融一线",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwzazq5448752",
+      "time_str": "",
+      "time": 1793352707000,
+      "title": "农行张奇渊：有信心保持向好势头 以稳健的盈利增长回馈投资者期待",
+      "text": "10月30日金融一线消息， 农业银行今日召开2026年第三季度业绩说明会。财务会计部副总经理张奇渊表示，前三季度，农行继续坚持高质量发展...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwzazq5448752.shtml",
+      "sub_source": "金融一线",
+      "importance": ""
+    },
+    {
+      "id": "xq4906538",
+      "time_str": "",
+      "time": 1793352703000,
+      "title": "卡塔尔会议聚焦地区发展与双边关系。",
+      "text": "卡塔尔会议聚焦地区发展与双边关系。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/414782572",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwzazv4584847",
+      "time_str": "",
+      "time": 1793352681000,
+      "title": "中国人保：前三季度归母净利润318.17亿元 同比减少32%",
+      "text": " 10月30日金融一线消息，中国人保公告，2026年前三季度取得营业总收入5119.95亿元，同比减少1.7%；归属于母公司股东的净利润318.17亿元，同比减少32%。",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/jryx/insurance/2026-10-30/doc-iniwzazv4584847.shtml",
+      "sub_source": "金融一线",
+      "importance": "hot"
+    },
+    {
+      "id": "xq4906536",
+      "time_str": "",
+      "time": 1793352652000,
+      "title": "【用友网络前三季度AI相关收入7.6亿元 同比增长275.4%】用友网络（600588.SH）10月30日发布2026年第三季度报告。报告期内，公司按照“客户成...",
+      "text": "【用友网络前三季度AI相关收入7.6亿元 同比增长275.4%】用友网络（600588.SH）10月30日发布2026年第三季度报告。报告期内，公司按照“客户成功、生态共荣、全球市场、AI 至上、产品第一、交付革新”的发展战略，加速推进企业AI布局与产品创新，积极拓展海内外市场并全方位推进降本增效，实现公司业务稳健发展。报告期内，公司实现营业收入575,555万元，同比增长3.1%。其中，云服务业务实现收入446,631万元，同比增长3.9%，订阅收入同比增长14.2%。公司AI相关合同签约金额15.4亿元，同比增长108.6%；实现AI相关收入7.6亿元，同比增长275.4%。海外业务收入32,962万元，同比增长60.7%，合同签约金额同比增长82.0%。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/414782336",
+      "importance": ""
+    },
+    {
+      "id": "xq4906537",
+      "time_str": "",
+      "time": 1793352636000,
+      "title": "币安日本表示，安全事件发生后所有客户资产均安全。",
+      "text": "币安日本表示，安全事件发生后所有客户资产均安全。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/414782338",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwzazv4584094",
+      "time_str": "",
+      "time": 1793352615000,
+      "title": "赚了143亿元却囤着284亿元存货 江波龙为何还要分红近10亿元",
+      "text": "存储芯片涨价，正在制造A股半导体行业最极端的利润增长，也在制造新的资金压力。 10月29日晚间，江波龙披露三季报。前三季度营业收入387.18亿元，同比增长131.37%...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/aigcy/2026-10-30/doc-iniwzazv4584094.shtml",
+      "sub_source": "新浪证券",
+      "importance": "important"
+    },
+    {
+      "id": "1633270261871",
+      "time_str": "2026-10-30 17:30:09",
+      "time": 1793352609000,
+      "title": "大商所将生猪、鸡蛋品种厂库出库费用调整为0元/吨",
+      "text": "大商所将生猪、鸡蛋品种厂库出库费用调整为0元/吨",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LAGMMF180519APGA.html",
+      "importance": ""
+    },
+    {
+      "id": "1635843437422",
+      "time_str": "2026-10-30 17:30:08",
+      "time": 1793352608000,
+      "title": "齐鲁银行大换班，“偏科”难题仍然待解丨正经深度",
+      "text": "齐鲁银行大换班，“偏科”难题仍然待解丨正经深度",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LAGLPMEB0519B5UO.html",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwzazs2213672",
+      "time_str": "",
+      "time": 1793352572000,
+      "title": "受中东战争推升成本冲击盈利 起亚股价大跌",
+      "text": "起亚公司股价跌至一年多新低。该公司警示，中东冲突带来的成本上涨正在侵蚀利润。 这家车企周五表示，冲突推高燃油、铝、铜等原材料成本...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwzazs2213672.shtml",
+      "sub_source": "环球市场播报",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwzazq5443883",
+      "time_str": "",
+      "time": 1793352559000,
+      "title": "富士康希望未来几年拿下全球AI服务器50%市场份额",
+      "text": "核心要点富士康有望在未来几年拿下全球 AI 服务器 50% 的市场份额。公司至少未来一年半的产能已全部被订单占满；预计三至五年内，AI 基础设施业务营收占比将超过 60%。",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwzazq5443883.shtml",
+      "sub_source": "环球市场播报",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwzazq5446417",
+      "time_str": "",
+      "time": 1793352544000,
+      "title": "今日特朗普：听取军方高层对伊朗军事行动方案的汇报，接下来将赴佛州举行竞选集会",
+      "text": "10月30日，美国总统特朗普过去24小时的活动主要围绕伊朗局势和中期选举展开。美军中东最高指挥官赴白宫汇报针对伊朗的军事行动方案...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwzazq5446417.shtml",
+      "sub_source": "环球市场播报",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwzazs2222353",
+      "time_str": "",
+      "time": 1793352539000,
+      "title": "法国经济第三季度意外萎缩 社会动荡等不利因素加剧",
+      "text": "法国经济第三季度意外萎缩，在借贷成本飙升、暴力抗议以及政治和预算不确定性等不利因素影响下，该国经济根基转弱。 法国统计机构Insee公布...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/world/2026-10-30/doc-iniwzazs2222353.shtml",
+      "sub_source": "环球市场播报",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwzazv4582780",
+      "time_str": "",
+      "time": 1793352489000,
+      "title": "建设银行副行长纪志宏：前三季度信贷业务呈现“量增、价稳、结构向新向优”特点",
+      "text": "10月30日金融一线消息，建设银行召开2026年第三季度业绩说明会。副行长、董事会秘书纪志宏指出，当前，我国社会融资结构正在发生深刻变化，直接融资占比不断上升...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwzazv4582780.shtml",
+      "sub_source": "金融一线",
+      "importance": ""
+    },
+    {
+      "id": "xq4906535",
+      "time_str": "",
+      "time": 1793352487000,
+      "title": "泡泡玛特10月30日回购价值4970万港元的股票。",
+      "text": "泡泡玛特10月30日回购价值4970万港元的股票。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/414781431",
+      "importance": "important"
+    },
+    {
+      "id": "sinacomos:niwzazq5445279",
+      "time_str": "",
+      "time": 1793352409000,
+      "title": "邮储银行：前三季度归母净利润800.56亿元，同比增长4.56%",
+      "text": "10月30日金融一线消息，邮储银行公告，2026年1-9月，该行实现营业收入2816.10亿元，同比增长6.24%；实现净利润802.08亿元，增长4.45%；归属于银行股东的净利润800.56亿元...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwzazq5445279.shtml",
+      "sub_source": "金融一线",
+      "importance": "hot"
+    },
+    {
+      "id": "1631847226293",
+      "time_str": "2026-10-30 17:26:16",
+      "time": 1793352376000,
+      "title": "知乎盐言故事Q3改编超2000部，知乎商业化该咋看？",
+      "text": "知乎盐言故事Q3改编超2000部，知乎商业化该咋看？",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LAGMF4BG0519A56K.html",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwzazv4580619",
+      "time_str": "",
+      "time": 1793352356000,
+      "title": "建设银行：三季度末良贷款率1.29%，较上年末下降0.02个百分点",
+      "text": "10月30日金融一线消息，建行发布2026年前三季度经营业绩（H股）。2026年9月末，该行不良贷款率1.29%，较上年末下降0.02个百分点；拨备覆盖率233.21%，较上年末上升0...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwzazv4580619.shtml",
+      "sub_source": "金融一线",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwzazq5444423",
+      "time_str": "",
+      "time": 1793352356000,
+      "title": "建行副行长纪志宏：将继续以“量、价、险、效、资本”的综合视角推动业务发展，有信心保持盈利稳健增长",
+      "text": "10月30日金融一线消息，建设银行召开2026年第三季度业绩说明会。副行长、董事会秘书纪志宏表示，建设银行牢固树立和践行正确经营观、业绩观和风险观...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwzazq5444423.shtml",
+      "sub_source": "金融一线",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwzazv4578547",
+      "time_str": "",
+      "time": 1793352325000,
+      "title": "建设银行：前三季度较好实现经营基础稳、发展质效优、指标韧性强的经营成果",
+      "text": "10月30日金融一线消息，建设银行召开2026年第三季度业绩说明会。副行长、董事会秘书纪志宏表示，建设银行坚持质量第一、效益优先，接续上半年良好发展态势...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwzazv4578547.shtml",
+      "sub_source": "金融一线",
+      "importance": ""
+    },
+    {
+      "id": "1639933627680",
+      "time_str": "2026-10-30 17:24:37",
+      "time": 1793352277000,
+      "title": "85岁“鞋王”汪海商界沉浮：从偷偷卖鞋起家，到家族内斗、儿媳接任董事长",
+      "text": "85岁“鞋王”汪海商界沉浮：从偷偷卖鞋起家，到家族内斗、儿媳接任董事长",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LAGMC46N0552RTNX.html",
+      "importance": ""
+    },
+    {
+      "id": "xq4906533",
+      "time_str": "",
+      "time": 1793352266000,
+      "title": "【五部门：加快数字化消费设施全覆盖 加强绿色消费设施建设改造】国家发展改革委等五部门印发《关于加强消费基础设施建设 促进消费投资良性互动的指导意见》。其中指出，...",
+      "text": "【五部门：加快数字化消费设施全覆盖 加强绿色消费设施建设改造】国家发展改革委等五部门印发《关于加强消费基础设施建设 促进消费投资良性互动的指导意见》。其中指出，加快数字化消费设施全覆盖。推进商品交易市场、商业街区、景区等消费场所5G、千兆光网、物联网、云计算深度覆盖，实现高速网络通达、业务智能感知、数据全域互通。支持建设智慧商圈、智慧市场、智慧店铺，推动消费终端智能化升级，普及智能收银、自助服务终端、智能电子价签等设施。鼓励建设区域性消费服务平台、农产品产销对接平台、线上线下融合消费平台，整合商品销售、服务预约、物流配送、促销活动、消费维权等功能。\n\n加强绿色消费设施建设改造。大力发展绿色市场、绿色街区、绿色商场、绿色酒店，推动各类消费场所开展节能降碳改造，推广使用节能空调、高效照明、节水器具、智能化节电控制系统、可再生能源利用设施等。鼓励建设垃圾分类回收点、可循环包装回收点、废旧物资回收驿站、专业化绿色化分拣中心、二手商品市场。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/414780525",
+      "importance": ""
+    },
+    {
+      "id": "xq4906534",
+      "time_str": "",
+      "time": 1793352261000,
+      "title": "【国家发展改革委等部门：鼓励建设区域性消费服务平台、农产品产销对接平台、线上线下融合消费平台】国家发展改革委等部门印发《关于加强消费基础设施建设 促进消费投资良...",
+      "text": "【国家发展改革委等部门：鼓励建设区域性消费服务平台、农产品产销对接平台、线上线下融合消费平台】国家发展改革委等部门印发《关于加强消费基础设施建设 促进消费投资良性互动的指导意见》。其中提到，加快数字化消费设施全覆盖。推进商品交易市场、商业街区、景区等消费场所5G、千兆光网、物联网、云计算深度覆盖，实现高速网络通达、业务智能感知、数据全域互通。支持建设智慧商圈、智慧市场、智慧店铺，推动消费终端智能化升级，普及智能收银、自助服务终端、智能电子价签等设施。鼓励建设区域性消费服务平台、农产品产销对接平台、线上线下融合消费平台，整合商品销售、服务预约、物流配送、促销活动、消费维权等功能。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/414780526",
+      "importance": ""
+    },
+    {
+      "id": "1635544893347",
+      "time_str": "2026-10-30 17:24:16",
+      "time": 1793352256000,
+      "title": "广州，真的绝地反击了",
+      "text": "广州，真的绝地反击了",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LAGLQVOG053990SN.html",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwzazv4579228",
+      "time_str": "",
+      "time": 1793352240000,
+      "title": "正帆科技OPEX业务占比升至六成 盈利改善仍待兑现",
+      "text": "出品：新浪财经上市公司研究院 作者：杳 正帆科技的业务结构调整正在持续推进。 2026年上半年，公司OPEX业务收入占比达到60%，较2024年提升29个百分点；同期新签订单32...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/observe/2026-10-30/doc-iniwzazv4579228.shtml",
+      "sub_source": "新浪证券",
+      "importance": ""
+    },
+    {
+      "id": "xq4906532",
+      "time_str": "",
+      "time": 1793352234000,
+      "title": "【五部门：加强停车设施建设】国家发展改革委等五部门印发《关于加强消费基础设施建设 促进消费投资良性互动的指导意见》。其中指出，加强停车设施建设。鼓励城市充分利用...",
+      "text": "【五部门：加强停车设施建设】国家发展改革委等五部门印发《关于加强消费基础设施建设 促进消费投资良性互动的指导意见》。其中指出，加强停车设施建设。鼓励城市充分利用闲置空间、存量厂房后院等资源，新建停车楼、公共停车场、停车泊位，加快推进公共停车设施补短板。支持配套不足的商业街区、商业综合体、景区、文旅消费集聚区等开展停车扩容改造，建设立体停车设施，打通出行消费堵点。加快推进停车设施智慧化改造，支持停车场搭建智慧管理平台，集成车牌识别、空余车位实时显示、预约停车等功能，配套建设智能停车引导屏、节能照明、应急广播、安防监控等设施，提升停车服务保障能力。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/414780459",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwzazt8128377",
+      "time_str": "",
+      "time": 1793352220000,
+      "title": "科瑞思上市三年净利缩水九成再启“蛇吞象”式并购 IPO募投项目延期、战略前瞻还是病急乱投医？",
+      "text": "出品：新浪财经上市公司研究院 作者：渚 10月25日晚间，科瑞思披露重大资产重组预案，拟通过发行股份及支付现金方式收购深圳市宏钢光电封装技术股份有限公司（以下简称“宏...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/observe/2026-10-30/doc-iniwzazt8128377.shtml",
+      "sub_source": "新浪证券",
+      "importance": ""
+    },
+    {
+      "id": "xq4906531",
+      "time_str": "",
+      "time": 1793352204000,
+      "title": "【国家发展改革委等部门：推动冷链设施向乡镇、重点村延伸 建设县域冷链集配中心、乡镇冷链服务站、村级冷藏点】国家发展改革委等部门印发《关于加强消费基础设施建设 促...",
+      "text": "【国家发展改革委等部门：推动冷链设施向乡镇、重点村延伸 建设县域冷链集配中心、乡镇冷链服务站、村级冷藏点】国家发展改革委等部门印发《关于加强消费基础设施建设 促进消费投资良性互动的指导意见》。其中提到，构建高效冷链物流体系。推进国家骨干冷链物流基地、区域冷链集散中心等骨干冷链物流设施建设，支持高标准冷藏库、冷冻库等新建和改扩建、老旧冷库更新改造。加强产地冷链设施建设，推动特色农产品主产区建设产地预冷、低温加工分拣、产地冷藏保鲜等设施，鼓励农业企业、家庭农场、农民合作社等建设小型冷藏库、移动冷库等设施。加快完善城市冷链共配网络，加强冷链配送中心、生鲜前置仓、社区冷链中转站等建设，支持商超、生鲜店等普及低温冷柜、冷链自提柜等设备。推动冷链设施向乡镇、重点村延伸，建设县域冷链集配中心、乡镇冷链服务站、村级冷藏点。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/414780326",
+      "importance": ""
+    },
+    {
+      "id": "xq4906530",
+      "time_str": "",
+      "time": 1793352181000,
+      "title": "【五部门：积极引导社会资本依法合规参与消费基础设施建设】国家发展改革委等五部门印发《关于加强消费基础设施建设 促进消费投资良性互动的指导意见》。其中指出，拓展投...",
+      "text": "【五部门：积极引导社会资本依法合规参与消费基础设施建设】国家发展改革委等五部门印发《关于加强消费基础设施建设 促进消费投资良性互动的指导意见》。其中指出，拓展投资渠道。统筹用好中央和地方各类资金渠道，支持符合条件的消费基础设施建设。充分发挥新型政策性金融工具、不动产投资信托基金的作用，引导金融机构按市场化、法治化原则提供信贷支持。积极引导社会资本依法合规参与消费基础设施建设，形成多元化、可持续的资金保障机制。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/414780263",
+      "importance": "important"
+    },
+    {
+      "id": "xq4906529",
+      "time_str": "",
+      "time": 1793352162000,
+      "title": "【国家发展改革委等部门：加强农村地区充电设施建设 推进充电设施配套电网建设改造】国家发展改革委等部门印发《关于加强消费基础设施建设 促进消费投资良性互动的指导意...",
+      "text": "【国家发展改革委等部门：加强农村地区充电设施建设 推进充电设施配套电网建设改造】国家发展改革委等部门印发《关于加强消费基础设施建设 促进消费投资良性互动的指导意见》。其中提到，加大充电设施建设力度。统筹推进充电设施建设布局，新建、改扩建停车场，严格按照有关标准规范建设充电基础设施或预留条件。推动地下车库规划建设充电专区，配套防火分隔、自动灭火、高温报警等安全设施。在客流量较大的商业街区、商业综合体、景区、文旅消费集聚区等的配套停车场，可规划建设大功率充电设施。有序扩大高速公路货运繁忙路段电动重卡充换电设施覆盖范围。加强农村地区充电设施建设，推进充电设施配套电网建设改造。支持各类社会资本参与充电设施建设运营。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/414780198",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwzazs2217204",
+      "time_str": "",
+      "time": 1793352115000,
+      "title": "美国中期选举将至 欧洲交易员该关注什么",
+      "text": "欧洲股票投资者正将目光投向下周的美国中期选举，选举结果或将改变欧洲多个行业的盈利前景。 民主党能否拿下国会参众两院，将决定国防开支、关税、药品定价...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/world/2026-10-30/doc-iniwzazs2217204.shtml",
+      "sub_source": "环球市场播报",
+      "importance": "important"
+    },
+    {
+      "id": "sinacomos:niwzazt8127130",
+      "time_str": "",
+      "time": 1793352111000,
+      "title": "光大银行：制定十五五期间零售数智化发展规划，提升3项数字化基础能力",
+      "text": "10月30日金融一线消息，光大银行今日举办2026年第三季度业绩说明会。零售与财富管理部总经理乌妮娜表示，进入三季度以来，内外部经营环境持续变化...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwzazt8127130.shtml",
+      "sub_source": "金融一线",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwzazs2216344",
+      "time_str": "",
+      "time": 1793352055000,
+      "title": "炼油利润率大幅飙升，英国石油第三季度利润接近翻两番",
+      "text": "核心要点英国石油第三季度基础利润同比接近翻至四倍，达到 85 亿美元，高于分析师预期的 61.9 亿美元。公司称利润增长源于天然气与营销交易业务表现向好...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwzazs2216344.shtml",
+      "sub_source": "环球市场播报",
+      "importance": ""
+    },
+    {
+      "id": "1635014298780",
+      "time_str": "2026-10-30 17:19:59",
+      "time": 1793351999000,
+      "title": "中国人寿前三季度净利润894.30亿元，同比下滑46.71%",
+      "text": "中国人寿前三季度净利润894.30亿元，同比下滑46.71%",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LAGM2ATC0519APGA.html",
+      "importance": "hot"
+    },
+    {
+      "id": "sinacomos:niwywts5551666",
+      "time_str": "",
+      "time": 1793351937000,
+      "title": "加密货币存储公司Ballet创始人：币安遭窃的比特币恐追不回来了",
+      "text": "加密货币存储公司Ballet Global创始人Bobby Lee表示，币安遭黑客攻击中被窃的比特币，恐怕已经不可能追回。 Lee在周五接受采访时表示，那些比特币都一去不返了。",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwywts5551666.shtml",
+      "sub_source": "环球市场播报",
+      "importance": ""
+    },
+    {
+      "id": "1635694297321",
+      "time_str": "2026-10-30 17:18:15",
+      "time": 1793351895000,
+      "title": "251 亿过会！东方证券吞下上海证券，上海券商整合再加码",
+      "text": "251 亿过会！东方证券吞下上海证券，上海券商整合再加码",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LAGLRP690530IU8N.html",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwywtv8241238",
       "time_str": "",
       "time": 1793351891000,
-      "title": "【国家药监局印发《医疗器械生产质量管理规范独立软件检查指导原则》】国家药监局组织对《医疗器械生产质量管理规范独立软件现场检查指导原则》（药监综械管〔2020〕5...",
-      "text": "【国家药监局印发《医疗器械生产质量管理规范独立软件检查指导原则》】国家药监局组织对《医疗器械生产质量管理规范独立软件现场检查指导原则》（药监综械管〔2020〕57号）进行修订，形成《医疗器械生产质量管理规范独立软件检查指导原则》，现予印发。《独立软件检查指导原则》自2026年11月1日起施行，《医疗器械生产质量管理规范独立软件现场检查指导原则》（药监综械管〔2020〕57号）同时废止。2026年11月1日起，药品监督管理部门开展独立软件类医疗器械生产许可核查和上市后监督检查，根据《独立软件检查指导原则》进行结果判定。软件组件相关检查参照执行。",
-      "source": "雪球",
+      "title": "法国总统大选提前进入视野：谁领先、主张什么以及影响几何",
+      "text": "近期法国财政和政治风险升温，令法国国债持续承压。与此同时，法国多地爆发大规模抗议，围绕生活成本和公共服务等问题表达不满，部分城市还发生骚乱。",
+      "source": "新浪财经",
       "category": "fast",
       "stock": "",
-      "url": "http://xueqiu.com/5124430882/414779056",
+      "url": "https://finance.sina.com.cn/world/2026-10-30/doc-iniwywtv8241238.shtml",
+      "sub_source": "环球市场播报",
       "importance": ""
     },
     {
-      "id": "xq4906522",
+      "id": "sinacomos:niwzazq5437788",
       "time_str": "",
-      "time": 1793351857000,
-      "title": "【长沙1宗宅地3.48亿元底价成交】长沙1宗岳麓区宅地出让，土地出让面积63350.16㎡（合95.03亩），规划建筑面积69528.32㎡，容积率L10-B7...",
-      "text": "【长沙1宗宅地3.48亿元底价成交】长沙1宗岳麓区宅地出让，土地出让面积63350.16㎡（合95.03亩），规划建筑面积69528.32㎡，容积率L10-B77≤1.01、L10-B92≤1.2，起始价3.48亿元，起始楼面价5000元/㎡。最终金茂以底价3.48亿元竞得该地块。",
-      "source": "雪球",
+      "time": 1793351871000,
+      "title": "奈飞将拍摄知名大逃杀游戏《绝地求生》真人剧",
+      "text": "Krafton于30日宣布，将与奈飞合作，基于旗下全球游戏IP《绝地求生（PUBG）》开发真人剧集。 演员、导演Donald Glover将担任本剧编剧、导演、主演以及执行制片人。",
+      "source": "新浪财经",
       "category": "fast",
       "stock": "",
-      "url": "http://xueqiu.com/5124430882/414779006",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwzazq5437788.shtml",
+      "sub_source": "环球市场播报",
       "importance": ""
     },
     {
-      "id": "xq4906521",
+      "id": "sinacomos:niwywts5558536",
       "time_str": "",
-      "time": 1793351842000,
-      "title": "【T-Mobile再次强调不会与SpaceX合作】T-Mobile首席执行官再次强调不会与SpaceX合作，并对SpaceX进军移动虚拟网络的雄心表示了不看好。...",
-      "text": "【T-Mobile再次强调不会与SpaceX合作】T-Mobile首席执行官再次强调不会与SpaceX合作，并对SpaceX进军移动虚拟网络的雄心表示了不看好。由于感受到业务上的威胁，美国三大运营商都拒绝与其合作。T-Mobile还称，6G网络更有利可图，其立志成为美国首家推出6G网络的运营商。",
-      "source": "雪球",
+      "time": 1793351870000,
+      "title": "炼油业务暴利助力奥尼尔推进转型 英国石油利润大幅飙升",
+      "text": " 英国石油公司公布第三季度利润大幅增长，炼油利润率飙升推高收益，为首席执行官梅格·奥尼尔扭转这家处境艰难的英国能源巨头的局面提供强劲助力。",
+      "source": "新浪财经",
       "category": "fast",
       "stock": "",
-      "url": "http://xueqiu.com/5124430882/414778953",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwywts5558536.shtml",
+      "sub_source": "环球市场播报",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwywts5563695",
+      "time_str": "",
+      "time": 1793351869000,
+      "title": "NASA数据显示：俄罗斯一座大型炼油厂遇袭后或发生火情",
+      "text": "美国航空航天局（NASA）卫星图像显示，俄罗斯一座大型炼油厂周边出现火情，这可能是乌克兰两周来首次袭击俄燃料设施。 NASA火灾信息资源管理系统过去24小时的影像显示...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/world/2026-10-30/doc-iniwywts5563695.shtml",
+      "sub_source": "环球市场播报",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwywtx4699216",
+      "time_str": "",
+      "time": 1793351861000,
+      "title": "反跨境腐败法草案将二审，拟加强保护商业秘密和个人隐私等",
+      "text": "时隔不到3个月，草案再提请审议。 反跨境腐败法草案将进入二审环节。草案拟增加规定，加强对国家秘密、商业秘密、个人隐私等的保护...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/roll/2026-10-30/doc-iniwywtx4699216.shtml",
+      "sub_source": "一财网",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwzazt8120955",
+      "time_str": "",
+      "time": 1793351849000,
+      "title": "Anthropic拟募资1000亿美元IPO 已成市场风向标",
+      "text": "Anthropic PBC这场超大型IPO的市场氛围略有回暖：Meta宣布规模达950亿美元的股票发售，科技股也从10月低点小幅回升。 但仍存在一些不利因素：IPO市场整体环境承压...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwzazt8120955.shtml",
+      "sub_source": "环球市场播报",
       "importance": ""
     },
     {
@@ -71,18 +564,6 @@
       "stock": "",
       "url": "https://finance.sina.com.cn/money/insurance/bxyx/2026-10-30/doc-iniwzazq5436813.shtml",
       "sub_source": "市场资讯",
-      "importance": ""
-    },
-    {
-      "id": "xq4906520",
-      "time_str": "",
-      "time": 1793351806000,
-      "title": "【云路股份第四大股东中国诚通控股集团有限公司三季度增仓185万股】云路股份(688190.SH)发布2026年三季报显示，与2026年半年报相比，第四大股东中国...",
-      "text": "【云路股份第四大股东中国诚通控股集团有限公司三季度增仓185万股】云路股份(688190.SH)发布2026年三季报显示，与2026年半年报相比，第四大股东中国诚通控股集团有限公司持仓增加185万股至420.01万股，占总股本比例3.50%。小财注：7月19日晚间，中国国新、中国诚通两大国有资本运营公司公告，已合计斥资约600亿元增持A股。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/414778952",
       "importance": ""
     },
     {
@@ -125,19 +606,6 @@
       "importance": ""
     },
     {
-      "id": "sinacomos:niwzazt8120955",
-      "time_str": "",
-      "time": 1793351699000,
-      "title": "Anthropic拟募资1000亿美元IPO 已成市场风向标",
-      "text": "Anthropic PBC这场超大型IPO的市场氛围略有回暖：Meta宣布规模达950亿美元的股票发售，科技股也从10月低点小幅回升。 但仍存在一些不利因素：IPO市场整体环境承压...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwzazt8120955.shtml",
-      "sub_source": "环球市场播报",
-      "importance": ""
-    },
-    {
       "id": "sinacomos:niwzazq5435003",
       "time_str": "",
       "time": 1793351695000,
@@ -151,17 +619,16 @@
       "importance": ""
     },
     {
-      "id": "sinacomos:niwywts5551666",
-      "time_str": "",
-      "time": 1793351668000,
-      "title": "加密货币存储公司Ballet创始人：币安遭窃的比特币恐追不回来了",
-      "text": "加密货币存储公司Ballet Global创始人Bobby Lee表示，币安遭黑客攻击中被窃的比特币，恐怕已经不可能追回。 Lee在周五接受采访时表示，那些比特币都一去不返了。",
-      "source": "新浪财经",
+      "id": "1633412477018",
+      "time_str": "2026-10-30 17:14:27",
+      "time": 1793351667000,
+      "title": "总资产突破2万亿！新华保险前三季度营收、净利润双降",
+      "text": "总资产突破2万亿！新华保险前三季度营收、净利润双降",
+      "source": "网易财经",
       "category": "fast",
       "stock": "",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwywts5551666.shtml",
-      "sub_source": "环球市场播报",
-      "importance": ""
+      "url": "https://www.163.com/dy/article/LAGLPNG60519APGA.html",
+      "importance": "important"
     },
     {
       "id": "sinacomos:niwywtu2341066",
@@ -190,31 +657,6 @@
       "importance": ""
     },
     {
-      "id": "xq4906519",
-      "time_str": "",
-      "time": 1793351622000,
-      "title": "【华海清科：2026年前三季度净利润同比增长26.62%】华海清科(688120.SH)公告称，前三季度实现营业收入41.82亿元，同比增长30.95%；归属于...",
-      "text": "【华海清科：2026年前三季度净利润同比增长26.62%】华海清科(688120.SH)公告称，前三季度实现营业收入41.82亿元，同比增长30.95%；归属于上市公司股东的净利润10.02亿元，同比增长26.62%。第三季度实现营业收入15.39亿元，同比增长23.71%；归属于上市公司股东的净利润4.39亿元，同比增长53.46%。业绩变动主要系公司CMP装备在先进逻辑、先进存储、先进封装等领域实现批量落地应用，市场占有率及经营销售规模稳步提升，新产品业务拓展推进顺畅所致。小财注：公司Q3净利润4.39亿，Q2净利润3.16亿，据此计算，Q3净利润环比增长38%。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/414778315",
-      "importance": "hot"
-    },
-    {
-      "id": "sinacomos:niwywts5563695",
-      "time_str": "",
-      "time": 1793351599000,
-      "title": "NASA数据显示：俄罗斯一座大型炼油厂遇袭后或发生火情",
-      "text": "美国航空航天局（NASA）卫星图像显示，俄罗斯一座大型炼油厂周边出现火情，这可能是乌克兰两周来首次袭击俄燃料设施。 NASA火灾信息资源管理系统过去24小时的影像显示...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/world/2026-10-30/doc-iniwywts5563695.shtml",
-      "sub_source": "环球市场播报",
-      "importance": ""
-    },
-    {
       "id": "sinacomos:niwywtu2339936",
       "time_str": "",
       "time": 1793351586000,
@@ -228,7 +670,7 @@
       "importance": ""
     },
     {
-      "id": "1633617129137",
+      "id": "1636095510050",
       "time_str": "2026-10-30 17:12:20",
       "time": 1793351540000,
       "title": "建行前三季度营收增长11.29%，归母净利润增长6.55%",
@@ -238,18 +680,6 @@
       "stock": "",
       "url": "https://www.163.com/dy/article/LAGLLO2S0519HF8U.html",
       "importance": ""
-    },
-    {
-      "id": "xq4906518",
-      "time_str": "",
-      "time": 1793351442000,
-      "title": "【证监会：全力稳市场稳预期 持续提升资本市场韧性和信心】中国证监会党委传达贯彻党的二十届五中全会精神。会议要求，深入学习贯彻全会精神是当前和今后一个时期的重大政...",
-      "text": "【证监会：全力稳市场稳预期 持续提升资本市场韧性和信心】中国证监会党委传达贯彻党的二十届五中全会精神。会议要求，深入学习贯彻全会精神是当前和今后一个时期的重大政治任务，证监会系统要认真组织开展宣讲解读，分层分类做好全覆盖培训，持续在解决突出问题上下功夫，推动学习宣传贯彻迅速掀起热潮，形成浓厚氛围。同时，充分发挥全面从严治党的政治引领和政治保障作用，牢固树立大局意识、系统观念，全力稳市场稳预期，深化投融资综合改革，完善全链条监管体系，持续提升资本市场韧性和信心，确保“十五五”开局之年资本市场各项任务圆满完成。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/414777454",
-      "importance": "important"
     },
     {
       "id": "sinacomos:niwywts5561352",
@@ -265,31 +695,6 @@
       "importance": "important"
     },
     {
-      "id": "sinacomos:niwywtu2334641",
-      "time_str": "",
-      "time": 1793351426000,
-      "title": "中国银行：前三季度归母净利润1874.82亿元，同比增长5.53%",
-      "text": "10月30日金融一线消息，中国银行披露2026年第三季度报告，前三季度实现营业收入5268.02亿元，同比增长7.05%；归属于母公司股东的净利润1874.82亿元，同比增长5.53%。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwywtu2334641.shtml",
-      "sub_source": "金融一线",
-      "importance": "hot"
-    },
-    {
-      "id": "1631452618226",
-      "time_str": "2026-10-30 17:10:17",
-      "time": 1793351417000,
-      "title": "中国人寿前三季度净利润同比增长15.8%，发展韧性持续彰显",
-      "text": "中国人寿前三季度净利润同比增长15.8%，发展韧性持续彰显",
-      "source": "网易财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://www.163.com/dy/article/LAGLHQDD0519HF8U.html",
-      "importance": "hot"
-    },
-    {
       "id": "sinacomos:niwywtv8246889",
       "time_str": "",
       "time": 1793351409000,
@@ -301,56 +706,6 @@
       "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-10-30/doc-iniwywtv8246889.shtml",
       "sub_source": "市场资讯",
       "importance": "important"
-    },
-    {
-      "id": "sinacomos:niwywtu2336903",
-      "time_str": "",
-      "time": 1793351397000,
-      "title": "中国银行：三季度末不良贷款率1.22%，比上年末下降0.01个百分点",
-      "text": "10月30日金融一线消息，中国银行披露2026年第三季度报告，9月末，集团不良贷款总额3041.10亿元，不良贷款率1.22%，比上年末下降0.01个百分点，不良贷款拨备覆盖率198.30%...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwywtu2336903.shtml",
-      "sub_source": "金融一线",
-      "importance": ""
-    },
-    {
-      "id": "xq4906517",
-      "time_str": "",
-      "time": 1793351370000,
-      "title": "【新易盛：今日回购公司股份97.56万股 成交总金额约2亿元】新易盛(300502.SZ)公告称，2026 年10 月30日，公司首次通过回购专用证券账户以集中...",
-      "text": "【新易盛：今日回购公司股份97.56万股 成交总金额约2亿元】新易盛(300502.SZ)公告称，2026 年10 月30日，公司首次通过回购专用证券账户以集中竞价方式回购股份97.56万股，占总股本0.07%，成交总金额约2亿元。根据此前方案，公司拟使用自有资金回购股份用于股权激励或员工持股计划，回购资金总额不低于8亿元且不超过10亿元，回购价格不超过500元/股。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/414776975",
-      "importance": "important"
-    },
-    {
-      "id": "sinacomos:niwywts5560241",
-      "time_str": "",
-      "time": 1793351342000,
-      "title": "营收靠什么实现企稳回升？光大银行回应",
-      "text": "10月30日金融一线消息，光大银行今日举办2026年第三季度业绩说明会。董事会秘书张旭阳表示，1-9月，我行实现并表营收945.4亿元，同比增长2.7亿元，增速0.3%...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwywts5560241.shtml",
-      "sub_source": "金融一线",
-      "importance": ""
-    },
-    {
-      "id": "xq4906516",
-      "time_str": "",
-      "time": 1793351320000,
-      "title": "【年产4万吨高档再生纱线项目签约落户清远清城】清远市清城区人民政府与广东省金纬纺织科技有限公司举行广东金纬年产4万吨高档再生纱线生产线建设项目投资协议签约仪式。...",
-      "text": "【年产4万吨高档再生纱线项目签约落户清远清城】清远市清城区人民政府与广东省金纬纺织科技有限公司举行广东金纬年产4万吨高档再生纱线生产线建设项目投资协议签约仪式。项目建成达产后，可年产高档再生纱线产品4万吨，预计年产值不低于3.5亿元。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/414776786",
-      "importance": ""
     },
     {
       "id": "sinacomos:niwywts5559864",
@@ -366,30 +721,6 @@
       "importance": "important"
     },
     {
-      "id": "xq4906515",
-      "time_str": "",
-      "time": 1793351289000,
-      "title": "香港交易所信息显示，BNP PARIBAS SA在美的集团H股的持股比例于10月27日从6.81%升至7.07%。",
-      "text": "香港交易所信息显示，BNP PARIBAS SA在美的集团H股的持股比例于10月27日从6.81%升至7.07%。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/414776725",
-      "importance": ""
-    },
-    {
-      "id": "xq4906514",
-      "time_str": "",
-      "time": 1793351267000,
-      "title": "香港交易所信息显示，Norges Bank在恒瑞医药H股的持股比例于10月28日从5.20%降至4.93%，卖出的平均股价为50.0817港元。",
-      "text": "香港交易所信息显示，Norges Bank在恒瑞医药H股的持股比例于10月28日从5.20%降至4.93%，卖出的平均股价为50.0817港元。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/414776584",
-      "importance": ""
-    },
-    {
       "id": "sinacomos:niwywtu2328597",
       "time_str": "",
       "time": 1793351205000,
@@ -399,19 +730,6 @@
       "category": "fast",
       "stock": "",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwywtu2328597.shtml",
-      "sub_source": "环球市场播报",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:niwywts5558536",
-      "time_str": "",
-      "time": 1793351186000,
-      "title": "炼油业务暴利助力奥尼尔推进转型 英国石油利润大幅飙升",
-      "text": " 英国石油公司公布第三季度利润大幅增长，炼油利润率飙升推高收益，为首席执行官梅格·奥尼尔扭转这家处境艰难的英国能源巨头的局面提供强劲助力。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwywts5558536.shtml",
       "sub_source": "环球市场播报",
       "importance": ""
     },
@@ -429,45 +747,6 @@
       "importance": "important"
     },
     {
-      "id": "sinacomos:niwywts5554599",
-      "time_str": "",
-      "time": 1793351010000,
-      "title": "江苏银行：董事、董事会秘书陆松圣退休离任",
-      "text": "10月30日金融一线消息，江苏银行公告，董事会收到陆松圣的辞职报告，陆松圣因到龄退休，申请辞去本行董事、董事会消费者权益保护委员会委员、董事会秘书职务...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/jryx/hm/2026-10-30/doc-iniwywts5554599.shtml",
-      "sub_source": "金融一线",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:niwywtv8241238",
-      "time_str": "",
-      "time": 1793351000000,
-      "title": "法国总统大选提前进入视野：谁领先、主张什么以及影响几何",
-      "text": "近期法国财政和政治风险升温，令法国国债持续承压。与此同时，法国多地爆发大规模抗议，围绕生活成本和公共服务等问题表达不满，部分城市还发生骚乱。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/world/2026-10-30/doc-iniwywtv8241238.shtml",
-      "sub_source": "环球市场播报",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:niwywtu2331787",
-      "time_str": "",
-      "time": 1793350999000,
-      "title": "光大银行：三季度末不良贷款率1.54%，比上年末上升0.27个百分点",
-      "text": "10月30日金融一线消息，光大银行发布2026年第三季度报告，报告期末，集团不良贷款余额624.01亿元，比上年末增加116.59亿元；不良贷款率1.54%，比上年末上升0...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwywtu2331787.shtml",
-      "sub_source": "金融一线",
-      "importance": ""
-    },
-    {
       "id": "sinacomos:niwywtv8237543",
       "time_str": "",
       "time": 1793350955000,
@@ -479,19 +758,6 @@
       "url": "https://finance.sina.com.cn/stock/s/2026-10-30/doc-iniwywtv8237543.shtml",
       "sub_source": "市场资讯",
       "importance": ""
-    },
-    {
-      "id": "sinacomos:niwywts5555191",
-      "time_str": "",
-      "time": 1793350942000,
-      "title": "下一步工作计划如何？光大银行董秘张旭阳回应",
-      "text": "10月30日金融一线消息，光大银行今日举办2026年第三季度业绩说明会。谈及下一步工作计划，董事会秘书张旭阳表示，在下一步工作中，光大银行将坚决贯彻落实党中央...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwywts5555191.shtml",
-      "sub_source": "金融一线",
-      "importance": "important"
     },
     {
       "id": "sinacomos:niwywtx4691148",
@@ -507,7 +773,7 @@
       "importance": ""
     },
     {
-      "id": "1638956128091",
+      "id": "1633049446611",
       "time_str": "2026-10-30 17:00:08",
       "time": 1793350808000,
       "title": "中午一度恢复“欢声笑语”的股票群，午后再度“鸦雀无声”",
@@ -517,30 +783,6 @@
       "stock": "",
       "url": "https://www.163.com/dy/article/LAGKV8MU0550BXD9.html",
       "importance": ""
-    },
-    {
-      "id": "1631604453480",
-      "time_str": "2026-10-30 17:00:02",
-      "time": 1793350802000,
-      "title": "从被动监测到主动干预，今日宜休发布AI睡眠科技生态旗舰新品",
-      "text": "从被动监测到主动干预，今日宜休发布AI睡眠科技生态旗舰新品",
-      "source": "网易财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://www.163.com/dy/article/LAGK3K85051986UM.html",
-      "importance": ""
-    },
-    {
-      "id": "1634910896548",
-      "time_str": "2026-10-30 16:59:49",
-      "time": 1793350789000,
-      "title": "ETF今日收评 | 酒ETF涨超5%，创业板人工智能ETF跌约7%",
-      "text": "ETF今日收评 | 酒ETF涨超5%，创业板人工智能ETF跌约7%",
-      "source": "网易财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://www.163.com/dy/article/LAGKUOVK0550BXD9.html",
-      "importance": "hot"
     },
     {
       "id": "sinacomos:niwywtu2328345",
@@ -553,19 +795,6 @@
       "stock": "",
       "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-30/doc-iniwywtu2328345.shtml",
       "sub_source": "市场资讯",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:niwywtu2328300",
-      "time_str": "",
-      "time": 1793350646000,
-      "title": "中国光大银行：前三季度实现归母净利润282.71亿元，同比减少23.63%",
-      "text": "10月30日金融一线消息，中国光大银行发布2026年前三季度业绩，该行取得经营收入946.25亿元，同比增加0.31%；归属于本行股东的净利润282.71亿元，同比减少23...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-30/doc-iniwywtu2328300.shtml",
-      "sub_source": "金融一线",
       "importance": ""
     },
     {
@@ -595,7 +824,7 @@
       "importance": "important"
     },
     {
-      "id": "1638422545221",
+      "id": "1639506114793",
       "time_str": "2026-10-30 16:48:33",
       "time": 1793350113000,
       "title": "恒大物业迎来新东家，太盟投资拟40.26亿港元收购恒大物业",
@@ -607,7 +836,7 @@
       "importance": ""
     },
     {
-      "id": "1633337224854",
+      "id": "1632795757428",
       "time_str": "2026-10-30 16:45:48",
       "time": 1793349948000,
       "title": "ST 中路再曝治理风险：控股股东 798 万占用款待追偿，对赌违约已起诉，退市警报高悬",
@@ -632,7 +861,7 @@
       "importance": "hot"
     },
     {
-      "id": "1636735311984",
+      "id": "1635892088715",
       "time_str": "2026-10-30 16:37:45",
       "time": 1793349465000,
       "title": "“融资不过亿都不好意思说”",
@@ -644,19 +873,7 @@
       "importance": ""
     },
     {
-      "id": "1638313794028",
-      "time_str": "2026-10-30 16:32:16",
-      "time": 1793349136000,
-      "title": "国家统计局：2025年末人口保持14亿以上，16-59岁人口占比超6成",
-      "text": "国家统计局：2025年末人口保持14亿以上，16-59岁人口占比超6成",
-      "source": "网易财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://www.163.com/dy/article/LAGJCGDG0519APGA.html",
-      "importance": ""
-    },
-    {
-      "id": "1633919951793",
+      "id": "1638286625018",
       "time_str": "2026-10-30 16:32:16",
       "time": 1793349136000,
       "title": "民政部：截至9月底，全国城乡低保平均标准分别为每人每月851元、640元",
@@ -665,6 +882,18 @@
       "category": "fast",
       "stock": "",
       "url": "https://www.163.com/dy/article/LAGJCGIA0519APGA.html",
+      "importance": ""
+    },
+    {
+      "id": "1633604019513",
+      "time_str": "2026-10-30 16:32:16",
+      "time": 1793349136000,
+      "title": "国家统计局：2025年末人口保持14亿以上，16-59岁人口占比超6成",
+      "text": "国家统计局：2025年末人口保持14亿以上，16-59岁人口占比超6成",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LAGJCGDG0519APGA.html",
       "importance": ""
     },
     {
@@ -720,98 +949,7 @@
       "importance": "important"
     },
     {
-      "id": "sinacomos:niwywtu2303539",
-      "time_str": "",
-      "time": 1793348821000,
-      "title": "*ST湘邮5.3亿垫资爆雷遭立案，保壳增资与索赔并行",
-      "text": "2026年3月16日，*ST湘邮收到证监会《立案告知书》（编号：证监立案字0132026022号），因涉嫌信披违法违规被立案调查。随后剧情急转直下：2025年末净资产-4.45亿元...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-10-30/doc-iniwywtu2303539.shtml",
-      "sub_source": "市场资讯",
-      "importance": "important"
-    },
-    {
-      "id": "sinacomos:niwywtu2303203",
-      "time_str": "",
-      "time": 1793348803000,
-      "title": "*ST广糖利润虚增119%，申辩“跨期非造假”未被采纳",
-      "text": "2026年10月16日晚间，*ST广糖披露收到广西证监局《行政处罚决定书》（〔2026〕2号）及警示函各一份，两份文书同日送达。公司被罚款400万元，五名责任人合计被罚530万元...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-10-30/doc-iniwywtu2303203.shtml",
-      "sub_source": "市场资讯",
-      "importance": "important"
-    },
-    {
-      "id": "sinacomos:niwywtx4664849",
-      "time_str": "",
-      "time": 1793348790000,
-      "title": "ST华扬索赔已递交立案，受损股民还可加入",
-      "text": "上海沪紫律师事务所刘鹏律师代理的投资者诉华扬联众证券虚假陈述案已有案件递交立案。目前符合要求还可加入。华扬联众因严重信息披露违规行为收到监管部门的罚单。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-10-30/doc-iniwywtx4664849.shtml",
-      "sub_source": "市场资讯",
-      "importance": "important"
-    },
-    {
-      "id": "sinacomos:niwywtv8213684",
-      "time_str": "",
-      "time": 1793348755000,
-      "title": "沪紫律所本周递交102起案件立案，索赔持续征集中",
-      "text": "本周，上海沪紫律师事务所刘鹏律师团队已向有管辖权的人民法院集中递交了一批证券虚假陈述责任纠纷案件的立案材料，涉及中坚科技、汇金科技、信安世纪、华西能源...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-10-30/doc-iniwywtv8213684.shtml",
-      "sub_source": "市场资讯",
-      "importance": "important"
-    },
-    {
-      "id": "sinacomos:niwywtx4663367",
-      "time_str": "",
-      "time": 1793348685000,
-      "title": "大华股份三季报“增收不增利”：现金流与存货压力交织",
-      "text": "来源：证券之星 近日，国内智慧物联龙头大华股份（002236.SZ）交出一份“增收不增利”的三季报。报告期内，公司收入增速依旧为个位数，归母净利润增速同比则由正转负。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-30/doc-iniwywtx4663367.shtml",
-      "sub_source": "市场资讯",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:niwywts5524935",
-      "time_str": "",
-      "time": 1793348661000,
-      "title": "恒立实业索赔递交立案，退市不影响维权",
-      "text": "尽管恒立实业已于2025年6月被深交所终止上市，但“退市不免责”的监管导向与司法实践，为在虚假陈述期间买入并亏损的股民保留了维权通道。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-10-30/doc-iniwywts5524935.shtml",
-      "sub_source": "市场资讯",
-      "importance": "important"
-    },
-    {
-      "id": "sinacomos:niwywts5524661",
-      "time_str": "",
-      "time": 1793348642000,
-      "title": "思科瑞申请撤销ST，索赔仍在持续征集中",
-      "text": "日前，ST思科瑞（688053）公告称，公司于当日召开第三届董事会第三次会议，审议通过《关于申请撤销对公司股票实施其他风险警示的议案》...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-10-30/doc-iniwywts5524661.shtml",
-      "sub_source": "市场资讯",
-      "importance": "important"
-    },
-    {
-      "id": "1631577316606",
+      "id": "1637328329690",
       "time_str": "2026-10-30 16:23:27",
       "time": 1793348607000,
       "title": "中方决定：将APEC商务旅行卡持卡人在华最长停留期延长至90天",
@@ -821,19 +959,6 @@
       "stock": "",
       "url": "https://www.163.com/dy/article/LAGIS8A90519APGA.html",
       "importance": "hot"
-    },
-    {
-      "id": "sinacomos:niwywtu2299492",
-      "time_str": "",
-      "time": 1793348557000,
-      "title": "天亿马三季报净利直降五成，毛利率承压，利息费用吞噬利润",
-      "text": "来源：证券之星 近期，天亿马（301178.SZ）交出了一份增收不增利的成绩单。今年前三季度，公司实现营收3.42亿元，同比增长50.43%；对应归母净利润190.26万元，同比直降54...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-30/doc-iniwywtu2299492.shtml",
-      "sub_source": "市场资讯",
-      "importance": "important"
     },
     {
       "id": "sinacomos:niwywts5522097",
@@ -849,7 +974,7 @@
       "importance": ""
     },
     {
-      "id": "1633826359131",
+      "id": "1635068740193",
       "time_str": "2026-10-30 16:18:13",
       "time": 1793348293000,
       "title": "今天A股下跌，有点反常！这两大信号值得细品",
@@ -861,7 +986,7 @@
       "importance": ""
     },
     {
-      "id": "1633449557500",
+      "id": "163482937940",
       "time_str": "2026-10-30 16:16:18",
       "time": 1793348178000,
       "title": "茉莉奶白联名水杯爆裂致用户住院 公司紧急召回",
@@ -873,7 +998,7 @@
       "importance": ""
     },
     {
-      "id": "1637934095016",
+      "id": "1631504204122",
       "time_str": "2026-10-30 16:14:23",
       "time": 1793348063000,
       "title": "85岁“鞋王”汪海商界沉浮：从偷偷卖鞋起家，到家族内斗、儿媳接任董事长",
@@ -885,7 +1010,7 @@
       "importance": ""
     },
     {
-      "id": "1637331079664",
+      "id": "1631383109731",
       "time_str": "2026-10-30 16:14:16",
       "time": 1793348056000,
       "title": "涉及儿童呵护用品安全，4项国标将于11月1日起实施",
@@ -897,7 +1022,7 @@
       "importance": ""
     },
     {
-      "id": "1637330351653",
+      "id": "163188646146",
       "time_str": "2026-10-30 16:06:34",
       "time": 1793347594000,
       "title": "楼市新政后，成都主城改善进入\"产品断层期\"",
@@ -909,7 +1034,7 @@
       "importance": ""
     },
     {
-      "id": "1632116481504",
+      "id": "1635849678318",
       "time_str": "2026-10-30 16:05:09",
       "time": 1793347509000,
       "title": "频拿“地王”的招商蛇口，扣非净利突遭大亏",
@@ -921,7 +1046,7 @@
       "importance": ""
     },
     {
-      "id": "1633137772257",
+      "id": "1634792388426",
       "time_str": "2026-10-30 15:52:18",
       "time": 1793346738000,
       "title": "起拍 2.44 亿、按现状交付，天府银行 \"打包\" 甩卖成都金融城甲级写字楼",
@@ -933,7 +1058,7 @@
       "importance": ""
     },
     {
-      "id": "1637396074795",
+      "id": "1631981328699",
       "time_str": "2026-10-30 15:51:05",
       "time": 1793346665000,
       "title": "20年过去了，当年花几十万赴美生子的“美宝家庭”，如今怎样了？",
@@ -945,7 +1070,7 @@
       "importance": ""
     },
     {
-      "id": "1631638933650",
+      "id": "1636397364684",
       "time_str": "2026-10-30 15:50:09",
       "time": 1793346609000,
       "title": "被国人嫌弃的“土味三蹦子”，火遍70国！山东小城闷声赚走百亿！",
@@ -957,7 +1082,7 @@
       "importance": ""
     },
     {
-      "id": "1635871975793",
+      "id": "1639776101567",
       "time_str": "2026-10-30 15:49:36",
       "time": 1793346576000,
       "title": "骑手终于能安心等红灯，打工人叫好“路上安全比外卖晚一会重要多了”",
@@ -969,7 +1094,7 @@
       "importance": ""
     },
     {
-      "id": "1637263683202",
+      "id": "1638544531558",
       "time_str": "2026-10-30 15:46:52",
       "time": 1793346412000,
       "title": "宁波银行首破“4万亿”大关，对公贷款增速高达21%",
@@ -981,7 +1106,7 @@
       "importance": ""
     },
     {
-      "id": "1637582057135",
+      "id": "1638916657937",
       "time_str": "2026-10-30 15:44:40",
       "time": 1793346280000,
       "title": "金融网络营销新规满月考：财经大V变现路径收窄，有人广告业务归零，公募转战自有平台引流",
@@ -993,7 +1118,7 @@
       "importance": ""
     },
     {
-      "id": "1638449430785",
+      "id": "1634039340582",
       "time_str": "2026-10-30 15:44:33",
       "time": 1793346273000,
       "title": "全球首创！香港试点公众代币化基金全天候二级市场交易，有何深意？",
@@ -1005,7 +1130,7 @@
       "importance": ""
     },
     {
-      "id": "1636557184996",
+      "id": "1638255687382",
       "time_str": "2026-10-30 15:43:25",
       "time": 1793346205000,
       "title": "登顶全球畅销榜！《影之刃零》首日72万人在线，海信E8S Pro专属画质模式同步上线",
@@ -1017,7 +1142,7 @@
       "importance": ""
     },
     {
-      "id": "1637907470473",
+      "id": "1631743999185",
       "time_str": "2026-10-30 15:43:23",
       "time": 1793346203000,
       "title": "周六福昆明门店经理涉职务侵占被刑拘，官方回应静待法院裁判",
@@ -1029,7 +1154,7 @@
       "importance": ""
     },
     {
-      "id": "1631651766560",
+      "id": "1636233627402",
       "time_str": "2026-10-30 15:42:58",
       "time": 1793346178000,
       "title": "恒大物业7折易主，“亚洲小黑石”太盟下一个将抄底谁？",
@@ -1041,7 +1166,7 @@
       "importance": ""
     },
     {
-      "id": "1636234187871",
+      "id": "1634533639803",
       "time_str": "2026-10-30 15:41:26",
       "time": 1793346086000,
       "title": "泡泡玛特三季度收入腰斩，王宁坦言全年目标大概率落空",
@@ -1053,7 +1178,7 @@
       "importance": ""
     },
     {
-      "id": "16334589407",
+      "id": "1634806595027",
       "time_str": "2026-10-30 15:37:41",
       "time": 1793345861000,
       "title": "美国Q3经济表现强于预期，通胀反弹考验美联储",
@@ -1065,7 +1190,7 @@
       "importance": ""
     },
     {
-      "id": "1633794273156",
+      "id": "163613723547",
       "time_str": "2026-10-30 15:35:07",
       "time": 1793345707000,
       "title": "为什么越来越多商家，去了京东直播？",
@@ -1077,7 +1202,7 @@
       "importance": ""
     },
     {
-      "id": "1636301339431",
+      "id": "1634251752727",
       "time_str": "2026-10-30 15:31:19",
       "time": 1793345479000,
       "title": "长沙楼市新政落地，现房销售定金不超过总房款的5%",
@@ -1089,7 +1214,7 @@
       "importance": ""
     },
     {
-      "id": "1637577558848",
+      "id": "1632608318032",
       "time_str": "2026-10-30 15:29:55",
       "time": 1793345395000,
       "title": "白酒集体爆发，三季报释放了什么信号？",
@@ -1101,7 +1226,7 @@
       "importance": ""
     },
     {
-      "id": "1633239098140",
+      "id": "1635466649246",
       "time_str": "2026-10-30 15:23:12",
       "time": 1793344992000,
       "title": "午后，A股异动！盘中，发生了啥？",
@@ -1113,7 +1238,7 @@
       "importance": ""
     },
     {
-      "id": "1639762520546",
+      "id": "1637285455990",
       "time_str": "2026-10-30 15:18:35",
       "time": 1793344715000,
       "title": "收评：A股三大指数震荡下行 创业板指跌4.13%",
@@ -1125,7 +1250,7 @@
       "importance": "hot"
     },
     {
-      "id": "1637386795605",
+      "id": "1638379388395",
       "time_str": "2026-10-30 15:15:33",
       "time": 1793344533000,
       "title": "茅台老酒4年跌50%，这家囤酒巨头凉了",
@@ -1137,7 +1262,7 @@
       "importance": ""
     },
     {
-      "id": "1635624739635",
+      "id": "1634661361629",
       "time_str": "2026-10-30 15:14:15",
       "time": 1793344455000,
       "title": "智能体技术金融领域安全应用联合倡议发起",
@@ -1149,7 +1274,7 @@
       "importance": ""
     },
     {
-      "id": "1633148958822",
+      "id": "1631710953541",
       "time_str": "2026-10-30 15:08:18",
       "time": 1793344098000,
       "title": "最高法发布冬季供热典型案例：18年欠费24万余元，法院调解以2套房抵债",
@@ -1158,30 +1283,6 @@
       "category": "fast",
       "stock": "",
       "url": "https://www.163.com/dy/article/LAGEILBT0519APGA.html",
-      "importance": ""
-    },
-    {
-      "id": "ths681287289",
-      "time_str": "2026/10/30 15:04",
-      "time": 1793343840000,
-      "title": "村田计划未来5年内投资64亿美元扩产MLCC 预计2030财年销...",
-      "text": "全球MLCC龙头新增公布扩产计划，公司计划在未来5年内投资1万亿日元（约合64亿美元）扩大MLCC产能，其中约3500亿日元用于厂房建设，约6500亿日元用于生产设备投资。村田社长中岛规巨表示：“预计到2030财年，MLCC销售额将达到2025财年的约两倍以...",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261030/c681287289.shtml",
-      "importance": ""
-    },
-    {
-      "id": "ths681287300",
-      "time_str": "2026/10/30 15:04",
-      "time": 1793343840000,
-      "title": "10年期日本国债收益率下降7.0个基点",
-      "text": "10年期日本国债收益率下降7.0个基点，至2.765%。",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261030/c681287300.shtml",
       "importance": ""
     },
     {
@@ -1218,7 +1319,7 @@
       "category": "fast",
       "stock": "",
       "url": "http://news.10jqka.com.cn/20261030/c681287193.shtml",
-      "importance": "hot"
+      "importance": ""
     },
     {
       "id": "ths681287205",
@@ -1317,18 +1418,6 @@
       "importance": ""
     },
     {
-      "id": "ths681287042",
-      "time_str": "2026/10/30 14:57",
-      "time": 1793343420000,
-      "title": "创业板指跌4%",
-      "text": "创业板指跌幅扩大至4%，上证指数跌1.5%，深证成指跌2.65%。",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261030/c681287042.shtml",
-      "importance": ""
-    },
-    {
       "id": "ths681287041",
       "time_str": "2026/10/30 14:57",
       "time": 1793343420000,
@@ -1339,6 +1428,18 @@
       "stock": "300750",
       "url": "http://stock.10jqka.com.cn/20261030/c681287041.shtml",
       "importance": "important"
+    },
+    {
+      "id": "ths681287042",
+      "time_str": "2026/10/30 14:57",
+      "time": 1793343420000,
+      "title": "创业板指跌4%",
+      "text": "创业板指跌幅扩大至4%，上证指数跌1.5%，深证成指跌2.65%。",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "",
+      "url": "http://stock.10jqka.com.cn/20261030/c681287042.shtml",
+      "importance": ""
     },
     {
       "id": "ths681287031",
@@ -1365,7 +1466,7 @@
       "importance": ""
     },
     {
-      "id": "1633150354939",
+      "id": "1632378472051",
       "time_str": "2026-10-30 14:55:21",
       "time": 1793343321000,
       "title": "国家能源局：前三季度新增装机超七成为可再生能源，光伏成我国第一大电源",
@@ -1425,18 +1526,6 @@
       "importance": ""
     },
     {
-      "id": "ths681286860",
-      "time_str": "2026/10/30 14:48",
-      "time": 1793342880000,
-      "title": "现货黄金失守3980美元/盎司",
-      "text": "现货黄金失守3980美元/盎司，日内跌1.01%。同花顺黄金现货价格报854.5元/克，现跌1.03%。",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://goodsfu.10jqka.com.cn/20261030/c681286860.shtml",
-      "importance": ""
-    },
-    {
       "id": "ths681286877",
       "time_str": "2026/10/30 14:48",
       "time": 1793342880000,
@@ -1446,6 +1535,18 @@
       "category": "fast",
       "stock": "",
       "url": "http://goodsfu.10jqka.com.cn/20261030/c681286877.shtml",
+      "importance": ""
+    },
+    {
+      "id": "ths681286860",
+      "time_str": "2026/10/30 14:48",
+      "time": 1793342880000,
+      "title": "现货黄金失守3980美元/盎司",
+      "text": "现货黄金失守3980美元/盎司，日内跌1.01%。同花顺黄金现货价格报854.5元/克，现跌1.03%。",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "",
+      "url": "http://goodsfu.10jqka.com.cn/20261030/c681286860.shtml",
       "importance": ""
     },
     {
@@ -1557,7 +1658,7 @@
       "importance": ""
     },
     {
-      "id": "1633413648317",
+      "id": "1633368445385",
       "time_str": "2026-10-30 14:40:20",
       "time": 1793342420000,
       "title": "被罗永浩吐槽后，野人先生完成首轮融资",
@@ -1629,7 +1730,7 @@
       "importance": ""
     },
     {
-      "id": "1631603759820",
+      "id": "1634297458913",
       "time_str": "2026-10-30 14:30:47",
       "time": 1793341847000,
       "title": "联影医疗前三季增收不增利：成本研发费用双升挤压利润，政策红利与海外布局推动利润修复",
@@ -1641,7 +1742,7 @@
       "importance": "important"
     },
     {
-      "id": "1636623532149",
+      "id": "1638644359913",
       "time_str": "2026-10-30 14:30:22",
       "time": 1793341822000,
       "title": "东方财富证券“80后”董事长郑立坤辞任",
@@ -1665,7 +1766,7 @@
       "importance": ""
     },
     {
-      "id": "1637659170242",
+      "id": "1636415968089",
       "time_str": "2026-10-30 14:28:31",
       "time": 1793341711000,
       "title": "成立15年首次融资，野人先生引入黑蚁资本，将保持独立运营",
@@ -1725,7 +1826,7 @@
       "importance": ""
     },
     {
-      "id": "1631986990048",
+      "id": "1631336972998",
       "time_str": "2026-10-30 14:14:52",
       "time": 1793340892000,
       "title": "三季报盈利增长延续、内控稳中提质，合盛硅业经营持续回暖",
@@ -1761,7 +1862,7 @@
       "importance": "important"
     },
     {
-      "id": "1633026454795",
+      "id": "1633053140032",
       "time_str": "2026-10-30 14:10:20",
       "time": 1793340620000,
       "title": "小火锅都火三年了，怎么还没过气？",
@@ -1773,7 +1874,7 @@
       "importance": ""
     },
     {
-      "id": "1631026515244",
+      "id": "1639576987688",
       "time_str": "2026-10-30 14:10:10",
       "time": 1793340610000,
       "title": "币安被盗的比特币恐已无法追回，Ballet创始人称“钱已经没了”",
@@ -1797,7 +1898,7 @@
       "importance": "important"
     },
     {
-      "id": "1637124654135",
+      "id": "1635734748945",
       "time_str": "2026-10-30 14:08:22",
       "time": 1793340502000,
       "title": "谁为机器人买单？怎么收费？会不会有“速成”？智元高管集中作答“行业之问”",
@@ -1809,7 +1910,7 @@
       "importance": ""
     },
     {
-      "id": "1635079282207",
+      "id": "1637307300757",
       "time_str": "2026-10-30 14:05:07",
       "time": 1793340307000,
       "title": "在深蓝保买保险靠谱不？深蓝保公司合规、合法不？会不会被骗？",
@@ -1929,7 +2030,7 @@
       "importance": ""
     },
     {
-      "id": "1632478568589",
+      "id": "1639736241424",
       "time_str": "2026-10-30 13:47:29",
       "time": 1793339249000,
       "title": "王兴兴反思AI信仰，宇树用利润换一场具身智能突围",
@@ -1941,7 +2042,7 @@
       "importance": ""
     },
     {
-      "id": "1638769620332",
+      "id": "1631965217471",
       "time_str": "2026-10-30 13:45:02",
       "time": 1793339102000,
       "title": "​菲林普利合规吗？姐妹问我的标准答案",
@@ -2001,19 +2102,7 @@
       "importance": "important"
     },
     {
-      "id": "1632180144006",
-      "time_str": "2026-10-30 13:38:49",
-      "time": 1793338729000,
-      "title": "128天亏近50%！万家基金新生代迷失在AI浪潮",
-      "text": "128天亏近50%！万家基金新生代迷失在AI浪潮",
-      "source": "网易财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://www.163.com/money/article/LAG9F5U000258105.html",
-      "importance": ""
-    },
-    {
-      "id": "1636423061077",
+      "id": "1635416433726",
       "time_str": "2026-10-30 13:38:36",
       "time": 1793338716000,
       "title": "企业AI外呼采购观察：2026主流厂商产品与功能比较",
@@ -2061,7 +2150,7 @@
       "importance": "important"
     },
     {
-      "id": "1639843630486",
+      "id": "1639834084709",
       "time_str": "2026-10-30 13:34:22",
       "time": 1793338462000,
       "title": "全球科技股“惨遭血洗”！",
@@ -2109,7 +2198,7 @@
       "importance": ""
     },
     {
-      "id": "1638994628715",
+      "id": "1633442308160",
       "time_str": "2026-10-30 13:20:02",
       "time": 1793337602000,
       "title": "转人工、走正道：平安投诉电话人工服务电话官方指南",
@@ -2157,18 +2246,6 @@
       "importance": ""
     },
     {
-      "id": "ths681284746",
-      "time_str": "2026/10/30 13:08",
-      "time": 1793336880000,
-      "title": "电池板块走高，利元亨、金杨精密涨超10%",
-      "text": "电池板块走高，利元亨、金杨精密涨超10%，紫竹高科、领湃科技、时代万恒、德方纳米、盟固利等跟涨。相关ETF方面，电池ETF华夏（512460）涨1.85%，成交额667.43万元，储能电池ETF嘉实（159052）涨1.08%，成交额175.82万元。",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "600241",
-      "url": "http://stock.10jqka.com.cn/20261030/c681284746.shtml",
-      "importance": ""
-    },
-    {
       "id": "ths681284722",
       "time_str": "2026/10/30 13:08",
       "time": 1793336880000,
@@ -2179,6 +2256,18 @@
       "stock": "301520",
       "url": "http://stock.10jqka.com.cn/20261030/c681284722.shtml",
       "importance": "important"
+    },
+    {
+      "id": "ths681284746",
+      "time_str": "2026/10/30 13:08",
+      "time": 1793336880000,
+      "title": "电池板块走高，利元亨、金杨精密涨超10%",
+      "text": "电池板块走高，利元亨、金杨精密涨超10%，紫竹高科、领湃科技、时代万恒、德方纳米、盟固利等跟涨。相关ETF方面，电池ETF华夏（512460）涨1.85%，成交额667.43万元，储能电池ETF嘉实（159052）涨1.08%，成交额175.82万元。",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "600241",
+      "url": "http://stock.10jqka.com.cn/20261030/c681284746.shtml",
+      "importance": ""
     },
     {
       "id": "ths681284675",
@@ -2253,7 +2342,7 @@
       "importance": "important"
     },
     {
-      "id": "1631819252539",
+      "id": "1631080400265",
       "time_str": "2026-10-30 12:59:39",
       "time": 1793336379000,
       "title": "万亿资金流向浮现！金融“五篇大文章”三年考：国有大行五大领域放贷增速领跑",
@@ -2277,7 +2366,7 @@
       "importance": ""
     },
     {
-      "id": "1632659906760",
+      "id": "1635306794452",
       "time_str": "2026-10-30 12:51:49",
       "time": 1793335909000,
       "title": "猪价下跌，河南“猪王”月均亏10亿！牧原股份：明年供需关系或支撑猪价上升",
@@ -2289,7 +2378,7 @@
       "importance": ""
     },
     {
-      "id": "163486851406",
+      "id": "1633970390195",
       "time_str": "2026-10-30 12:51:32",
       "time": 1793335892000,
       "title": "临近午盘，大幅拉升！两大积极信号，突袭中国资产！",
@@ -2301,7 +2390,7 @@
       "importance": ""
     },
     {
-      "id": "1633265445762",
+      "id": "1633538953018",
       "time_str": "2026-10-30 12:37:42",
       "time": 1793335062000,
       "title": "币安惊魂夜：40分钟内，63亿美元是如何被转走的？",
@@ -2313,7 +2402,7 @@
       "importance": ""
     },
     {
-      "id": "1637474945343",
+      "id": "1631817995490",
       "time_str": "2026-10-30 12:34:03",
       "time": 1793334843000,
       "title": "打针的人越多，医美公司越难过",
@@ -2325,7 +2414,7 @@
       "importance": ""
     },
     {
-      "id": "1631569625618",
+      "id": "1639606512474",
       "time_str": "2026-10-30 12:33:00",
       "time": 1793334780000,
       "title": "羽绒服越卖越专业，为什么消费者越买越费劲？",
@@ -2361,7 +2450,7 @@
       "importance": ""
     },
     {
-      "id": "1631482336310",
+      "id": "16320860556",
       "time_str": "2026-10-30 12:30:03",
       "time": 1793334603000,
       "title": "硬件钱包怎么辨真伪安全？来源‑代码‑审计‑可复现四环解读",
@@ -2370,90 +2459,6 @@
       "category": "fast",
       "stock": "",
       "url": "https://www.163.com/dy/article/LAG4THDK0531SEQJ.html",
-      "importance": ""
-    },
-    {
-      "id": "cls2520276",
-      "time_str": "",
-      "time": 1793334544000,
-      "title": "首批主动ETF冲刺收官，5只在售，7只已成立，建仓节奏成下一焦点",
-      "text": "①已结募的主动ETF增至13只，剩余正在募集的5只主动ETF中，有产品预计将在今日结募；\n②首批主动ETF募集规模已超320亿，后续建仓节奏直接影响产品上市时的净值起点。",
-      "source": "财联社",
-      "category": "fast",
-      "stock": "",
-      "url": "https://www.cls.cn/detail/2520276",
-      "importance": ""
-    },
-    {
-      "id": "1639890283510",
-      "time_str": "2026-10-30 12:27:53",
-      "time": 1793334473000,
-      "title": "星巴克、山姆，开始拒绝“白嫖”",
-      "text": "星巴克、山姆，开始拒绝“白嫖”",
-      "source": "网易财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://www.163.com/dy/article/LAG3PQ0805564B6E.html",
-      "importance": ""
-    },
-    {
-      "id": "ths681283332",
-      "time_str": "2026/10/30 12:26",
-      "time": 1793334360000,
-      "title": "美国俄勒冈州两架直升机相撞 3人死亡",
-      "text": "美国俄勒冈州亚姆希尔县警方29日晚证实，当天下午两架直升机在该州西北部相撞，造成3人死亡。据警方介绍，当地时间14时15分，两架直升机在麦克明维尔市东南部相撞后坠落，机上3人全部遇难。美国联邦航空局表示，联邦航空局和国家运输安全委员会...",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261030/c681283332.shtml",
-      "importance": ""
-    },
-    {
-      "id": "ths681283118",
-      "time_str": "2026/10/30 12:21",
-      "time": 1793334060000,
-      "title": "币安联合创始人何一表示，预计在未来48小时内恢复提款",
-      "text": "币安联合创始人何一表示，预计在未来48小时内恢复提款。（财联社）",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261030/c681283118.shtml",
-      "importance": ""
-    },
-    {
-      "id": "1639346401263",
-      "time_str": "2026-10-30 12:20:03",
-      "time": 1793334003000,
-      "title": "税慧盟丨AI新势力·合规加速营，大模型安全与备案政策宣讲交流会成功举办",
-      "text": "税慧盟丨AI新势力·合规加速营，大模型安全与备案政策宣讲交流会成功举办",
-      "source": "网易财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://www.163.com/dy/article/LAG47VHO0531SEQJ.html",
-      "importance": "important"
-    },
-    {
-      "id": "ths681283009",
-      "time_str": "2026/10/30 12:18",
-      "time": 1793333880000,
-      "title": "10月30日午间公告一览：丹诺医药选定利福喹酮优先开发PJI...",
-      "text": "丹诺医药公告，利福喹酮通过关节腔内注射给药治疗人工关节感染（PJI）的IIa期概念验证临床试验取得积极结果。本次公告称，经综合考虑临床数据、未被满足临床需求、竞争格局及商业潜力，公司已选定关节腔内注射给药治疗PJI作为利福喹酮核心优先开...",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261030/c681283009.shtml",
-      "importance": ""
-    },
-    {
-      "id": "ths681283037",
-      "time_str": "2026/10/30 12:18",
-      "time": 1793333880000,
-      "title": "阿里云发布云数据库 ClickHouse、云数据库 SelectDB 版官...",
-      "text": "阿里云将于北京时间2026年12月1日00:00:00起，调整云数据库ClickHouse、云数据库SelectDB版预付费产品的包年/多年官网折扣。本次折扣调整适用于1年、2年、3年、4年、5年的订单，包括新购、续费、升降配订单。新的折扣生效后，本次调整范围内的产...",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261030/c681283037.shtml",
       "importance": ""
     }
   ]
