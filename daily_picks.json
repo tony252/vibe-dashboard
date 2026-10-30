@@ -210578,6 +210578,16 @@
           "reason": "换手29.4% | 涨幅+5.9%"
         },
         {
+          "code": "000823",
+          "name": "超声电子",
+          "price": 17.2,
+          "change_pct": 4.053,
+          "turnover": 26.72075,
+          "volume_yi": 27.34,
+          "score": 100,
+          "reason": "换手26.7% | 涨幅+4.1%"
+        },
+        {
           "code": "600721",
           "name": "百花医药",
           "price": 9.83,
@@ -210638,6 +210648,36 @@
           "reason": "换手21.9% | 涨幅+5.8%"
         },
         {
+          "code": "002149",
+          "name": "西部材料",
+          "price": 33.57,
+          "change_pct": 3.9,
+          "turnover": 21.0878,
+          "volume_yi": 35.36,
+          "score": 100,
+          "reason": "换手21.1% | 涨幅+3.9%"
+        },
+        {
+          "code": "002009",
+          "name": "天奇股份",
+          "price": 17.23,
+          "change_pct": 3.795,
+          "turnover": 20.95564,
+          "volume_yi": 13.15,
+          "score": 100,
+          "reason": "换手21.0% | 涨幅+3.8%"
+        },
+        {
+          "code": "002949",
+          "name": "华阳国际",
+          "price": 12.8,
+          "change_pct": 3.728,
+          "turnover": 19.57049,
+          "volume_yi": 3.93,
+          "score": 100,
+          "reason": "换手19.6% | 涨幅+3.7%"
+        },
+        {
           "code": "001318",
           "name": "阳光乳业",
           "price": 14.43,
@@ -210656,46 +210696,6 @@
           "volume_yi": 5.98,
           "score": 100,
           "reason": "换手17.7% | 涨幅+10.0%"
-        },
-        {
-          "code": "603200",
-          "name": "上海洗霸",
-          "price": 51.72,
-          "change_pct": 9.996,
-          "turnover": 13.21768,
-          "volume_yi": 11.5,
-          "score": 90,
-          "reason": "换手13.2% | 涨幅+10.0%"
-        },
-        {
-          "code": "300740",
-          "name": "水羊股份",
-          "price": 18.06,
-          "change_pct": 5.862,
-          "turnover": 10.70346,
-          "volume_yi": 7.81,
-          "score": 90,
-          "reason": "换手10.7% | 涨幅+5.9%"
-        },
-        {
-          "code": "603002",
-          "name": "宏昌电子",
-          "price": 13.76,
-          "change_pct": 7.332,
-          "turnover": 10.46388,
-          "volume_yi": 16.28,
-          "score": 90,
-          "reason": "换手10.5% | 涨幅+7.3%"
-        },
-        {
-          "code": "301520",
-          "name": "万邦医药",
-          "price": 60.06,
-          "change_pct": 20.0,
-          "turnover": 43.53731,
-          "volume_yi": 8.23,
-          "score": 80,
-          "reason": "换手43.5% | 涨幅+20.0%[偏高]"
         }
       ]
     }
