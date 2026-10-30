@@ -3,14 +3,64 @@
   "capital": 100000,
   "positions": [
     {
-      "code": "300149",
-      "name": "睿智医药",
-      "buy_price": 9.16,
+      "code": "300740",
+      "name": "水羊股份",
+      "buy_price": 18.06,
       "buy_date": "2026-10-30",
-      "shares": 1000,
-      "cost": 9160.0,
+      "shares": 500,
+      "cost": 9030.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 14.643
+      "change_at_buy": 5.862
+    },
+    {
+      "code": "300712",
+      "name": "永福股份",
+      "buy_price": 19.11,
+      "buy_date": "2026-10-30",
+      "shares": 500,
+      "cost": 9555.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 5.99
+    },
+    {
+      "code": "603368",
+      "name": "柳药集团",
+      "buy_price": 16.68,
+      "buy_date": "2026-10-30",
+      "shares": 500,
+      "cost": 8340.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 5.838
+    },
+    {
+      "code": "002164",
+      "name": "宁波东力",
+      "buy_price": 19.03,
+      "buy_date": "2026-10-30",
+      "shares": 500,
+      "cost": 9515.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 5.781
+    },
+    {
+      "code": "603330",
+      "name": "天洋新材",
+      "buy_price": 10.25,
+      "buy_date": "2026-10-30",
+      "shares": 900,
+      "cost": 9225.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 5.888
+    },
+    {
+      "code": "002652",
+      "name": "扬子新材",
+      "buy_price": 3.91,
+      "buy_date": "2026-10-30",
+      "shares": 2500,
+      "cost": 9775.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 10.141
     },
     {
       "code": "003032",
@@ -23,6 +73,26 @@
       "change_at_buy": 10.055
     },
     {
+      "code": "000525",
+      "name": "红太阳",
+      "buy_price": 4.49,
+      "buy_date": "2026-10-30",
+      "shares": 2200,
+      "cost": 9878.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 10.049
+    },
+    {
+      "code": "000417",
+      "name": "合百集团",
+      "buy_price": 5.7,
+      "buy_date": "2026-10-30",
+      "shares": 1700,
+      "cost": 9690.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 10.039
+    },
+    {
       "code": "601083",
       "name": "锦江航运",
       "buy_price": 13.93,
@@ -31,77 +101,7 @@
       "cost": 9751.0,
       "reason": "黄金区间3-6%",
       "change_at_buy": 10.032
-    },
-    {
-      "code": "600664",
-      "name": "哈药股份",
-      "buy_price": 5.82,
-      "buy_date": "2026-10-30",
-      "shares": 1700,
-      "cost": 9894.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 10.019
-    },
-    {
-      "code": "600215",
-      "name": "派斯林",
-      "buy_price": 6.37,
-      "buy_date": "2026-10-30",
-      "shares": 1500,
-      "cost": 9555.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 10.017
-    },
-    {
-      "code": "600258",
-      "name": "首旅酒店",
-      "buy_price": 12.43,
-      "buy_date": "2026-10-30",
-      "shares": 800,
-      "cost": 9944.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 10.0
-    },
-    {
-      "code": "603002",
-      "name": "宏昌电子",
-      "buy_price": 14.1,
-      "buy_date": "2026-10-30",
-      "shares": 700,
-      "cost": 9870.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 9.984
-    },
-    {
-      "code": "000676",
-      "name": "智度股份",
-      "buy_price": 6.61,
-      "buy_date": "2026-10-30",
-      "shares": 1500,
-      "cost": 9915.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 9.983
-    },
-    {
-      "code": "300121",
-      "name": "阳谷华泰",
-      "buy_price": 10.14,
-      "buy_date": "2026-10-30",
-      "shares": 900,
-      "cost": 9126.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 8.333
-    },
-    {
-      "code": "300739",
-      "name": "明阳电路",
-      "buy_price": 23.89,
-      "buy_date": "2026-10-30",
-      "shares": 400,
-      "cost": 9556.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 19.99
     }
   ],
-  "total_cost": 96731.0
+  "total_cost": 94719.0
 }
