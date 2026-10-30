@@ -1,12 +1,51 @@
 {
   "date": "2026-10-30",
-  "updated_at": "2026-10-30 16:32:58",
+  "updated_at": "2026-10-30 20:03:13",
   "stats": {
-    "processed": 15,
+    "processed": 25,
     "alerts": 0,
-    "filtered": 15
+    "filtered": 17
   },
   "events": [
+    {
+      "time": "2026-10-30 19:15",
+      "type": "archive",
+      "title": "白酒龙头掀涨停潮！吃喝板块逆市猛攻，食品饮料ETF华宝（515710）标的指数涨超3%！",
+      "content": "吃喝板块今日（10月30日）逆市猛拉！白酒龙头批量上攻，部分大众品亦表现强势。截至收盘，泸州老窖、古井贡酒、迎驾贡酒、新乳业涨停，山西汾酒涨超7%，贵州茅台、五粮液...",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/money/fund/etf/2026-10-30/doc-iniwzazs2303071.shtml",
+      "stocks": [
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "match_reason": "直接提及[贵州茅台]（选股推荐）"
+        },
+        {
+          "name": "山西汾酒",
+          "code": "600809",
+          "match_reason": "直接提及[山西汾酒]（选股推荐）"
+        },
+        {
+          "name": "泸州老窖",
+          "code": "000568",
+          "match_reason": "直接提及[泸州老窖]（选股推荐）"
+        },
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "match_reason": "直接提及[五粮液]（选股推荐）"
+        },
+        {
+          "name": "迎驾贡酒",
+          "code": "603198",
+          "match_reason": "直接提及[迎驾贡酒]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
     {
       "time": "2026-10-30 16:32",
       "type": "archive",
@@ -81,6 +120,25 @@
           "name": "天亿马",
           "code": "301178",
           "match_reason": "直接提及[天亿马]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-30 12:13",
+      "type": "archive",
+      "title": "【午报】创业板指探底回升跌超1%，大消费、医药板块双双逆势走强",
+      "content": "①今日早盘大幅低开后震荡回升，三大指数跌幅收窄，但仍有超2800股下跌，其中大消费方向反复活跃，航运、医药板块同样逆势走强；\n②个股层面，早盘涨停数量为43家，封板率76%，连板股数量为7家，澳洋健康、上海沪工3连板。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2520270",
+      "stocks": [
+        {
+          "name": "澳洋健康",
+          "code": "002172",
+          "match_reason": "直接提及[澳洋健康]（选股推荐）"
         }
       ],
       "verification": {
@@ -342,7 +400,7 @@
       "现金管理"
     ]
   },
-  "mode": "report",
+  "mode": "scan",
   "week": 44,
   "stock_meta": {
     "601066": "2026-10-30 16:32",
@@ -359,18 +417,42 @@
     "001219": "2026-10-30 16:32",
     "605488": "2026-10-30 16:32",
     "600918": "2026-10-30 16:32",
-    "000858": "2026-10-30 16:32"
+    "000858": "2026-10-30 16:32",
+    "600519": "2026-10-30 20:06",
+    "600809": "2026-10-30 20:06",
+    "603198": "2026-10-30 20:06",
+    "002172": "2026-10-30 20:06"
   },
   "watchlist": [
+    {
+      "name": "泸州老窖",
+      "code": "000568",
+      "keywords": "直接提及[泸州老窖]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-10-30 20:06",
+      "first_seen": "2026-10-30 16:32",
+      "is_new": false
+    },
+    {
+      "name": "五粮液",
+      "code": "000858",
+      "keywords": "直接提及[五粮液]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-10-30 20:06",
+      "first_seen": "2026-10-30 16:32",
+      "is_new": false
+    },
     {
       "name": "中信建投",
       "code": "601066",
       "keywords": "直接提及[中信建投]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-30 16:32",
+      "selected_at": "2026-10-30 20:06",
       "first_seen": "2026-10-30 16:32",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "光洋股份",
@@ -378,9 +460,9 @@
       "keywords": "直接提及[光洋股份]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-30 16:32",
+      "selected_at": "2026-10-30 20:06",
       "first_seen": "2026-10-30 16:32",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "工商银行",
@@ -388,8 +470,38 @@
       "keywords": "直接提及[工商银行]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-30 16:32",
+      "selected_at": "2026-10-30 20:06",
       "first_seen": "2026-10-30 16:32",
+      "is_new": false
+    },
+    {
+      "name": "贵州茅台",
+      "code": "600519",
+      "keywords": "直接提及[贵州茅台]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-30 20:06",
+      "first_seen": "2026-10-30 20:06",
+      "is_new": true
+    },
+    {
+      "name": "山西汾酒",
+      "code": "600809",
+      "keywords": "直接提及[山西汾酒]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-30 20:06",
+      "first_seen": "2026-10-30 20:06",
+      "is_new": true
+    },
+    {
+      "name": "迎驾贡酒",
+      "code": "603198",
+      "keywords": "直接提及[迎驾贡酒]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-30 20:06",
+      "first_seen": "2026-10-30 20:06",
       "is_new": true
     },
     {
@@ -398,9 +510,9 @@
       "keywords": "直接提及[新华保险]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-30 16:32",
+      "selected_at": "2026-10-30 20:06",
       "first_seen": "2026-10-30 16:32",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "皇台酒业",
@@ -408,19 +520,9 @@
       "keywords": "直接提及[皇台酒业]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-30 16:32",
+      "selected_at": "2026-10-30 20:06",
       "first_seen": "2026-10-30 16:32",
-      "is_new": true
-    },
-    {
-      "name": "泸州老窖",
-      "code": "000568",
-      "keywords": "直接提及[泸州老窖]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-30 16:32",
-      "first_seen": "2026-10-30 16:32",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "中坚科技",
@@ -428,9 +530,9 @@
       "keywords": "直接提及[中坚科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-30 16:32",
+      "selected_at": "2026-10-30 20:06",
       "first_seen": "2026-10-30 16:32",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "天亿马",
@@ -438,8 +540,18 @@
       "keywords": "直接提及[天亿马]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-30 16:32",
+      "selected_at": "2026-10-30 20:06",
       "first_seen": "2026-10-30 16:32",
+      "is_new": false
+    },
+    {
+      "name": "澳洋健康",
+      "code": "002172",
+      "keywords": "直接提及[澳洋健康]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-30 20:06",
+      "first_seen": "2026-10-30 20:06",
       "is_new": true
     },
     {
@@ -448,9 +560,9 @@
       "keywords": "直接提及[德明利]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-30 16:32",
+      "selected_at": "2026-10-30 20:06",
       "first_seen": "2026-10-30 16:32",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "襄阳轴承",
@@ -458,59 +570,9 @@
       "keywords": "直接提及[襄阳轴承]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-30 16:32",
+      "selected_at": "2026-10-30 20:06",
       "first_seen": "2026-10-30 16:32",
-      "is_new": true
-    },
-    {
-      "name": "华瓷股份",
-      "code": "001216",
-      "keywords": "直接提及[华瓷股份]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-30 16:32",
-      "first_seen": "2026-10-30 16:32",
-      "is_new": true
-    },
-    {
-      "name": "青岛食品",
-      "code": "001219",
-      "keywords": "直接提及[青岛食品]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-30 16:32",
-      "first_seen": "2026-10-30 16:32",
-      "is_new": true
-    },
-    {
-      "name": "福莱新材",
-      "code": "605488",
-      "keywords": "直接提及[福莱新材]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-30 16:32",
-      "first_seen": "2026-10-30 16:32",
-      "is_new": true
-    },
-    {
-      "name": "中泰证券",
-      "code": "600918",
-      "keywords": "直接提及[中泰证券]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-30 16:32",
-      "first_seen": "2026-10-30 16:32",
-      "is_new": true
-    },
-    {
-      "name": "五粮液",
-      "code": "000858",
-      "keywords": "直接提及[五粮液]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-30 16:32",
-      "first_seen": "2026-10-30 16:32",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
