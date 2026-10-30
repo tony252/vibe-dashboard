@@ -1,51 +1,442 @@
 {
-  "update_time": "2026-10-30 08:50:33",
-  "total": 398,
+  "update_time": "2026-10-30 09:09:58",
+  "total": 394,
   "source_stats": {
     "雪球": 10,
-    "新浪财经": 35,
-    "同花顺": 100,
+    "新浪财经": 31,
     "网易财经": 223,
+    "同花顺": 100,
     "财联社": 30
   },
-  "hot_count": 23,
-  "important_count": 60,
+  "hot_count": 20,
+  "important_count": 59,
   "items": [
     {
-      "id": "xq4906220",
+      "id": "xq4906236",
       "time_str": "",
-      "time": 1793321371000,
-      "title": "纳斯达克100指数期货跌幅扩大至2%。",
-      "text": "纳斯达克100指数期货跌幅扩大至2%。",
+      "time": 1793322530000,
+      "title": "日本东证指数下跌1%，报3,963.15点。",
+      "text": "日本东证指数下跌1%，报3,963.15点。",
       "source": "雪球",
       "category": "fast",
       "stock": "",
-      "url": "http://xueqiu.com/5124430882/414624736",
-      "importance": "hot"
+      "url": "http://xueqiu.com/5124430882/414628055",
+      "importance": ""
     },
     {
-      "id": "xq4906219",
+      "id": "sinacomos:niwyfvy5582162",
       "time_str": "",
-      "time": 1793321316000,
-      "title": "日经225指数跌幅扩大至2%。",
-      "text": "日经225指数跌幅扩大至2%。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/414624640",
-      "importance": "hot"
-    },
-    {
-      "id": "sinacomos:niwyfwa2331815",
-      "time_str": "",
-      "time": 1793321314000,
-      "title": "上市银行业绩企稳回升 四大行总市值首破10万亿大关",
-      "text": "证券时报记者 谢忠翔 10月29日，银行板块逆势走强，42家A股上市银行中有40家收涨，工商银行、建设银行等多只银行股盘中创出历史新高。",
+      "time": 1793322513000,
+      "title": "思格新能建议采纳H股激励计划",
+      "text": "思格新能（06656）发布公告，已于2026年10月29日举行的董事会会议上决议建议采纳H股激励计划。 H股激励计划旨在：（i）进一步强化本公司的长期激励机制...",
       "source": "新浪财经",
       "category": "fast",
       "stock": "",
-      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-10-30/doc-iniwyfwa2331815.shtml",
-      "sub_source": "证券时报",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwyfvy5582162.shtml",
+      "sub_source": "新浪港股",
+      "importance": ""
+    },
+    {
+      "id": "xq4906235",
+      "time_str": "",
+      "time": 1793322503000,
+      "title": "台币兑美元下跌0.4%至32.622。",
+      "text": "台币兑美元下跌0.4%至32.622。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/414627987",
+      "importance": ""
+    },
+    {
+      "id": "xq4906234",
+      "time_str": "",
+      "time": 1793322485000,
+      "title": "现货黄金失守4000美元/盎司，日内跌幅0.53%。",
+      "text": "现货黄金失守4000美元/盎司，日内跌幅0.53%。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/414627916",
+      "importance": "hot"
+    },
+    {
+      "id": "xq4906233",
+      "time_str": "",
+      "time": 1793322460000,
+      "title": "纽约期银日内跌超2%，现报51.25美元/盎司。",
+      "text": "纽约期银日内跌超2%，现报51.25美元/盎司。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/414627866",
+      "importance": "hot"
+    },
+    {
+      "id": "sinacomos:niwyfvy5581429",
+      "time_str": "",
+      "time": 1793322427000,
+      "title": "恒大物业公布于10月30日上午起复牌",
+      "text": "恒大物业（06666）发布公告，该公司的股份将于2026年10月30日上午九时正起恢复买卖。",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwyfvy5581429.shtml",
+      "sub_source": "新浪港股",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwyfwc8321895",
+      "time_str": "",
+      "time": 1793322418000,
+      "title": "币安称冻结资金约30亿美元 暂停所有存储和提取功能",
+      "text": "币安在X发文表示，目前正进行安全检查、冻结资金，并与执法机关合作，在此期间暂停所有存储和提取功能。 币安另外发文表示，目前已核实的冻结资金总额约30亿美元。",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwyfwc8321895.shtml",
+      "sub_source": "环球市场播报",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwyfwf4772002",
+      "time_str": "",
+      "time": 1793322411000,
+      "title": "开盘|国内期货主力合约跌多涨少，沪银跌超4%",
+      "text": "2026年10月30日，早盘开盘，国内期货主力合约跌多涨少，沪银跌超4%，沪锡跌近4%，碳酸锂跌超3%，对二甲苯跌近3%，铂、PTA跌超2%，焦煤、多晶硅跌超1%。",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-30/doc-iniwyfwf4772002.shtml",
+      "sub_source": "市场资讯",
+      "importance": "hot"
+    },
+    {
+      "id": "xq4906232",
+      "time_str": "",
+      "time": 1793322401000,
+      "title": "富时中国A50指数期货跌幅扩大至1%。",
+      "text": "富时中国A50指数期货跌幅扩大至1%。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/414627707",
+      "importance": "hot"
+    },
+    {
+      "id": "sinacomos:niwyfwc8321532",
+      "time_str": "",
+      "time": 1793322382000,
+      "title": "应力控股于10月30日上午起短暂停牌 待刊发内幕消息",
+      "text": "应力控股（02663）发布公告，本公司股份将于2026年10月30日上午九时正起在香港联合交易所有限公司短暂停牌，以待根据公司收购及合并守则发布公告...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwyfwc8321532.shtml",
+      "sub_source": "新浪港股",
+      "importance": ""
+    },
+    {
+      "id": "1632744306020",
+      "time_str": "2026-10-30 09:06:03",
+      "time": 1793322363000,
+      "title": "河南农商银行打响改革收官战，最后一批31家机构并入、注册资本将破千亿",
+      "text": "河南农商银行打响改革收官战，最后一批31家机构并入、注册资本将破千亿",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LAFPBR7G0552FWS9.html",
+      "importance": ""
+    },
+    {
+      "id": "xq4906231",
+      "time_str": "",
+      "time": 1793322353000,
+      "title": "韩国交易所启动SIDECAR机制，暂停KOSPI程序化卖盘。",
+      "text": "韩国交易所启动SIDECAR机制，暂停KOSPI程序化卖盘。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/414627519",
+      "importance": ""
+    },
+    {
+      "id": "xq4906230",
+      "time_str": "",
+      "time": 1793322307000,
+      "title": "台交所加权股价指数下跌3%至44,966.82点。",
+      "text": "台交所加权股价指数下跌3%至44,966.82点。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/414627401",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwyfwc8320287",
+      "time_str": "",
+      "time": 1793322268000,
+      "title": "拜耳赢得圣路易斯Roundup除草剂诉讼，助力推进和解进程",
+      "text": "圣路易斯的一个陪审团驳回了三名女性的诉讼请求，她们此前声称拜耳公司（Bayer AG）的Roundup除草剂导致了她们患癌。这一裁决增强了拜耳公司控制美国境内数万起类似诉讼成...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwyfwc8320287.shtml",
+      "sub_source": "环球市场播报",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwyfwc8319721",
+      "time_str": "",
+      "time": 1793322212000,
+      "title": "东方电气前三季度归母净利润38.39亿元 同比增长29.4%",
+      "text": "东方电气（01072）发布公告，于2026年前三季度该集团取得营业总收入561.98亿元，同比增长1.22%；归属于上市公司股东的净利润38.39亿元，同比增长29.4%；基本每股收益1...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwyfwc8319721.shtml",
+      "sub_source": "新浪港股",
+      "importance": "hot"
+    },
+    {
+      "id": "sinacomos:niwyfwf4769444",
+      "time_str": "",
+      "time": 1793322152000,
+      "title": "第一拖拉机股份前三季度归母净利润约10.53亿元 同比增长5.87%",
+      "text": "第一拖拉机股份（00038）公布2026年前三季度业绩，营业收入约110.5亿元，同比增长13.89%；归属于上市公司股东的净利润约10.53亿元，同比增长5.87%；基本每股收益0.9368元。",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwyfwf4769444.shtml",
+      "sub_source": "新浪港股",
+      "importance": ""
+    },
+    {
+      "id": "xq4906229",
+      "time_str": "",
+      "time": 1793322119000,
+      "title": "10年期日本国债收益率下跌6.0个基点，至2.775%。",
+      "text": "10年期日本国债收益率下跌6.0个基点，至2.775%。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/414626874",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwyfwa2352993",
+      "time_str": "",
+      "time": 1793322097000,
+      "title": "大唐发电前三季度归母净利润约63.88亿元 同比减少4.83%",
+      "text": " 大唐发电（00991）公布2026年前三季度业绩，营业收入约899.35亿元，同比增长0.66%；归属于上市公司股东的净利润约63.88亿元，同比减少4.83%；基本每股收益0.3022元。",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwyfwa2352993.shtml",
+      "sub_source": "新浪港股",
+      "importance": "hot"
+    },
+    {
+      "id": "xq4906228",
+      "time_str": "",
+      "time": 1793322094000,
+      "title": "现货白银日内跌幅扩大至1%，报51.58美元/盎司。",
+      "text": "现货白银日内跌幅扩大至1%，报51.58美元/盎司。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/414626822",
+      "importance": ""
+    },
+    {
+      "id": "xq4906227",
+      "time_str": "",
+      "time": 1793322076000,
+      "title": "台币兑美元下跌0.3%至32.590。",
+      "text": "台币兑美元下跌0.3%至32.590。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/414626769",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwyfwf4767920",
+      "time_str": "",
+      "time": 1793322016000,
+      "title": "江苏宁沪高速公路将于12月7日派发中期股息每股0.25元",
+      "text": "江苏宁沪高速公路（00177）发布公告，该公司将于2026年12月7日派发2026年度中期股息每股人民币0.25元。",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwyfwf4767920.shtml",
+      "sub_source": "新浪港股",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwyfwc8317024",
+      "time_str": "",
+      "time": 1793321968000,
+      "title": "立讯精密将于12月23日派发第三季度股息每10股0.6元",
+      "text": "立讯精密（02475）发布公告，将于2026年12月23日派发截至2026年9月30日止九个月的股息每10股0.6元。",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwyfwc8317024.shtml",
+      "sub_source": "新浪港股",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwyfvy5574914",
+      "time_str": "",
+      "time": 1793321922000,
+      "title": "招商证券前三季度归母净利润172.82亿元 同比增长94.81%",
+      "text": " 招商证券（06099）发布公告，2026年前三季度，营业收入341.12亿元，同比增长86.98%；归属于上市公司股东的净利润172.82亿元，同比增长94.81%；基本每股收益1.93元。",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwyfvy5574914.shtml",
+      "sub_source": "新浪港股",
+      "importance": "hot"
+    },
+    {
+      "id": "sinacomos:niwyfvy5574533",
+      "time_str": "",
+      "time": 1793321860000,
+      "title": "中国能源建设前三季度归母净利润26.16亿元 同比下降17.13%",
+      "text": "中国能源建设（03996）发布公告，于2026年前三季度实现营业收入3092.37亿元（人民币，下同），同比下降4.42%；归属于上市公司股东的净利润26.16亿元，同比下降17...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwyfvy5574533.shtml",
+      "sub_source": "新浪港股",
+      "importance": "hot"
+    },
+    {
+      "id": "sinacomos:niwyfvy5574179",
+      "time_str": "",
+      "time": 1793321806000,
+      "title": "中船防务前三季度归母净利润11.54亿元 同比增加76.09%",
+      "text": "中船防务（00317）发布2026年前三季度业绩，该集团取得营业收入157.6亿元，同比增加10.09%；归属于上市公司股东的净利润11.54亿元，同比增加76.09%；基本每股收益0...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwyfvy5574179.shtml",
+      "sub_source": "新浪港股",
+      "importance": "hot"
+    },
+    {
+      "id": "sinacomos:niwyfwf4766606",
+      "time_str": "",
+      "time": 1793321800000,
+      "title": "全球最大加密货币交易所币安暂停提现 此前疑遭黑客攻击",
+      "text": " 全球最大的加密货币交易所币安已暂停所有充值和提现业务，以调查一起导致超过25亿美元资产被冻结的安全事件。这起疑似黑客攻击事件导致数字代币价格暴跌。",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwyfwf4766606.shtml",
+      "sub_source": "环球市场播报",
+      "importance": "important"
+    },
+    {
+      "id": "1634095010514",
+      "time_str": "2026-10-30 08:56:24",
+      "time": 1793321784000,
+      "title": "0.33倍PB！保利融资成本仅2.72%，69%新增土储投向四大一线城市！",
+      "text": "0.33倍PB！保利融资成本仅2.72%，69%新增土储投向四大一线城市！",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LAFP9JE20519MB19.html",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwyfvy5573860",
+      "time_str": "",
+      "time": 1793321758000,
+      "title": "中国能源建设前三季度累计新签合同额6622.69亿元同比减少33.29%",
+      "text": " 中国能源建设（03996）发布公告，该公司2026年第三季度新签合同额1490.81亿元；于2026年前三季度累计新签合同额6622.69亿元，同比减少33.29%。",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwyfvy5573860.shtml",
+      "sub_source": "新浪港股",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwyfwc8315277",
+      "time_str": "",
+      "time": 1793321714000,
+      "title": "招商证券拟出资10亿元与招商公路、招商先进等参设基金 聚焦人工智能产业",
+      "text": "招商证券（06099）公布，2026年10月29日，董事会审议通过《关于全资子公司与关联方共同投资既关联交易的议案》，据此招商致远资本（公司的全资附属公司...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwyfwc8315277.shtml",
+      "sub_source": "新浪港股",
+      "importance": ""
+    },
+    {
+      "id": "1637690843053",
+      "time_str": "2026-10-30 08:55:04",
+      "time": 1793321704000,
+      "title": "反弹一日游，科技再砸、防御护盘：三重共振还差两重",
+      "text": "反弹一日游，科技再砸、防御护盘：三重共振还差两重",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LAFOT1IN0519B826.html",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwyfwa2348936",
+      "time_str": "",
+      "time": 1793321639000,
+      "title": "领悦服务集团9800万元中标西昌市住宅用地",
+      "text": "领悦服务集团（02165）公布，于2026年10月29日（交易时段后），公司就成功标得该土地及土地收购的条款与西昌市自然资源局订立成交确认书，代价为9800万元。",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwyfwa2348936.shtml",
+      "sub_source": "新浪港股",
+      "importance": ""
+    },
+    {
+      "id": "1634690752952",
+      "time_str": "2026-10-30 08:52:32",
+      "time": 1793321552000,
+      "title": "大模型定义芯片：XHEART发布X7 Ultra，释放10倍模型参数",
+      "text": "大模型定义芯片：XHEART发布X7 Ultra，释放10倍模型参数",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LAFP23NA0552BV5U.html",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwyfwa2347179",
+      "time_str": "",
+      "time": 1793321436000,
+      "title": "远信储能于10月30日至11月4日招股 拟全球发售5754.05万股H股",
+      "text": "远信储能（09621）于2026年10月30日-2026年11月4日招股，拟全球发售5754.05万股H股，其中，香港公开发售占约10%，国际发售占约90%。",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggipo/2026-10-30/doc-iniwyfwa2347179.shtml",
+      "sub_source": "新浪港股",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:niwyfwc8312840",
+      "time_str": "",
+      "time": 1793321378000,
+      "title": "登临科技-P于10月30日至11月5日招股 拟全球发售612.5万股H股",
+      "text": "登临科技-P（09917）于2026年10月30日-2026年11月5日招股，拟全球发售612.5万股H股，其中香港公开发售占约5%，国际发售占约95%，另有15%超额配股权。",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggipo/2026-10-30/doc-iniwyfwc8312840.shtml",
+      "sub_source": "新浪港股",
       "importance": ""
     },
     {
@@ -62,6 +453,18 @@
       "importance": ""
     },
     {
+      "id": "1638406781013",
+      "time_str": "2026-10-30 08:48:21",
+      "time": 1793321301000,
+      "title": "历时一年多，恒大物业找到新东家",
+      "text": "历时一年多，恒大物业找到新东家",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LAFOLAA90519848A.html",
+      "importance": ""
+    },
+    {
       "id": "sinacomos:niwyfwf4762127",
       "time_str": "",
       "time": 1793321254000,
@@ -72,18 +475,6 @@
       "stock": "",
       "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwyfwf4762127.shtml",
       "sub_source": "新浪港股",
-      "importance": ""
-    },
-    {
-      "id": "xq4906218",
-      "time_str": "",
-      "time": 1793321224000,
-      "title": "【两市融资余额减少261.08亿元】截至10月29日，上交所融资余额报12181.89亿元，较前一交易日减少121.19亿元；深交所融资余额报11309.63亿...",
-      "text": "【两市融资余额减少261.08亿元】截至10月29日，上交所融资余额报12181.89亿元，较前一交易日减少121.19亿元；深交所融资余额报11309.63亿元，较前一交易日减少139.89亿元；两市合计23491.52亿元，较前一交易日减少261.08亿元。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/414624382",
       "importance": ""
     },
     {
@@ -111,31 +502,6 @@
       "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwyfvy5568357.shtml",
       "sub_source": "新浪港股",
       "importance": ""
-    },
-    {
-      "id": "sinacomos:niwyfwf4750131",
-      "time_str": "",
-      "time": 1793321142000,
-      "title": "普京：不想与欧洲开战，但已做好准备",
-      "text": "来源| 新华国际 俄罗斯总统普京29日表示，俄罗斯不希望与欧洲发生战争，但已做好准备。他同时警告，如果俄欧之间爆发战争，将不会有胜利者。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/wm/2026-10-30/doc-iniwyfwf4750131.shtml",
-      "sub_source": "滚动播报",
-      "importance": "hot"
-    },
-    {
-      "id": "xq4906217",
-      "time_str": "",
-      "time": 1793321135000,
-      "title": "【亚洲芯片股下跌 围绕大型科技公司的AI融资担忧加剧】决定AI交易前景的关键财报季表现平平，导致全球芯片制造商股价下跌，投资者越来越担心成本飙升和需求的可持续性...",
-      "text": "【亚洲芯片股下跌 围绕大型科技公司的AI融资担忧加剧】决定AI交易前景的关键财报季表现平平，导致全球芯片制造商股价下跌，投资者越来越担心成本飙升和需求的可持续性。最新触发因素包括亚马逊的大规模资本支出数字、英特尔因个人电脑处理器需求疲软发布低于预期的销售预测。这进一步加剧了投资者对AI热潮融资成本高昂以及这些巨额投资能否获得回报的担忧。亚洲芯片制造商普跌，其中，韩国SK海力士和日本爱德万测试跌幅最大，均超过6%。韩国Kospi指数一度下跌4.3%。“本财报季对人工智能企业来说很艰难，大多数企业都受到了人工智能泡沫和通胀担忧的双重打击，”Floodlines Research创始人、投资策略师Anna Wu表示。“更高的融资成本和信用风险最终可能会迫使超大规模数据中心运营商放缓扩张步伐。”",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/414624204",
-      "importance": "hot"
     },
     {
       "id": "sinacomos:niwyfwf4760677",
@@ -177,18 +543,6 @@
       "importance": ""
     },
     {
-      "id": "xq4906216",
-      "time_str": "",
-      "time": 1793320987000,
-      "title": "【四部门：引导和支持符合条件的燃气轮机企业通过上市、发行债券等方式拓宽融资渠道】国家能源局等四部门发布关于促进燃气轮机创新发展的指导意见。其中提出，加强财政和金...",
-      "text": "【四部门：引导和支持符合条件的燃气轮机企业通过上市、发行债券等方式拓宽融资渠道】国家能源局等四部门发布关于促进燃气轮机创新发展的指导意见。其中提出，加强财政和金融支持。落实好研发费用加计扣除、固定资产加速折旧等税收优惠政策。鼓励金融机构对符合条件的燃气轮机研制企业和自主燃气轮机项目提供贷款、担保、融资租赁、商业保险等多元化金融服务。加大国家科技重大专项对燃气轮机关键装备攻关支持力度。鼓励企业申请“两重”、再贷款、财政贴息等政策支持，扩大制造业中长期贷款投放，引导和支持符合条件的燃气轮机企业通过上市、发行债券等方式拓宽融资渠道。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/414623825",
-      "importance": "hot"
-    },
-    {
       "id": "sinacomos:niwyfwc8309217",
       "time_str": "",
       "time": 1793320976000,
@@ -212,7 +566,7 @@
       "stock": "",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwyfvy5566391.shtml",
       "sub_source": "环球市场播报",
-      "importance": "hot"
+      "importance": ""
     },
     {
       "id": "sinacomos:niwyfwa2341961",
@@ -241,171 +595,7 @@
       "importance": ""
     },
     {
-      "id": "xq4906215",
-      "time_str": "",
-      "time": 1793320876000,
-      "title": "【欧盟多国承诺加快释放4260万桶储油以稳定市场】欧盟能源专员丹·约根森29日说，欧盟成员国承诺未来数月加快释放总计4260万桶战略石油储备，以稳定燃料市场。",
-      "text": "【欧盟多国承诺加快释放4260万桶储油以稳定市场】欧盟能源专员丹·约根森29日说，欧盟成员国承诺未来数月加快释放总计4260万桶战略石油储备，以稳定燃料市场。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/414623605",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:niwyfwc8292338",
-      "time_str": "",
-      "time": 1793320859000,
-      "title": "疑似遭黑客攻击后，币安冻结25亿美元资产，比特币价格下挫",
-      "text": " 全球最大加密货币交易所币安（Binance）遭遇疑似黑客攻击，导致其冻结了逾25亿美元的资产，并引发数字代币价格大幅下挫。币安表示，尚未确认客户资金受到任何影响。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwyfwc8292338.shtml",
-      "sub_source": "环球市场播报",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:niwyfwc8290205",
-      "time_str": "",
-      "time": 1793320849000,
-      "title": "牛市早报｜工信部：加快建设覆盖完善、性能领先的新一代通信网",
-      "text": "【市场数据】 截至10月29日收盘，上证综指跌0.82%，报3651.43点；深证成指跌2.92%，报11138.2点；创业板指跌4.45%，报2517.59点。 纽约股市三大股指29日下跌。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwyfwc8290205.shtml",
-      "sub_source": "澎湃新闻",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:niwxzqi4870306",
-      "time_str": "",
-      "time": 1793320711000,
-      "title": "伊媒：伊朗尚未对美副总统来信作出回应",
-      "text": "来源：新华社 新华社德黑兰10月29日电（记者 沙达提）据伊朗塔斯尼姆通讯社29日报道，伊朗已收到美国副总统万斯致伊朗最高国家安全委员会秘书穆赫辛·雷扎伊的信...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/world/gjcj/2026-10-30/doc-iniwxzqi4870306.shtml",
-      "sub_source": "上海证券报",
-      "importance": "hot"
-    },
-    {
-      "id": "sinacomos:niwyfwa2338616",
-      "time_str": "",
-      "time": 1793320660000,
-      "title": "币安发生黑客攻击事件，逾25亿美元资金被冻结",
-      "text": " 当地时间周四，在全球最大加密货币交易所币安（Binance）发生黑客攻击事件后，包括 Circle 和 Tether 在内的多家加密货币公司冻结了 25.4 亿美元的资金。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwyfwa2338616.shtml",
-      "sub_source": "环球市场播报",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:niwyfvy5561810",
-      "time_str": "",
-      "time": 1793320599000,
-      "title": "币安称将承担全部损失 暂停所有存储和提取功能",
-      "text": "币安在X发文表示，目前正进行安全检查、冻结资金，并与执法机关合作，在此期间暂停所有存储和提取功能。 币安将承担所有损失。 正不间断在处理此事，力求解决问题。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwyfvy5561810.shtml",
-      "sub_source": "环球市场播报",
-      "importance": "hot"
-    },
-    {
-      "id": "sinacomos:niwxzqi4867965",
-      "time_str": "",
-      "time": 1793320572000,
-      "title": "张坤、杨宗昌、杨锐文……顶流基金经理最新调仓曝光",
-      "text": "随着公募基金2026年三季报密集披露，一批顶流基金经理的最新调仓路径浮出水面。 易方达基金张坤继续“减持白酒、加仓科技”；上半年的翻倍基冠军...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/roll/2026-10-30/doc-iniwxzqi4867965.shtml",
-      "sub_source": "券商中国",
-      "importance": ""
-    },
-    {
-      "id": "ths681269467",
-      "time_str": "2026/10/30 08:35",
-      "time": 1793320500000,
-      "title": "四部门：引导和支持符合条件的燃气轮机企业通过上市、发...",
-      "text": "国家能源局等四部门发布关于促进燃气轮机创新发展的指导意见。其中提出，加强财政和金融支持。落实好研发费用加计扣除、固定资产加速折旧等税收优惠政策。鼓励金融机构对符合条件的燃气轮机研制企业和自主燃气轮机项目提供贷款、担保、融资租赁...",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261030/c681269467.shtml",
-      "importance": "hot"
-    },
-    {
-      "id": "xq4906214",
-      "time_str": "",
-      "time": 1793320498000,
-      "title": "深交所公告，港股通标的证券名单调出云迹（旧），10月30日起生效。",
-      "text": "深交所公告，港股通标的证券名单调出云迹（旧），10月30日起生效。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/414622585",
-      "importance": ""
-    },
-    {
-      "id": "ths681269342",
-      "time_str": "2026/10/30 08:32",
-      "time": 1793320320000,
-      "title": "三季报披露即将收官 46股业绩获券商研报“超预期”评价",
-      "text": "三季报业绩披露即将收官，券商研报对业绩给出“超预期”评价的股票有46只。这些公司因经营效率大幅提升、行业景气度提升、产品供需格局优化、海外业务爆发等实现业绩超预期增长。今年以来，上述46只个股平均上涨16.1%，大幅跑赢大盘；其中33只滚...",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261030/c681269342.shtml",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:niwxzqf8420237",
-      "time_str": "",
-      "time": 1793320277000,
-      "title": "Rivian称有望年底前实现一个自动驾驶里程碑，解锁2.5亿美元投资款",
-      "text": "美国电动汽车制造商Rivian首席执行官RJ Scaringe 周四表示，该公司“非常有信心”在今年实现一个自动驾驶方面的里程碑，从而解锁Uber 投资中的2...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxzqf8420237.shtml",
-      "sub_source": "环球市场播报",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:niwyfvy5553918",
-      "time_str": "",
-      "time": 1793320274000,
-      "title": "赢创据悉将拒绝巴斯夫提高后的每股24欧元收购报价",
-      "text": "据媒体援引知情人士的消息报道，赢创（Evonik）计划以报价过低为由，拒绝巴斯夫（BASF）提高后的110亿欧元收购报价。 赢创可能将在未来几天就此发表声明。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwyfvy5553918.shtml",
-      "sub_source": "环球市场播报",
-      "importance": ""
-    },
-    {
-      "id": "xq4906213",
-      "time_str": "",
-      "time": 1793320240000,
-      "title": "澳大利亚第三季度PPI同比上升3.6%，前值3.60%。",
-      "text": "澳大利亚第三季度PPI同比上升3.6%，前值3.60%。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/414621972",
-      "importance": ""
-    },
-    {
-      "id": "1631274937674",
+      "id": "1631275731993",
       "time_str": "2026-10-30 08:30:30",
       "time": 1793320230000,
       "title": "重掌美邦服饰3年，61岁的周成建仍在拼",
@@ -417,19 +607,7 @@
       "importance": ""
     },
     {
-      "id": "xq4906212",
-      "time_str": "",
-      "time": 1793319952000,
-      "title": "币安称，所有存储和提取功能暂时停止。",
-      "text": "币安称，所有存储和提取功能暂时停止。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/414621281",
-      "importance": "hot"
-    },
-    {
-      "id": "1639470580109",
+      "id": "16350097681",
       "time_str": "2026-10-30 08:25:33",
       "time": 1793319933000,
       "title": "大模型定义芯片：XHEART发布X7 Ultra，释放10倍模型参数",
@@ -441,68 +619,7 @@
       "importance": ""
     },
     {
-      "id": "xq4906211",
-      "time_str": "",
-      "time": 1793319856000,
-      "title": "【国家能源局：到2030年我国燃气轮机自主创新能力显著增强 建成自主可控的“研发—制造—验证—维护”全产业链体系】国家能源局等部门发布关于促进燃气轮机创新发展的...",
-      "text": "【国家能源局：到2030年我国燃气轮机自主创新能力显著增强 建成自主可控的“研发—制造—验证—维护”全产业链体系】国家能源局等部门发布关于促进燃气轮机创新发展的指导意见，其中提到，到2030年，我国燃气轮机自主创新能力显著增强，具备整机和关键部件研发制造能力，性能和可靠性水平不断提升，智能化、绿色化、融合化发展取得显著成效，建成自主可控的“研发—制造—验证—维护”全产业链体系，基本满足国内分布式能源和海上油气平台用燃气轮机、油气长输管道压缩机等发展需要，重型燃气轮机发电试点应用取得阶段性成效。加大政策支持力度。支持气电项目采用自主燃气轮机，加强气源保障，推动有关企业给予自主燃气轮机试点项目相对稳定的天然气供给价格。充分利用保险补偿、采购等支持政策，研究给予自主燃气轮机首台（套）项目并网运行、电力安全事故应急处置等容错机制，鼓励地方政府、电网企业、用户企业采取综合措施支持自主燃气轮机首台（套）项目多发多用。鼓励各地方制定并完善气电容量电价实施方案，引导自主燃气轮机提升顶峰能力。鼓励天然气发电企业参与电力市场获取合理收益。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/414621025",
-      "importance": "important"
-    },
-    {
-      "id": "sinacomos:niwyfwa2328800",
-      "time_str": "",
-      "time": 1793319744000,
-      "title": "全球智能手机出货量大跌22%，“存储芯片报价涨至4倍”",
-      "text": "记者丨骆轶琪 编辑丨彭新，强燕 手机市场出货出现了明显下跌行情。 近日，多家第三方机构统计数据均显示，在供应链涨价行情下，全球手机市场出货量在第三季度明显承压。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/hyyj/2026-10-30/doc-iniwyfwa2328800.shtml",
-      "sub_source": "21世纪经济报道",
-      "importance": ""
-    },
-    {
-      "id": "ths681268973",
-      "time_str": "2026/10/30 08:21",
-      "time": 1793319660000,
-      "title": "昨日ETF资金整体净流入157.66亿元",
-      "text": "同花顺iFinD数据显示，2026年10月29日，ETF资金整体净流入157.66亿元，股票型净流入185.46亿元，宽基型净流入171.46亿元。当日ETF资金净流入榜单排名前3依次为：华泰柏瑞沪深300ETF（510300）净流入45.24亿元，易方达创业板ETF（159915）净流入3...",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261030/c681268973.shtml",
-      "importance": ""
-    },
-    {
-      "id": "ths681268840",
-      "time_str": "2026/10/30 08:15",
-      "time": 1793319300000,
-      "title": "全球最大的黄金ETF SPDR Gold Trust持仓较前日减少2.28吨",
-      "text": "截至2026年10月29日，全球最大的黄金ETF SPDR Gold Trust持仓量为1041.08吨，较前一个交易日减少2.28吨。",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261030/c681268840.shtml",
-      "importance": "important"
-    },
-    {
-      "id": "ths681268765",
-      "time_str": "2026/10/30 08:12",
-      "time": 1793319120000,
-      "title": "美媒称乌暂停袭击俄炼油厂",
-      "text": "据美国《华尔街日报》当地时间10月29日援引乌克兰方面知情人士消息报道，“在美国总统特朗普的施压下，乌克兰已暂停袭击俄罗斯炼油厂。”《华尔街日报》称，乌克兰从上周初开始暂停相关袭击，“预计这种情况将持续到11月3日美国中期选举之后，甚...",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261030/c681268765.shtml",
-      "importance": ""
-    },
-    {
-      "id": "1634283200175",
+      "id": "1636423850027",
       "time_str": "2026-10-30 08:11:54",
       "time": 1793319114000,
       "title": "柯达的黄色，比胶卷更值钱",
@@ -514,121 +631,6 @@
       "importance": ""
     },
     {
-      "id": "ths681267686",
-      "time_str": "2026/10/30 08:09",
-      "time": 1793318940000,
-      "title": "韩国综指跌幅扩大至4%",
-      "text": "韩国综指跌幅扩大至4%，现报5694.98点。个股方面，SK海力士跌超7%，三星电子跌超3%。",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261030/c681267686.shtml",
-      "importance": "hot"
-    },
-    {
-      "id": "sinacomos:niwxzqe2451165",
-      "time_str": "",
-      "time": 1793318892000,
-      "title": "和美药业-B于10月30日至11月4日招股 拟全球发售5521万股H股",
-      "text": "和美药业-B（00054）于2026年10月30日-2026年11月4日招股，拟全球发售5521万股H股，其中，香港公开发售占约10%，国际发售占约90%。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggipo/2026-10-30/doc-iniwxzqe2451165.shtml",
-      "sub_source": "新浪港股",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:niwxzqa5674537",
-      "time_str": "",
-      "time": 1793318825000,
-      "title": "芯德半导体于10月30日至11月5日招股 拟全球发售1.07亿股H股",
-      "text": "芯德半导体（07672）于2026年10月30日-2026年11月5日招股，拟全球发售1.07亿股H股，其中，香港公开发售占约10%，国际发售占约90%。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggipo/2026-10-30/doc-iniwxzqa5674537.shtml",
-      "sub_source": "新浪港股",
-      "importance": ""
-    },
-    {
-      "id": "ths681267604",
-      "time_str": "2026/10/30 08:07",
-      "time": 1793318820000,
-      "title": "日经225指数跌幅扩大至1%",
-      "text": "日经225指数跌幅扩大至1%，现报63863.9点。",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261030/c681267604.shtml",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:niwxzqe2450230",
-      "time_str": "",
-      "time": 1793318792000,
-      "title": "韩国加密货币交易所Pravang遭黑客攻击 损失1亿韩元",
-      "text": " 韩国加密货币交易所Pravang表示，于10月24日检测到其热钱包出现异常提款，目前估计损失约为1亿韩元（约合74，712美元）。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxzqe2450230.shtml",
-      "sub_source": "环球市场播报",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:niwxzqi4869970",
-      "time_str": "",
-      "time": 1793318754000,
-      "title": "新荷花于10月30日至11月6日招股 拟全球发售651.73万股H股",
-      "text": "新荷花（02206）于2026年10月30日-2026年11月6日招股，拟全球发售651.73万股H股，其中，香港公开发售占约10%，国际发售占约90%；发售价每股40.2-50.55港元，每手50股H股...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggipo/2026-10-30/doc-iniwxzqi4869970.shtml",
-      "sub_source": "新浪港股",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:niwxzqi4869555",
-      "time_str": "",
-      "time": 1793318706000,
-      "title": "宏芯宇于10月30日至11月9日招股 拟全球发售1471.72万股H股",
-      "text": "宏芯宇（02681）于2026年10月30日-2026年11月9日招股，拟全球发售1471.72万股H股，其中，香港公开发售占约10%，国际发售占约90%，另有15%超额配股权。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggipo/2026-10-30/doc-iniwxzqi4869555.shtml",
-      "sub_source": "新浪港股",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:niwxzqf8418385",
-      "time_str": "",
-      "time": 1793318633000,
-      "title": "锦艺集团遭SPR Trust Limited减持约3.56亿股 每股作价3.56港元",
-      "text": " 香港联交所最新数据显示，10月27日，SPR Trust Limited减持锦艺集团（00565）约3.56亿股，每股作价3.56港元，总金额约为12.67亿港元。减持后最新持股数目为0股。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwxzqf8418385.shtml",
-      "sub_source": "新浪港股",
-      "importance": "important"
-    },
-    {
-      "id": "sinacomos:niwxzqi4868381",
-      "time_str": "",
-      "time": 1793318555000,
-      "title": "日韩股市低开 韩国股市开盘下跌3%",
-      "text": "日经225指数开盘下跌0.5%，报64344.37点，受电子、金属类股拖累。韩国综合股价指数开盘下跌3.0%，报5760.35点。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxzqi4868381.shtml",
-      "sub_source": "环球市场播报",
-      "importance": "hot"
-    },
-    {
       "id": "ths681266382",
       "time_str": "2026/10/30 08:02",
       "time": 1793318520000,
@@ -638,20 +640,7 @@
       "category": "fast",
       "stock": "",
       "url": "http://news.10jqka.com.cn/20261030/c681266382.shtml",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:niwxzqi4868031",
-      "time_str": "",
-      "time": 1793318509000,
-      "title": "海丰国际遭刘克诚三日合计减持330万股 涉资约1.58亿港元",
-      "text": "香港联交所最新数据显示，10月26日至28日，刘克诚三日合计减持海丰国际（01308）330万股，总金额约为1.58亿港元。减持后最新持股数目约为3798.08万股，最新持股比例为1...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwxzqi4868031.shtml",
-      "sub_source": "新浪港股",
-      "importance": ""
+      "importance": "hot"
     },
     {
       "id": "ths681266333",
@@ -687,23 +676,10 @@
       "category": "fast",
       "stock": "",
       "url": "http://stock.10jqka.com.cn/20261030/c681266351.shtml",
-      "importance": "hot"
-    },
-    {
-      "id": "sinacomos:niwxzqe2447077",
-      "time_str": "",
-      "time": 1793318449000,
-      "title": "澜起科技遭UBS Group AG减持3.42万股 每股作价约221.95港元",
-      "text": "香港联交所最新数据显示，10月23日，UBS Group AG减持澜起科技（06809）3.42万股，每股作价221.9497港元，总金额约为759.07万港元。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwxzqe2447077.shtml",
-      "sub_source": "新浪港股",
       "importance": ""
     },
     {
-      "id": "163116148818",
+      "id": "1637199866746",
       "time_str": "2026-10-30 08:00:48",
       "time": 1793318448000,
       "title": "奢侈品巨头持续大跌，奢侈品的高端信仰怎么了？",
@@ -712,45 +688,6 @@
       "category": "fast",
       "stock": "",
       "url": "https://www.163.com/dy/article/LABTAKPV0519A56K.html",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:niwxzqf8416676",
-      "time_str": "",
-      "time": 1793318392000,
-      "title": "币安正调查可能为史上最大规模的加密货币黑客攻击事件",
-      "text": " 加密货币交易所币安正对一起疑似史上最大规模的加密货币黑客攻击事件展开调查。周四下午，用户钱包中有超过 57 亿美元资产被转出。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxzqf8416676.shtml",
-      "sub_source": "环球市场播报",
-      "importance": "important"
-    },
-    {
-      "id": "sinacomos:niwxzqe2446632",
-      "time_str": "",
-      "time": 1793318392000,
-      "title": "HASHKEY HLDGS获董事会主席肖风三日增持230.88万股 耗资约433.64万港元",
-      "text": "香港联交所最新数据显示，10月23日、26日、27日，董事会主席肖风增持HASHKEY HLDGS（03887）230.88万股，总金额约为433.64万港元。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwxzqe2446632.shtml",
-      "sub_source": "新浪港股",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:niwxzqf8416455",
-      "time_str": "",
-      "time": 1793318325000,
-      "title": "建滔积层板获Hallgain Management Limited增持90万股 每股作价36.01港元",
-      "text": "香港联交所最新数据显示，10月26日，Hallgain Management Limited增持建滔积层板（01888）90万股，每股作价36.01港元，总金额约为3240.9万港元。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwxzqf8416455.shtml",
-      "sub_source": "新浪港股",
       "importance": ""
     },
     {
@@ -766,20 +703,7 @@
       "importance": "important"
     },
     {
-      "id": "sinacomos:niwxzqi4866804",
-      "time_str": "",
-      "time": 1793318266000,
-      "title": "建滔集团获Hallgain Management Limited增持50万股 每股作价44.81港元",
-      "text": "香港联交所最新数据显示，10月26日，Hallgain Management Limited增持建滔集团（00148）50万股，每股作价44.81港元，总金额约为2240.5万港元。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwxzqi4866804.shtml",
-      "sub_source": "新浪港股",
-      "importance": ""
-    },
-    {
-      "id": "1638271296529",
+      "id": "1638491299466",
       "time_str": "2026-10-30 07:48:38",
       "time": 1793317718000,
       "title": "科技股大跌！但这个你瞧不上的板块，彻底涨疯了",
@@ -839,7 +763,7 @@
       "importance": ""
     },
     {
-      "id": "1636706010020",
+      "id": "1634687191030",
       "time_str": "2026-10-30 07:36:36",
       "time": 1793316996000,
       "title": "订单排到2031年，中国又一个行业全球爆单",
@@ -923,7 +847,7 @@
       "importance": ""
     },
     {
-      "id": "163155632633",
+      "id": "1631240140588",
       "time_str": "2026-10-30 07:22:23",
       "time": 1793316143000,
       "title": "头部FOF，选基秘诀曝光！",
@@ -935,7 +859,7 @@
       "importance": ""
     },
     {
-      "id": "1632636473686",
+      "id": "1634938004105",
       "time_str": "2026-10-30 07:22:04",
       "time": 1793316124000,
       "title": "刚刚，全线跳水！两大利空，突袭美股",
@@ -959,7 +883,7 @@
       "importance": ""
     },
     {
-      "id": "1631618664952",
+      "id": "1631492400809",
       "time_str": "2026-10-30 07:17:37",
       "time": 1793315857000,
       "title": "资本圈大瓜！1.7倍杠杆豪赌东山精密，知名游资爆仓了？",
@@ -971,7 +895,7 @@
       "importance": ""
     },
     {
-      "id": "1635216109867",
+      "id": "1633321467218",
       "time_str": "2026-10-30 07:12:04",
       "time": 1793315524000,
       "title": "恒大物业新东家，定了",
@@ -993,6 +917,18 @@
       "stock": "",
       "url": "http://stock.10jqka.com.cn/20261030/c681264889.shtml",
       "importance": ""
+    },
+    {
+      "id": "cls2519971",
+      "time_str": "",
+      "time": 1793314800000,
+      "title": "【早报】谷歌跌12%，英特尔盘后跌超20%；沪市9只主动ETF全部完成募集；中际旭创、新易盛、胜宏科技等披露三季报",
+      "text": "①商务部：如欧方对中国产品采取歧视性限制措施，中方必将采取一切必要措施②沪市9只主动ETF全部完成募集③美股收跌，纳指跌超1%④中际旭创、新易盛、胜宏科技等披露三季报⑤中微公司、华虹宏力等计划回购股份。",
+      "source": "财联社",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.cls.cn/detail/2519971",
+      "importance": "important"
     },
     {
       "id": "ths681264559",
@@ -1031,7 +967,7 @@
       "importance": "important"
     },
     {
-      "id": "1633638021585",
+      "id": "1633595197424",
       "time_str": "2026-10-30 06:54:56",
       "time": 1793314496000,
       "title": "纳指深夜下挫超360点，谷歌单日市值蒸发近5000亿美元，光通信巨头大跌13%",
@@ -1055,7 +991,7 @@
       "importance": ""
     },
     {
-      "id": "1634353999600",
+      "id": "163779242898",
       "time_str": "2026-10-30 06:49:17",
       "time": 1793314157000,
       "title": "AWS收入劲增39%但AI支出吓退市场，亚马逊Q3自由现金流恶化，线上销售乏力，盘后跳水",
@@ -1091,7 +1027,7 @@
       "importance": ""
     },
     {
-      "id": "1632041808312",
+      "id": "163429724352",
       "time_str": "2026-10-30 06:38:08",
       "time": 1793313488000,
       "title": "SpaceX最大单一客户曝光，Anthropic每月付款逾30亿美元，Q3营收占比超1/3",
@@ -1175,7 +1111,7 @@
       "importance": "important"
     },
     {
-      "id": "1634650404119",
+      "id": "1638874933819",
       "time_str": "2026-10-30 06:08:03",
       "time": 1793311683000,
       "title": "人民日报：警惕“中国AI跑偏论”",
@@ -1259,7 +1195,7 @@
       "importance": ""
     },
     {
-      "id": "1633610442535",
+      "id": "1631180531521",
       "time_str": "2026-10-30 05:16:08",
       "time": 1793308568000,
       "title": "闪迪Q1财季营收同比暴增近4倍，Q2营收指引超预期，数据中心仍是明年增长核心",
@@ -1283,7 +1219,7 @@
       "importance": ""
     },
     {
-      "id": "1632678669889",
+      "id": "1637840811545",
       "time_str": "2026-10-30 05:10:38",
       "time": 1793308238000,
       "title": "英特尔暴跌！Q4指引远逊预期，以色列工厂爆炸，PC需求疲软，AI芯片供应受限",
@@ -1316,7 +1252,7 @@
       "category": "fast",
       "stock": "",
       "url": "http://stock.10jqka.com.cn/20261030/c681263760.shtml",
-      "importance": "hot"
+      "importance": ""
     },
     {
       "id": "ths681263738",
@@ -1451,18 +1387,6 @@
       "importance": ""
     },
     {
-      "id": "ths681263677",
-      "time_str": "2026/10/30 04:08",
-      "time": 1793304480000,
-      "title": "Coinbase第三季度总收入为12.2亿美元，市场预计为12.2亿美元",
-      "text": "Coinbase第三季度总收入为12.2亿美元，市场预计为12.2亿美元.",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261030/c681263677.shtml",
-      "importance": ""
-    },
-    {
       "id": "ths681263676",
       "time_str": "2026/10/30 04:08",
       "time": 1793304480000,
@@ -1472,6 +1396,18 @@
       "category": "fast",
       "stock": "",
       "url": "http://stock.10jqka.com.cn/20261030/c681263676.shtml",
+      "importance": ""
+    },
+    {
+      "id": "ths681263677",
+      "time_str": "2026/10/30 04:08",
+      "time": 1793304480000,
+      "title": "Coinbase第三季度总收入为12.2亿美元，市场预计为12.2亿美元",
+      "text": "Coinbase第三季度总收入为12.2亿美元，市场预计为12.2亿美元.",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "",
+      "url": "http://stock.10jqka.com.cn/20261030/c681263677.shtml",
       "importance": ""
     },
     {
@@ -1559,7 +1495,7 @@
       "importance": ""
     },
     {
-      "id": "1639017836185",
+      "id": "1634223622157",
       "time_str": "2026-10-30 03:42:13",
       "time": 1793302933000,
       "title": "中金公司，失意的六年",
@@ -1595,7 +1531,7 @@
       "importance": ""
     },
     {
-      "id": "1632230167361",
+      "id": "1638595086119",
       "time_str": "2026-10-30 03:09:45",
       "time": 1793300985000,
       "title": "爱马仕也终于卖不动了吗？",
@@ -1607,7 +1543,7 @@
       "importance": ""
     },
     {
-      "id": "1635610106401",
+      "id": "1634445333675",
       "time_str": "2026-10-30 03:08:15",
       "time": 1793300895000,
       "title": "芯片巨头业绩激增！葛卫东，没卖",
@@ -1619,7 +1555,7 @@
       "importance": ""
     },
     {
-      "id": "1634245640409",
+      "id": "1634728536172",
       "time_str": "2026-10-30 03:07:47",
       "time": 1793300867000,
       "title": "净利最高暴增约324倍！深市存储公司三季报亮眼，“超级周期”远未结束？",
@@ -1667,7 +1603,7 @@
       "importance": ""
     },
     {
-      "id": "1635594977559",
+      "id": "1639939949137",
       "time_str": "2026-10-30 02:48:38",
       "time": 1793299718000,
       "title": "“易中天”前三季度净赚超350亿元！A股光模块调整，多家券商紧急发声",
@@ -1691,7 +1627,7 @@
       "importance": ""
     },
     {
-      "id": "1632275012215",
+      "id": "1636711305740",
       "time_str": "2026-10-30 02:43:08",
       "time": 1793299388000,
       "title": "A股养猪龙头，前三季度亏损超90亿元",
@@ -1700,18 +1636,6 @@
       "category": "fast",
       "stock": "",
       "url": "https://www.163.com/dy/article/LAF3UJ1J05199NPP.html",
-      "importance": ""
-    },
-    {
-      "id": "ths681263462",
-      "time_str": "2026/10/30 02:37",
-      "time": 1793299020000,
-      "title": "Polymarket 第三方服务商被入侵 平台暂停交易并承诺全额赔付",
-      "text": "Polymarket：我们已发现并修复了影响我们国际平台的问题。我方一家第三方服务提供商遭到入侵，我们已将此事移交相关执法部门。任何受到影响的人都将获得全额补偿。出于充分谨慎，我们已暂时停止交易，并正努力使平台恢复上线。",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261030/c681263462.shtml",
       "importance": ""
     },
     {
@@ -1724,6 +1648,18 @@
       "category": "fast",
       "stock": "300750",
       "url": "http://stock.10jqka.com.cn/20261030/c681263461.shtml",
+      "importance": ""
+    },
+    {
+      "id": "ths681263462",
+      "time_str": "2026/10/30 02:37",
+      "time": 1793299020000,
+      "title": "Polymarket 第三方服务商被入侵 平台暂停交易并承诺全额赔付",
+      "text": "Polymarket：我们已发现并修复了影响我们国际平台的问题。我方一家第三方服务提供商遭到入侵，我们已将此事移交相关执法部门。任何受到影响的人都将获得全额补偿。出于充分谨慎，我们已暂时停止交易，并正努力使平台恢复上线。",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "",
+      "url": "http://stock.10jqka.com.cn/20261030/c681263462.shtml",
       "importance": ""
     },
     {
@@ -1808,10 +1744,10 @@
       "category": "fast",
       "stock": "",
       "url": "http://stock.10jqka.com.cn/20261030/c681263324.shtml",
-      "importance": ""
+      "importance": "hot"
     },
     {
-      "id": "1638412127613",
+      "id": "1631720557835",
       "time_str": "2026-10-30 01:51:56",
       "time": 1793296316000,
       "title": "比爱马仕还保值的Goyard狗牙，也开始变相降价了",
@@ -1823,7 +1759,7 @@
       "importance": ""
     },
     {
-      "id": "1631029474270",
+      "id": "1634750866836",
       "time_str": "2026-10-30 01:51:34",
       "time": 1793296294000,
       "title": "几十万所乡村小学，正在变成酒店客房",
@@ -1835,7 +1771,7 @@
       "importance": ""
     },
     {
-      "id": "1634825825888",
+      "id": "1637753680348",
       "time_str": "2026-10-30 01:51:31",
       "time": 1793296291000,
       "title": "顶流企业家张雪，身价40亿了",
@@ -1847,7 +1783,7 @@
       "importance": ""
     },
     {
-      "id": "1639704564497",
+      "id": "1638795306056",
       "time_str": "2026-10-30 01:51:20",
       "time": 1793296280000,
       "title": "网红跨境电商破产：负债8亿",
@@ -1895,7 +1831,7 @@
       "importance": ""
     },
     {
-      "id": "1637251650980",
+      "id": "1636101900795",
       "time_str": "2026-10-30 01:47:42",
       "time": 1793296062000,
       "title": "新东方为何股价大跌",
@@ -1907,7 +1843,7 @@
       "importance": ""
     },
     {
-      "id": "1639408876425",
+      "id": "163925805553",
       "time_str": "2026-10-30 01:42:21",
       "time": 1793295741000,
       "title": "永远、永远不要满仓股票！我用真金白银换来的教训",
@@ -1928,10 +1864,10 @@
       "category": "fast",
       "stock": "",
       "url": "http://stock.10jqka.com.cn/20261030/c681263239.shtml",
-      "importance": ""
+      "importance": "hot"
     },
     {
-      "id": "1633543044047",
+      "id": "163813248654",
       "time_str": "2026-10-30 01:38:17",
       "time": 1793295497000,
       "title": "宇树科技扣非利润滑坡，研发、销售翻倍烧钱",
@@ -1943,7 +1879,7 @@
       "importance": ""
     },
     {
-      "id": "1637089261127",
+      "id": "1634495234628",
       "time_str": "2026-10-30 01:36:34",
       "time": 1793295394000,
       "title": "罕见跌停！“新中金”开局先挨一记闷棍",
@@ -1979,7 +1915,7 @@
       "importance": "important"
     },
     {
-      "id": "1633153120003",
+      "id": "163388039587",
       "time_str": "2026-10-30 01:29:44",
       "time": 1793294984000,
       "title": "601138，新一代AI机柜重要进展！",
@@ -1991,7 +1927,7 @@
       "importance": ""
     },
     {
-      "id": "1633737377469",
+      "id": "1639577371354",
       "time_str": "2026-10-30 01:25:31",
       "time": 1793294731000,
       "title": "拉加德将提前卸任欧央行行长，欧洲市场人士作何评价？",
@@ -2003,7 +1939,7 @@
       "importance": "important"
     },
     {
-      "id": "1637923992463",
+      "id": "1639570185786",
       "time_str": "2026-10-30 01:25:13",
       "time": 1793294713000,
       "title": "前三季度广义财政支出超27万亿，四季度将加力",
@@ -2015,7 +1951,7 @@
       "importance": ""
     },
     {
-      "id": "163327744453",
+      "id": "1633406492603",
       "time_str": "2026-10-30 01:24:17",
       "time": 1793294657000,
       "title": "三丽鸥联名翻车：IP联名可以跨界，不能跨越历史底线",
@@ -2027,7 +1963,7 @@
       "importance": ""
     },
     {
-      "id": "1638533538586",
+      "id": "1636965208692",
       "time_str": "2026-10-30 01:21:00",
       "time": 1793294460000,
       "title": "汤臣倍健再创业：向新、向稳、向全球",
@@ -2051,7 +1987,7 @@
       "importance": "important"
     },
     {
-      "id": "1635822206332",
+      "id": "1631910776586",
       "time_str": "2026-10-30 01:10:25",
       "time": 1793293825000,
       "title": "深夜道歉！被骂上热搜，三丽鸥这次闯大祸了",
@@ -2063,7 +1999,7 @@
       "importance": ""
     },
     {
-      "id": "1632567562133",
+      "id": "1635774583827",
       "time_str": "2026-10-30 01:09:13",
       "time": 1793293753000,
       "title": "400亿存储芯片龙头，净利大增超3800%",
@@ -2075,7 +2011,7 @@
       "importance": ""
     },
     {
-      "id": "1639581512901",
+      "id": "1639959441483",
       "time_str": "2026-10-30 01:07:47",
       "time": 1793293667000,
       "title": "飞机制造巨头波音陷亏损",
@@ -2123,7 +2059,7 @@
       "importance": ""
     },
     {
-      "id": "1639023325478",
+      "id": "1631430440956",
       "time_str": "2026-10-30 00:43:17",
       "time": 1793292197000,
       "title": "同比增长10%！吉利汽车三季度营收990亿元，管理层却直言“并不满意”",
@@ -2147,7 +2083,7 @@
       "importance": ""
     },
     {
-      "id": "1632734947221",
+      "id": "1634763223710",
       "time_str": "2026-10-30 00:33:11",
       "time": 1793291591000,
       "title": "煤企“股神”，1天净赚6251万元",
@@ -2159,7 +2095,7 @@
       "importance": ""
     },
     {
-      "id": "1633975014171",
+      "id": "1639151235325",
       "time_str": "2026-10-30 00:28:58",
       "time": 1793291338000,
       "title": "700亿央企押中AI算力，净利暴增172%",
@@ -2171,7 +2107,7 @@
       "importance": ""
     },
     {
-      "id": "1634140249514",
+      "id": "1635366314492",
       "time_str": "2026-10-30 00:18:59",
       "time": 1793290739000,
       "title": "“12月美联储也可能维持利率不变”",
@@ -2183,7 +2119,7 @@
       "importance": "important"
     },
     {
-      "id": "1634436797961",
+      "id": "163268132090",
       "time_str": "2026-10-30 00:18:18",
       "time": 1793290698000,
       "title": "金华老板卖纸尿裤，9个月进账30亿",
@@ -2204,10 +2140,10 @@
       "category": "fast",
       "stock": "",
       "url": "http://stock.10jqka.com.cn/20261030/c681262790.shtml",
-      "importance": "hot"
+      "importance": ""
     },
     {
-      "id": "1632275072730",
+      "id": "1637904898257",
       "time_str": "2026-10-30 00:15:50",
       "time": 1793290550000,
       "title": "利好来了，撬动超11万亿元投资",
@@ -2315,7 +2251,19 @@
       "importance": ""
     },
     {
-      "id": "1639671514694",
+      "id": "ths681262032",
+      "time_str": "2026/10/29 23:13",
+      "time": 1793286780000,
+      "title": "新易盛：正在推进NPO产品开发 预计2027年实现批量出货",
+      "text": "新易盛10月29日在电话会议上表示，公司正在顺利推进NPO产品开发，预计2027年实现批量出货，2028年有望进入大规模出货。产能及材料端正与客户紧密配合，并提前规划产能，NPO起量后将成为公司主要产品及重要业绩贡献点。",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "300502",
+      "url": "http://stock.10jqka.com.cn/20261029/c681262032.shtml",
+      "importance": ""
+    },
+    {
+      "id": "1631244038497",
       "time_str": "2026-10-29 23:01:28",
       "time": 1793286088000,
       "title": "前湖北“孝感首富”离婚纠纷，4.15亿股将被司法冻结|司见",
@@ -2327,7 +2275,19 @@
       "importance": ""
     },
     {
-      "id": "1635296502208",
+      "id": "ths681261912",
+      "time_str": "2026/10/29 23:00",
+      "time": 1793286000000,
+      "title": "期市夜盘收盘，国内期货主力合约多数下跌",
+      "text": "期市夜盘收盘，国内期货主力合约多数下跌。跌幅方面，燃油、PTA、低硫燃油、对二甲苯跌超2%，焦炭、短纤、焦煤跌超1%。涨幅方面，烧碱涨超2%，纸浆、玻璃涨超1%。",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "",
+      "url": "http://goodsfu.10jqka.com.cn/20261029/c681261912.shtml",
+      "importance": ""
+    },
+    {
+      "id": "1632653105441",
       "time_str": "2026-10-29 22:59:10",
       "time": 1793285950000,
       "title": "前湖北“孝感首富”离婚纠纷，4.15亿股将被司法冻结|司见",
@@ -2339,7 +2299,43 @@
       "importance": ""
     },
     {
-      "id": "1637721234953",
+      "id": "ths681261895",
+      "time_str": "2026/10/29 22:58",
+      "time": 1793285880000,
+      "title": "新易盛：公司已对Q4及明年订单交付做好充分准备，有信心...",
+      "text": "新易盛发布投资者关系活动记录表，其中提到，今年原材料供应整体偏紧，且不局限于单一物料。随着行业交付体量的快速增长，核心原材料备货周期进一步拉长，需充分做好提前规划。公司已对Q4及明年订单交付做好充分准备，有信心满足大幅增长的交付...",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "300502",
+      "url": "http://stock.10jqka.com.cn/20261029/c681261895.shtml",
+      "importance": ""
+    },
+    {
+      "id": "ths681261866",
+      "time_str": "2026/10/29 22:56",
+      "time": 1793285760000,
+      "title": "巴勒斯坦总统：希望以色列新政府为重启和谈创造条件",
+      "text": "巴勒斯坦通讯社29日报道，巴勒斯坦总统阿巴斯表示，希望以色列新一届政府的组建能够为重启巴以政治谈判创造条件。据报道，阿巴斯当天与塞浦路斯总统赫里斯托祖利季斯会晤时表示，巴方多年来一直向以色列提出和平谈判倡议，期待双方民众能够在安...",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "",
+      "url": "http://stock.10jqka.com.cn/20261029/c681261866.shtml",
+      "importance": ""
+    },
+    {
+      "id": "ths681261844",
+      "time_str": "2026/10/29 22:51",
+      "time": 1793285460000,
+      "title": "卡塔尔据称向伊朗提交结束战事草案",
+      "text": "综合美国阿克西奥斯新闻网站和路透社报道，卡塔尔10月25日向伊朗提交了一份旨在结束伊朗与美国、以色列之间战事的新协议草案。与伊朗9月底提出的“七日计划”不同，新草案尝试说服伊朗允许联合国调查人员访问其遭轰炸的核设施，以换取美国放松部...",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "",
+      "url": "http://stock.10jqka.com.cn/20261029/c681261844.shtml",
+      "importance": "important"
+    },
+    {
+      "id": "1635414366611",
       "time_str": "2026-10-29 22:50:41",
       "time": 1793285441000,
       "title": "前三季度成绩单来了！阳光人寿净利增超六成，新业务价值57亿",
@@ -2351,7 +2347,7 @@
       "importance": ""
     },
     {
-      "id": "1636718767587",
+      "id": "1636463527666",
       "time_str": "2026-10-29 22:48:25",
       "time": 1793285305000,
       "title": "身家1270亿元！蓝思科技周群飞成新晋中国女首富",
@@ -2363,7 +2359,7 @@
       "importance": ""
     },
     {
-      "id": "1633960625081",
+      "id": "1636373759413",
       "time_str": "2026-10-29 22:47:12",
       "time": 1793285232000,
       "title": "江波龙第三季度净利润环比下降44%，存储价格涨幅较前期明显收窄",
@@ -2375,7 +2371,31 @@
       "importance": ""
     },
     {
-      "id": "1639826096461",
+      "id": "ths681261743",
+      "time_str": "2026/10/29 22:47",
+      "time": 1793285220000,
+      "title": "NYMEX天然气主力合约跌超4%",
+      "text": "NYMEX天然气主力合约跌超4%，现报2.9美元/百万英热。",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "",
+      "url": "http://stock.10jqka.com.cn/20261029/c681261743.shtml",
+      "importance": ""
+    },
+    {
+      "id": "ths681261494",
+      "time_str": "2026/10/29 22:40",
+      "time": 1793284800000,
+      "title": "硫磺价格狂飙 年内价格涨了近一倍",
+      "text": "记者了解到，今年以来，国内硫磺价格一度大幅上涨，最高时达到每吨11600元，最大涨幅超210%，目前虽有回落，但年内涨幅依然有近一倍。我国是硫磺进口大国，受国际局势影响，今年我国硫磺进口量明显减少，国内主要沿江港口硫磺库存一度仅为去年同...",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "",
+      "url": "http://stock.10jqka.com.cn/20261029/c681261494.shtml",
+      "importance": "important"
+    },
+    {
+      "id": "1636032541834",
       "time_str": "2026-10-29 22:35:21",
       "time": 1793284521000,
       "title": "定增的9个亿还没焐热，九个老板就要带南亚新材去香港再敲钟！",
@@ -2387,7 +2407,7 @@
       "importance": "important"
     },
     {
-      "id": "1631316876993",
+      "id": "1634661176302",
       "time_str": "2026-10-29 22:26:43",
       "time": 1793284003000,
       "title": "80后夫妻做晶圆搬运，把弥费科技送到科创板门口",
@@ -2399,7 +2419,7 @@
       "importance": ""
     },
     {
-      "id": "1635873676381",
+      "id": "1631466844485",
       "time_str": "2026-10-29 22:22:36",
       "time": 1793283756000,
       "title": "羽绒服越卖越专业，为什么消费者越买越费劲？",
@@ -2411,7 +2431,7 @@
       "importance": ""
     },
     {
-      "id": "1639661818280",
+      "id": "1638265970828",
       "time_str": "2026-10-29 22:22:24",
       "time": 1793283744000,
       "title": "九阳股份不到一个月大涨150%，王旭宁爆赚70亿后套现",
@@ -2420,30 +2440,6 @@
       "category": "fast",
       "stock": "",
       "url": "https://www.163.com/dy/article/LAEL0NLE0519MPBR.html",
-      "importance": "important"
-    },
-    {
-      "id": "1631245619287",
-      "time_str": "2026-10-29 22:05:07",
-      "time": 1793282707000,
-      "title": "“存算运一体化”提速，佰维存储构建AI算力时代基础设施",
-      "text": "“存算运一体化”提速，佰维存储构建AI算力时代基础设施",
-      "source": "网易财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://www.163.com/dy/article/LAEJ87KT0519875F.html",
-      "importance": ""
-    },
-    {
-      "id": "1631593418009",
-      "time_str": "2026-10-29 22:04:12",
-      "time": 1793282652000,
-      "title": "昆仑万维三季度毛利率74.41%，天工AI收入43.21亿元同比增168.29%",
-      "text": "昆仑万维三季度毛利率74.41%，天工AI收入43.21亿元同比增168.29%",
-      "source": "网易财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://www.163.com/dy/article/LAEJPRGP0519875F.html",
       "importance": "important"
     }
   ]
