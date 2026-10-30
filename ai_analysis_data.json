@@ -3,331 +3,345 @@
     "indices": [
       {
         "name": "上证指数",
-        "current": 3659.66,
-        "pct": 0.23
+        "current": 3637.79,
+        "pct": -0.37
       },
       {
         "name": "深证成指",
-        "current": 11168.83,
-        "pct": 0.28
+        "current": 11060.93,
+        "pct": -0.69
       },
       {
         "name": "创业板指",
-        "current": 2516.86,
-        "pct": -0.03
+        "current": 2484.28,
+        "pct": -1.32
       },
       {
         "name": "沪深300",
-        "current": 4045.07,
-        "pct": 0.08
+        "current": 4024.43,
+        "pct": -0.43
       },
       {
         "name": "科创50",
-        "current": 1217.99,
-        "pct": -0.82
+        "current": 1199.08,
+        "pct": -2.36
       },
       {
         "name": "上证50",
-        "current": 2764.67,
-        "pct": 0.07
+        "current": 2754.04,
+        "pct": -0.32
       },
       {
         "name": "中证500",
-        "current": 6481.54,
-        "pct": 0.43
+        "current": 6410.13,
+        "pct": -0.68
       },
       {
         "name": "中证1000",
-        "current": 6425.04,
-        "pct": 0.73
+        "current": 6335.03,
+        "pct": -0.69
       }
     ],
     "top_gainers": [
       {
-        "name": "*ST航图",
-        "code": "688066",
-        "price": 5.57,
-        "change_pct": 20.04,
-        "turnover": 3.37
+        "name": "津滨发展",
+        "code": "000897",
+        "price": 1.84,
+        "change_pct": 10.18,
+        "turnover": 2.44
       },
       {
-        "name": "阳普医疗",
-        "code": "300030",
-        "price": 7.31,
-        "change_pct": 20.03,
-        "turnover": 15.37
+        "name": "扬子新材",
+        "code": "002652",
+        "price": 3.91,
+        "change_pct": 10.14,
+        "turnover": 4.13
       },
       {
-        "name": "睿智医药",
-        "code": "300149",
-        "price": 9.59,
-        "change_pct": 20.02,
-        "turnover": 11.84
+        "name": "东方海洋",
+        "code": "002086",
+        "price": 2.83,
+        "change_pct": 10.12,
+        "turnover": 26.54
       },
       {
-        "name": "金丹科技",
-        "code": "300829",
-        "price": 25.66,
-        "change_pct": 20.02,
-        "turnover": 15.05
+        "name": "黑芝麻",
+        "code": "000716",
+        "price": 5.24,
+        "change_pct": 10.08,
+        "turnover": 3.91
       },
       {
-        "name": "满坤科技",
-        "code": "301132",
-        "price": 56.08,
-        "change_pct": 20.01,
-        "turnover": 16.16
+        "name": "澳洋健康",
+        "code": "002172",
+        "price": 5.91,
+        "change_pct": 10.06,
+        "turnover": 29.39
       },
       {
-        "name": "毕得医药",
-        "code": "688073",
-        "price": 67.56,
-        "change_pct": 20.0,
-        "turnover": 8.2
+        "name": "传智教育",
+        "code": "003032",
+        "price": 9.96,
+        "change_pct": 10.06,
+        "turnover": 6.28
       },
       {
-        "name": "欧圣电气",
-        "code": "301187",
-        "price": 16.8,
-        "change_pct": 20.0,
-        "turnover": 2.96
+        "name": "红太阳",
+        "code": "000525",
+        "price": 4.49,
+        "change_pct": 10.05,
+        "turnover": 2.99
       },
       {
-        "name": "万邦医药",
-        "code": "301520",
-        "price": 60.06,
-        "change_pct": 20.0,
-        "turnover": 40.18
+        "name": "沈阳机床",
+        "code": "000410",
+        "price": 5.37,
+        "change_pct": 10.04,
+        "turnover": 1.85
       },
       {
-        "name": "必易微",
-        "code": "688045",
-        "price": 61.87,
-        "change_pct": 20.0,
-        "turnover": 6.46
+        "name": "合百集团",
+        "code": "000417",
+        "price": 5.7,
+        "change_pct": 10.04,
+        "turnover": 4.81
       },
       {
-        "name": "百洋医药",
-        "code": "301015",
-        "price": 27.25,
-        "change_pct": 19.99,
-        "turnover": 3.59
+        "name": "金房能源",
+        "code": "001210",
+        "price": 21.65,
+        "change_pct": 10.01,
+        "turnover": 6.78
       },
       {
-        "name": "明阳电路",
-        "code": "300739",
-        "price": 23.89,
-        "change_pct": 19.99,
-        "turnover": 10.26
+        "name": "皇台酒业",
+        "code": "000995",
+        "price": 14.18,
+        "change_pct": 10.01,
+        "turnover": 28.33
       },
       {
-        "name": "近岸蛋白",
-        "code": "688137",
-        "price": 153.0,
-        "change_pct": 18.15,
-        "turnover": 12.82
+        "name": "宁波东力",
+        "code": "002164",
+        "price": 19.79,
+        "change_pct": 10.01,
+        "turnover": 17.59
       },
       {
-        "name": "金杨精密",
-        "code": "301210",
-        "price": 33.63,
-        "change_pct": 17.22,
-        "turnover": 18.36
+        "name": "金安国纪",
+        "code": "002636",
+        "price": 63.68,
+        "change_pct": 10.0,
+        "turnover": 8.26
       },
       {
-        "name": "皓元医药",
-        "code": "688131",
-        "price": 96.03,
-        "change_pct": 15.53,
-        "turnover": 3.81
+        "name": "中电港",
+        "code": "001287",
+        "price": 20.24,
+        "change_pct": 10.0,
+        "turnover": 3.33
+      },
+      {
+        "name": "古井贡酒",
+        "code": "000596",
+        "price": 95.7,
+        "change_pct": 10.0,
+        "turnover": 2.44
       }
     ],
     "sectors": [
       {
-        "name": "酒饮料茶制造业",
-        "code": "ZC15",
-        "pct": 2.51,
-        "amount_yi": 178.4,
-        "net_inflow_yi": 0
+        "name": "医疗研发外包",
+        "code": "BK1600",
+        "pct": 6.54,
+        "amount_yi": 186.9,
+        "net_inflow_yi": 12.7
       },
       {
-        "name": "医药制造业",
-        "code": "ZC27",
-        "pct": 2.4,
-        "amount_yi": 380.9,
-        "net_inflow_yi": 0
+        "name": "综合电商",
+        "code": "BK1548",
+        "pct": 5.06,
+        "amount_yi": 2.5,
+        "net_inflow_yi": 0.0
       },
       {
-        "name": "其他制造业",
-        "code": "ZC41",
-        "pct": 1.68,
-        "amount_yi": 30.8,
-        "net_inflow_yi": 0
+        "name": "白酒Ⅲ",
+        "code": "BK1575",
+        "pct": 4.86,
+        "amount_yi": 160.8,
+        "net_inflow_yi": 14.5
       },
       {
-        "name": "电气机械器材业",
-        "code": "ZC38",
-        "pct": 1.45,
-        "amount_yi": 775.2,
-        "net_inflow_yi": 0
+        "name": "白酒Ⅱ",
+        "code": "BK1277",
+        "pct": 4.86,
+        "amount_yi": 160.8,
+        "net_inflow_yi": 14.5
       },
       {
-        "name": "橡胶塑料制品业",
-        "code": "ZC29",
-        "pct": 1.42,
-        "amount_yi": 152.5,
-        "net_inflow_yi": 0
+        "name": "医疗服务",
+        "code": "BK0727",
+        "pct": 4.41,
+        "amount_yi": 261.1,
+        "net_inflow_yi": 14.5
       },
       {
-        "name": "专用设备制造业",
-        "code": "ZC35",
-        "pct": 1.24,
-        "amount_yi": 3.9,
-        "net_inflow_yi": 0
+        "name": "酒店",
+        "code": "BK1560",
+        "pct": 3.26,
+        "amount_yi": 10.0,
+        "net_inflow_yi": 0.5
       },
       {
-        "name": "纺织服装服饰业",
-        "code": "ZC18",
-        "pct": 1.17,
-        "amount_yi": 24.5,
-        "net_inflow_yi": 0
+        "name": "线下药店",
+        "code": "BK1606",
+        "pct": 3.26,
+        "amount_yi": 14.3,
+        "net_inflow_yi": 0.4
       },
       {
-        "name": "有色金属冶炼业",
-        "code": "ZC32",
-        "pct": 1.12,
-        "amount_yi": 294.0,
-        "net_inflow_yi": 0
+        "name": "橡胶助剂",
+        "code": "BK1443",
+        "pct": 3.25,
+        "amount_yi": 5.7,
+        "net_inflow_yi": 0.1
       },
       {
-        "name": "黑色金属冶炼业",
-        "code": "ZC31",
-        "pct": 1.09,
-        "amount_yi": 35.4,
-        "net_inflow_yi": 0
+        "name": "其他养殖",
+        "code": "BK1510",
+        "pct": 3.03,
+        "amount_yi": 1.4,
+        "net_inflow_yi": 0.0
       },
       {
-        "name": "金属制品业",
-        "code": "ZC33",
-        "pct": 0.99,
-        "amount_yi": 157.0,
-        "net_inflow_yi": 0
+        "name": "零食",
+        "code": "BK1583",
+        "pct": 2.96,
+        "amount_yi": 16.0,
+        "net_inflow_yi": 2.7
       },
       {
-        "name": "造纸纸制品业",
-        "code": "ZC22",
-        "pct": 0.92,
-        "amount_yi": 45.2,
-        "net_inflow_yi": 0
+        "name": "航运",
+        "code": "BK1482",
+        "pct": 2.67,
+        "amount_yi": 76.0,
+        "net_inflow_yi": 2.0
       },
       {
-        "name": "金属制品修理业",
-        "code": "ZC43",
-        "pct": 0.89,
-        "amount_yi": 307.5,
-        "net_inflow_yi": 0
+        "name": "医院",
+        "code": "BK1601",
+        "pct": 2.64,
+        "amount_yi": 44.4,
+        "net_inflow_yi": 1.7
       }
     ],
     "us_stocks": [],
     "us_indices": [],
     "strong_stocks": [
       {
-        "name": "*ST航图",
-        "code": "688066",
-        "price": 5.57,
-        "change_pct": 20.04,
-        "turnover": 3.37
+        "name": "津滨发展",
+        "code": "000897",
+        "price": 1.84,
+        "change_pct": 10.18,
+        "turnover": 2.44
       },
       {
-        "name": "阳普医疗",
-        "code": "300030",
-        "price": 7.31,
-        "change_pct": 20.03,
-        "turnover": 15.37
+        "name": "扬子新材",
+        "code": "002652",
+        "price": 3.91,
+        "change_pct": 10.14,
+        "turnover": 4.13
       },
       {
-        "name": "睿智医药",
-        "code": "300149",
-        "price": 9.59,
-        "change_pct": 20.02,
-        "turnover": 11.84
+        "name": "东方海洋",
+        "code": "002086",
+        "price": 2.83,
+        "change_pct": 10.12,
+        "turnover": 26.54
       },
       {
-        "name": "金丹科技",
-        "code": "300829",
-        "price": 25.66,
-        "change_pct": 20.02,
-        "turnover": 15.05
+        "name": "黑芝麻",
+        "code": "000716",
+        "price": 5.24,
+        "change_pct": 10.08,
+        "turnover": 3.91
       },
       {
-        "name": "满坤科技",
-        "code": "301132",
-        "price": 56.08,
-        "change_pct": 20.01,
-        "turnover": 16.16
+        "name": "澳洋健康",
+        "code": "002172",
+        "price": 5.91,
+        "change_pct": 10.06,
+        "turnover": 29.39
       },
       {
-        "name": "毕得医药",
-        "code": "688073",
-        "price": 67.56,
-        "change_pct": 20.0,
-        "turnover": 8.2
+        "name": "传智教育",
+        "code": "003032",
+        "price": 9.96,
+        "change_pct": 10.06,
+        "turnover": 6.28
       },
       {
-        "name": "欧圣电气",
-        "code": "301187",
-        "price": 16.8,
-        "change_pct": 20.0,
-        "turnover": 2.96
+        "name": "红太阳",
+        "code": "000525",
+        "price": 4.49,
+        "change_pct": 10.05,
+        "turnover": 2.99
       },
       {
-        "name": "万邦医药",
-        "code": "301520",
-        "price": 60.06,
-        "change_pct": 20.0,
-        "turnover": 40.18
+        "name": "沈阳机床",
+        "code": "000410",
+        "price": 5.37,
+        "change_pct": 10.04,
+        "turnover": 1.85
       },
       {
-        "name": "必易微",
-        "code": "688045",
-        "price": 61.87,
-        "change_pct": 20.0,
-        "turnover": 6.46
+        "name": "合百集团",
+        "code": "000417",
+        "price": 5.7,
+        "change_pct": 10.04,
+        "turnover": 4.81
       },
       {
-        "name": "百洋医药",
-        "code": "301015",
-        "price": 27.25,
-        "change_pct": 19.99,
-        "turnover": 3.59
+        "name": "金房能源",
+        "code": "001210",
+        "price": 21.65,
+        "change_pct": 10.01,
+        "turnover": 6.78
       },
       {
-        "name": "明阳电路",
-        "code": "300739",
-        "price": 23.89,
-        "change_pct": 19.99,
-        "turnover": 10.26
+        "name": "皇台酒业",
+        "code": "000995",
+        "price": 14.18,
+        "change_pct": 10.01,
+        "turnover": 28.33
       },
       {
-        "name": "近岸蛋白",
-        "code": "688137",
-        "price": 153.0,
-        "change_pct": 18.15,
-        "turnover": 12.82
+        "name": "宁波东力",
+        "code": "002164",
+        "price": 19.79,
+        "change_pct": 10.01,
+        "turnover": 17.59
       },
       {
-        "name": "金杨精密",
-        "code": "301210",
-        "price": 33.63,
-        "change_pct": 17.22,
-        "turnover": 18.36
+        "name": "金安国纪",
+        "code": "002636",
+        "price": 63.68,
+        "change_pct": 10.0,
+        "turnover": 8.26
       },
       {
-        "name": "皓元医药",
-        "code": "688131",
-        "price": 96.03,
-        "change_pct": 15.53,
-        "turnover": 3.81
+        "name": "中电港",
+        "code": "001287",
+        "price": 20.24,
+        "change_pct": 10.0,
+        "turnover": 3.33
+      },
+      {
+        "name": "古井贡酒",
+        "code": "000596",
+        "price": 95.7,
+        "change_pct": 10.0,
+        "turnover": 2.44
       }
     ],
     "yimeng_stocks": [
@@ -586,5 +600,5 @@
       }
     ]
   },
-  "timestamp": "2026-10-30T13:06:42"
+  "timestamp": "2026-10-30T13:22:07"
 }
