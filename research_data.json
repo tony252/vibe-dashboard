@@ -1,12 +1,60 @@
 {
   "date": "2026-10-30",
-  "updated_at": "2026-10-30 20:03:13",
+  "updated_at": "2026-10-31 12:03:10",
   "stats": {
-    "processed": 25,
+    "processed": 35,
     "alerts": 0,
-    "filtered": 17
+    "filtered": 20
   },
   "events": [
+    {
+      "time": "2026-10-31 11:14",
+      "type": "archive",
+      "title": "半导体龙头东芯股份，被责令改正！控股股东同步抛出4亿至6亿元增持计划，股价较年内高点回撤逾六成",
+      "content": "每经记者|张益铭每经编辑|文多 10月30日晚，东芯股份（SH688110，股价50.32元，市值331.06亿元）披露《关于收到行政监管措施决定书的公告》与《关于控股股东增持公司股份计...",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/roll/2026-10-31/doc-inixaraz7652576.shtml",
+      "stocks": [
+        {
+          "name": "东芯股份",
+          "code": "688110",
+          "match_reason": "直接提及[东芯股份]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-30 20:19",
+      "type": "archive",
+      "title": "【图解牛熊股】两股本月涨幅翻倍，多只CPO概念股本月大跌超50%",
+      "content": "①本月A股三大指数震荡下跌，其中上证指数跌破3600点，创业板指月跌23.03%；\n②‌‌本月海洋王、凡拓数创股价涨幅超100%，CPO概念股跌幅明显，其中源杰科技、长光华芯、广合科技、鼎通科技、德科立本月跌幅超50%；\n③本月贵州茅台主力资金净流入超30亿元。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2520790",
+      "stocks": [
+        {
+          "name": "贵州茅台",
+          "code": "600519",
+          "match_reason": "直接提及[贵州茅台]（选股推荐）"
+        },
+        {
+          "name": "凡拓数创",
+          "code": "301313",
+          "match_reason": "直接提及[凡拓数创]（选股推荐）"
+        },
+        {
+          "name": "海洋王",
+          "code": "002724",
+          "match_reason": "直接提及[海洋王]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
     {
       "time": "2026-10-30 19:15",
       "type": "archive",
@@ -47,6 +95,59 @@
       }
     },
     {
+      "time": "2026-10-30 17:41",
+      "type": "archive",
+      "title": "【焦点复盘】沪指冲高回落失守3600点，算力硬件端持续低迷，“喝酒吃药”行情强势回归",
+      "content": "①连板晋级率30%，高位股内部两极分化依旧东贝集团等多只连板股断板跌停；“羊字辈”个股继续得到资金深幅抱团，澳洋健康、阳光照明实现连板晋级。 ②市场再现“喝酒吃药”行情，其中泸州老窖、古井贡酒等多只白酒股逆势涨停。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2520816",
+      "stocks": [
+        {
+          "name": "东贝集团",
+          "code": "601956",
+          "match_reason": "直接提及[东贝集团]（选股推荐）"
+        },
+        {
+          "name": "澳洋健康",
+          "code": "002172",
+          "match_reason": "直接提及[澳洋健康]（选股推荐）"
+        },
+        {
+          "name": "阳光照明",
+          "code": "600261",
+          "match_reason": "直接提及[阳光照明]（选股推荐）"
+        },
+        {
+          "name": "泸州老窖",
+          "code": "000568",
+          "match_reason": "直接提及[泸州老窖]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-30 17:08",
+      "type": "archive",
+      "title": "【数据看盘】机构联手外资抢筹泸州老窖，西大街席位1.16亿元买入PCB人气股",
+      "content": "①白酒概念今日集体走强，泸州老窖强势涨停，获四家机构买入2.86亿，同时深股通买入2.81亿。\n②PCB概念股金安国纪逆势涨停，获开源证券西安西大街营业部买入1.16亿。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2520766",
+      "stocks": [
+        {
+          "name": "泸州老窖",
+          "code": "000568",
+          "match_reason": "直接提及[泸州老窖]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
       "time": "2026-10-30 16:32",
       "type": "archive",
       "title": "新华保险：2026年第三季度归母净利润亏损5.11亿元",
@@ -58,6 +159,30 @@
           "name": "新华保险",
           "code": "601336",
           "match_reason": "直接提及[新华保险]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-10-30 16:30",
+      "type": "archive",
+      "title": "【每日收评】创业板指放量跌超4%，全市场超4600股收绿，大消费板块逆势爆发",
+      "content": "①今日市场延续弱势，低开高走后再度回落，最终三大指数几乎以最低点收盘，超4600股下跌；\n②盘面上，大消费逆势走强，青岛食品5连板，迎驾贡酒等个股同样涨停，算力硬件延续调整，新易盛、胜宏科技等人气权重跌超10%。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2520667",
+      "stocks": [
+        {
+          "name": "青岛食品",
+          "code": "001219",
+          "match_reason": "直接提及[青岛食品]（选股推荐）"
+        },
+        {
+          "name": "迎驾贡酒",
+          "code": "603198",
+          "match_reason": "直接提及[迎驾贡酒]（选股推荐）"
         }
       ],
       "verification": {
@@ -326,44 +451,6 @@
         "memory": false,
         "source": true
       }
-    },
-    {
-      "time": "2026-10-29 07:53",
-      "type": "archive",
-      "title": "人工智能、新能源等下游需求改善 国产工业母机订单排到明年",
-      "content": "①据央视财经报道，今年以来，在人工智能、新能源等新兴产业带动下，高端工业母机需求持续爆发。\n②中泰证券研报指出，系统缺货延续，机床多个下游需求改善，继续看多板块行情。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2518594",
-      "stocks": [
-        {
-          "name": "中泰证券",
-          "code": "600918",
-          "match_reason": "直接提及[中泰证券]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-10-29 07:00",
-      "type": "archive",
-      "title": "【早报】美联储按兵不动，沃什宣布：减少议息频次；美股存储芯片板块，全线爆发；谷歌业绩不及预期，盘后大跌",
-      "content": "①8000亿元新型政策性金融工具投放完成②央行：三季度末人民币房地产贷款余额同比下降5.2%③美联储维持基准利率不变，中间派库克转鹰④宁德时代、五粮液披露回购进展⑤世纪华通、沐曦股份、广合科技等计划回购股份。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2518583",
-      "stocks": [
-        {
-          "name": "五粮液",
-          "code": "000858",
-          "match_reason": "直接提及[五粮液]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
     }
   ],
   "keywords": {
@@ -421,26 +508,61 @@
     "600519": "2026-10-30 20:06",
     "600809": "2026-10-30 20:06",
     "603198": "2026-10-30 20:06",
-    "002172": "2026-10-30 20:06"
+    "002172": "2026-10-30 20:06",
+    "688110": "2026-10-31 12:06",
+    "301313": "2026-10-31 12:06",
+    "002724": "2026-10-31 12:06",
+    "601956": "2026-10-31 12:06",
+    "600261": "2026-10-31 12:06"
   },
   "watchlist": [
     {
       "name": "泸州老窖",
       "code": "000568",
       "keywords": "直接提及[泸州老窖]（选股推荐）",
-      "reason": "新闻提及 | 2次",
+      "reason": "新闻提及 | 4次",
       "source": "event",
-      "selected_at": "2026-10-30 20:06",
+      "selected_at": "2026-10-31 12:06",
       "first_seen": "2026-10-30 16:32",
       "is_new": false
     },
     {
-      "name": "五粮液",
-      "code": "000858",
-      "keywords": "直接提及[五粮液]（选股推荐）",
+      "name": "贵州茅台",
+      "code": "600519",
+      "keywords": "直接提及[贵州茅台]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-30 20:06",
+      "selected_at": "2026-10-31 12:06",
+      "first_seen": "2026-10-30 20:06",
+      "is_new": false
+    },
+    {
+      "name": "迎驾贡酒",
+      "code": "603198",
+      "keywords": "直接提及[迎驾贡酒]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-10-31 12:06",
+      "first_seen": "2026-10-30 20:06",
+      "is_new": false
+    },
+    {
+      "name": "澳洋健康",
+      "code": "002172",
+      "keywords": "直接提及[澳洋健康]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-10-31 12:06",
+      "first_seen": "2026-10-30 20:06",
+      "is_new": false
+    },
+    {
+      "name": "青岛食品",
+      "code": "001219",
+      "keywords": "直接提及[青岛食品]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-10-31 12:06",
       "first_seen": "2026-10-30 16:32",
       "is_new": false
     },
@@ -450,7 +572,7 @@
       "keywords": "直接提及[中信建投]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-30 20:06",
+      "selected_at": "2026-10-31 12:06",
       "first_seen": "2026-10-30 16:32",
       "is_new": false
     },
@@ -460,7 +582,7 @@
       "keywords": "直接提及[光洋股份]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-30 20:06",
+      "selected_at": "2026-10-31 12:06",
       "first_seen": "2026-10-30 16:32",
       "is_new": false
     },
@@ -470,18 +592,38 @@
       "keywords": "直接提及[工商银行]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-10-30 20:06",
+      "selected_at": "2026-10-31 12:06",
       "first_seen": "2026-10-30 16:32",
       "is_new": false
     },
     {
-      "name": "贵州茅台",
-      "code": "600519",
-      "keywords": "直接提及[贵州茅台]（选股推荐）",
+      "name": "东芯股份",
+      "code": "688110",
+      "keywords": "直接提及[东芯股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-30 20:06",
-      "first_seen": "2026-10-30 20:06",
+      "selected_at": "2026-10-31 12:06",
+      "first_seen": "2026-10-31 12:06",
+      "is_new": true
+    },
+    {
+      "name": "凡拓数创",
+      "code": "301313",
+      "keywords": "直接提及[凡拓数创]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-31 12:06",
+      "first_seen": "2026-10-31 12:06",
+      "is_new": true
+    },
+    {
+      "name": "海洋王",
+      "code": "002724",
+      "keywords": "直接提及[海洋王]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-31 12:06",
+      "first_seen": "2026-10-31 12:06",
       "is_new": true
     },
     {
@@ -490,89 +632,39 @@
       "keywords": "直接提及[山西汾酒]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-30 20:06",
+      "selected_at": "2026-10-31 12:06",
       "first_seen": "2026-10-30 20:06",
+      "is_new": false
+    },
+    {
+      "name": "五粮液",
+      "code": "000858",
+      "keywords": "直接提及[五粮液]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-31 12:06",
+      "first_seen": "2026-10-30 16:32",
+      "is_new": false
+    },
+    {
+      "name": "东贝集团",
+      "code": "601956",
+      "keywords": "直接提及[东贝集团]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-10-31 12:06",
+      "first_seen": "2026-10-31 12:06",
       "is_new": true
     },
     {
-      "name": "迎驾贡酒",
-      "code": "603198",
-      "keywords": "直接提及[迎驾贡酒]（选股推荐）",
+      "name": "阳光照明",
+      "code": "600261",
+      "keywords": "直接提及[阳光照明]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-10-30 20:06",
-      "first_seen": "2026-10-30 20:06",
+      "selected_at": "2026-10-31 12:06",
+      "first_seen": "2026-10-31 12:06",
       "is_new": true
-    },
-    {
-      "name": "新华保险",
-      "code": "601336",
-      "keywords": "直接提及[新华保险]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-30 20:06",
-      "first_seen": "2026-10-30 16:32",
-      "is_new": false
-    },
-    {
-      "name": "皇台酒业",
-      "code": "000995",
-      "keywords": "直接提及[皇台酒业]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-30 20:06",
-      "first_seen": "2026-10-30 16:32",
-      "is_new": false
-    },
-    {
-      "name": "中坚科技",
-      "code": "002779",
-      "keywords": "直接提及[中坚科技]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-30 20:06",
-      "first_seen": "2026-10-30 16:32",
-      "is_new": false
-    },
-    {
-      "name": "天亿马",
-      "code": "301178",
-      "keywords": "直接提及[天亿马]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-30 20:06",
-      "first_seen": "2026-10-30 16:32",
-      "is_new": false
-    },
-    {
-      "name": "澳洋健康",
-      "code": "002172",
-      "keywords": "直接提及[澳洋健康]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-30 20:06",
-      "first_seen": "2026-10-30 20:06",
-      "is_new": true
-    },
-    {
-      "name": "德明利",
-      "code": "001309",
-      "keywords": "直接提及[德明利]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-30 20:06",
-      "first_seen": "2026-10-30 16:32",
-      "is_new": false
-    },
-    {
-      "name": "襄阳轴承",
-      "code": "000678",
-      "keywords": "直接提及[襄阳轴承]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-10-30 20:06",
-      "first_seen": "2026-10-30 16:32",
-      "is_new": false
     }
   ]
 }
