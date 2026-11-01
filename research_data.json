@@ -1,12 +1,69 @@
 {
   "date": "2026-10-30",
-  "updated_at": "2026-11-01 12:03:10",
+  "updated_at": "2026-11-01 20:03:03",
   "stats": {
-    "processed": 57,
+    "processed": 71,
     "alerts": 0,
     "filtered": 20
   },
   "events": [
+    {
+      "time": "2026-11-01 19:56",
+      "type": "archive",
+      "title": "“三桶油”前三季度盈利，已超去年全年",
+      "content": "今年以来，美以伊地缘冲突持续发酵，带动国际油气价格走高，驱动本轮油气景气周期加快上行。作为国内油气领域的“三巨头”，中国石油、中国石化...",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/stock/hyyj/2026-11-01/doc-inixfvpu7731452.shtml",
+      "stocks": [
+        {
+          "name": "中国石化",
+          "code": "600028",
+          "match_reason": "直接提及[中国石化]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-01 19:33",
+      "type": "archive",
+      "title": "震荡市低估资产获关注，医疗ETF华宝（512170）逆市收红！业绩改善逻辑持续验证，主力资金大举加码",
+      "content": "10月30日，A股继续杀跌，沪指失守3600点，主力资金大举涌入低估值医疗，全天净买入医药生物行业逾60亿元。 CXO逆市爆发，皓元医药涨10.79%，博腾股份涨7.06%，康龙化成...",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/money/fund/etf/2026-11-01/doc-inixfvpu7733977.shtml",
+      "stocks": [
+        {
+          "name": "博腾股份",
+          "code": "300363",
+          "match_reason": "直接提及[博腾股份]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-01 17:00",
+      "type": "archive",
+      "title": "工、农、中、建四大行集体官宣！成为2026年APEC会议合作伙伴",
+      "content": "来源：金融时报 距离2026年APEC领导人非正式会议在深圳开幕已不足三周。10月30日至31日，工商银行、农业银行、中国银行、建设银行官宣成为APEC第三十三次领导人非正式会议...",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-01/doc-inixfkxx1161094.shtml",
+      "stocks": [
+        {
+          "name": "工商银行",
+          "code": "601398",
+          "match_reason": "直接提及[工商银行]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
     {
       "time": "2026-11-01 09:29",
       "type": "archive",
@@ -384,73 +441,6 @@
         "memory": false,
         "source": true
       }
-    },
-    {
-      "time": "2026-10-29 17:58",
-      "type": "archive",
-      "title": "【数据看盘】外资和四家机构净卖出天孚通信8.43亿元，多路资金激烈博弈襄阳轴承",
-      "content": "①CPO概念股天孚通信今日盘中触及跌停，遭四家机构卖出5.49亿，同时深股通卖出2.94亿。\n②机器人概念股襄阳轴承今日炸板回落，获两家机构买入1.97亿，深股通买入3738万，但遭一家机构卖出9137万，平安证券浙江分公司卖出7968万。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2519375",
-      "stocks": [
-        {
-          "name": "襄阳轴承",
-          "code": "000678",
-          "match_reason": "直接提及[襄阳轴承]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-10-29 17:38",
-      "type": "archive",
-      "title": "工、建行双创历史新高！板块ETF近期获集中申购，目前估值到哪里了？",
-      "content": "①今日，中证银行指数创年内新高，工商银行、建设银行盘中股价续刷历史高点。\n②从资金面来看，银行股月内融资余额数据呈现减多增少的格局，融资客累计减持近23亿元。\n③14只银行系ETF近1周净申购额44.58亿元，规模最大的银行ETF华宝净申购额近28.12亿元，占比近63.1%。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2519361",
-      "stocks": [
-        {
-          "name": "工商银行",
-          "code": "601398",
-          "match_reason": "直接提及[工商银行]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-10-29 17:33",
-      "type": "archive",
-      "title": "【焦点复盘】科创50跌4.27%续创年内新低，全市场近1000股跌超5%，多只银行股逆势创历史新高",
-      "content": "①连板晋级率升至50%，但连板高度降至4连板，高位股内部两极分化依旧，4连板的光洋股份等多只“羊字辈”股涨停，而前期人气股华瓷股份遭遇4连跌停； ②高股息红利股继续逆势受捧，工商银行、建设银行、成都银行创历史新高，中国石油、中国神华刷新18年新高。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2519345",
-      "stocks": [
-        {
-          "name": "工商银行",
-          "code": "601398",
-          "match_reason": "直接提及[工商银行]（选股推荐）"
-        },
-        {
-          "name": "华瓷股份",
-          "code": "001216",
-          "match_reason": "直接提及[华瓷股份]（选股推荐）"
-        },
-        {
-          "name": "光洋股份",
-          "code": "002708",
-          "match_reason": "直接提及[光洋股份]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
     }
   ],
   "keywords": {
@@ -514,7 +504,8 @@
     "002724": "2026-10-31 12:06",
     "601956": "2026-10-31 12:06",
     "600261": "2026-10-31 12:06",
-    "300363": "2026-10-31 20:06"
+    "300363": "2026-10-31 20:06",
+    "600028": "2026-11-01 20:06"
   },
   "watchlist": [
     {
@@ -523,7 +514,7 @@
       "keywords": "直接提及[泸州老窖]（选股推荐）",
       "reason": "新闻提及 | 5次",
       "source": "event",
-      "selected_at": "2026-11-01 12:06",
+      "selected_at": "2026-11-01 20:06",
       "first_seen": "2026-10-30 16:32",
       "is_new": false
     },
@@ -533,8 +524,18 @@
       "keywords": "直接提及[贵州茅台]（选股推荐）",
       "reason": "新闻提及 | 3次",
       "source": "event",
-      "selected_at": "2026-11-01 12:06",
+      "selected_at": "2026-11-01 20:06",
       "first_seen": "2026-10-30 20:06",
+      "is_new": false
+    },
+    {
+      "name": "博腾股份",
+      "code": "300363",
+      "keywords": "直接提及[博腾股份]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-11-01 20:06",
+      "first_seen": "2026-10-31 20:06",
       "is_new": false
     },
     {
@@ -543,7 +544,7 @@
       "keywords": "直接提及[迎驾贡酒]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-01 12:06",
+      "selected_at": "2026-11-01 20:06",
       "first_seen": "2026-10-30 20:06",
       "is_new": false
     },
@@ -553,38 +554,28 @@
       "keywords": "直接提及[澳洋健康]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-01 12:06",
+      "selected_at": "2026-11-01 20:06",
       "first_seen": "2026-10-30 20:06",
       "is_new": false
     },
     {
-      "name": "光洋股份",
-      "code": "002708",
-      "keywords": "直接提及[光洋股份]（选股推荐）",
-      "reason": "新闻提及 | 2次",
+      "name": "中国石化",
+      "code": "600028",
+      "keywords": "直接提及[中国石化]（选股推荐）",
+      "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-01 12:06",
-      "first_seen": "2026-10-30 16:32",
-      "is_new": false
+      "selected_at": "2026-11-01 20:06",
+      "first_seen": "2026-11-01 20:06",
+      "is_new": true
     },
     {
       "name": "工商银行",
       "code": "601398",
       "keywords": "直接提及[工商银行]（选股推荐）",
-      "reason": "新闻提及 | 2次",
-      "source": "event",
-      "selected_at": "2026-11-01 12:06",
-      "first_seen": "2026-10-30 16:32",
-      "is_new": false
-    },
-    {
-      "name": "博腾股份",
-      "code": "300363",
-      "keywords": "直接提及[博腾股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-01 12:06",
-      "first_seen": "2026-10-31 20:06",
+      "selected_at": "2026-11-01 20:06",
+      "first_seen": "2026-10-30 16:32",
       "is_new": false
     },
     {
@@ -593,7 +584,7 @@
       "keywords": "直接提及[东芯股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-01 12:06",
+      "selected_at": "2026-11-01 20:06",
       "first_seen": "2026-10-31 12:06",
       "is_new": false
     },
@@ -603,7 +594,7 @@
       "keywords": "直接提及[凡拓数创]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-01 12:06",
+      "selected_at": "2026-11-01 20:06",
       "first_seen": "2026-10-31 12:06",
       "is_new": false
     },
@@ -613,7 +604,7 @@
       "keywords": "直接提及[海洋王]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-01 12:06",
+      "selected_at": "2026-11-01 20:06",
       "first_seen": "2026-10-31 12:06",
       "is_new": false
     },
@@ -623,7 +614,7 @@
       "keywords": "直接提及[山西汾酒]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-01 12:06",
+      "selected_at": "2026-11-01 20:06",
       "first_seen": "2026-10-30 20:06",
       "is_new": false
     },
@@ -633,7 +624,7 @@
       "keywords": "直接提及[五粮液]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-01 12:06",
+      "selected_at": "2026-11-01 20:06",
       "first_seen": "2026-10-30 16:32",
       "is_new": false
     },
@@ -643,7 +634,7 @@
       "keywords": "直接提及[东贝集团]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-01 12:06",
+      "selected_at": "2026-11-01 20:06",
       "first_seen": "2026-10-31 12:06",
       "is_new": false
     },
@@ -653,7 +644,7 @@
       "keywords": "直接提及[阳光照明]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-01 12:06",
+      "selected_at": "2026-11-01 20:06",
       "first_seen": "2026-10-31 12:06",
       "is_new": false
     },
@@ -663,7 +654,7 @@
       "keywords": "直接提及[新华保险]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-01 12:06",
+      "selected_at": "2026-11-01 20:06",
       "first_seen": "2026-10-30 16:32",
       "is_new": false
     }
