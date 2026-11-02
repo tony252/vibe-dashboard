@@ -2031,5 +2031,112 @@
       }
     ],
     "total_cost": 94719.0
+  },
+  "2026-11-02": {
+    "date": "2026-11-02",
+    "capital": 100000,
+    "positions": [
+      {
+        "code": "300377",
+        "name": "赢时胜",
+        "buy_price": 12.4,
+        "buy_date": "2026-11-02",
+        "shares": 800,
+        "cost": 9920.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 13.242
+      },
+      {
+        "code": "300299",
+        "name": "富春股份",
+        "buy_price": 5.93,
+        "buy_date": "2026-11-02",
+        "shares": 1600,
+        "cost": 9488.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 12.311
+      },
+      {
+        "code": "300120",
+        "name": "经纬辉开",
+        "buy_price": 7.89,
+        "buy_date": "2026-11-02",
+        "shares": 1200,
+        "cost": 9468.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 12.233
+      },
+      {
+        "code": "300637",
+        "name": "扬帆新材",
+        "buy_price": 10.1,
+        "buy_date": "2026-11-02",
+        "shares": 900,
+        "cost": 9090.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 11.602
+      },
+      {
+        "code": "002094",
+        "name": "青岛金王",
+        "buy_price": 4.8,
+        "buy_date": "2026-11-02",
+        "shares": 2000,
+        "cost": 9600.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.092
+      },
+      {
+        "code": "600892",
+        "name": "大晟文化",
+        "buy_price": 4.37,
+        "buy_date": "2026-11-02",
+        "shares": 2200,
+        "cost": 9614.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.076
+      },
+      {
+        "code": "002187",
+        "name": "广百股份",
+        "buy_price": 5.8,
+        "buy_date": "2026-11-02",
+        "shares": 1700,
+        "cost": 9860.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.057
+      },
+      {
+        "code": "000417",
+        "name": "合百集团",
+        "buy_price": 6.27,
+        "buy_date": "2026-11-02",
+        "shares": 1500,
+        "cost": 9405.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.0
+      },
+      {
+        "code": "600865",
+        "name": "百大集团",
+        "buy_price": 11.78,
+        "buy_date": "2026-11-02",
+        "shares": 800,
+        "cost": 9424.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 9.991
+      },
+      {
+        "code": "002292",
+        "name": "奥飞娱乐",
+        "buy_price": 8.71,
+        "buy_date": "2026-11-02",
+        "shares": 1100,
+        "cost": 9581.000000000002,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 9.975
+      }
+    ],
+    "total_cost": 95450.0
   }
 }
