@@ -27,7 +27,7 @@
       "change_pct": 20.02,
       "turnover": 4.7,
       "change_5d": 12.0,
-      "volume": 3.175,
+      "volume": 3.195,
       "tag": "newhigh",
       "score": 5,
       "reason": "涨幅榜前列(第1名),飙升20.0%"
@@ -39,7 +39,7 @@
       "change_pct": 20.02,
       "turnover": 3.8,
       "change_5d": 12.0,
-      "volume": 1.491,
+      "volume": 1.499,
       "tag": "newhigh",
       "score": 5,
       "reason": "涨幅榜前列(第2名),飙升20.0%"
@@ -49,9 +49,9 @@
       "name": "银之杰",
       "price": 26.68,
       "change_pct": 20.02,
-      "turnover": 11.3,
+      "turnover": 11.4,
       "change_5d": 12.0,
-      "volume": 17.163,
+      "volume": 17.305,
       "tag": "newhigh",
       "score": 5,
       "reason": "涨幅榜前列(第3名),飙升20.0%"
@@ -61,73 +61,73 @@
       "name": "郑中设计",
       "price": 17.11,
       "change_pct": 10.03,
-      "turnover": 13.0,
+      "turnover": 13.2,
       "change_5d": 6.0,
-      "volume": 5.907,
+      "volume": 5.989,
       "tag": "volume",
       "score": 5,
-      "reason": "量价齐升,换手13.0%,成交5.9亿"
+      "reason": "量价齐升,换手13.2%,成交6.0亿"
     },
     {
       "code": "000678",
       "name": "襄阳轴承",
       "price": 19.89,
       "change_pct": 10.01,
-      "turnover": 29.8,
+      "turnover": 29.9,
       "change_5d": 6.0,
-      "volume": 25.825,
+      "volume": 25.931,
       "tag": "volume",
       "score": 5,
-      "reason": "量价齐升,换手29.8%,成交25.8亿"
+      "reason": "量价齐升,换手29.9%,成交25.9亿"
     },
     {
       "code": "001216",
       "name": "华瓷股份",
       "price": 18.68,
       "change_pct": 10.01,
-      "turnover": 13.7,
+      "turnover": 13.8,
       "change_5d": 6.0,
-      "volume": 6.211,
+      "volume": 6.23,
       "tag": "volume",
       "score": 5,
-      "reason": "量价齐升,换手13.7%,成交6.2亿"
+      "reason": "量价齐升,换手13.8%,成交6.2亿"
+    },
+    {
+      "code": "000716",
+      "name": "黑芝麻",
+      "price": 5.39,
+      "change_pct": 2.86,
+      "turnover": 16.5,
+      "change_5d": 1.7,
+      "volume": 6.779,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手16.5%,成交6.8亿"
+    },
+    {
+      "code": "920220",
+      "name": "朗信电气",
+      "price": 53.83,
+      "change_pct": 2.81,
+      "turnover": 12.4,
+      "change_5d": 1.7,
+      "volume": 1.3,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手12.4%,成交1.3亿"
     },
     {
       "code": "002820",
       "name": "桂发祥",
-      "price": 9.33,
-      "change_pct": 2.87,
-      "turnover": 12.0,
+      "price": 9.32,
+      "change_pct": 2.76,
+      "turnover": 12.1,
       "change_5d": 1.7,
-      "volume": 2.187,
+      "volume": 2.221,
       "tag": "resilient",
       "score": 4,
-      "reason": "高换手12.0%,成交2.2亿"
-    },
-    {
-      "code": "601083",
-      "name": "锦江航运",
-      "price": 14.29,
-      "change_pct": 2.58,
-      "turnover": 13.5,
-      "change_5d": 1.6,
-      "volume": 3.74,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手13.5%,成交3.7亿"
-    },
-    {
-      "code": "603703",
-      "name": "盛洋科技",
-      "price": 12.23,
-      "change_pct": 2.34,
-      "turnover": 23.7,
-      "change_5d": 1.4,
-      "volume": 12.235,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手23.7%,成交12.2亿"
+      "reason": "高换手12.1%,成交2.2亿"
     }
   ],
-  "updated_at": "2026-11-02 11:48:40"
+  "updated_at": "2026-11-02 13:03:58"
 }
