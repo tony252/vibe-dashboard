@@ -1,12 +1,36 @@
 {
   "date": "2026-11-02",
-  "updated_at": "2026-11-02 16:32:58",
+  "updated_at": "2026-11-02 20:03:13",
   "stats": {
-    "processed": 10,
+    "processed": 17,
     "alerts": 0,
-    "filtered": 10
+    "filtered": 12
   },
   "events": [
+    {
+      "time": "2026-11-02 19:49",
+      "type": "archive",
+      "title": "金融投资贡献度提高，六大行三季度营收增速均超6%",
+      "content": "11月1日，记者统计的三季报数据显示，今年前三季度，工商银行、建设银行、农业银行、中国银行、邮储银行、交通银行等六大行的营业收入(下称“营收”)均同比增长超6%。",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/stock/relnews/hk/2026-11-02/doc-inixiynw2862683.shtml",
+      "stocks": [
+        {
+          "name": "工商银行",
+          "code": "601398",
+          "match_reason": "直接提及[工商银行]（选股推荐）"
+        },
+        {
+          "name": "邮储银行",
+          "code": "601658",
+          "match_reason": "直接提及[邮储银行]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
     {
       "time": "2026-11-02 16:17",
       "type": "archive",
@@ -57,6 +81,25 @@
           "name": "奥精医疗",
           "code": "688613",
           "match_reason": "直接提及[奥精医疗]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-02 12:20",
+      "type": "archive",
+      "title": "【午报】创业板指半日涨超3%，全市场超4700只个股飘红，AI漫剧概念涨幅居前",
+      "content": "①今日早盘市场震荡拉升，深成指涨超2%，创业板指涨超3%，AI漫剧涨幅居前，白酒、大金融、算力硬件方向同样表现活跃；\n②个股层面，早盘涨停数量为89家，连板股数量为11家，青岛食品晋级6连板。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2522235",
+      "stocks": [
+        {
+          "name": "青岛食品",
+          "code": "001219",
+          "match_reason": "直接提及[青岛食品]（选股推荐）"
         }
       ],
       "verification": {
@@ -267,7 +310,7 @@
       "现金管理"
     ]
   },
-  "mode": "report",
+  "mode": "scan",
   "week": 45,
   "stock_meta": {
     "688613": "2026-11-02 16:32",
@@ -284,7 +327,9 @@
     "603198": "2026-11-02 16:32",
     "603131": "2026-11-02 16:32",
     "002275": "2026-11-02 16:32",
-    "002365": "2026-11-02 16:32"
+    "002365": "2026-11-02 16:32",
+    "601398": "2026-11-02 20:06",
+    "601658": "2026-11-02 20:06"
   },
   "watchlist": [
     {
@@ -293,9 +338,19 @@
       "keywords": "直接提及[奥精医疗]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-02 16:32",
+      "selected_at": "2026-11-02 20:06",
       "first_seen": "2026-11-02 16:32",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "name": "青岛食品",
+      "code": "001219",
+      "keywords": "直接提及[青岛食品]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-11-02 20:06",
+      "first_seen": "2026-11-02 16:32",
+      "is_new": false
     },
     {
       "name": "贵州茅台",
@@ -303,9 +358,9 @@
       "keywords": "直接提及[贵州茅台]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-02 16:32",
+      "selected_at": "2026-11-02 20:06",
       "first_seen": "2026-11-02 16:32",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "澳洋健康",
@@ -313,9 +368,9 @@
       "keywords": "直接提及[澳洋健康]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-02 16:32",
+      "selected_at": "2026-11-02 20:06",
       "first_seen": "2026-11-02 16:32",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "泸州老窖",
@@ -323,8 +378,28 @@
       "keywords": "直接提及[泸州老窖]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-02 16:32",
+      "selected_at": "2026-11-02 20:06",
       "first_seen": "2026-11-02 16:32",
+      "is_new": false
+    },
+    {
+      "name": "工商银行",
+      "code": "601398",
+      "keywords": "直接提及[工商银行]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-02 20:06",
+      "first_seen": "2026-11-02 20:06",
+      "is_new": true
+    },
+    {
+      "name": "邮储银行",
+      "code": "601658",
+      "keywords": "直接提及[邮储银行]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-02 20:06",
+      "first_seen": "2026-11-02 20:06",
       "is_new": true
     },
     {
@@ -333,9 +408,9 @@
       "keywords": "直接提及[中国人寿]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-02 16:32",
+      "selected_at": "2026-11-02 20:06",
       "first_seen": "2026-11-02 16:32",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "大业股份",
@@ -343,9 +418,9 @@
       "keywords": "直接提及[大业股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-02 16:32",
+      "selected_at": "2026-11-02 20:06",
       "first_seen": "2026-11-02 16:32",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "海洋王",
@@ -353,9 +428,9 @@
       "keywords": "直接提及[海洋王]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-02 16:32",
+      "selected_at": "2026-11-02 20:06",
       "first_seen": "2026-11-02 16:32",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "凡拓数创",
@@ -363,9 +438,9 @@
       "keywords": "直接提及[凡拓数创]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-02 16:32",
+      "selected_at": "2026-11-02 20:06",
       "first_seen": "2026-11-02 16:32",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "东贝集团",
@@ -373,9 +448,9 @@
       "keywords": "直接提及[东贝集团]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-02 16:32",
+      "selected_at": "2026-11-02 20:06",
       "first_seen": "2026-11-02 16:32",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "阳光照明",
@@ -383,19 +458,9 @@
       "keywords": "直接提及[阳光照明]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-02 16:32",
+      "selected_at": "2026-11-02 20:06",
       "first_seen": "2026-11-02 16:32",
-      "is_new": true
-    },
-    {
-      "name": "青岛食品",
-      "code": "001219",
-      "keywords": "直接提及[青岛食品]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-02 16:32",
-      "first_seen": "2026-11-02 16:32",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "迎驾贡酒",
@@ -403,9 +468,9 @@
       "keywords": "直接提及[迎驾贡酒]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-02 16:32",
+      "selected_at": "2026-11-02 20:06",
       "first_seen": "2026-11-02 16:32",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "上海沪工",
@@ -413,29 +478,9 @@
       "keywords": "直接提及[上海沪工]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-02 16:32",
+      "selected_at": "2026-11-02 20:06",
       "first_seen": "2026-11-02 16:32",
-      "is_new": true
-    },
-    {
-      "name": "桂林三金",
-      "code": "002275",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.98\">涨幅9.98%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.18%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-02 16:32",
-      "first_seen": "2026-11-02 16:32",
-      "is_new": true
-    },
-    {
-      "name": "永安药业",
-      "code": "002365",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.98\">涨幅9.98%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.05%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-02 16:32",
-      "first_seen": "2026-11-02 16:32",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
