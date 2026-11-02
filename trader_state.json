@@ -10,7 +10,7 @@
     "strongbuy": 0.25,
     "daily_picks": 0.2
    },
-   "cash": 36498.071649999954,
+   "cash": 53991.72204999996,
    "positions": [
     {
      "code": "000890",
@@ -76,15 +76,6 @@
      "open_date": "2026-10-22"
     },
     {
-     "code": "600322",
-     "name": "津投城开",
-     "qty": 200,
-     "avg": 2.396,
-     "last": 2.45,
-     "strategy": "strong",
-     "open_date": "2026-10-23"
-    },
-    {
      "code": "603089",
      "name": "正裕工业",
      "qty": 100,
@@ -101,15 +92,6 @@
      "last": 7.06,
      "strategy": "daily_picks",
      "open_date": "2026-10-23"
-    },
-    {
-     "code": "300805",
-     "name": "电声股份",
-     "qty": 300,
-     "avg": 8.709,
-     "last": 8.59,
-     "strategy": "strong",
-     "open_date": "2026-10-26"
     },
     {
      "code": "688327",
@@ -134,7 +116,7 @@
      "name": "天邑股份",
      "qty": 100,
      "avg": 17.729,
-     "last": 17.3,
+     "last": 17.0,
      "strategy": "strongbuy",
      "open_date": "2026-10-27"
     },
@@ -143,34 +125,16 @@
      "name": "朗信电气",
      "qty": 200,
      "avg": 54.723,
-     "last": 57.98,
+     "last": 55.6,
      "strategy": "strongbuy",
      "open_date": "2026-10-28"
-    },
-    {
-     "code": "920896",
-     "name": "旺成科技",
-     "qty": 100,
-     "avg": 16.266,
-     "last": 16.2,
-     "strategy": "strongbuy",
-     "open_date": "2026-10-28"
-    },
-    {
-     "code": "300069",
-     "name": "金利华电",
-     "qty": 600,
-     "avg": 22.331,
-     "last": 22.28,
-     "strategy": "strong",
-     "open_date": "2026-10-30"
     },
     {
      "code": "002712",
      "name": "思美传媒",
      "qty": 400,
      "avg": 5.001,
-     "last": 4.99,
+     "last": 4.97,
      "strategy": "strong",
      "open_date": "2026-10-30"
     },
@@ -182,9 +146,18 @@
      "last": 7.31,
      "strategy": "strongbuy",
      "open_date": "2026-10-30"
+    },
+    {
+     "code": "688518",
+     "name": "联赢激光",
+     "qty": 100,
+     "avg": 20.185,
+     "last": 20.14,
+     "strategy": "strongbuy",
+     "open_date": "2026-11-03"
     }
    ],
-   "realized": 15171.757749999993
+   "realized": 16566.812649999993
   },
   {
    "id": "cloud-sat-B",
@@ -193,7 +166,7 @@
     "strong": 0.3,
     "strongbuy": 0.2
    },
-   "cash": 26480.195675,
+   "cash": 34373.490524999994,
    "positions": [
     {
      "code": "000890",
@@ -223,20 +196,11 @@
      "open_date": "2026-09-24"
     },
     {
-     "code": "300805",
-     "name": "电声股份",
-     "qty": 300,
-     "avg": 8.709,
-     "last": 8.59,
-     "strategy": "strong",
-     "open_date": "2026-10-26"
-    },
-    {
      "code": "300504",
      "name": "天邑股份",
      "qty": 100,
      "avg": 17.729,
-     "last": 17.3,
+     "last": 17.0,
      "strategy": "strongbuy",
      "open_date": "2026-10-27"
     },
@@ -245,34 +209,16 @@
      "name": "皇台酒业",
      "qty": 100,
      "avg": 14.313,
-     "last": 14.22,
+     "last": 14.18,
      "strategy": "strongbuy",
      "open_date": "2026-10-27"
-    },
-    {
-     "code": "920896",
-     "name": "旺成科技",
-     "qty": 100,
-     "avg": 16.266,
-     "last": 16.2,
-     "strategy": "strongbuy",
-     "open_date": "2026-10-28"
-    },
-    {
-     "code": "300069",
-     "name": "金利华电",
-     "qty": 200,
-     "avg": 22.331,
-     "last": 22.28,
-     "strategy": "strong",
-     "open_date": "2026-10-30"
     },
     {
      "code": "002712",
      "name": "思美传媒",
      "qty": 200,
      "avg": 5.001,
-     "last": 4.99,
+     "last": 4.97,
      "strategy": "strong",
      "open_date": "2026-10-30"
     },
@@ -281,7 +227,7 @@
      "name": "湖北广电",
      "qty": 100,
      "avg": 3.959,
-     "last": 3.95,
+     "last": 3.93,
      "strategy": "strong",
      "open_date": "2026-10-30"
     },
@@ -293,9 +239,18 @@
      "last": 7.31,
      "strategy": "strongbuy",
      "open_date": "2026-10-30"
+    },
+    {
+     "code": "600127",
+     "name": "金健米业",
+     "qty": 100,
+     "avg": 9.802,
+     "last": 9.78,
+     "strategy": "strongbuy",
+     "open_date": "2026-11-03"
     }
    ],
-   "realized": 1462.6176000000023
+   "realized": 1630.6574500000029
   }
  ],
  "history": [
@@ -402,6 +357,10 @@
   {
    "ts": "2026-10-30 22:27",
    "equity": 166942.27
+  },
+  {
+   "ts": "2026-11-03 01:20",
+   "equity": 168059.21
   }
  ],
  "trades": [
@@ -2340,7 +2299,106 @@
    "price": 7.325,
    "reason": "strongbuy 信号买入",
    "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03 01:20",
+   "code": "600322",
+   "name": "津投城开",
+   "side": "SELL",
+   "qty": 200,
+   "price": 2.455,
+   "reason": "持有11天轮出",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03 01:20",
+   "code": "300805",
+   "name": "电声股份",
+   "side": "SELL",
+   "qty": 300,
+   "price": 7.974,
+   "reason": "止损 -8.3%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03 01:20",
+   "code": "920896",
+   "name": "旺成科技",
+   "side": "SELL",
+   "qty": 100,
+   "price": 14.102,
+   "reason": "止损 -13.1%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03 01:20",
+   "code": "300069",
+   "name": "金利华电",
+   "side": "SELL",
+   "qty": 600,
+   "price": 25.389,
+   "reason": "止盈 +13.9%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03 01:20",
+   "code": "688518",
+   "name": "联赢激光",
+   "side": "BUY",
+   "qty": 100,
+   "price": 20.18,
+   "reason": "strongbuy 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03 01:20",
+   "code": "300805",
+   "name": "电声股份",
+   "side": "SELL",
+   "qty": 300,
+   "price": 7.974,
+   "reason": "止损 -8.3%",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03 01:20",
+   "code": "920896",
+   "name": "旺成科技",
+   "side": "SELL",
+   "qty": 100,
+   "price": 14.102,
+   "reason": "止损 -13.1%",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03 01:20",
+   "code": "300069",
+   "name": "金利华电",
+   "side": "SELL",
+   "qty": 200,
+   "price": 25.389,
+   "reason": "止盈 +13.9%",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03 01:20",
+   "code": "600127",
+   "name": "金健米业",
+   "side": "BUY",
+   "qty": 100,
+   "price": 9.8,
+   "reason": "strongbuy 信号买入",
+   "account": "cloud-sat-B"
   }
  ],
- "last_run_date": "2026-10-30"
+ "last_run_date": "2026-11-03"
 }
