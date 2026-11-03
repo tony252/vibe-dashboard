@@ -1,4 +1,31 @@
 {
  "date": "20261103",
- "picks": []
+ "picks": [
+  {
+   "code": "sz002322",
+   "name": "理工能科",
+   "n": 7,
+   "close": 13.14,
+   "zt_price": 13.67,
+   "ma10": 13.11,
+   "ma25": 12.64,
+   "turnover": 4.19,
+   "turnover_ratio": 0.56,
+   "volume": 14711577,
+   "ma20vol": 16669538
+  },
+  {
+   "code": "sz002945",
+   "name": "华林证券",
+   "n": 7,
+   "close": 14.97,
+   "zt_price": 15.36,
+   "ma10": 14.67,
+   "ma25": 14.51,
+   "turnover": 1.68,
+   "turnover_ratio": 0.8,
+   "volume": 45293062,
+   "ma20vol": 35819701
+  }
+ ]
 }
