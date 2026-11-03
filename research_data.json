@@ -1,12 +1,50 @@
 {
   "date": "2026-11-03",
-  "updated_at": "2026-11-03 16:33:05",
+  "updated_at": "2026-11-03 20:03:12",
   "stats": {
-    "processed": 9,
+    "processed": 16,
     "alerts": 0,
-    "filtered": 9
+    "filtered": 12
   },
   "events": [
+    {
+      "time": "2026-11-03 19:53",
+      "type": "archive",
+      "title": "畜牧养殖股集体猛攻，农牧渔ETF华宝（159275）标的指数涨超2%！低配+低估值，修复行情来了？",
+      "content": "农牧渔板块今日（11月3日）逆市猛拉，畜牧养殖股集体大涨。截至收盘，巨星农牧、神农集团双双涨超6%，仙坛股份、湘佳股份、晓鸣股份等多股涨超4%。",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/money/fund/etf/2026-11-03/doc-inixnitq9847349.shtml",
+      "stocks": [
+        {
+          "name": "湘佳股份",
+          "code": "002982",
+          "match_reason": "直接提及[湘佳股份]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-03 19:10",
+      "type": "archive",
+      "title": "回购、注销，利好！000333已花超117亿元，000858已耗资18亿元",
+      "content": "11月3日晚间，多家上市公司公布回购相关公告。 五粮液（000858）于2026年4月—5月审议通过回购A股股份方案，拟使用80亿元—100亿元自有资金回购股份，用于减少注册资本。",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/stock/zqgd/2026-11-03/doc-inixncms9951672.shtml",
+      "stocks": [
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "match_reason": "直接提及[五粮液]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
     {
       "time": "2026-11-03 16:25",
       "type": "archive",
@@ -19,6 +57,30 @@
           "name": "南 玻Ａ",
           "code": "000012",
           "match_reason": "直接提及[南 玻Ａ]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-03 12:19",
+      "type": "archive",
+      "title": "【午报】创业板指冲高回落跌近1%，AI漫剧概念持续活跃，算力硬件股集体走弱",
+      "content": "①今日早盘市场震荡调整，三大指数集体下跌，科创50指数跌超2.5%。不过个股依旧涨多跌少，其中AI漫剧概念持续走强，而算力硬件股持续调整；\n②个股层面，早盘涨停数量为52家，连板股数量增至20家，东方海洋、阳光照明4连板。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2523506",
+      "stocks": [
+        {
+          "name": "东方海洋",
+          "code": "002086",
+          "match_reason": "直接提及[东方海洋]（选股推荐）"
+        },
+        {
+          "name": "阳光照明",
+          "code": "600261",
+          "match_reason": "直接提及[阳光照明]（选股推荐）"
         }
       ],
       "verification": {
@@ -233,7 +295,7 @@
       "现金管理"
     ]
   },
-  "mode": "report",
+  "mode": "scan",
   "week": 45,
   "stock_meta": {
     "600030": "2026-11-03 16:33",
@@ -250,18 +312,31 @@
     "002365": "2026-11-03 16:33",
     "688365": "2026-11-03 16:33",
     "300493": "2026-11-03 16:33",
-    "301153": "2026-11-03 16:33"
+    "301153": "2026-11-03 16:33",
+    "002982": "2026-11-03 20:06",
+    "000858": "2026-11-03 20:06",
+    "600261": "2026-11-03 20:06"
   },
   "watchlist": [
+    {
+      "name": "东方海洋",
+      "code": "002086",
+      "keywords": "直接提及[东方海洋]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-11-03 20:06",
+      "first_seen": "2026-11-03 16:33",
+      "is_new": false
+    },
     {
       "name": "中信证券",
       "code": "600030",
       "keywords": "直接提及[中信证券]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-03 16:33",
+      "selected_at": "2026-11-03 20:06",
       "first_seen": "2026-11-03 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "青岛食品",
@@ -269,8 +344,28 @@
       "keywords": "直接提及[青岛食品]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-03 16:33",
+      "selected_at": "2026-11-03 20:06",
       "first_seen": "2026-11-03 16:33",
+      "is_new": false
+    },
+    {
+      "name": "湘佳股份",
+      "code": "002982",
+      "keywords": "直接提及[湘佳股份]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-03 20:06",
+      "first_seen": "2026-11-03 20:06",
+      "is_new": true
+    },
+    {
+      "name": "五粮液",
+      "code": "000858",
+      "keywords": "直接提及[五粮液]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-03 20:06",
+      "first_seen": "2026-11-03 20:06",
       "is_new": true
     },
     {
@@ -279,8 +374,18 @@
       "keywords": "直接提及[南 玻Ａ]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-03 16:33",
+      "selected_at": "2026-11-03 20:06",
       "first_seen": "2026-11-03 16:33",
+      "is_new": false
+    },
+    {
+      "name": "阳光照明",
+      "code": "600261",
+      "keywords": "直接提及[阳光照明]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-03 20:06",
+      "first_seen": "2026-11-03 20:06",
       "is_new": true
     },
     {
@@ -289,9 +394,9 @@
       "keywords": "直接提及[中泰证券]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-03 16:33",
+      "selected_at": "2026-11-03 20:06",
       "first_seen": "2026-11-03 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "捷成股份",
@@ -299,9 +404,9 @@
       "keywords": "直接提及[捷成股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-03 16:33",
+      "selected_at": "2026-11-03 20:06",
       "first_seen": "2026-11-03 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "贵州茅台",
@@ -309,19 +414,9 @@
       "keywords": "直接提及[贵州茅台]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-03 16:33",
+      "selected_at": "2026-11-03 20:06",
       "first_seen": "2026-11-03 16:33",
-      "is_new": true
-    },
-    {
-      "name": "东方海洋",
-      "code": "002086",
-      "keywords": "直接提及[东方海洋]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-03 16:33",
-      "first_seen": "2026-11-03 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "襄阳轴承",
@@ -329,9 +424,9 @@
       "keywords": "直接提及[襄阳轴承]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-03 16:33",
+      "selected_at": "2026-11-03 20:06",
       "first_seen": "2026-11-03 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "华是科技",
@@ -339,9 +434,9 @@
       "keywords": "直接提及[华是科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-03 16:33",
+      "selected_at": "2026-11-03 20:06",
       "first_seen": "2026-11-03 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "芒果超媒",
@@ -349,9 +444,9 @@
       "keywords": "直接提及[芒果超媒]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-03 16:33",
+      "selected_at": "2026-11-03 20:06",
       "first_seen": "2026-11-03 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "大业股份",
@@ -359,9 +454,9 @@
       "keywords": "直接提及[大业股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-03 16:33",
+      "selected_at": "2026-11-03 20:06",
       "first_seen": "2026-11-03 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "永安药业",
@@ -369,39 +464,9 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.98\">涨幅9.98%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.05%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-03 16:33",
+      "selected_at": "2026-11-03 20:06",
       "first_seen": "2026-11-03 16:33",
-      "is_new": true
-    },
-    {
-      "name": "光云科技",
-      "code": "688365",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"14.30\">涨幅14.30%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率6.22%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-03 16:33",
-      "first_seen": "2026-11-03 16:33",
-      "is_new": true
-    },
-    {
-      "name": "润欣科技",
-      "code": "300493",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"14.09\">涨幅14.09%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率5.89%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-03 16:33",
-      "first_seen": "2026-11-03 16:33",
-      "is_new": true
-    },
-    {
-      "name": "中科江南",
-      "code": "301153",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"13.33\">涨幅13.33%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.55%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-03 16:33",
-      "first_seen": "2026-11-03 16:33",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
