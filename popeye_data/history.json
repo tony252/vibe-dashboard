@@ -2138,5 +2138,112 @@
       }
     ],
     "total_cost": 95566.0
+  },
+  "2026-11-03": {
+    "date": "2026-11-03",
+    "capital": 100000,
+    "positions": [
+      {
+        "code": "300784",
+        "name": "利安科技",
+        "buy_price": 39.1,
+        "buy_date": "2026-11-03",
+        "shares": 200,
+        "cost": 7820.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.819
+      },
+      {
+        "code": "688556",
+        "name": "高测股份",
+        "buy_price": 7.22,
+        "buy_date": "2026-11-03",
+        "shares": 1300,
+        "cost": 9386.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 11.765
+      },
+      {
+        "code": "601188",
+        "name": "龙江交通",
+        "buy_price": 3.7,
+        "buy_date": "2026-11-03",
+        "shares": 2700,
+        "cost": 9990.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.119
+      },
+      {
+        "code": "600558",
+        "name": "大西洋",
+        "buy_price": 6.24,
+        "buy_date": "2026-11-03",
+        "shares": 1600,
+        "cost": 9984.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.053
+      },
+      {
+        "code": "002805",
+        "name": "丰元股份",
+        "buy_price": 14.36,
+        "buy_date": "2026-11-03",
+        "shares": 600,
+        "cost": 8616.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.038
+      },
+      {
+        "code": "000819",
+        "name": "岳阳兴长",
+        "buy_price": 12.94,
+        "buy_date": "2026-11-03",
+        "shares": 700,
+        "cost": 9058.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.034
+      },
+      {
+        "code": "600241",
+        "name": "时代万恒",
+        "buy_price": 9.12,
+        "buy_date": "2026-11-03",
+        "shares": 1000,
+        "cost": 9120.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.012
+      },
+      {
+        "code": "601566",
+        "name": "九牧王",
+        "buy_price": 11.55,
+        "buy_date": "2026-11-03",
+        "shares": 800,
+        "cost": 9240.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.0
+      },
+      {
+        "code": "002292",
+        "name": "奥飞娱乐",
+        "buy_price": 9.58,
+        "buy_date": "2026-11-03",
+        "shares": 1000,
+        "cost": 9580.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 9.989
+      },
+      {
+        "code": "600630",
+        "name": "龙头股份",
+        "buy_price": 7.05,
+        "buy_date": "2026-11-03",
+        "shares": 1400,
+        "cost": 9870.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 9.984
+      }
+    ],
+    "total_cost": 92664.0
   }
 }
