@@ -220446,5 +220446,82 @@
         }
       ]
     }
+  },
+  "2026-11-03": {
+    "高欣资金净流入": {
+      "time": "08:34",
+      "picks": [
+        {
+          "code": "000858",
+          "name": "五粮液",
+          "net_amount_5d": -1068702.0,
+          "net_ratio_avg": -2.6,
+          "positive_days": 2,
+          "change_pct": 3.58,
+          "price": 9717.54,
+          "score": 12.68
+        },
+        {
+          "code": "000001",
+          "name": "平安银行",
+          "net_amount_5d": -6283346.0,
+          "net_ratio_avg": -1.77,
+          "positive_days": 2,
+          "change_pct": 1.08,
+          "price": 3638.03,
+          "score": 10.81
+        },
+        {
+          "code": "000002",
+          "name": "万科A",
+          "net_amount_5d": -6281867.0,
+          "net_ratio_avg": -1.77,
+          "positive_days": 2,
+          "change_pct": 1.08,
+          "price": 3814.59,
+          "score": 10.81
+        },
+        {
+          "code": "000063",
+          "name": "中兴通讯",
+          "net_amount_5d": -196872.0,
+          "net_ratio_avg": -0.44,
+          "positive_days": 2,
+          "change_pct": 0.07,
+          "price": 3660.11,
+          "score": 10.05
+        },
+        {
+          "code": "000100",
+          "name": "TCL科技",
+          "net_amount_5d": -2683102.0,
+          "net_ratio_avg": -1.81,
+          "positive_days": 1,
+          "change_pct": 0.43,
+          "price": 5851.78,
+          "score": 5.32
+        },
+        {
+          "code": "000961",
+          "name": "中南建设",
+          "net_amount_5d": -522731.0,
+          "net_ratio_avg": -2.1,
+          "positive_days": 0,
+          "change_pct": -0.76,
+          "price": 4331.94,
+          "score": 0.23
+        },
+        {
+          "code": "000066",
+          "name": "中国长城",
+          "net_amount_5d": -551123.0,
+          "net_ratio_avg": -2.5,
+          "positive_days": 0,
+          "change_pct": -0.18,
+          "price": 3234.71,
+          "score": 0.05
+        }
+      ]
+    }
   }
 }
