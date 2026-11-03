@@ -2,21 +2,21 @@
  "mode": "cloud-daily",
  "live": true,
  "start_capital": 150000.0,
- "equity": 168059.21,
- "cash": 88365.21,
- "exposure": 79694.0,
- "ret_pct": 12.04,
+ "equity": 168352.94,
+ "cash": 89920.94,
+ "exposure": 78432.0,
+ "ret_pct": 12.24,
  "regime": "NEUTRAL",
- "regime_detail": "2026-10-30 净持仓均值 -0.06%（IF -0.0%，IH -0.1%，IC -0.0%，IM -0.1%）",
+ "regime_detail": "2026-11-02 净持仓均值 -0.06%（IF -0.0%，IH -0.1%，IC -0.0%，IM -0.1%）",
  "adaptive": {
   "regime": "NEUTRAL",
-  "regime_detail": "2026-10-30 净持仓均值 -0.06%（IF -0.0%，IH -0.1%，IC -0.0%，IM -0.1%）",
+  "regime_detail": "2026-11-02 净持仓均值 -0.06%（IF -0.0%，IH -0.1%，IC -0.0%，IM -0.1%）",
   "mood_trend": "FLAT",
-  "mood_slope": 0.0008,
-  "mood_vol": 0.0035,
+  "mood_slope": 0.0004,
+  "mood_vol": 0.0031,
   "year_end": true,
   "quarter_end": false,
-  "cffex_days": 97,
+  "cffex_days": 98,
   "params": {
    "exposure_cap": 0.612,
    "single_cap": 0.135,
@@ -94,21 +94,21 @@
    }
   ]
  },
- "updated": "2026-11-03 01:20",
+ "updated": "2026-11-03 23:25",
  "run_date": "2026-11-03",
  "source_freshness": {
   "strong_stocks": {
-   "updated": "2026-10-30 23:56",
-   "used": false,
-   "stale_days": 4
+   "updated": "2026-11-03 03:00",
+   "used": true,
+   "stale_days": 0
   },
   "strongbuy_data": {
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "used": true,
-   "stale_days": 1
+   "stale_days": 0
   },
   "daily_picks": {
-   "updated": "2026-11-02",
+   "updated": "2026-11-03",
    "used": true,
    "stale_days": null
   }
@@ -117,22 +117,22 @@
   {
    "id": "cloud-main-A",
    "mandate": 100000.0,
-   "equity": 116551.72,
+   "equity": 116589.72,
    "cash": 53991.72,
-   "exposure": 62560.0,
-   "pnl": 16551.72,
-   "pnl_pct": 16.55,
+   "exposure": 62598.0,
+   "pnl": 16589.72,
+   "pnl_pct": 16.59,
    "status": "盈利追加",
    "strategies": "strong,strongbuy,daily_picks"
   },
   {
    "id": "cloud-sat-B",
    "mandate": 50000.0,
-   "equity": 51507.49,
-   "cash": 34373.49,
-   "exposure": 17134.0,
-   "pnl": 1507.49,
-   "pnl_pct": 3.01,
+   "equity": 51763.22,
+   "cash": 35929.22,
+   "exposure": 15834.0,
+   "pnl": 1763.22,
+   "pnl_pct": 3.53,
    "status": "盈利追加",
    "strategies": "strong,strongbuy"
   }
@@ -275,10 +275,10 @@
    "name": "天邑股份",
    "qty": 100,
    "avg": 17.729,
-   "last": 17.0,
-   "value": 1700.0,
-   "pnl": -72.9,
-   "pnl_pct": -4.11,
+   "last": 18.18,
+   "value": 1818.0,
+   "pnl": 45.1,
+   "pnl_pct": 2.54,
    "strategy": "strongbuy",
    "account": "cloud-main-A"
   },
@@ -287,10 +287,10 @@
    "name": "朗信电气",
    "qty": 200,
    "avg": 54.723,
-   "last": 55.6,
-   "value": 11120.0,
-   "pnl": 175.4,
-   "pnl_pct": 1.6,
+   "last": 55.33,
+   "value": 11066.0,
+   "pnl": 121.4,
+   "pnl_pct": 1.11,
    "strategy": "strongbuy",
    "account": "cloud-main-A"
   },
@@ -299,10 +299,10 @@
    "name": "思美传媒",
    "qty": 400,
    "avg": 5.001,
-   "last": 4.97,
-   "value": 1988.0,
-   "pnl": -12.4,
-   "pnl_pct": -0.62,
+   "last": 4.94,
+   "value": 1976.0,
+   "pnl": -24.4,
+   "pnl_pct": -1.22,
    "strategy": "strong",
    "account": "cloud-main-A"
   },
@@ -311,10 +311,10 @@
    "name": "阳普医疗",
    "qty": 200,
    "avg": 7.327,
-   "last": 7.31,
-   "value": 1462.0,
-   "pnl": -3.4,
-   "pnl_pct": -0.23,
+   "last": 7.24,
+   "value": 1448.0,
+   "pnl": -17.4,
+   "pnl_pct": -1.19,
    "strategy": "strongbuy",
    "account": "cloud-main-A"
   },
@@ -371,22 +371,10 @@
    "name": "天邑股份",
    "qty": 100,
    "avg": 17.729,
-   "last": 17.0,
-   "value": 1700.0,
-   "pnl": -72.9,
-   "pnl_pct": -4.11,
-   "strategy": "strongbuy",
-   "account": "cloud-sat-B"
-  },
-  {
-   "code": "000995",
-   "name": "皇台酒业",
-   "qty": 100,
-   "avg": 14.313,
-   "last": 14.18,
-   "value": 1418.0,
-   "pnl": -13.3,
-   "pnl_pct": -0.93,
+   "last": 18.18,
+   "value": 1818.0,
+   "pnl": 45.1,
+   "pnl_pct": 2.54,
    "strategy": "strongbuy",
    "account": "cloud-sat-B"
   },
@@ -395,10 +383,10 @@
    "name": "思美传媒",
    "qty": 200,
    "avg": 5.001,
-   "last": 4.97,
-   "value": 994.0,
-   "pnl": -6.2,
-   "pnl_pct": -0.62,
+   "last": 4.94,
+   "value": 988.0,
+   "pnl": -12.2,
+   "pnl_pct": -1.22,
    "strategy": "strong",
    "account": "cloud-sat-B"
   },
@@ -407,10 +395,10 @@
    "name": "湖北广电",
    "qty": 100,
    "avg": 3.959,
-   "last": 3.93,
-   "value": 393.0,
-   "pnl": -2.9,
-   "pnl_pct": -0.73,
+   "last": 3.97,
+   "value": 397.0,
+   "pnl": 1.1,
+   "pnl_pct": 0.28,
    "strategy": "strong",
    "account": "cloud-sat-B"
   },
@@ -419,10 +407,10 @@
    "name": "阳普医疗",
    "qty": 200,
    "avg": 7.327,
-   "last": 7.31,
-   "value": 1462.0,
-   "pnl": -3.4,
-   "pnl_pct": -0.23,
+   "last": 7.24,
+   "value": 1448.0,
+   "pnl": -17.4,
+   "pnl_pct": -1.19,
    "strategy": "strongbuy",
    "account": "cloud-sat-B"
   },
@@ -431,10 +419,10 @@
    "name": "金健米业",
    "qty": 100,
    "avg": 9.802,
-   "last": 9.78,
-   "value": 978.0,
-   "pnl": -2.2,
-   "pnl_pct": -0.22,
+   "last": 9.94,
+   "value": 994.0,
+   "pnl": 13.8,
+   "pnl_pct": 1.41,
    "strategy": "strongbuy",
    "account": "cloud-sat-B"
   }
@@ -2474,6 +2462,17 @@
    "price": 9.8,
    "reason": "strongbuy 信号买入",
    "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03 23:25",
+   "code": "000995",
+   "name": "皇台酒业",
+   "side": "SELL",
+   "qty": 100,
+   "price": 15.569,
+   "reason": "止盈 +9.0%",
+   "account": "cloud-sat-B"
   }
  ],
  "history": [
@@ -2582,20 +2581,20 @@
    "equity": 166942.27
   },
   {
-   "ts": "2026-11-03 01:20",
-   "equity": 168059.21
+   "ts": "2026-11-03 23:25",
+   "equity": 168352.94
   }
  ],
  "allocations": {
   "strong": {
    "alloc_total": 50000.0,
    "assigned": 50000.0,
-   "deployed": 26282.0
+   "deployed": 26268.0
   },
   "strongbuy": {
    "alloc_total": 35000.0,
    "assigned": 35000.0,
-   "deployed": 33456.0
+   "deployed": 32208.0
   },
   "daily_picks": {
    "alloc_total": 20000.0,

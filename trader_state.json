@@ -116,7 +116,7 @@
      "name": "天邑股份",
      "qty": 100,
      "avg": 17.729,
-     "last": 17.0,
+     "last": 18.18,
      "strategy": "strongbuy",
      "open_date": "2026-10-27"
     },
@@ -125,7 +125,7 @@
      "name": "朗信电气",
      "qty": 200,
      "avg": 54.723,
-     "last": 55.6,
+     "last": 55.33,
      "strategy": "strongbuy",
      "open_date": "2026-10-28"
     },
@@ -134,7 +134,7 @@
      "name": "思美传媒",
      "qty": 400,
      "avg": 5.001,
-     "last": 4.97,
+     "last": 4.94,
      "strategy": "strong",
      "open_date": "2026-10-30"
     },
@@ -143,7 +143,7 @@
      "name": "阳普医疗",
      "qty": 200,
      "avg": 7.327,
-     "last": 7.31,
+     "last": 7.24,
      "strategy": "strongbuy",
      "open_date": "2026-10-30"
     },
@@ -166,7 +166,7 @@
     "strong": 0.3,
     "strongbuy": 0.2
    },
-   "cash": 34373.490524999994,
+   "cash": 35929.22284999999,
    "positions": [
     {
      "code": "000890",
@@ -200,16 +200,7 @@
      "name": "天邑股份",
      "qty": 100,
      "avg": 17.729,
-     "last": 17.0,
-     "strategy": "strongbuy",
-     "open_date": "2026-10-27"
-    },
-    {
-     "code": "000995",
-     "name": "皇台酒业",
-     "qty": 100,
-     "avg": 14.313,
-     "last": 14.18,
+     "last": 18.18,
      "strategy": "strongbuy",
      "open_date": "2026-10-27"
     },
@@ -218,7 +209,7 @@
      "name": "思美传媒",
      "qty": 200,
      "avg": 5.001,
-     "last": 4.97,
+     "last": 4.94,
      "strategy": "strong",
      "open_date": "2026-10-30"
     },
@@ -227,7 +218,7 @@
      "name": "湖北广电",
      "qty": 100,
      "avg": 3.959,
-     "last": 3.93,
+     "last": 3.97,
      "strategy": "strong",
      "open_date": "2026-10-30"
     },
@@ -236,7 +227,7 @@
      "name": "阳普医疗",
      "qty": 200,
      "avg": 7.327,
-     "last": 7.31,
+     "last": 7.24,
      "strategy": "strongbuy",
      "open_date": "2026-10-30"
     },
@@ -245,12 +236,12 @@
      "name": "金健米业",
      "qty": 100,
      "avg": 9.802,
-     "last": 9.78,
+     "last": 9.94,
      "strategy": "strongbuy",
      "open_date": "2026-11-03"
     }
    ],
-   "realized": 1630.6574500000029
+   "realized": 1755.089775000003
   }
  ],
  "history": [
@@ -359,8 +350,8 @@
    "equity": 166942.27
   },
   {
-   "ts": "2026-11-03 01:20",
-   "equity": 168059.21
+   "ts": "2026-11-03 23:25",
+   "equity": 168352.94
   }
  ],
  "trades": [
@@ -2397,6 +2388,17 @@
    "qty": 100,
    "price": 9.8,
    "reason": "strongbuy 信号买入",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03 23:25",
+   "code": "000995",
+   "name": "皇台酒业",
+   "side": "SELL",
+   "qty": 100,
+   "price": 15.569,
+   "reason": "止盈 +9.0%",
    "account": "cloud-sat-B"
   }
  ],
