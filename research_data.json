@@ -1,10 +1,10 @@
 {
   "date": "2026-11-02",
-  "updated_at": "2026-11-02 20:03:13",
+  "updated_at": "2026-11-03 12:03:24",
   "stats": {
-    "processed": 17,
+    "processed": 20,
     "alerts": 0,
-    "filtered": 12
+    "filtered": 14
   },
   "events": [
     {
@@ -24,6 +24,45 @@
           "name": "邮储银行",
           "code": "601658",
           "match_reason": "直接提及[邮储银行]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-02 17:31",
+      "type": "archive",
+      "title": "【焦点复盘】大金融板块做多提振人气，科创50放量涨超3%，AI应用端现大面积涨停",
+      "content": "①连板晋级率升至五成以上，最高标青岛食品晋级6连板，市场短线投机情绪高涨，东方海洋、襄阳轴承等多只“羊字辈”个股涨停。 ②AI应用端现多点开花，其中AI漫剧、游戏方向强势领涨，华是科技、芒果超媒在内的三十余股涨停。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2522637",
+      "stocks": [
+        {
+          "name": "东方海洋",
+          "code": "002086",
+          "match_reason": "直接提及[东方海洋]（选股推荐）"
+        },
+        {
+          "name": "青岛食品",
+          "code": "001219",
+          "match_reason": "直接提及[青岛食品]（选股推荐）"
+        },
+        {
+          "name": "芒果超媒",
+          "code": "300413",
+          "match_reason": "直接提及[芒果超媒]（选股推荐）"
+        },
+        {
+          "name": "华是科技",
+          "code": "301218",
+          "match_reason": "直接提及[华是科技]（选股推荐）"
+        },
+        {
+          "name": "襄阳轴承",
+          "code": "000678",
+          "match_reason": "直接提及[襄阳轴承]（选股推荐）"
         }
       ],
       "verification": {
@@ -119,6 +158,25 @@
           "name": "大业股份",
           "code": "603278",
           "match_reason": "直接提及[大业股份]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-02 08:17",
+      "type": "archive",
+      "title": "券商晨会精华：一旦市场情绪否极泰来，重点关注行业景气度上行的方向",
+      "content": "东方财富证券认为，情绪随时可能逆转，准备好反击行情；中信证券认为，积极调整结构，四种配置思维；中信建投认为，聚焦北美云厂现金流与投入回报质量。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2521955",
+      "stocks": [
+        {
+          "name": "中信证券",
+          "code": "600030",
+          "match_reason": "直接提及[中信证券]（选股推荐）"
         }
       ],
       "verification": {
@@ -329,26 +387,31 @@
     "002275": "2026-11-02 16:32",
     "002365": "2026-11-02 16:32",
     "601398": "2026-11-02 20:06",
-    "601658": "2026-11-02 20:06"
+    "601658": "2026-11-02 20:06",
+    "002086": "2026-11-03 12:06",
+    "300413": "2026-11-03 12:06",
+    "301218": "2026-11-03 12:06",
+    "000678": "2026-11-03 12:06",
+    "600030": "2026-11-03 12:06"
   },
   "watchlist": [
+    {
+      "name": "青岛食品",
+      "code": "001219",
+      "keywords": "直接提及[青岛食品]（选股推荐）",
+      "reason": "新闻提及 | 3次",
+      "source": "event",
+      "selected_at": "2026-11-03 12:06",
+      "first_seen": "2026-11-02 16:32",
+      "is_new": false
+    },
     {
       "name": "奥精医疗",
       "code": "688613",
       "keywords": "直接提及[奥精医疗]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-02 20:06",
-      "first_seen": "2026-11-02 16:32",
-      "is_new": false
-    },
-    {
-      "name": "青岛食品",
-      "code": "001219",
-      "keywords": "直接提及[青岛食品]（选股推荐）",
-      "reason": "新闻提及 | 2次",
-      "source": "event",
-      "selected_at": "2026-11-02 20:06",
+      "selected_at": "2026-11-03 12:06",
       "first_seen": "2026-11-02 16:32",
       "is_new": false
     },
@@ -358,7 +421,7 @@
       "keywords": "直接提及[贵州茅台]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-02 20:06",
+      "selected_at": "2026-11-03 12:06",
       "first_seen": "2026-11-02 16:32",
       "is_new": false
     },
@@ -368,7 +431,7 @@
       "keywords": "直接提及[澳洋健康]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-02 20:06",
+      "selected_at": "2026-11-03 12:06",
       "first_seen": "2026-11-02 16:32",
       "is_new": false
     },
@@ -378,7 +441,7 @@
       "keywords": "直接提及[泸州老窖]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-02 20:06",
+      "selected_at": "2026-11-03 12:06",
       "first_seen": "2026-11-02 16:32",
       "is_new": false
     },
@@ -388,9 +451,9 @@
       "keywords": "直接提及[工商银行]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-02 20:06",
+      "selected_at": "2026-11-03 12:06",
       "first_seen": "2026-11-02 20:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "邮储银行",
@@ -398,8 +461,48 @@
       "keywords": "直接提及[邮储银行]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-02 20:06",
+      "selected_at": "2026-11-03 12:06",
       "first_seen": "2026-11-02 20:06",
+      "is_new": false
+    },
+    {
+      "name": "东方海洋",
+      "code": "002086",
+      "keywords": "直接提及[东方海洋]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-03 12:06",
+      "first_seen": "2026-11-03 12:06",
+      "is_new": true
+    },
+    {
+      "name": "芒果超媒",
+      "code": "300413",
+      "keywords": "直接提及[芒果超媒]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-03 12:06",
+      "first_seen": "2026-11-03 12:06",
+      "is_new": true
+    },
+    {
+      "name": "华是科技",
+      "code": "301218",
+      "keywords": "直接提及[华是科技]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-03 12:06",
+      "first_seen": "2026-11-03 12:06",
+      "is_new": true
+    },
+    {
+      "name": "襄阳轴承",
+      "code": "000678",
+      "keywords": "直接提及[襄阳轴承]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-03 12:06",
+      "first_seen": "2026-11-03 12:06",
       "is_new": true
     },
     {
@@ -408,7 +511,7 @@
       "keywords": "直接提及[中国人寿]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-02 20:06",
+      "selected_at": "2026-11-03 12:06",
       "first_seen": "2026-11-02 16:32",
       "is_new": false
     },
@@ -418,9 +521,19 @@
       "keywords": "直接提及[大业股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-02 20:06",
+      "selected_at": "2026-11-03 12:06",
       "first_seen": "2026-11-02 16:32",
       "is_new": false
+    },
+    {
+      "name": "中信证券",
+      "code": "600030",
+      "keywords": "直接提及[中信证券]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-03 12:06",
+      "first_seen": "2026-11-03 12:06",
+      "is_new": true
     },
     {
       "name": "海洋王",
@@ -428,57 +541,7 @@
       "keywords": "直接提及[海洋王]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-02 20:06",
-      "first_seen": "2026-11-02 16:32",
-      "is_new": false
-    },
-    {
-      "name": "凡拓数创",
-      "code": "301313",
-      "keywords": "直接提及[凡拓数创]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-02 20:06",
-      "first_seen": "2026-11-02 16:32",
-      "is_new": false
-    },
-    {
-      "name": "东贝集团",
-      "code": "601956",
-      "keywords": "直接提及[东贝集团]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-02 20:06",
-      "first_seen": "2026-11-02 16:32",
-      "is_new": false
-    },
-    {
-      "name": "阳光照明",
-      "code": "600261",
-      "keywords": "直接提及[阳光照明]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-02 20:06",
-      "first_seen": "2026-11-02 16:32",
-      "is_new": false
-    },
-    {
-      "name": "迎驾贡酒",
-      "code": "603198",
-      "keywords": "直接提及[迎驾贡酒]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-02 20:06",
-      "first_seen": "2026-11-02 16:32",
-      "is_new": false
-    },
-    {
-      "name": "上海沪工",
-      "code": "603131",
-      "keywords": "直接提及[上海沪工]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-02 20:06",
+      "selected_at": "2026-11-03 12:06",
       "first_seen": "2026-11-02 16:32",
       "is_new": false
     }
