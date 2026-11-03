@@ -3,228 +3,235 @@
     "indices": [
       {
         "name": "上证指数",
-        "current": 3597.71,
-        "pct": -1.11
+        "current": 3607.74,
+        "pct": -0.83
       },
       {
         "name": "深证成指",
-        "current": 10993.42,
-        "pct": -0.16
+        "current": 11087.9,
+        "pct": 0.7
       },
       {
         "name": "创业板指",
-        "current": 2436.06,
-        "pct": -0.92
+        "current": 2471.33,
+        "pct": 0.51
       },
       {
         "name": "沪深300",
-        "current": 3992.16,
-        "pct": -0.62
+        "current": 4010.04,
+        "pct": -0.17
       },
       {
         "name": "科创50",
-        "current": 1172.17,
-        "pct": -2.07
+        "current": 1180.64,
+        "pct": -1.36
       },
       {
         "name": "上证50",
-        "current": 2727.54,
-        "pct": -1.27
+        "current": 2731.12,
+        "pct": -1.14
       },
       {
         "name": "中证500",
-        "current": 6404.46,
-        "pct": -0.25
+        "current": 6442.66,
+        "pct": 0.35
       },
       {
         "name": "中证1000",
-        "current": 6315.65,
-        "pct": -0.22
+        "current": 6365.49,
+        "pct": 0.57
       }
     ],
     "top_gainers": [
       {
         "name": "N皇冠",
         "code": "001381",
-        "price": 59.23,
-        "change_pct": 248.82,
-        "turnover": 39.34
-      },
-      {
-        "name": "盟固利",
-        "code": "301487",
-        "price": 20.97,
-        "change_pct": 16.11,
-        "turnover": 8.32
-      },
-      {
-        "name": "高测股份",
-        "code": "688556",
-        "price": 7.3,
-        "change_pct": 13.0,
-        "turnover": 3.6
-      },
-      {
-        "name": "ST豆神",
-        "code": "300010",
-        "price": 3.56,
-        "change_pct": 12.66,
-        "turnover": 4.92
-      },
-      {
-        "name": "尚水智能",
-        "code": "301513",
-        "price": 50.95,
-        "change_pct": 11.61,
-        "turnover": 16.0
-      },
-      {
-        "name": "*ST开元",
-        "code": "300338",
-        "price": 1.96,
-        "change_pct": 11.36,
-        "turnover": 6.08
-      },
-      {
-        "name": "东方日升",
-        "code": "300118",
-        "price": 8.59,
-        "change_pct": 10.98,
-        "turnover": 3.02
+        "price": 59.37,
+        "change_pct": 249.65,
+        "turnover": 47.15
       },
       {
         "name": "信隆健康",
         "code": "002105",
         "price": 5.56,
         "change_pct": 10.1,
-        "turnover": 1.53
-      },
-      {
-        "name": "浙文影业",
-        "code": "601599",
-        "price": 3.82,
-        "change_pct": 10.09,
-        "turnover": 1.66
-      },
-      {
-        "name": "国旅联合",
-        "code": "600358",
-        "price": 5.57,
-        "change_pct": 10.08,
-        "turnover": 2.81
+        "turnover": 1.67
       },
       {
         "name": "太阳能",
         "code": "000591",
         "price": 4.59,
         "change_pct": 10.07,
-        "turnover": 1.88
+        "turnover": 2.27
       },
       {
-        "name": "大晟文化",
-        "code": "600892",
-        "price": 4.81,
-        "change_pct": 10.07,
-        "turnover": 0.88
-      },
-      {
-        "name": "大西洋",
-        "code": "600558",
-        "price": 6.24,
-        "change_pct": 10.05,
-        "turnover": 6.93
-      },
-      {
-        "name": "领湃科技",
-        "code": "300530",
-        "price": 26.19,
+        "name": "鲁阳节能",
+        "code": "002088",
+        "price": 8.33,
         "change_pct": 10.04,
-        "turnover": 5.09
+        "turnover": 2.33
+      },
+      {
+        "name": "丰元股份",
+        "code": "002805",
+        "price": 14.36,
+        "change_pct": 10.04,
+        "turnover": 6.53
+      },
+      {
+        "name": "岳阳兴长",
+        "code": "000819",
+        "price": 12.94,
+        "change_pct": 10.03,
+        "turnover": 5.54
+      },
+      {
+        "name": "青岛双星",
+        "code": "000599",
+        "price": 4.5,
+        "change_pct": 10.02,
+        "turnover": 4.22
+      },
+      {
+        "name": "圣阳股份",
+        "code": "002580",
+        "price": 18.67,
+        "change_pct": 10.02,
+        "turnover": 7.24
+      },
+      {
+        "name": "华阳国际",
+        "code": "002949",
+        "price": 15.49,
+        "change_pct": 10.01,
+        "turnover": 1.92
+      },
+      {
+        "name": "中欣氟材",
+        "code": "002915",
+        "price": 16.37,
+        "change_pct": 10.01,
+        "turnover": 3.85
+      },
+      {
+        "name": "七 匹 狼",
+        "code": "002029",
+        "price": 10.33,
+        "change_pct": 10.01,
+        "turnover": 4.7
+      },
+      {
+        "name": "高争民爆",
+        "code": "002827",
+        "price": 62.68,
+        "change_pct": 10.0,
+        "turnover": 0.08
+      },
+      {
+        "name": "远程股份",
+        "code": "002692",
+        "price": 4.18,
+        "change_pct": 10.0,
+        "turnover": 0.95
+      },
+      {
+        "name": "利君股份",
+        "code": "002651",
+        "price": 8.14,
+        "change_pct": 10.0,
+        "turnover": 2.48
+      },
+      {
+        "name": "成飞集成",
+        "code": "002190",
+        "price": 23.21,
+        "change_pct": 10.0,
+        "turnover": 1.96
       }
     ],
     "sectors": [
       {
         "name": "橡胶塑料制品业",
         "code": "ZC29",
-        "pct": 8.06,
-        "amount_yi": 64.6,
+        "pct": 8.6,
+        "amount_yi": 85.5,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "家具制造业",
+        "code": "ZC21",
+        "pct": 2.42,
+        "amount_yi": 16.6,
         "net_inflow_yi": 0
       },
       {
         "name": "文教体育用品业",
         "code": "ZC24",
-        "pct": 1.75,
-        "amount_yi": 9.1,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "电气机械器材业",
-        "code": "ZC38",
-        "pct": 1.59,
-        "amount_yi": 325.1,
+        "pct": 2.32,
+        "amount_yi": 10.9,
         "net_inflow_yi": 0
       },
       {
         "name": "铁路船舶航天业",
         "code": "ZC37",
-        "pct": 1.43,
-        "amount_yi": 7.8,
+        "pct": 2.14,
+        "amount_yi": 8.8,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "电气机械器材业",
+        "code": "ZC38",
+        "pct": 1.99,
+        "amount_yi": 467.1,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "化学纤维制造业",
+        "code": "ZC28",
+        "pct": 1.94,
+        "amount_yi": 28.8,
         "net_inflow_yi": 0
       },
       {
         "name": "有色金属冶炼业",
         "code": "ZC32",
-        "pct": 1.3,
-        "amount_yi": 98.3,
+        "pct": 1.66,
+        "amount_yi": 145.0,
         "net_inflow_yi": 0
       },
       {
-        "name": "皮革毛皮制鞋业",
-        "code": "ZC19",
-        "pct": 1.21,
-        "amount_yi": 2.3,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "农副食品加工业",
-        "code": "ZC13",
-        "pct": 1.16,
-        "amount_yi": 23.1,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "石油炼焦加工业",
-        "code": "ZC25",
-        "pct": 0.88,
-        "amount_yi": 1.0,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "专用设备制造业",
-        "code": "ZC35",
-        "pct": 0.86,
-        "amount_yi": 0.8,
+        "name": "黑色金属冶炼业",
+        "code": "ZC31",
+        "pct": 1.54,
+        "amount_yi": 15.4,
         "net_inflow_yi": 0
       },
       {
         "name": "废弃资源利用业",
         "code": "ZC42",
-        "pct": 0.85,
-        "amount_yi": 3.7,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "金属制品修理业",
-        "code": "ZC43",
-        "pct": 0.84,
-        "amount_yi": 114.6,
+        "pct": 1.54,
+        "amount_yi": 5.2,
         "net_inflow_yi": 0
       },
       {
         "name": "印刷媒介复制业",
         "code": "ZC23",
-        "pct": 0.79,
-        "amount_yi": 1.9,
+        "pct": 1.52,
+        "amount_yi": 2.5,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "金属制品修理业",
+        "code": "ZC43",
+        "pct": 1.36,
+        "amount_yi": 161.4,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "专用设备制造业",
+        "code": "ZC35",
+        "pct": 1.25,
+        "amount_yi": 1.2,
         "net_inflow_yi": 0
       }
     ],
@@ -234,100 +241,107 @@
       {
         "name": "N皇冠",
         "code": "001381",
-        "price": 59.23,
-        "change_pct": 248.82,
-        "turnover": 39.34
-      },
-      {
-        "name": "盟固利",
-        "code": "301487",
-        "price": 20.97,
-        "change_pct": 16.11,
-        "turnover": 8.32
-      },
-      {
-        "name": "高测股份",
-        "code": "688556",
-        "price": 7.3,
-        "change_pct": 13.0,
-        "turnover": 3.6
-      },
-      {
-        "name": "ST豆神",
-        "code": "300010",
-        "price": 3.56,
-        "change_pct": 12.66,
-        "turnover": 4.92
-      },
-      {
-        "name": "尚水智能",
-        "code": "301513",
-        "price": 50.95,
-        "change_pct": 11.61,
-        "turnover": 16.0
-      },
-      {
-        "name": "*ST开元",
-        "code": "300338",
-        "price": 1.96,
-        "change_pct": 11.36,
-        "turnover": 6.08
-      },
-      {
-        "name": "东方日升",
-        "code": "300118",
-        "price": 8.59,
-        "change_pct": 10.98,
-        "turnover": 3.02
+        "price": 59.37,
+        "change_pct": 249.65,
+        "turnover": 47.15
       },
       {
         "name": "信隆健康",
         "code": "002105",
         "price": 5.56,
         "change_pct": 10.1,
-        "turnover": 1.53
-      },
-      {
-        "name": "浙文影业",
-        "code": "601599",
-        "price": 3.82,
-        "change_pct": 10.09,
-        "turnover": 1.66
-      },
-      {
-        "name": "国旅联合",
-        "code": "600358",
-        "price": 5.57,
-        "change_pct": 10.08,
-        "turnover": 2.81
+        "turnover": 1.67
       },
       {
         "name": "太阳能",
         "code": "000591",
         "price": 4.59,
         "change_pct": 10.07,
-        "turnover": 1.88
+        "turnover": 2.27
       },
       {
-        "name": "大晟文化",
-        "code": "600892",
-        "price": 4.81,
-        "change_pct": 10.07,
-        "turnover": 0.88
-      },
-      {
-        "name": "大西洋",
-        "code": "600558",
-        "price": 6.24,
-        "change_pct": 10.05,
-        "turnover": 6.93
-      },
-      {
-        "name": "领湃科技",
-        "code": "300530",
-        "price": 26.19,
+        "name": "鲁阳节能",
+        "code": "002088",
+        "price": 8.33,
         "change_pct": 10.04,
-        "turnover": 5.09
+        "turnover": 2.33
+      },
+      {
+        "name": "丰元股份",
+        "code": "002805",
+        "price": 14.36,
+        "change_pct": 10.04,
+        "turnover": 6.53
+      },
+      {
+        "name": "岳阳兴长",
+        "code": "000819",
+        "price": 12.94,
+        "change_pct": 10.03,
+        "turnover": 5.54
+      },
+      {
+        "name": "青岛双星",
+        "code": "000599",
+        "price": 4.5,
+        "change_pct": 10.02,
+        "turnover": 4.22
+      },
+      {
+        "name": "圣阳股份",
+        "code": "002580",
+        "price": 18.67,
+        "change_pct": 10.02,
+        "turnover": 7.24
+      },
+      {
+        "name": "华阳国际",
+        "code": "002949",
+        "price": 15.49,
+        "change_pct": 10.01,
+        "turnover": 1.92
+      },
+      {
+        "name": "中欣氟材",
+        "code": "002915",
+        "price": 16.37,
+        "change_pct": 10.01,
+        "turnover": 3.85
+      },
+      {
+        "name": "七 匹 狼",
+        "code": "002029",
+        "price": 10.33,
+        "change_pct": 10.01,
+        "turnover": 4.7
+      },
+      {
+        "name": "高争民爆",
+        "code": "002827",
+        "price": 62.68,
+        "change_pct": 10.0,
+        "turnover": 0.08
+      },
+      {
+        "name": "远程股份",
+        "code": "002692",
+        "price": 4.18,
+        "change_pct": 10.0,
+        "turnover": 0.95
+      },
+      {
+        "name": "利君股份",
+        "code": "002651",
+        "price": 8.14,
+        "change_pct": 10.0,
+        "turnover": 2.48
+      },
+      {
+        "name": "成飞集成",
+        "code": "002190",
+        "price": 23.21,
+        "change_pct": 10.0,
+        "turnover": 1.96
       }
     ],
     "yimeng_stocks": [
@@ -509,5 +523,5 @@
       }
     ]
   },
-  "timestamp": "2026-11-03T09:51:20"
+  "timestamp": "2026-11-03T10:05:37"
 }
