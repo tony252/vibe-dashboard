@@ -151,17 +151,17 @@
         "net_inflow_yi": 0
       },
       {
-        "name": "农副食品加工业",
-        "code": "ZC13",
-        "pct": 2.2,
-        "amount_yi": 74.1,
-        "net_inflow_yi": 0
-      },
-      {
         "name": "酒饮料茶制造业",
         "code": "ZC15",
         "pct": 2.2,
         "amount_yi": 294.8,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "家具制造业",
+        "code": "ZC21",
+        "pct": 2.1,
+        "amount_yi": 17.6,
         "net_inflow_yi": 0
       },
       {
@@ -174,8 +174,29 @@
       {
         "name": "铁路船舶航天业",
         "code": "ZC37",
-        "pct": 1.51,
-        "amount_yi": 19.1,
+        "pct": 1.87,
+        "amount_yi": 216.4,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "食品制造业",
+        "code": "ZC14",
+        "pct": 1.67,
+        "amount_yi": 176.2,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "农副食品加工业",
+        "code": "ZC13",
+        "pct": 1.59,
+        "amount_yi": 102.9,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "黑色金属冶炼业",
+        "code": "ZC31",
+        "pct": 1.58,
+        "amount_yi": 44.1,
         "net_inflow_yi": 0
       },
       {
@@ -193,13 +214,6 @@
         "net_inflow_yi": 0
       },
       {
-        "name": "家具制造业",
-        "code": "ZC21",
-        "pct": 1.0,
-        "amount_yi": 53.2,
-        "net_inflow_yi": 0
-      },
-      {
         "name": "文教体育用品业",
         "code": "ZC24",
         "pct": 0.82,
@@ -207,24 +221,10 @@
         "net_inflow_yi": 0
       },
       {
-        "name": "石油炼焦加工业",
-        "code": "ZC25",
-        "pct": 0.67,
-        "amount_yi": 4.7,
-        "net_inflow_yi": 0
-      },
-      {
         "name": "纺织业",
         "code": "ZC17",
         "pct": 0.38,
         "amount_yi": 38.9,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "金属制品修理业",
-        "code": "ZC43",
-        "pct": 0.37,
-        "amount_yi": 499.6,
         "net_inflow_yi": 0
       }
     ],
@@ -565,5 +565,5 @@
       }
     ]
   },
-  "timestamp": "2026-11-03T17:22:45"
+  "timestamp": "2026-11-04T00:28:25"
 }
