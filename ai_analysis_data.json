@@ -51,6 +51,76 @@
         "turnover": 87.33
       },
       {
+        "name": "尚水智能",
+        "code": "301513",
+        "price": 54.78,
+        "change_pct": 20.0,
+        "turnover": 27.95
+      },
+      {
+        "name": "ST豆神",
+        "code": "300010",
+        "price": 3.79,
+        "change_pct": 19.94,
+        "turnover": 10.75
+      },
+      {
+        "name": "昆船智能",
+        "code": "301311",
+        "price": 18.68,
+        "change_pct": 18.08,
+        "turnover": 14.92
+      },
+      {
+        "name": "华智数媒",
+        "code": "300426",
+        "price": 9.0,
+        "change_pct": 16.28,
+        "turnover": 24.74
+      },
+      {
+        "name": "盟固利",
+        "code": "301487",
+        "price": 20.5,
+        "change_pct": 13.51,
+        "turnover": 17.3
+      },
+      {
+        "name": "*ST开元",
+        "code": "300338",
+        "price": 1.98,
+        "change_pct": 12.5,
+        "turnover": 10.67
+      },
+      {
+        "name": "明阳电路",
+        "code": "300739",
+        "price": 26.0,
+        "change_pct": 12.46,
+        "turnover": 18.09
+      },
+      {
+        "name": "高测股份",
+        "code": "688556",
+        "price": 7.21,
+        "change_pct": 11.61,
+        "turnover": 8.14
+      },
+      {
+        "name": "大东方",
+        "code": "600327",
+        "price": 4.35,
+        "change_pct": 10.13,
+        "turnover": 5.5
+      },
+      {
+        "name": "龙江交通",
+        "code": "601188",
+        "price": 3.7,
+        "change_pct": 10.12,
+        "turnover": 18.86
+      },
+      {
         "name": "信隆健康",
         "code": "002105",
         "price": 5.56,
@@ -58,181 +128,104 @@
         "turnover": 2.27
       },
       {
-        "name": "太阳能",
-        "code": "000591",
-        "price": 4.59,
-        "change_pct": 10.07,
-        "turnover": 4.37
+        "name": "浙文影业",
+        "code": "601599",
+        "price": 3.82,
+        "change_pct": 10.09,
+        "turnover": 2.15
       },
       {
-        "name": "鲁阳节能",
-        "code": "002088",
-        "price": 8.33,
-        "change_pct": 10.04,
-        "turnover": 2.81
-      },
-      {
-        "name": "丰元股份",
-        "code": "002805",
-        "price": 14.36,
-        "change_pct": 10.04,
-        "turnover": 7.73
-      },
-      {
-        "name": "扬子新材",
-        "code": "002652",
-        "price": 4.17,
-        "change_pct": 10.03,
-        "turnover": 18.25
-      },
-      {
-        "name": "青岛双星",
-        "code": "000599",
-        "price": 4.5,
-        "change_pct": 10.02,
-        "turnover": 4.87
-      },
-      {
-        "name": "圣阳股份",
-        "code": "002580",
-        "price": 18.67,
-        "change_pct": 10.02,
-        "turnover": 8.77
-      },
-      {
-        "name": "中成股份",
-        "code": "000151",
-        "price": 9.56,
-        "change_pct": 10.01,
-        "turnover": 5.74
-      },
-      {
-        "name": "七 匹 狼",
-        "code": "002029",
-        "price": 10.33,
-        "change_pct": 10.01,
-        "turnover": 5.28
-      },
-      {
-        "name": "高争民爆",
-        "code": "002827",
-        "price": 62.68,
-        "change_pct": 10.0,
-        "turnover": 0.17
-      },
-      {
-        "name": "宝明科技",
-        "code": "002992",
-        "price": 30.36,
-        "change_pct": 10.0,
-        "turnover": 3.73
-      },
-      {
-        "name": "远程股份",
-        "code": "002692",
-        "price": 4.18,
-        "change_pct": 10.0,
-        "turnover": 1.24
-      },
-      {
-        "name": "浙江众成",
-        "code": "002522",
-        "price": 5.06,
-        "change_pct": 10.0,
-        "turnover": 8.0
-      },
-      {
-        "name": "阳光乳业",
-        "code": "001318",
-        "price": 15.84,
-        "change_pct": 10.0,
-        "turnover": 18.28
+        "name": "国旅联合",
+        "code": "600358",
+        "price": 5.57,
+        "change_pct": 10.08,
+        "turnover": 3.89
       }
     ],
     "sectors": [
       {
-        "name": "教育运营及其他",
-        "code": "BK1556",
-        "pct": 9.84,
-        "amount_yi": 7.3,
-        "net_inflow_yi": 0.2
+        "name": "橡胶塑料制品业",
+        "code": "ZC29",
+        "pct": 16.3,
+        "amount_yi": 242.6,
+        "net_inflow_yi": 0
       },
       {
-        "name": "涂料",
-        "code": "BK1469",
-        "pct": 5.07,
-        "amount_yi": 3.3,
-        "net_inflow_yi": 0.1
+        "name": "农副食品加工业",
+        "code": "ZC13",
+        "pct": 2.2,
+        "amount_yi": 74.1,
+        "net_inflow_yi": 0
       },
       {
-        "name": "氨纶",
-        "code": "BK1412",
-        "pct": 4.17,
-        "amount_yi": 5.7,
-        "net_inflow_yi": 0.1
+        "name": "酒饮料茶制造业",
+        "code": "ZC15",
+        "pct": 2.2,
+        "amount_yi": 294.8,
+        "net_inflow_yi": 0
       },
       {
-        "name": "视频媒体",
-        "code": "BK1296",
-        "pct": 3.89,
-        "amount_yi": 38.8,
-        "net_inflow_yi": -1.3
+        "name": "化学纤维制造业",
+        "code": "ZC28",
+        "pct": 2.02,
+        "amount_yi": 83.1,
+        "net_inflow_yi": 0
       },
       {
-        "name": "蓄电池及其他电池",
-        "code": "BK1306",
-        "pct": 3.76,
-        "amount_yi": 20.4,
-        "net_inflow_yi": 4.6
+        "name": "铁路船舶航天业",
+        "code": "ZC37",
+        "pct": 1.51,
+        "amount_yi": 19.1,
+        "net_inflow_yi": 0
       },
       {
-        "name": "医美服务",
-        "code": "BK1499",
-        "pct": 3.29,
-        "amount_yi": 4.0,
-        "net_inflow_yi": 0.5
+        "name": "纺织服装服饰业",
+        "code": "ZC18",
+        "pct": 1.47,
+        "amount_yi": 48.7,
+        "net_inflow_yi": 0
       },
       {
-        "name": "其他运输设备",
-        "code": "BK1522",
-        "pct": 3.27,
-        "amount_yi": 9.4,
-        "net_inflow_yi": 0.1
+        "name": "电气机械器材业",
+        "code": "ZC38",
+        "pct": 1.12,
+        "amount_yi": 1314.8,
+        "net_inflow_yi": 0
       },
       {
-        "name": "水产饲料",
-        "code": "BK1509",
-        "pct": 3.08,
-        "amount_yi": 16.1,
-        "net_inflow_yi": 2.2
+        "name": "家具制造业",
+        "code": "ZC21",
+        "pct": 1.0,
+        "amount_yi": 53.2,
+        "net_inflow_yi": 0
       },
       {
-        "name": "生猪养殖",
-        "code": "BK1512",
-        "pct": 3.06,
-        "amount_yi": 60.1,
-        "net_inflow_yi": -0.6
+        "name": "文教体育用品业",
+        "code": "ZC24",
+        "pct": 0.82,
+        "amount_yi": 24.7,
+        "net_inflow_yi": 0
       },
       {
-        "name": "肉鸡养殖",
-        "code": "BK1511",
-        "pct": 3.01,
-        "amount_yi": 11.0,
-        "net_inflow_yi": -0.2
+        "name": "石油炼焦加工业",
+        "code": "ZC25",
+        "pct": 0.67,
+        "amount_yi": 4.7,
+        "net_inflow_yi": 0
       },
       {
-        "name": "旅游综合",
-        "code": "BK1561",
-        "pct": 2.81,
-        "amount_yi": 7.1,
-        "net_inflow_yi": 0.2
+        "name": "纺织业",
+        "code": "ZC17",
+        "pct": 0.38,
+        "amount_yi": 38.9,
+        "net_inflow_yi": 0
       },
       {
-        "name": "文字媒体",
-        "code": "BK1298",
-        "pct": 2.79,
-        "amount_yi": 54.7,
-        "net_inflow_yi": 1.0
+        "name": "金属制品修理业",
+        "code": "ZC43",
+        "pct": 0.37,
+        "amount_yi": 499.6,
+        "net_inflow_yi": 0
       }
     ],
     "us_stocks": [],
@@ -246,6 +239,76 @@
         "turnover": 87.33
       },
       {
+        "name": "尚水智能",
+        "code": "301513",
+        "price": 54.78,
+        "change_pct": 20.0,
+        "turnover": 27.95
+      },
+      {
+        "name": "ST豆神",
+        "code": "300010",
+        "price": 3.79,
+        "change_pct": 19.94,
+        "turnover": 10.75
+      },
+      {
+        "name": "昆船智能",
+        "code": "301311",
+        "price": 18.68,
+        "change_pct": 18.08,
+        "turnover": 14.92
+      },
+      {
+        "name": "华智数媒",
+        "code": "300426",
+        "price": 9.0,
+        "change_pct": 16.28,
+        "turnover": 24.74
+      },
+      {
+        "name": "盟固利",
+        "code": "301487",
+        "price": 20.5,
+        "change_pct": 13.51,
+        "turnover": 17.3
+      },
+      {
+        "name": "*ST开元",
+        "code": "300338",
+        "price": 1.98,
+        "change_pct": 12.5,
+        "turnover": 10.67
+      },
+      {
+        "name": "明阳电路",
+        "code": "300739",
+        "price": 26.0,
+        "change_pct": 12.46,
+        "turnover": 18.09
+      },
+      {
+        "name": "高测股份",
+        "code": "688556",
+        "price": 7.21,
+        "change_pct": 11.61,
+        "turnover": 8.14
+      },
+      {
+        "name": "大东方",
+        "code": "600327",
+        "price": 4.35,
+        "change_pct": 10.13,
+        "turnover": 5.5
+      },
+      {
+        "name": "龙江交通",
+        "code": "601188",
+        "price": 3.7,
+        "change_pct": 10.12,
+        "turnover": 18.86
+      },
+      {
         "name": "信隆健康",
         "code": "002105",
         "price": 5.56,
@@ -253,275 +316,254 @@
         "turnover": 2.27
       },
       {
-        "name": "太阳能",
-        "code": "000591",
-        "price": 4.59,
-        "change_pct": 10.07,
-        "turnover": 4.37
+        "name": "浙文影业",
+        "code": "601599",
+        "price": 3.82,
+        "change_pct": 10.09,
+        "turnover": 2.15
       },
       {
-        "name": "鲁阳节能",
-        "code": "002088",
-        "price": 8.33,
-        "change_pct": 10.04,
-        "turnover": 2.81
-      },
-      {
-        "name": "丰元股份",
-        "code": "002805",
-        "price": 14.36,
-        "change_pct": 10.04,
-        "turnover": 7.73
-      },
-      {
-        "name": "扬子新材",
-        "code": "002652",
-        "price": 4.17,
-        "change_pct": 10.03,
-        "turnover": 18.25
-      },
-      {
-        "name": "青岛双星",
-        "code": "000599",
-        "price": 4.5,
-        "change_pct": 10.02,
-        "turnover": 4.87
-      },
-      {
-        "name": "圣阳股份",
-        "code": "002580",
-        "price": 18.67,
-        "change_pct": 10.02,
-        "turnover": 8.77
-      },
-      {
-        "name": "中成股份",
-        "code": "000151",
-        "price": 9.56,
-        "change_pct": 10.01,
-        "turnover": 5.74
-      },
-      {
-        "name": "七 匹 狼",
-        "code": "002029",
-        "price": 10.33,
-        "change_pct": 10.01,
-        "turnover": 5.28
-      },
-      {
-        "name": "高争民爆",
-        "code": "002827",
-        "price": 62.68,
-        "change_pct": 10.0,
-        "turnover": 0.17
-      },
-      {
-        "name": "宝明科技",
-        "code": "002992",
-        "price": 30.36,
-        "change_pct": 10.0,
-        "turnover": 3.73
-      },
-      {
-        "name": "远程股份",
-        "code": "002692",
-        "price": 4.18,
-        "change_pct": 10.0,
-        "turnover": 1.24
-      },
-      {
-        "name": "浙江众成",
-        "code": "002522",
-        "price": 5.06,
-        "change_pct": 10.0,
-        "turnover": 8.0
-      },
-      {
-        "name": "阳光乳业",
-        "code": "001318",
-        "price": 15.84,
-        "change_pct": 10.0,
-        "turnover": 18.28
+        "name": "国旅联合",
+        "code": "600358",
+        "price": 5.57,
+        "change_pct": 10.08,
+        "turnover": 3.89
       }
     ],
     "yimeng_stocks": [
       {
-        "name": "万邦医药",
-        "code": "301520",
-        "price": 62.69,
-        "change_pct": 4.38,
-        "turnover": 45.89
+        "name": "澳洋健康",
+        "code": "002172",
+        "price": 6.8,
+        "change_pct": 4.62,
+        "turnover": 42.6
+      },
+      {
+        "name": "慈文传媒",
+        "code": "002343",
+        "price": 8.3,
+        "change_pct": 5.6,
+        "turnover": 44.2
+      },
+      {
+        "name": "海看股份",
+        "code": "301262",
+        "price": 23.76,
+        "change_pct": 2.59,
+        "turnover": 45.1
+      },
+      {
+        "name": "国芳集团",
+        "code": "601086",
+        "price": 14.0,
+        "change_pct": 4.01,
+        "turnover": 17.73
       }
     ],
     "slowrise": [
       {
-        "name": "视频媒体",
-        "chg": 20.0
+        "name": "教育运营及其他",
+        "chg": 9.84
       },
       {
-        "name": "教育运营及其他",
-        "chg": 13.51
+        "name": "涂料",
+        "chg": 5.07
+      },
+      {
+        "name": "氨纶",
+        "chg": 4.17
+      },
+      {
+        "name": "视频媒体",
+        "chg": 3.89
+      },
+      {
+        "name": "蓄电池及其他电池",
+        "chg": 3.76
+      },
+      {
+        "name": "医美服务",
+        "chg": 3.29
+      },
+      {
+        "name": "其他运输设备",
+        "chg": 3.27
+      },
+      {
+        "name": "水产饲料",
+        "chg": 3.08
+      },
+      {
+        "name": "生猪养殖",
+        "chg": 3.06
+      },
+      {
+        "name": "肉鸡养殖",
+        "chg": 3.01
+      },
+      {
+        "name": "旅游综合",
+        "chg": 2.81
       },
       {
         "name": "文字媒体",
-        "chg": 11.69
+        "chg": 2.79
       },
       {
-        "name": "图片媒体",
-        "chg": 9.99
+        "name": "养殖业",
+        "chg": 2.7
       },
       {
-        "name": "数字媒体",
-        "chg": 9.75
+        "name": "医疗美容",
+        "chg": 2.69
       },
       {
-        "name": "影视动漫制作",
-        "chg": 9.71
-      },
-      {
-        "name": "影视院线",
-        "chg": 9.3
-      },
-      {
-        "name": "游戏Ⅲ",
-        "chg": 9.06
-      },
-      {
-        "name": "游戏Ⅱ",
-        "chg": 9.06
-      },
-      {
-        "name": "门户网站",
-        "chg": 8.68
-      },
-      {
-        "name": "电视广播Ⅲ",
-        "chg": 8.57
-      },
-      {
-        "name": "电视广播Ⅱ",
-        "chg": 8.57
-      },
-      {
-        "name": "传媒",
-        "chg": 8.49
-      },
-      {
-        "name": "营销代理",
-        "chg": 8.22
-      },
-      {
-        "name": "广告营销",
-        "chg": 8.06
+        "name": "保险Ⅲ",
+        "chg": 2.66
       }
     ],
     "slowrise_picks": [
       {
-        "code": "300413",
-        "name": "芒果超媒",
-        "chg": 20.0,
-        "board": "视频媒体",
-        "reason": "热度第1的「视频媒体」内领涨"
-      },
-      {
         "code": "300010",
         "name": "ST豆神",
-        "chg": 20.15,
+        "chg": 19.94,
         "board": "教育运营及其他",
-        "reason": "热度第2的「教育运营及其他」内领涨"
+        "reason": "热度第1的「教育运营及其他」内领涨"
       },
       {
         "code": "600880",
         "name": "博瑞传播",
-        "chg": 6.87,
+        "chg": -0.26,
         "board": "教育运营及其他",
-        "reason": "热度第2的「教育运营及其他」内领涨"
+        "reason": "热度第1的「教育运营及其他」内领涨"
       },
       {
-        "code": "300364",
-        "name": "中文在线",
-        "chg": 13.38,
-        "board": "文字媒体",
-        "reason": "热度第3的「文字媒体」内领涨"
+        "code": "603737",
+        "name": "三棵树",
+        "chg": 5.23,
+        "board": "涂料",
+        "reason": "热度第2的「涂料」内领涨"
       },
       {
-        "code": "603533",
-        "name": "掌阅科技",
-        "chg": 10.0,
-        "board": "文字媒体",
-        "reason": "热度第3的「文字媒体」内领涨"
+        "code": "603378",
+        "name": "*ST亚士",
+        "chg": 4.91,
+        "board": "涂料",
+        "reason": "热度第2的「涂料」内领涨"
       },
       {
-        "code": "000681",
-        "name": "视觉中国",
-        "chg": 9.99,
-        "board": "图片媒体",
-        "reason": "热度第4的「图片媒体」内领涨"
+        "code": "002064",
+        "name": "华峰化学",
+        "chg": 4.17,
+        "board": "氨纶",
+        "reason": "热度第3的「氨纶」内领涨"
       },
       {
-        "code": "300785",
-        "name": "值得买",
-        "chg": 13.81,
-        "board": "数字媒体",
-        "reason": "热度第5的「数字媒体」内领涨"
+        "code": "300413",
+        "name": "芒果超媒",
+        "chg": 3.89,
+        "board": "视频媒体",
+        "reason": "热度第4的「视频媒体」内领涨"
       },
       {
-        "code": "300182",
-        "name": "捷成股份",
-        "chg": 20.0,
-        "board": "影视动漫制作",
-        "reason": "热度第6的「影视动漫制作」内领涨"
+        "code": "920627",
+        "name": "力王股份",
+        "chg": 17.5,
+        "board": "蓄电池及其他电池",
+        "reason": "热度第5的「蓄电池及其他电池」内领涨"
       },
       {
-        "code": "300426",
-        "name": "华智数媒",
-        "chg": 20.0,
-        "board": "影视动漫制作",
-        "reason": "热度第6的「影视动漫制作」内领涨"
+        "code": "605378",
+        "name": "野马电池",
+        "chg": 10.04,
+        "board": "蓄电池及其他电池",
+        "reason": "热度第5的「蓄电池及其他电池」内领涨"
       },
       {
-        "code": "300299",
-        "name": "富春股份",
-        "chg": 14.58,
-        "board": "游戏Ⅲ",
-        "reason": "热度第8的「游戏Ⅲ」内领涨"
+        "code": "002612",
+        "name": "朗姿股份",
+        "chg": 5.15,
+        "board": "医美服务",
+        "reason": "热度第6的「医美服务」内领涨"
       },
       {
-        "code": "300533",
-        "name": "冰川网络",
-        "chg": 13.79,
-        "board": "游戏Ⅲ",
-        "reason": "热度第8的「游戏Ⅲ」内领涨"
+        "code": "000615",
+        "name": "*ST美谷",
+        "chg": 1.42,
+        "board": "医美服务",
+        "reason": "热度第6的「医美服务」内领涨"
       },
       {
-        "code": "300987",
-        "name": "川网传媒",
-        "chg": 12.86,
-        "board": "门户网站",
-        "reason": "热度第10的「门户网站」内领涨"
+        "code": "002105",
+        "name": "信隆健康",
+        "chg": 10.1,
+        "board": "其他运输设备",
+        "reason": "热度第7的「其他运输设备」内领涨"
       },
       {
-        "code": "300133",
-        "name": "华策影视",
-        "chg": 14.54,
-        "board": "影视动漫制作",
-        "reason": "热度第6的「影视动漫制作」内领涨"
+        "code": "600818",
+        "name": "ST中路",
+        "chg": 6.29,
+        "board": "其他运输设备",
+        "reason": "热度第7的「其他运输设备」内领涨"
       },
       {
-        "code": "300031",
-        "name": "宝通科技",
-        "chg": 10.99,
-        "board": "游戏Ⅲ",
-        "reason": "热度第8的「游戏Ⅲ」内领涨"
+        "code": "002696",
+        "name": "百洋股份",
+        "chg": 9.96,
+        "board": "水产饲料",
+        "reason": "热度第8的「水产饲料」内领涨"
       },
       {
-        "code": "301299",
-        "name": "卓创资讯",
-        "chg": 11.28,
-        "board": "门户网站",
-        "reason": "热度第10的「门户网站」内领涨"
+        "code": "002311",
+        "name": "海大集团",
+        "chg": 2.03,
+        "board": "水产饲料",
+        "reason": "热度第8的「水产饲料」内领涨"
+      },
+      {
+        "code": "603477",
+        "name": "巨星农牧",
+        "chg": 6.9,
+        "board": "生猪养殖",
+        "reason": "热度第9的「生猪养殖」内领涨"
+      },
+      {
+        "code": "605296",
+        "name": "神农集团",
+        "chg": 6.38,
+        "board": "生猪养殖",
+        "reason": "热度第9的「生猪养殖」内领涨"
+      },
+      {
+        "code": "002746",
+        "name": "仙坛股份",
+        "chg": 4.58,
+        "board": "肉鸡养殖",
+        "reason": "热度第10的「肉鸡养殖」内领涨"
+      },
+      {
+        "code": "002982",
+        "name": "湘佳股份",
+        "chg": 4.38,
+        "board": "肉鸡养殖",
+        "reason": "热度第10的「肉鸡养殖」内领涨"
+      },
+      {
+        "code": "002580",
+        "name": "圣阳股份",
+        "chg": 10.02,
+        "board": "蓄电池及其他电池",
+        "reason": "热度第5的「蓄电池及其他电池」内领涨"
+      },
+      {
+        "code": "301322",
+        "name": "绿通科技",
+        "chg": 4.76,
+        "board": "其他运输设备",
+        "reason": "热度第7的「其他运输设备」内领涨"
       }
     ]
   },
-  "timestamp": "2026-11-03T15:19:45"
+  "timestamp": "2026-11-03T15:41:31"
 }
