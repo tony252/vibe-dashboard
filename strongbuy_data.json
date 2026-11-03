@@ -2,19 +2,70 @@
   "updated": "2026-11-03",
   "yimeng": [
     {
-      "code": "301520",
-      "name": "万邦医药",
-      "price": 62.69,
-      "change_pct": 4.38,
-      "turnover": 45.89,
-      "amount_yi": 9.685,
-      "net_inflow_yi": 1.438,
-      "net_inflow_pct": -6.09,
-      "consec_days": 0,
-      "main_ratio": -6.09,
-      "score": 75.7,
+      "code": "002172",
+      "name": "澳洋健康",
+      "price": 6.8,
+      "change_pct": 4.62,
+      "turnover": 42.6,
+      "amount_yi": 22.599,
+      "net_inflow_yi": 2.329,
+      "net_inflow_pct": 25.25,
+      "consec_days": 2,
+      "main_ratio": 25.25,
+      "score": 234.7,
       "tags": [
         "大资金",
+        "高换手",
+        "涨幅适中"
+      ]
+    },
+    {
+      "code": "002343",
+      "name": "慈文传媒",
+      "price": 8.3,
+      "change_pct": 5.6,
+      "turnover": 44.2,
+      "amount_yi": 17.59,
+      "net_inflow_yi": 1.937,
+      "net_inflow_pct": -1.14,
+      "consec_days": 0,
+      "main_ratio": -1.14,
+      "score": 102.1,
+      "tags": [
+        "大资金",
+        "高换手",
+        "涨幅适中"
+      ]
+    },
+    {
+      "code": "301262",
+      "name": "海看股份",
+      "price": 23.76,
+      "change_pct": 2.59,
+      "turnover": 45.1,
+      "amount_yi": 14.06,
+      "net_inflow_yi": 0.853,
+      "net_inflow_pct": -3.18,
+      "consec_days": 0,
+      "main_ratio": -3.18,
+      "score": 82.8,
+      "tags": [
+        "高换手"
+      ]
+    },
+    {
+      "code": "601086",
+      "name": "国芳集团",
+      "price": 14.0,
+      "change_pct": 4.01,
+      "turnover": 17.73,
+      "amount_yi": 16.224,
+      "net_inflow_yi": -1.836,
+      "net_inflow_pct": -11.31,
+      "consec_days": 0,
+      "main_ratio": -11.31,
+      "score": -21.1,
+      "tags": [
         "高换手",
         "涨幅适中"
       ]
@@ -129,6 +180,5 @@
       "score": 4,
       "reason": "高换手45.1%,成交14.1亿"
     }
-  ],
-  "updated_at": "2026-11-03 15:19:06"
+  ]
 }
