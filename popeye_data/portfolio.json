@@ -3,26 +3,6 @@
   "capital": 100000,
   "positions": [
     {
-      "code": "300315",
-      "name": "掌趣科技",
-      "buy_price": 5.08,
-      "buy_date": "2026-11-04",
-      "shares": 1900,
-      "cost": 9652.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 14.932
-    },
-    {
-      "code": "300377",
-      "name": "赢时胜",
-      "buy_price": 14.85,
-      "buy_date": "2026-11-04",
-      "shares": 600,
-      "cost": 8910.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 12.245
-    },
-    {
       "code": "688517",
       "name": "金冠电气",
       "buy_price": 21.46,
@@ -31,6 +11,36 @@
       "cost": 8584.0,
       "reason": "黄金区间3-6%",
       "change_at_buy": 20.022
+    },
+    {
+      "code": "300593",
+      "name": "新雷能",
+      "buy_price": 22.6,
+      "buy_date": "2026-11-04",
+      "shares": 400,
+      "cost": 9040.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 16.495
+    },
+    {
+      "code": "300480",
+      "name": "光力科技",
+      "buy_price": 26.0,
+      "buy_date": "2026-11-04",
+      "shares": 300,
+      "cost": 7800.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 15.197
+    },
+    {
+      "code": "300938",
+      "name": "信测标准",
+      "buy_price": 22.45,
+      "buy_date": "2026-11-04",
+      "shares": 400,
+      "cost": 8980.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 14.191
     },
     {
       "code": "300788",
@@ -53,55 +63,45 @@
       "change_at_buy": 20.0
     },
     {
-      "code": "688596",
-      "name": "正帆科技",
-      "buy_price": 48.5,
+      "code": "688486",
+      "name": "龙迅股份",
+      "buy_price": 43.42,
       "buy_date": "2026-11-04",
       "shares": 200,
-      "cost": 9700.0,
+      "cost": 8684.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 14.929
+      "change_at_buy": 16.096
     },
     {
-      "code": "688530",
-      "name": "欧莱新材",
-      "buy_price": 42.5,
+      "code": "300260",
+      "name": "新莱应材",
+      "buy_price": 44.52,
       "buy_date": "2026-11-04",
       "shares": 200,
-      "cost": 8500.0,
+      "cost": 8904.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 13.303
+      "change_at_buy": 15.787
     },
     {
       "code": "300720",
       "name": "海川智能",
-      "buy_price": 46.68,
+      "buy_price": 47.55,
       "buy_date": "2026-11-04",
       "shares": 200,
-      "cost": 9336.0,
+      "cost": 9510.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 13.027
+      "change_at_buy": 15.133
     },
     {
-      "code": "688837",
-      "name": "信诺维",
-      "buy_price": 37.79,
+      "code": "688090",
+      "name": "瑞松科技",
+      "buy_price": 47.71,
       "buy_date": "2026-11-04",
       "shares": 200,
-      "cost": 7558.0,
+      "cost": 9542.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 12.975
-    },
-    {
-      "code": "688729",
-      "name": "屹唐股份",
-      "buy_price": 20.27,
-      "buy_date": "2026-11-04",
-      "shares": 400,
-      "cost": 8108.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 14.133
+      "change_at_buy": 14.688
     }
   ],
-  "total_cost": 86452.0
+  "total_cost": 87148.0
 }
