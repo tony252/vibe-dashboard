@@ -10,7 +10,7 @@
     "strongbuy": 0.25,
     "daily_picks": 0.2
    },
-   "cash": 53991.72204999996,
+   "cash": 45342.06017499996,
    "positions": [
     {
      "code": "000890",
@@ -116,7 +116,7 @@
      "name": "天邑股份",
      "qty": 100,
      "avg": 17.729,
-     "last": 18.18,
+     "last": 17.28,
      "strategy": "strongbuy",
      "open_date": "2026-10-27"
     },
@@ -125,7 +125,7 @@
      "name": "朗信电气",
      "qty": 200,
      "avg": 54.723,
-     "last": 55.33,
+     "last": 53.99,
      "strategy": "strongbuy",
      "open_date": "2026-10-28"
     },
@@ -134,7 +134,7 @@
      "name": "思美传媒",
      "qty": 400,
      "avg": 5.001,
-     "last": 4.94,
+     "last": 5.27,
      "strategy": "strong",
      "open_date": "2026-10-30"
     },
@@ -143,7 +143,7 @@
      "name": "阳普医疗",
      "qty": 200,
      "avg": 7.327,
-     "last": 7.24,
+     "last": 7.6,
      "strategy": "strongbuy",
      "open_date": "2026-10-30"
     },
@@ -152,9 +152,27 @@
      "name": "联赢激光",
      "qty": 100,
      "avg": 20.185,
-     "last": 20.14,
+     "last": 21.36,
      "strategy": "strongbuy",
      "open_date": "2026-11-03"
+    },
+    {
+     "code": "002949",
+     "name": "华阳国际",
+     "qty": 500,
+     "avg": 15.375,
+     "last": 15.34,
+     "strategy": "strong",
+     "open_date": "2026-11-04"
+    },
+    {
+     "code": "000897",
+     "name": "津滨发展",
+     "qty": 500,
+     "avg": 1.924,
+     "last": 1.92,
+     "strategy": "strong",
+     "open_date": "2026-11-04"
     }
    ],
    "realized": 16566.812649999993
@@ -166,7 +184,7 @@
     "strong": 0.3,
     "strongbuy": 0.2
    },
-   "cash": 35929.22284999999,
+   "cash": 27670.207974999994,
    "positions": [
     {
      "code": "000890",
@@ -200,7 +218,7 @@
      "name": "天邑股份",
      "qty": 100,
      "avg": 17.729,
-     "last": 18.18,
+     "last": 17.28,
      "strategy": "strongbuy",
      "open_date": "2026-10-27"
     },
@@ -209,7 +227,7 @@
      "name": "思美传媒",
      "qty": 200,
      "avg": 5.001,
-     "last": 4.94,
+     "last": 5.27,
      "strategy": "strong",
      "open_date": "2026-10-30"
     },
@@ -218,7 +236,7 @@
      "name": "湖北广电",
      "qty": 100,
      "avg": 3.959,
-     "last": 3.97,
+     "last": 4.03,
      "strategy": "strong",
      "open_date": "2026-10-30"
     },
@@ -227,21 +245,39 @@
      "name": "阳普医疗",
      "qty": 200,
      "avg": 7.327,
-     "last": 7.24,
+     "last": 7.6,
      "strategy": "strongbuy",
      "open_date": "2026-10-30"
     },
     {
-     "code": "600127",
-     "name": "金健米业",
-     "qty": 100,
-     "avg": 9.802,
-     "last": 9.94,
+     "code": "002949",
+     "name": "华阳国际",
+     "qty": 400,
+     "avg": 15.375,
+     "last": 15.34,
+     "strategy": "strong",
+     "open_date": "2026-11-04"
+    },
+    {
+     "code": "000897",
+     "name": "津滨发展",
+     "qty": 400,
+     "avg": 1.924,
+     "last": 1.92,
+     "strategy": "strong",
+     "open_date": "2026-11-04"
+    },
+    {
+     "code": "920770",
+     "name": "艾能聚",
+     "qty": 200,
+     "avg": 11.947,
+     "last": 11.92,
      "strategy": "strongbuy",
-     "open_date": "2026-11-03"
+     "open_date": "2026-11-04"
     }
    ],
-   "realized": 1755.089775000003
+   "realized": 1825.0016000000032
   }
  ],
  "history": [
@@ -352,6 +388,10 @@
   {
    "ts": "2026-11-03 23:25",
    "equity": 168352.94
+  },
+  {
+   "ts": "2026-11-04 23:39",
+   "equity": 168390.27
   }
  ],
  "trades": [
@@ -2400,7 +2440,73 @@
    "price": 15.569,
    "reason": "止盈 +9.0%",
    "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-04",
+   "ts": "2026-11-04 23:39",
+   "code": "002949",
+   "name": "华阳国际",
+   "side": "BUY",
+   "qty": 500,
+   "price": 15.371,
+   "reason": "strong 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-04",
+   "ts": "2026-11-04 23:39",
+   "code": "000897",
+   "name": "津滨发展",
+   "side": "BUY",
+   "qty": 500,
+   "price": 1.924,
+   "reason": "strong 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-04",
+   "ts": "2026-11-04 23:39",
+   "code": "600127",
+   "name": "金健米业",
+   "side": "SELL",
+   "qty": 100,
+   "price": 10.509,
+   "reason": "止盈 +7.4%",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-04",
+   "ts": "2026-11-04 23:39",
+   "code": "002949",
+   "name": "华阳国际",
+   "side": "BUY",
+   "qty": 400,
+   "price": 15.371,
+   "reason": "strong 信号买入",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-04",
+   "ts": "2026-11-04 23:39",
+   "code": "000897",
+   "name": "津滨发展",
+   "side": "BUY",
+   "qty": 400,
+   "price": 1.924,
+   "reason": "strong 信号买入",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-04",
+   "ts": "2026-11-04 23:39",
+   "code": "920770",
+   "name": "艾能聚",
+   "side": "BUY",
+   "qty": 200,
+   "price": 11.944,
+   "reason": "strongbuy 信号买入",
+   "account": "cloud-sat-B"
   }
  ],
- "last_run_date": "2026-11-03"
+ "last_run_date": "2026-11-04"
 }
