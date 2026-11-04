@@ -435,3 +435,13 @@
 [2026-11-03 23:00:44] [INFO] 已写入 /home/runner/work/vibe-dashboard/vibe-dashboard/daily_picks.json [2026-11-03][高欣唯科科技形态]: 10 只
 [2026-11-03 23:00:44] [INFO] 完成！共找到 10 只
 [2026-11-03 23:00:44] [INFO] ===== 结束 =====
+[2026-11-04 23:22:43] [INFO] ===== 高欣唯科科技形态选股开始 =====
+[2026-11-04 23:22:43] [INFO] 进入云端扫描模式（无本地TDX，使用网络行情）
+[2026-11-04 23:22:48] [INFO] 候选池 222 只
+[2026-11-04 23:24:48] [INFO] 网络K线获取失败 300620: <urlopen error _ssl.c:999: The handshake operation timed out>
+[2026-11-04 23:25:59] [INFO] 云端已扫描 100/222...
+[2026-11-04 23:28:13] [INFO] 云端已扫描 200/222...
+[2026-11-04 23:28:32] [INFO] 结果已保存到: /home/runner/work/vibe-dashboard/vibe-dashboard/breakout_stocks.txt
+[2026-11-04 23:28:32] [INFO] 已写入 /home/runner/work/vibe-dashboard/vibe-dashboard/daily_picks.json [2026-11-04][高欣唯科科技形态]: 10 只
+[2026-11-04 23:28:32] [INFO] 完成！共找到 10 只
+[2026-11-04 23:28:32] [INFO] ===== 结束 =====
