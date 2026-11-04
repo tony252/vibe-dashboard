@@ -1,31 +1,57 @@
 {
- "date": "20261103",
+ "date": "20261104",
  "picks": [
   {
-   "code": "sz002322",
-   "name": "理工能科",
-   "n": 7,
-   "close": 13.14,
-   "zt_price": 13.67,
-   "ma10": 13.11,
-   "ma25": 12.64,
-   "turnover": 4.19,
-   "turnover_ratio": 0.56,
-   "volume": 14711577,
-   "ma20vol": 16669538
+   "code": "sz301525",
+   "name": "儒竞科技",
+   "n": 5,
+   "close": 44.02,
+   "zt_price": 47.53,
+   "ma10": 43.04,
+   "ma25": 40.85,
+   "turnover": 7.7,
+   "turnover_ratio": 0.55,
+   "volume": 5558862,
+   "ma20vol": 4385543
   },
   {
-   "code": "sz002945",
-   "name": "华林证券",
-   "n": 7,
-   "close": 14.97,
-   "zt_price": 15.36,
-   "ma10": 14.67,
-   "ma25": 14.51,
-   "turnover": 1.68,
-   "turnover_ratio": 0.8,
-   "volume": 45293062,
-   "ma20vol": 35819701
+   "code": "sz001283",
+   "name": "豪鹏科技",
+   "n": 8,
+   "close": 52.7,
+   "zt_price": 57.27,
+   "ma10": 52.19,
+   "ma25": 49.75,
+   "turnover": 8.13,
+   "turnover_ratio": 0.48,
+   "volume": 8402120,
+   "ma20vol": 6938882
+  },
+  {
+   "code": "sz002009",
+   "name": "天奇股份",
+   "n": 8,
+   "close": 16.95,
+   "zt_price": 17.3,
+   "ma10": 16.92,
+   "ma25": 15.94,
+   "turnover": 11.53,
+   "turnover_ratio": 0.67,
+   "volume": 40850283,
+   "ma20vol": 33474922
+  },
+  {
+   "code": "sz300584",
+   "name": "海辰药业",
+   "n": 8,
+   "close": 32.01,
+   "zt_price": 32.08,
+   "ma10": 31.97,
+   "ma25": 30.86,
+   "turnover": 6.69,
+   "turnover_ratio": 0.58,
+   "volume": 5498600,
+   "ma20vol": 6610133
   }
  ]
 }
