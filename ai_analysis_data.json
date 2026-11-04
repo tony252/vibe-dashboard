@@ -3,43 +3,43 @@
     "indices": [
       {
         "name": "上证指数",
-        "current": 3611.27,
-        "pct": 0.09
+        "current": 3609.61,
+        "pct": 0.04
       },
       {
         "name": "深证成指",
-        "current": 10949.05,
-        "pct": 0.66
+        "current": 10939.99,
+        "pct": 0.58
       },
       {
         "name": "创业板指",
-        "current": 2411.37,
-        "pct": 0.82
+        "current": 2408.16,
+        "pct": 0.69
       },
       {
         "name": "沪深300",
-        "current": 4022.63,
-        "pct": 0.34
+        "current": 4015.73,
+        "pct": 0.17
       },
       {
         "name": "科创50",
-        "current": 1152.24,
-        "pct": 0.08
+        "current": 1164.94,
+        "pct": 1.19
       },
       {
         "name": "上证50",
-        "current": 2766.73,
-        "pct": -0.06
+        "current": 2764.22,
+        "pct": -0.15
       },
       {
         "name": "中证500",
-        "current": 6352.73,
-        "pct": 0.41
+        "current": 6363.5,
+        "pct": 0.58
       },
       {
         "name": "中证1000",
-        "current": 6247.31,
-        "pct": 0.42
+        "current": 6257.67,
+        "pct": 0.59
       }
     ],
     "top_gainers": [
@@ -48,190 +48,190 @@
         "code": "000419",
         "price": 5.35,
         "change_pct": 10.08,
-        "turnover": 2.42
+        "turnover": 3.07
+      },
+      {
+        "name": "金陵药业",
+        "code": "000919",
+        "price": 6.67,
+        "change_pct": 10.07,
+        "turnover": 3.06
       },
       {
         "name": "皇台酒业",
         "code": "000995",
         "price": 18.88,
         "change_pct": 10.02,
-        "turnover": 9.23
+        "turnover": 9.9
       },
       {
         "name": "广聚能源",
         "code": "000096",
         "price": 8.46,
         "change_pct": 10.01,
-        "turnover": 1.32
+        "turnover": 1.46
       },
       {
         "name": "高争民爆",
         "code": "002827",
         "price": 68.95,
         "change_pct": 10.0,
-        "turnover": 0.12
+        "turnover": 0.13
+      },
+      {
+        "name": "桂林三金",
+        "code": "002275",
+        "price": 17.38,
+        "change_pct": 10.0,
+        "turnover": 5.57
       },
       {
         "name": "云南锗业",
         "code": "002428",
         "price": 75.38,
         "change_pct": 10.0,
-        "turnover": 4.17
-      },
-      {
-        "name": "紫竹高科",
-        "code": "002058",
-        "price": 23.24,
-        "change_pct": 9.99,
-        "turnover": 8.36
+        "turnover": 5.7
       },
       {
         "name": "新亚制程",
         "code": "002388",
         "price": 5.51,
         "change_pct": 9.98,
-        "turnover": 6.26
+        "turnover": 6.61
       },
       {
         "name": "金 螳 螂",
         "code": "002081",
         "price": 4.3,
         "change_pct": 9.97,
-        "turnover": 1.32
-      },
-      {
-        "name": "七 匹 狼",
-        "code": "002029",
-        "price": 11.36,
-        "change_pct": 9.97,
-        "turnover": 1.61
+        "turnover": 1.73
       },
       {
         "name": "大连友谊",
         "code": "000679",
         "price": 7.28,
         "change_pct": 9.97,
-        "turnover": 1.45
+        "turnover": 1.54
       },
       {
-        "name": "鲁阳节能",
-        "code": "002088",
-        "price": 8.99,
-        "change_pct": 7.92,
-        "turnover": 3.01
+        "name": "通富微电",
+        "code": "002156",
+        "price": 41.18,
+        "change_pct": 7.02,
+        "turnover": 2.64
       },
       {
-        "name": "翔鹭钨业",
-        "code": "002842",
-        "price": 24.08,
-        "change_pct": 7.6,
-        "turnover": 2.15
-      },
-      {
-        "name": "闽发铝业",
-        "code": "002578",
-        "price": 4.0,
-        "change_pct": 6.38,
-        "turnover": 4.23
+        "name": "郑中设计",
+        "code": "002811",
+        "price": 19.8,
+        "change_pct": 6.91,
+        "turnover": 4.8
       },
       {
         "name": "圣阳股份",
         "code": "002580",
-        "price": 19.84,
-        "change_pct": 6.27,
-        "turnover": 10.48
+        "price": 19.95,
+        "change_pct": 6.86,
+        "turnover": 21.23
       },
       {
-        "name": "章源钨业",
-        "code": "002378",
-        "price": 17.7,
-        "change_pct": 5.55,
-        "turnover": 0.56
+        "name": "鲁阳节能",
+        "code": "002088",
+        "price": 8.9,
+        "change_pct": 6.84,
+        "turnover": 5.1
+      },
+      {
+        "name": "北方华创",
+        "code": "002371",
+        "price": 517.7,
+        "change_pct": 6.34,
+        "turnover": 0.45
       }
     ],
     "sectors": [
       {
+        "name": "半导体设备",
+        "code": "BK1326",
+        "pct": 4.73,
+        "amount_yi": 75.6,
+        "net_inflow_yi": 6.2
+      },
+      {
+        "name": "视频媒体",
+        "code": "BK1296",
+        "pct": 3.88,
+        "amount_yi": 15.3,
+        "net_inflow_yi": -0.4
+      },
+      {
+        "name": "文字媒体",
+        "code": "BK1298",
+        "pct": 3.85,
+        "amount_yi": 22.6,
+        "net_inflow_yi": -0.3
+      },
+      {
+        "name": "影视动漫制作",
+        "code": "BK1299",
+        "pct": 3.63,
+        "amount_yi": 39.4,
+        "net_inflow_yi": 0.6
+      },
+      {
         "name": "钨",
         "code": "BK1625",
-        "pct": 6.32,
-        "amount_yi": 9.2,
-        "net_inflow_yi": 1.2
+        "pct": 3.43,
+        "amount_yi": 18.4,
+        "net_inflow_yi": 1.5
       },
       {
-        "name": "白银",
-        "code": "BK1616",
-        "pct": 4.1,
-        "amount_yi": 5.6,
-        "net_inflow_yi": 0.5
-      },
-      {
-        "name": "贵金属",
-        "code": "BK0732",
-        "pct": 3.83,
-        "amount_yi": 24.5,
-        "net_inflow_yi": 2.3
+        "name": "影视院线",
+        "code": "BK1222",
+        "pct": 3.21,
+        "amount_yi": 42.2,
+        "net_inflow_yi": 0.6
       },
       {
         "name": "黄金",
         "code": "BK1617",
-        "pct": 3.75,
-        "amount_yi": 18.9,
-        "net_inflow_yi": 1.8
+        "pct": 3.09,
+        "amount_yi": 35.1,
+        "net_inflow_yi": 3.1
       },
       {
-        "name": "镍",
-        "code": "BK1622",
-        "pct": 2.62,
-        "amount_yi": 3.2,
-        "net_inflow_yi": 0.1
+        "name": "贵金属",
+        "code": "BK0732",
+        "pct": 2.95,
+        "amount_yi": 44.8,
+        "net_inflow_yi": 3.4
       },
       {
-        "name": "钼",
-        "code": "BK1623",
-        "pct": 2.45,
-        "amount_yi": 1.2,
-        "net_inflow_yi": 0.1
-      },
-      {
-        "name": "小金属",
-        "code": "BK1027",
-        "pct": 2.23,
-        "amount_yi": 41.2,
-        "net_inflow_yi": 8.0
-      },
-      {
-        "name": "铁矿石",
-        "code": "BK1371",
-        "pct": 2.16,
-        "amount_yi": 3.5,
-        "net_inflow_yi": 0.8
-      },
-      {
-        "name": "食用菌",
-        "code": "BK1517",
-        "pct": 2.09,
-        "amount_yi": 1.2,
-        "net_inflow_yi": 0.2
+        "name": "半导体材料",
+        "code": "BK1325",
+        "pct": 2.92,
+        "amount_yi": 48.5,
+        "net_inflow_yi": 3.3
       },
       {
         "name": "教育出版",
         "code": "BK1290",
-        "pct": 1.85,
-        "amount_yi": 7.0,
-        "net_inflow_yi": -0.0
+        "pct": 2.86,
+        "amount_yi": 13.3,
+        "net_inflow_yi": -0.1
       },
       {
-        "name": "冶钢原料",
-        "code": "BK1228",
-        "pct": 1.81,
-        "amount_yi": 4.1,
-        "net_inflow_yi": 0.8
+        "name": "集成电路封测",
+        "code": "BK1328",
+        "pct": 2.63,
+        "amount_yi": 39.0,
+        "net_inflow_yi": 5.1
       },
       {
-        "name": "铅锌",
-        "code": "BK1614",
-        "pct": 1.76,
-        "amount_yi": 3.8,
+        "name": "出版",
+        "code": "BK1218",
+        "pct": 2.54,
+        "amount_yi": 37.6,
         "net_inflow_yi": 0.3
       }
     ],
@@ -243,105 +243,105 @@
         "code": "000419",
         "price": 5.35,
         "change_pct": 10.08,
-        "turnover": 2.42
+        "turnover": 3.07
+      },
+      {
+        "name": "金陵药业",
+        "code": "000919",
+        "price": 6.67,
+        "change_pct": 10.07,
+        "turnover": 3.06
       },
       {
         "name": "皇台酒业",
         "code": "000995",
         "price": 18.88,
         "change_pct": 10.02,
-        "turnover": 9.23
+        "turnover": 9.9
       },
       {
         "name": "广聚能源",
         "code": "000096",
         "price": 8.46,
         "change_pct": 10.01,
-        "turnover": 1.32
+        "turnover": 1.46
       },
       {
         "name": "高争民爆",
         "code": "002827",
         "price": 68.95,
         "change_pct": 10.0,
-        "turnover": 0.12
+        "turnover": 0.13
+      },
+      {
+        "name": "桂林三金",
+        "code": "002275",
+        "price": 17.38,
+        "change_pct": 10.0,
+        "turnover": 5.57
       },
       {
         "name": "云南锗业",
         "code": "002428",
         "price": 75.38,
         "change_pct": 10.0,
-        "turnover": 4.17
-      },
-      {
-        "name": "紫竹高科",
-        "code": "002058",
-        "price": 23.24,
-        "change_pct": 9.99,
-        "turnover": 8.36
+        "turnover": 5.7
       },
       {
         "name": "新亚制程",
         "code": "002388",
         "price": 5.51,
         "change_pct": 9.98,
-        "turnover": 6.26
+        "turnover": 6.61
       },
       {
         "name": "金 螳 螂",
         "code": "002081",
         "price": 4.3,
         "change_pct": 9.97,
-        "turnover": 1.32
-      },
-      {
-        "name": "七 匹 狼",
-        "code": "002029",
-        "price": 11.36,
-        "change_pct": 9.97,
-        "turnover": 1.61
+        "turnover": 1.73
       },
       {
         "name": "大连友谊",
         "code": "000679",
         "price": 7.28,
         "change_pct": 9.97,
-        "turnover": 1.45
+        "turnover": 1.54
       },
       {
-        "name": "鲁阳节能",
-        "code": "002088",
-        "price": 8.99,
-        "change_pct": 7.92,
-        "turnover": 3.01
+        "name": "通富微电",
+        "code": "002156",
+        "price": 41.18,
+        "change_pct": 7.02,
+        "turnover": 2.64
       },
       {
-        "name": "翔鹭钨业",
-        "code": "002842",
-        "price": 24.08,
-        "change_pct": 7.6,
-        "turnover": 2.15
-      },
-      {
-        "name": "闽发铝业",
-        "code": "002578",
-        "price": 4.0,
-        "change_pct": 6.38,
-        "turnover": 4.23
+        "name": "郑中设计",
+        "code": "002811",
+        "price": 19.8,
+        "change_pct": 6.91,
+        "turnover": 4.8
       },
       {
         "name": "圣阳股份",
         "code": "002580",
-        "price": 19.84,
-        "change_pct": 6.27,
-        "turnover": 10.48
+        "price": 19.95,
+        "change_pct": 6.86,
+        "turnover": 21.23
       },
       {
-        "name": "章源钨业",
-        "code": "002378",
-        "price": 17.7,
-        "change_pct": 5.55,
-        "turnover": 0.56
+        "name": "鲁阳节能",
+        "code": "002088",
+        "price": 8.9,
+        "change_pct": 6.84,
+        "turnover": 5.1
+      },
+      {
+        "name": "北方华创",
+        "code": "002371",
+        "price": 517.7,
+        "change_pct": 6.34,
+        "turnover": 0.45
       }
     ],
     "yimeng_stocks": [
@@ -579,5 +579,5 @@
       }
     ]
   },
-  "timestamp": "2026-11-04T09:38:02"
+  "timestamp": "2026-11-04T09:52:06"
 }
