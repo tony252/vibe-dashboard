@@ -240323,6 +240323,138 @@
           "score": 5.02
         }
       ]
+    },
+    "杰克船长": {
+      "time": "08:47",
+      "picks": [
+        {
+          "name": "信测标准",
+          "code": "300938",
+          "price": "22.450",
+          "change": 14.191,
+          "turnover": "5.89756",
+          "score": 103,
+          "limit_score": 33,
+          "total": 103,
+          "level": "⭐⭐⭐强力🔥",
+          "action": "重仓30%",
+          "rules": [
+            "换手温和",
+            "价格适中",
+            "上涨趋势",
+            "🔥涨停信号",
+            "站上MA5"
+          ],
+          "change_val": 14.191,
+          "chan_score": 0,
+          "chan_buy": null,
+          "chan_buy_price": "22.450",
+          "chan_bottom_div": null,
+          "chan_confidence": 0,
+          "final_score": 103
+        },
+        {
+          "name": "新相微",
+          "code": "688593",
+          "price": "24.410",
+          "change": 13.747,
+          "turnover": "3.04646",
+          "score": 103,
+          "limit_score": 33,
+          "total": 103,
+          "level": "⭐⭐⭐强力🔥",
+          "action": "重仓30%",
+          "rules": [
+            "换手温和",
+            "价格适中",
+            "上涨趋势",
+            "🔥涨停信号",
+            "站上MA5"
+          ],
+          "change_val": 13.747,
+          "chan_score": 0,
+          "chan_buy": null,
+          "chan_buy_price": "24.410",
+          "chan_bottom_div": null,
+          "chan_confidence": 0,
+          "final_score": 103
+        },
+        {
+          "name": "昀冢科技",
+          "code": "688260",
+          "price": "67.720",
+          "change": 14.994,
+          "turnover": "6.38718",
+          "score": 88,
+          "limit_score": 28,
+          "total": 88,
+          "level": "⭐⭐确认🔥",
+          "action": "建仓20%",
+          "rules": [
+            "换手温和",
+            "上涨趋势",
+            "🔥涨停信号",
+            "站上MA5"
+          ],
+          "change_val": 14.994,
+          "chan_score": 0,
+          "chan_buy": null,
+          "chan_buy_price": "67.720",
+          "chan_bottom_div": null,
+          "chan_confidence": 0,
+          "final_score": 88
+        },
+        {
+          "name": "三环集团",
+          "code": "300408",
+          "price": "79.100",
+          "change": 14.771,
+          "turnover": "4.097",
+          "score": 88,
+          "limit_score": 28,
+          "total": 88,
+          "level": "⭐⭐确认🔥",
+          "action": "建仓20%",
+          "rules": [
+            "换手温和",
+            "上涨趋势",
+            "🔥涨停信号",
+            "站上MA5"
+          ],
+          "change_val": 14.771,
+          "chan_score": 0,
+          "chan_buy": null,
+          "chan_buy_price": "79.100",
+          "chan_bottom_div": null,
+          "chan_confidence": 0,
+          "final_score": 88
+        },
+        {
+          "name": "瑞松科技",
+          "code": "688090",
+          "price": "47.710",
+          "change": 14.688,
+          "turnover": "6.84388",
+          "score": 88,
+          "limit_score": 28,
+          "total": 88,
+          "level": "⭐⭐确认🔥",
+          "action": "建仓20%",
+          "rules": [
+            "换手温和",
+            "上涨趋势",
+            "🔥涨停信号",
+            "站上MA5"
+          ],
+          "change_val": 14.688,
+          "chan_score": 0,
+          "chan_buy": null,
+          "chan_buy_price": "47.710",
+          "chan_bottom_div": null,
+          "chan_confidence": 0,
+          "final_score": 88
+        }
+      ]
     }
   }
 }
