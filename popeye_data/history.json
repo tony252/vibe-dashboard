@@ -2370,22 +2370,32 @@
       {
         "code": "300201",
         "name": "海伦哲",
-        "buy_price": 11.35,
+        "buy_price": 11.16,
         "buy_date": "2026-11-05",
         "shares": 800,
-        "cost": 9080.0,
+        "cost": 8928.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 14.415
+        "change_at_buy": 12.5
       },
       {
         "code": "300647",
         "name": "超频三",
-        "buy_price": 7.72,
+        "buy_price": 7.71,
         "buy_date": "2026-11-05",
         "shares": 1200,
-        "cost": 9264.0,
+        "cost": 9252.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 12.536
+        "change_at_buy": 12.391
+      },
+      {
+        "code": "300120",
+        "name": "经纬辉开",
+        "buy_price": 8.88,
+        "buy_date": "2026-11-05",
+        "shares": 1100,
+        "cost": 9768.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.311
       },
       {
         "code": "002309",
@@ -2398,6 +2408,26 @@
         "change_at_buy": 10.189
       },
       {
+        "code": "601929",
+        "name": "吉视传媒",
+        "buy_price": 2.5,
+        "buy_date": "2026-11-05",
+        "shares": 4000,
+        "cost": 10000.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.132
+      },
+      {
+        "code": "000889",
+        "name": "中嘉博创",
+        "buy_price": 3.27,
+        "buy_date": "2026-11-05",
+        "shares": 3000,
+        "cost": 9810.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.101
+      },
+      {
         "code": "600986",
         "name": "浙文互联",
         "buy_price": 7.65,
@@ -2408,14 +2438,14 @@
         "change_at_buy": 10.072
       },
       {
-        "code": "000510",
-        "name": "新金路",
-        "buy_price": 10.62,
+        "code": "603500",
+        "name": "祥和实业",
+        "buy_price": 10.29,
         "buy_date": "2026-11-05",
         "shares": 900,
-        "cost": 9558.0,
+        "cost": 9261.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 10.052
+        "change_at_buy": 10.053
       },
       {
         "code": "002088",
@@ -2426,38 +2456,8 @@
         "cost": 9072.0,
         "reason": "黄金区间3-6%",
         "change_at_buy": 10.044
-      },
-      {
-        "code": "002131",
-        "name": "利欧股份",
-        "buy_price": 4.39,
-        "buy_date": "2026-11-05",
-        "shares": 2200,
-        "cost": 9658.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 10.025
-      },
-      {
-        "code": "000151",
-        "name": "中成股份",
-        "buy_price": 10.45,
-        "buy_date": "2026-11-05",
-        "shares": 900,
-        "cost": 9405.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 10.0
-      },
-      {
-        "code": "002388",
-        "name": "新亚制程",
-        "buy_price": 6.06,
-        "buy_date": "2026-11-05",
-        "shares": 1600,
-        "cost": 9696.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 9.982
       }
     ],
-    "total_cost": 95364.0
+    "total_cost": 95722.0
   }
 }
