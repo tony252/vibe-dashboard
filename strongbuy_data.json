@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "yimeng": [
     {
       "code": "003032",
@@ -175,113 +175,41 @@
   ],
   "stocks": [
     {
-      "code": "920298",
-      "name": "腾信精密",
-      "price": 94.6,
-      "change_pct": 30.0,
-      "turnover": 24.4,
-      "change_5d": 18.0,
-      "volume": 3.243,
+      "code": "301697",
+      "name": "贝特利",
+      "price": 30.5,
+      "change_pct": 19.98,
+      "turnover": 21.4,
+      "change_5d": 12.0,
+      "volume": 2.869,
       "tag": "newhigh",
       "score": 5,
-      "reason": "涨幅榜前列(第1名),飙升30.0%"
+      "reason": "涨幅榜前列(第1名),飙升20.0%"
+    },
+    {
+      "code": "688429",
+      "name": "时创能源",
+      "price": 10.69,
+      "change_pct": 19.98,
+      "turnover": 0.6,
+      "change_5d": 12.0,
+      "volume": 0.257,
+      "tag": "newhigh",
+      "score": 5,
+      "reason": "涨幅榜前列(第2名),飙升20.0%"
     },
     {
       "code": "920770",
       "name": "艾能聚",
-      "price": 11.92,
-      "change_pct": 29.99,
-      "turnover": 23.4,
-      "change_5d": 18.0,
-      "volume": 2.084,
+      "price": 14.16,
+      "change_pct": 18.79,
+      "turnover": 9.4,
+      "change_5d": 11.3,
+      "volume": 0.985,
       "tag": "newhigh",
       "score": 5,
-      "reason": "涨幅榜前列(第2名),飙升30.0%"
-    },
-    {
-      "code": "920045",
-      "name": "蘅东光",
-      "price": 366.0,
-      "change_pct": 21.8,
-      "turnover": 11.0,
-      "change_5d": 13.1,
-      "volume": 10.187,
-      "tag": "newhigh",
-      "score": 5,
-      "reason": "涨幅榜前列(第3名),飙升21.8%"
-    },
-    {
-      "code": "920157",
-      "name": "宇特光电",
-      "price": 48.58,
-      "change_pct": 12.74,
-      "turnover": 32.9,
-      "change_5d": 7.6,
-      "volume": 1.95,
-      "tag": "volume",
-      "score": 5,
-      "reason": "量价齐升,换手32.9%,成交2.0亿"
-    },
-    {
-      "code": "301513",
-      "name": "尚水智能",
-      "price": 61.59,
-      "change_pct": 12.43,
-      "turnover": 51.4,
-      "change_5d": 7.5,
-      "volume": 6.34,
-      "tag": "volume",
-      "score": 5,
-      "reason": "量价齐升,换手51.4%,成交6.3亿"
-    },
-    {
-      "code": "300085",
-      "name": "银之杰",
-      "price": 32.36,
-      "change_pct": 12.13,
-      "turnover": 21.5,
-      "change_5d": 7.3,
-      "volume": 38.761,
-      "tag": "volume",
-      "score": 5,
-      "reason": "量价齐升,换手21.5%,成交38.8亿"
-    },
-    {
-      "code": "601091",
-      "name": "沈鼓集团",
-      "price": 18.44,
-      "change_pct": 2.39,
-      "turnover": 26.4,
-      "change_5d": 1.4,
-      "volume": 10.168,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手26.4%,成交10.2亿"
-    },
-    {
-      "code": "920162",
-      "name": "莫森泰克",
-      "price": 18.57,
-      "change_pct": 2.31,
-      "turnover": 22.8,
-      "change_5d": 1.4,
-      "volume": 0.654,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手22.8%,成交0.7亿"
-    },
-    {
-      "code": "002580",
-      "name": "圣阳股份",
-      "price": 19.05,
-      "change_pct": 2.04,
-      "turnover": 32.4,
-      "change_5d": 1.2,
-      "volume": 29.024,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手32.4%,成交29.0亿"
+      "reason": "涨幅榜前列(第3名),飙升18.8%"
     }
   ],
-  "updated_at": "2026-11-04 17:19:00"
+  "updated_at": "2026-11-05 09:34:36"
 }
