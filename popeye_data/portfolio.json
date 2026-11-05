@@ -15,32 +15,32 @@
     {
       "code": "300201",
       "name": "海伦哲",
-      "buy_price": 11.16,
+      "buy_price": 11.3,
       "buy_date": "2026-11-05",
       "shares": 800,
-      "cost": 8928.0,
+      "cost": 9040.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 12.5
+      "change_at_buy": 13.911
     },
     {
       "code": "300647",
       "name": "超频三",
-      "buy_price": 7.71,
+      "buy_price": 7.68,
       "buy_date": "2026-11-05",
-      "shares": 1200,
-      "cost": 9252.0,
+      "shares": 1300,
+      "cost": 9984.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 12.391
+      "change_at_buy": 11.953
     },
     {
       "code": "300120",
       "name": "经纬辉开",
-      "buy_price": 8.88,
+      "buy_price": 8.94,
       "buy_date": "2026-11-05",
       "shares": 1100,
-      "cost": 9768.0,
+      "cost": 9834.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 10.311
+      "change_at_buy": 11.056
     },
     {
       "code": "002309",
@@ -103,5 +103,5 @@
       "change_at_buy": 10.044
     }
   ],
-  "total_cost": 95722.0
+  "total_cost": 96632.0
 }
