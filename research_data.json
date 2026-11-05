@@ -1,12 +1,36 @@
 {
   "date": "2026-11-05",
-  "updated_at": "2026-11-05 17:03:18",
+  "updated_at": "2026-11-05 20:03:13",
   "stats": {
-    "processed": 11,
+    "processed": 21,
     "alerts": 0,
-    "filtered": 11
+    "filtered": 14
   },
   "events": [
+    {
+      "time": "2026-11-05 19:18",
+      "type": "archive",
+      "title": "A股上市险企Q3投资“明暗账”：OCI如何扮演救火队长？",
+      "content": "来源：中保新知 10月30日，中国人寿（601628）、中国平安（601318）、中国太保（601601）、新华保险（601336）、中国人保（601319）五家A股上市险企的2026年三季报全部披露...",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/money/insurance/bxdt/2026-11-05/doc-inixsvxq5510277.shtml",
+      "stocks": [
+        {
+          "name": "中国平安",
+          "code": "601318",
+          "match_reason": "直接提及[中国平安]（选股推荐）"
+        },
+        {
+          "name": "中国太保",
+          "code": "601601",
+          "match_reason": "直接提及[中国太保]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
     {
       "time": "2026-11-05 16:56",
       "type": "archive",
@@ -57,6 +81,44 @@
           "name": "邮储银行",
           "code": "601658",
           "match_reason": "直接提及[邮储银行]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-05 13:26",
+      "type": "archive",
+      "title": "芒果TV崩了，芒果超媒股价暴力拉升",
+      "content": "①11月5日芒果超媒午后直线拉升，截至发稿报32.45元，涨幅超8%，成交额32.7亿元，换手率超10%；\n②今日中午芒果TV出现因热门综艺致服务器过载的大面积登录故障，大量用户反馈账号无法登录。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2526012",
+      "stocks": [
+        {
+          "name": "芒果超媒",
+          "code": "300413",
+          "match_reason": "直接提及[芒果超媒]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-05 12:22",
+      "type": "archive",
+      "title": "【午报】深成指与创业板指双双涨超1%，全市场超4700股飘红，新能源方向集体走强",
+      "content": "①今日早盘市场延续反弹，深成指与创业板指双双涨超1%，半日放量超5000亿，新能源方向集体走强，光伏、锂电板块领涨；\n②个股层面，早盘涨停数量为59家，炸板率41%，连板股数量为18家，闽发铝业、浙文影业4连板。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2525954",
+      "stocks": [
+        {
+          "name": "浙文影业",
+          "code": "601599",
+          "match_reason": "直接提及[浙文影业]（选股推荐）"
         }
       ],
       "verification": {
@@ -271,7 +333,7 @@
       "现金管理"
     ]
   },
-  "mode": "report",
+  "mode": "scan",
   "week": 45,
   "stock_meta": {
     "601688": "2026-11-05 17:03",
@@ -288,7 +350,11 @@
     "603906": "2026-11-05 17:03",
     "002058": "2026-11-05 17:03",
     "300938": "2026-11-05 17:03",
-    "688593": "2026-11-05 17:03"
+    "688593": "2026-11-05 17:03",
+    "601318": "2026-11-05 20:06",
+    "601601": "2026-11-05 20:06",
+    "300413": "2026-11-05 20:06",
+    "601599": "2026-11-05 20:06"
   },
   "watchlist": [
     {
@@ -297,9 +363,9 @@
       "keywords": "直接提及[华泰证券]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-05 17:03",
+      "selected_at": "2026-11-05 20:06",
       "first_seen": "2026-11-05 17:03",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "中信证券",
@@ -307,9 +373,9 @@
       "keywords": "直接提及[中信证券]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-05 17:03",
+      "selected_at": "2026-11-05 20:06",
       "first_seen": "2026-11-05 17:03",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "三环集团",
@@ -317,9 +383,9 @@
       "keywords": "直接提及[三环集团]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-05 17:03",
+      "selected_at": "2026-11-05 20:06",
       "first_seen": "2026-11-05 17:03",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "长鑫科技",
@@ -327,8 +393,28 @@
       "keywords": "直接提及[长鑫科技]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-05 17:03",
+      "selected_at": "2026-11-05 20:06",
       "first_seen": "2026-11-05 17:03",
+      "is_new": false
+    },
+    {
+      "name": "中国平安",
+      "code": "601318",
+      "keywords": "直接提及[中国平安]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-05 20:06",
+      "first_seen": "2026-11-05 20:06",
+      "is_new": true
+    },
+    {
+      "name": "中国太保",
+      "code": "601601",
+      "keywords": "直接提及[中国太保]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-05 20:06",
+      "first_seen": "2026-11-05 20:06",
       "is_new": true
     },
     {
@@ -337,9 +423,9 @@
       "keywords": "直接提及[奥精医疗]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-05 17:03",
+      "selected_at": "2026-11-05 20:06",
       "first_seen": "2026-11-05 17:03",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "神州高铁",
@@ -347,9 +433,9 @@
       "keywords": "直接提及[神州高铁]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-05 17:03",
+      "selected_at": "2026-11-05 20:06",
       "first_seen": "2026-11-05 17:03",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "邮储银行",
@@ -357,8 +443,28 @@
       "keywords": "直接提及[邮储银行]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-05 17:03",
+      "selected_at": "2026-11-05 20:06",
       "first_seen": "2026-11-05 17:03",
+      "is_new": false
+    },
+    {
+      "name": "芒果超媒",
+      "code": "300413",
+      "keywords": "直接提及[芒果超媒]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-05 20:06",
+      "first_seen": "2026-11-05 20:06",
+      "is_new": true
+    },
+    {
+      "name": "浙文影业",
+      "code": "601599",
+      "keywords": "直接提及[浙文影业]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-05 20:06",
+      "first_seen": "2026-11-05 20:06",
       "is_new": true
     },
     {
@@ -367,9 +473,9 @@
       "keywords": "直接提及[澳洋健康]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-05 17:03",
+      "selected_at": "2026-11-05 20:06",
       "first_seen": "2026-11-05 17:03",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "阳光照明",
@@ -377,9 +483,9 @@
       "keywords": "直接提及[阳光照明]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-05 17:03",
+      "selected_at": "2026-11-05 20:06",
       "first_seen": "2026-11-05 17:03",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "泉阳泉",
@@ -387,9 +493,9 @@
       "keywords": "直接提及[泉阳泉]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-05 17:03",
+      "selected_at": "2026-11-05 20:06",
       "first_seen": "2026-11-05 17:03",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "皇台酒业",
@@ -397,49 +503,9 @@
       "keywords": "直接提及[皇台酒业]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-05 17:03",
+      "selected_at": "2026-11-05 20:06",
       "first_seen": "2026-11-05 17:03",
-      "is_new": true
-    },
-    {
-      "name": "龙蟠科技",
-      "code": "603906",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.23%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-05 17:03",
-      "first_seen": "2026-11-05 17:03",
-      "is_new": true
-    },
-    {
-      "name": "紫竹高科",
-      "code": "002058",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率8.70%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-05 17:03",
-      "first_seen": "2026-11-05 17:03",
-      "is_new": true
-    },
-    {
-      "name": "信测标准",
-      "code": "300938",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"14.19\">涨幅14.19%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率5.90%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-05 17:03",
-      "first_seen": "2026-11-05 17:03",
-      "is_new": true
-    },
-    {
-      "name": "新相微",
-      "code": "688593",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"13.75\">涨幅13.75%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.05%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-05 17:03",
-      "first_seen": "2026-11-05 17:03",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
