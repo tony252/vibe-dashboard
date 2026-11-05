@@ -240257,5 +240257,72 @@
         }
       ]
     }
+  },
+  "2026-11-05": {
+    "高欣资金净流入": {
+      "time": "08:34",
+      "picks": [
+        {
+          "code": "000858",
+          "name": "五粮液",
+          "net_amount_5d": -939892.0,
+          "net_ratio_avg": -2.46,
+          "positive_days": 2,
+          "change_pct": 9.75,
+          "price": 10166.63,
+          "score": 17.31
+        },
+        {
+          "code": "000002",
+          "name": "万科A",
+          "net_amount_5d": -6036946.0,
+          "net_ratio_avg": -1.69,
+          "positive_days": 2,
+          "change_pct": 2.17,
+          "price": 3864.94,
+          "score": 11.63
+        },
+        {
+          "code": "000001",
+          "name": "平安银行",
+          "net_amount_5d": -6037486.0,
+          "net_ratio_avg": -1.69,
+          "positive_days": 2,
+          "change_pct": 2.16,
+          "price": 3686.17,
+          "score": 11.62
+        },
+        {
+          "code": "000066",
+          "name": "中国长城",
+          "net_amount_5d": -345320.0,
+          "net_ratio_avg": -1.65,
+          "positive_days": 1,
+          "change_pct": 2.59,
+          "price": 3325.63,
+          "score": 6.94
+        },
+        {
+          "code": "000063",
+          "name": "中兴通讯",
+          "net_amount_5d": -526552.0,
+          "net_ratio_avg": -1.1,
+          "positive_days": 1,
+          "change_pct": 0.24,
+          "price": 3691.14,
+          "score": 5.18
+        },
+        {
+          "code": "000100",
+          "name": "TCL科技",
+          "net_amount_5d": -3187223.0,
+          "net_ratio_avg": -2.0,
+          "positive_days": 1,
+          "change_pct": -0.07,
+          "price": 5901.51,
+          "score": 5.02
+        }
+      ]
+    }
   }
 }
