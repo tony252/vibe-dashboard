@@ -1,16 +1,390 @@
 {
-  "update_time": "2026-11-05 17:33:42",
-  "total": 411,
+  "update_time": "2026-11-05 17:49:45",
+  "total": 405,
   "source_stats": {
+    "新浪财经": 41,
     "雪球": 10,
-    "新浪财经": 47,
     "网易财经": 224,
     "同花顺": 100,
     "财联社": 30
   },
-  "hot_count": 15,
-  "important_count": 93,
+  "hot_count": 10,
+  "important_count": 83,
   "items": [
+    {
+      "id": "sinacomos:nixsrrq8799840",
+      "time_str": "",
+      "time": 1793872036000,
+      "title": "沁恒微重启IPO：上半年营收3.6亿，净利1.4亿 拟募资14.9亿",
+      "text": "来源：雷递 雷递网 雷建平 11月5日 南京沁恒微电子股份有限公司（简称：“沁恒微”）日前重启IPO，准备在深交所创业板上市。 沁恒微原计划募资14.9亿元，其中，4...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-05/doc-inixsrrq8799840.shtml",
+      "sub_source": "市场资讯",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:nixsrry6089517",
+      "time_str": "",
+      "time": 1793872034000,
+      "title": "受云服务商Iren项目延期影响，微软削减数据中心开支",
+      "text": "Iren 将于本周发布财报，目前正承受借贷成本上升带来的经营压力。 微软上周披露，受计划租赁的数据中心算力未能按期交付影响，公司第三季度资本开支较此前预期减少约 50...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsrry6089517.shtml",
+      "sub_source": "环球市场播报",
+      "importance": ""
+    },
+    {
+      "id": "xq4908690",
+      "time_str": "",
+      "time": 1793872014000,
+      "title": "【法国预算僵局加剧 新一轮抗议再起】法国正准备面临新一轮全国性罢工和示威活动，抗议生活成本高企。持续一个多月的抗议浪潮将进一步延烧，而议会围绕明年预算的谈判仍陷...",
+      "text": "【法国预算僵局加剧 新一轮抗议再起】法国正准备面临新一轮全国性罢工和示威活动，抗议生活成本高企。持续一个多月的抗议浪潮将进一步延烧，而议会围绕明年预算的谈判仍陷入僵局。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/415701348",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:nixsrrq8799516",
+      "time_str": "",
+      "time": 1793872005000,
+      "title": "阳光电源第三季营收180亿：同比降22% 净利降68% 市值一年跌去2500亿",
+      "text": "来源：雷递 雷递网 雷建平 11月5日 阳光电源（证券代码：300274）日前发布2026年第三季度的财报。财报显示，阳光电源2026年前9个月营收为488.6亿，同比下降26...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-05/doc-inixsrrq8799516.shtml",
+      "sub_source": "市场资讯",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:nixsrry6088576",
+      "time_str": "",
+      "time": 1793871957000,
+      "title": "司法部调取Rippling与Deel商业间谍案相关文件",
+      "text": " 据法庭文件显示，美国司法部向薪资服务初创企业 Rippling 发出传票，要求获取该公司起诉竞争对手 Deel 的商业间谍民事诉讼中，证据开示阶段产出的全部文件。",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsrry6088576.shtml",
+      "sub_source": "环球市场播报",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:nixsrrw9436009",
+      "time_str": "",
+      "time": 1793871945000,
+      "title": "蓝潮重塑AI、加密货币与科技行业的六大路径",
+      "text": "民主党借民众对 AI 的担忧拿下选举胜利。接下来，数据中心限制、传票调查、前沿大模型立法或将接踵而至。 周二选举中民主党大胜，一定程度上得益于他们抓住了选民日益增长...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsrrw9436009.shtml",
+      "sub_source": "环球市场播报",
+      "importance": "important"
+    },
+    {
+      "id": "sinacomos:nixsrrw9439416",
+      "time_str": "",
+      "time": 1793871941000,
+      "title": "Cerebras的限售股案例，给Anthropic员工上的一课",
+      "text": "早在周三受选举影响引发科技股集体抛售之前，Cerebras 自半年前 IPO 上市后，股价就已经大幅下挫。这对 IPO 阶段进场的投资者，以及手握公司上市股票的员工而言...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsrrw9439416.shtml",
+      "sub_source": "环球市场播报",
+      "importance": ""
+    },
+    {
+      "id": "1638617265478",
+      "time_str": "2026-11-05 17:43:56",
+      "time": 1793871836000,
+      "title": "面向AI算力和具身智能出海，菜鸟推出“科技出海三日达”",
+      "text": "面向AI算力和具身智能出海，菜鸟推出“科技出海三日达”",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LB05RKO20519APGA.html",
+      "importance": ""
+    },
+    {
+      "id": "xq4908689",
+      "time_str": "",
+      "time": 1793871781000,
+      "title": "阿达尼港口公司以25.6亿欧元的企业价值收购Evos。",
+      "text": "阿达尼港口公司以25.6亿欧元的企业价值收购Evos。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/415700920",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:nixsrry6077749",
+      "time_str": "",
+      "time": 1793871746000,
+      "title": "预定利率研究值止步两连涨，人身险定价暂不触发下调",
+      "text": "记者：涂颖浩 经历连续两个季度的微幅回升后，三季度预定利率研究值迎来拐点。 11月4日，中国保险行业协会发布公告，已于10月30日召开人身保险业利率研究专家咨询委员会202...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/roll/2026-11-05/doc-inixsrry6077749.shtml",
+      "sub_source": "每日经济新闻",
+      "importance": "important"
+    },
+    {
+      "id": "sinacomos:nixsrrq8796012",
+      "time_str": "",
+      "time": 1793871713000,
+      "title": "江苏雷利苏达遭立案调查背后：协议减持套现与实控人变更前后脚",
+      "text": "出品：新浪财经上市公司研究院 文/夏虫工作室 核心观点：江苏雷利实控人为何因涉嫌信息披露、减持违法违规等遭监管立案调查？值得注意的是...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/observe/2026-11-05/doc-inixsrrq8796012.shtml",
+      "sub_source": "新浪证券",
+      "importance": "important"
+    },
+    {
+      "id": "1637386900219",
+      "time_str": "2026-11-05 17:41:23",
+      "time": 1793871683000,
+      "title": "八年稳扎稳打，张亮麻辣烫加盟商的细水长流生意经",
+      "text": "八年稳扎稳打，张亮麻辣烫加盟商的细水长流生意经",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LB05N57D0531SEQJ.html",
+      "importance": ""
+    },
+    {
+      "id": "xq4908688",
+      "time_str": "",
+      "time": 1793871665000,
+      "title": "远信储能技术将香港IPO价格定在每股9.78港元。",
+      "text": "远信储能技术将香港IPO价格定在每股9.78港元。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/415700719",
+      "importance": ""
+    },
+    {
+      "id": "1635857877990",
+      "time_str": "2026-11-05 17:40:04",
+      "time": 1793871604000,
+      "title": "官宣！时速400公里高铁，要来了",
+      "text": "官宣！时速400公里高铁，要来了",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LB04OAGI0519FM90.html",
+      "importance": ""
+    },
+    {
+      "id": "16355599295",
+      "time_str": "2026-11-05 17:39:48",
+      "time": 1793871588000,
+      "title": "张朝阳回怼躺平论：不赚钱，不代表我没做事",
+      "text": "张朝阳回怼躺平论：不赚钱，不代表我没做事",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LB04TV6H0531RB59.html",
+      "importance": ""
+    },
+    {
+      "id": "xq4908687",
+      "time_str": "",
+      "time": 1793871530000,
+      "title": "【工信部：第三季度组织开展APP技术抽测42批次，责令整改967款、公开通报163款、下架72款】工业和信息化部发布2026年第三季度电信服务质量的通告。第三季...",
+      "text": "【工信部：第三季度组织开展APP技术抽测42批次，责令整改967款、公开通报163款、下架72款】工业和信息化部发布2026年第三季度电信服务质量的通告。第三季度，组织开展APP技术抽测42批次，责令整改967款、公开通报163款、下架72款，在架APP合规率环比提升1.3个百分点，其中应用宝、荣耀应用商店、小米应用商店、百度手机助手等平台合规率位居前列。发布《无障碍服务安全管理和使用技术要求》团体标准，对APP调用无障碍服务时的信息明示、功能配置、权限申请、能力约束等行为提出明确要求，并对终端授权管理、风险提示、状态展示等安全管理作出规范。组织发布《智能体个人信息保护自律公约》，围绕告知同意、最小必要、权限调用、用户权利响应、第三方责任划分等方面明确有关要求，推动30余家行业企业签署并落地实施。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/415700371",
+      "importance": ""
+    },
+    {
+      "id": "xq4908686",
+      "time_str": "",
+      "time": 1793871517000,
+      "title": "中国海外发展10月合约销售额178.1亿元，同比下滑4.6％。",
+      "text": "中国海外发展10月合约销售额178.1亿元，同比下滑4.6％。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/415700370",
+      "importance": "hot"
+    },
+    {
+      "id": "xq4908685",
+      "time_str": "",
+      "time": 1793871490000,
+      "title": "瑞银给予昆仑万维“买进”的初始评级，目标价51元。",
+      "text": "瑞银给予昆仑万维“买进”的初始评级，目标价51元。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/415700311",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:nixsrrq8792885",
+      "time_str": "",
+      "time": 1793871470000,
+      "title": "极智嘉RS Hyper攀爬机器人首秀，千平方米每小时吞吐6000箱",
+      "text": "新浪科技讯 11月5日下午消息，正在举办的2026亚洲国际物流技术与运输系统展览会上，极智嘉集中展示了通用人形机器人 Gino 1、托盘到人SkyCube等全品类机器人产品...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/tob/2026-11-05/doc-inixsrrq8792885.shtml",
+      "sub_source": "新浪科技",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:nixsrry6082572",
+      "time_str": "",
+      "time": 1793871425000,
+      "title": "炒期货用什么APP？主流软件大比拼，这一款拔得头筹！",
+      "text": "很多做期货的朋友，最头疼就是选一款顺手的行情软件，行情延迟、K 线卡顿、指标不全，都会影响看盘。经过对比我们发现，新浪财经在资讯...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/money/future/qhhz/2026-11-05/doc-inixsrry6082572.shtml",
+      "sub_source": "市场资讯",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:nixsrrs5568209",
+      "time_str": "",
+      "time": 1793871420000,
+      "title": "长城基金赵凤飞：紧跟智能产业发展方向，挖掘长线成长股",
+      "text": " 2026年基金三季报出炉。回顾三季度，A股交易情绪低迷，科技板块持续调整，AI基建等前期强势方向明显降温；步入四季度，市场仍在震荡中寻找新的叙事支点。",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-11-05/doc-inixsrrs5568209.shtml",
+      "sub_source": "新浪基金",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:nixsrry6066191",
+      "time_str": "",
+      "time": 1793871417000,
+      "title": "002088，“地天板”，机构扫货！多只连板股巨震",
+      "text": "11月5日，多只连板股盘中巨震，走出“地天板”或准“地天板”走势。 鲁阳节能（002088）今日股价剧烈震荡，早盘高开近7%，随后秒速闪崩至跌停，然后又直线拉升涨停...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-05/doc-inixsrry6066191.shtml",
+      "sub_source": "",
+      "importance": "important"
+    },
+    {
+      "id": "sinacomos:nixsrry6080652",
+      "time_str": "",
+      "time": 1793871402000,
+      "title": "迈威尔收购提案引发朗美通股价大跌，第三方竞价可能性上升",
+      "text": "光网络器件厂商朗美通（Lumentum）周一收到迈威尔的收购邀约，周三随本轮选举行情一同遭遇抛售 —— 本轮下跌主要集中在此前受益于 AI 数据中心扩张的标的。",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsrry6080652.shtml",
+      "sub_source": "环球市场播报",
+      "importance": ""
+    },
+    {
+      "id": "1638995035439",
+      "time_str": "2026-11-05 17:36:40",
+      "time": 1793871400000,
+      "title": "菜鸟发布与AI及具身智能产业合作计划",
+      "text": "菜鸟发布与AI及具身智能产业合作计划",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LB04LFEK0511UULO.html",
+      "importance": ""
+    },
+    {
+      "id": "xq4908684",
+      "time_str": "",
+      "time": 1793871399000,
+      "title": "【存储芯片涨价叠加主机提价 Switch 2第二财季销量同比下滑41%】受存储芯片价格飙升、主机涨价影响，任天堂Switch 2第二财季销量同比近乎腰斩。截至9...",
+      "text": "【存储芯片涨价叠加主机提价 Switch 2第二财季销量同比下滑41%】受存储芯片价格飙升、主机涨价影响，任天堂Switch 2第二财季销量同比近乎腰斩。截至9月30日的第二财季，Switch 2主机销量仅267万台，同比下滑41%。随着任天堂重磅新作《塞尔达传说：时之笛》重制版在周四正式上线，市场也将Switch 2销量回暖的可能性寄希望于新作之上。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/415700195",
+      "importance": ""
+    },
+    {
+      "id": "163983682995",
+      "time_str": "2026-11-05 17:36:22",
+      "time": 1793871382000,
+      "title": "一门课2300美元，中国孩子也能读的“马斯克网校”到底教些什么？",
+      "text": "一门课2300美元，中国孩子也能读的“马斯克网校”到底教些什么？",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LB04C26A05198035.html",
+      "importance": ""
+    },
+    {
+      "id": "sinacomos:nixsrrq8791445",
+      "time_str": "",
+      "time": 1793871354000,
+      "title": "微盟盘中涨逾17%背后：AI剧工业化重启微盟AI商业化路径定价",
+      "text": "美国中期选举落定，外部不确定性阶段性释放，中国科技资产迎来风险偏好修复。11月5日，科创50、创业板指大幅反弹，半导体、算力、AI应用链集体走强——市场逻辑正在从“交易情...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/enterprise/hk/2026-11-05/doc-inixsrrq8791445.shtml",
+      "sub_source": "新浪证券",
+      "importance": ""
+    },
+    {
+      "id": "xq4908683",
+      "time_str": "",
+      "time": 1793871279000,
+      "title": "索尼美股盘前涨超5%，公司上调2026财年营收及利润指引，且游戏与影视业务业绩大幅增长。",
+      "text": "索尼美股盘前涨超5%，公司上调2026财年营收及利润指引，且游戏与影视业务业绩大幅增长。",
+      "source": "雪球",
+      "category": "fast",
+      "stock": "",
+      "url": "http://xueqiu.com/5124430882/415699975",
+      "importance": ""
+    },
+    {
+      "id": "1636991095954",
+      "time_str": "2026-11-05 17:33:31",
+      "time": 1793871211000,
+      "title": "AI短剧没有清宫戏？AI：臣妾做不到啊！",
+      "text": "AI短剧没有清宫戏？AI：臣妾做不到啊！",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LB04N3IS05198035.html",
+      "importance": ""
+    },
+    {
+      "id": "163916036819",
+      "time_str": "2026-11-05 17:32:44",
+      "time": 1793871164000,
+      "title": "脑机接口最热项目背后，浮现同一家投资机构",
+      "text": "脑机接口最热项目背后，浮现同一家投资机构",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LB057A6A05199LET.html",
+      "importance": ""
+    },
     {
       "id": "xq4908682",
       "time_str": "",
@@ -60,18 +434,6 @@
       "stock": "",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsrry6077766.shtml",
       "sub_source": "环球市场播报",
-      "importance": ""
-    },
-    {
-      "id": "xq4908680",
-      "time_str": "",
-      "time": 1793870794000,
-      "title": "纳斯达克100ETF大成(159513)将于2026年11月6日开市起停牌，自2026年11月6日10:30起复牌，停牌期间赎回业务照常办理。",
-      "text": "纳斯达克100ETF大成(159513)将于2026年11月6日开市起停牌，自2026年11月6日10:30起复牌，停牌期间赎回业务照常办理。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/415698998",
       "importance": ""
     },
     {
@@ -139,18 +501,6 @@
       "importance": ""
     },
     {
-      "id": "xq4908679",
-      "time_str": "",
-      "time": 1793870714000,
-      "title": "沙特阿拉伯发布关于延布潜在危险的警告。",
-      "text": "沙特阿拉伯发布关于延布潜在危险的警告。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/415698823",
-      "importance": ""
-    },
-    {
       "id": "sinacomos:nixsrry6074350",
       "time_str": "",
       "time": 1793870678000,
@@ -190,18 +540,6 @@
       "importance": ""
     },
     {
-      "id": "xq4908678",
-      "time_str": "",
-      "time": 1793870589000,
-      "title": "布伦特原油期货涨幅扩大至1%，报95.572美元/桶。",
-      "text": "布伦特原油期货涨幅扩大至1%，报95.572美元/桶。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/415698583",
-      "importance": "hot"
-    },
-    {
       "id": "sinacomos:nixsrry6072539",
       "time_str": "",
       "time": 1793870545000,
@@ -212,18 +550,6 @@
       "stock": "",
       "url": "https://finance.sina.com.cn/world/2026-11-05/doc-inixsrry6072539.shtml",
       "sub_source": "环球市场播报",
-      "importance": ""
-    },
-    {
-      "id": "xq4908677",
-      "time_str": "",
-      "time": 1793870496000,
-      "title": "新加坡海峡时报指数上涨0.5%，收于5,296.25点。",
-      "text": "新加坡海峡时报指数上涨0.5%，收于5,296.25点。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/415698425",
       "importance": ""
     },
     {
@@ -240,19 +566,6 @@
       "importance": "important"
     },
     {
-      "id": "sinacomos:nixsrrw9395247",
-      "time_str": "",
-      "time": 1793870475000,
-      "title": "金价火速收复4000美元、4100美元两大关口，但暂不具备冲击4500美元的动能",
-      "text": "文章来源：中新经纬 国际金价深度回调后迎来快速修复反弹。11月5日，现货黄金拉升，盘中突破4100美元/盎司，最高触及4140美元上方。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-05/doc-inixsrrw9395247.shtml",
-      "sub_source": "滚动播报",
-      "importance": "important"
-    },
-    {
       "id": "sinacomos:nixsrrw9422853",
       "time_str": "",
       "time": 1793870433000,
@@ -263,30 +576,6 @@
       "stock": "",
       "url": "https://finance.sina.com.cn/money/fund/etf/2026-11-05/doc-inixsrrw9422853.shtml",
       "sub_source": "新浪基金",
-      "importance": ""
-    },
-    {
-      "id": "xq4908676",
-      "time_str": "",
-      "time": 1793870411000,
-      "title": "【财政部将在加拿大发行人民币绿色主权债券】经国务院批准，财政部将于2026年11月9日当周在加拿大发行人民币绿色主权债券，规模不超过40亿元人民币。具体发行安排...",
-      "text": "【财政部将在加拿大发行人民币绿色主权债券】经国务院批准，财政部将于2026年11月9日当周在加拿大发行人民币绿色主权债券，规模不超过40亿元人民币。具体发行安排将于发行前另行公布。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/415698141",
-      "importance": "important"
-    },
-    {
-      "id": "xq4908675",
-      "time_str": "",
-      "time": 1793870368000,
-      "title": "腾讯在卓正医疗的持股比例增至20.37%。",
-      "text": "腾讯在卓正医疗的持股比例增至20.37%。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/415697981",
       "importance": ""
     },
     {
@@ -303,31 +592,6 @@
       "importance": ""
     },
     {
-      "id": "sinacomos:nixsrry6069798",
-      "time_str": "",
-      "time": 1793870353000,
-      "title": "但斌，跌到“6毛”了？东方港湾旗下多只产品10月回撤约20%，其美股三季度调仓曝光",
-      "text": " 红星资本局11月5日消息，据上海证券报报道，但斌执掌的东方港湾旗下东方港湾宏远2期私募证券投资基金的最新净值报告显示，截至10月30日，该基金单位净值跌至约0.63元。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-05/doc-inixsrry6069798.shtml",
-      "sub_source": "",
-      "importance": ""
-    },
-    {
-      "id": "xq4908674",
-      "time_str": "",
-      "time": 1793870351000,
-      "title": "美股光通信板块盘前继续下挫，康宁跌近4%，迈威尔科技、Lumentum跌超3%，Ciena跌近3%。",
-      "text": "美股光通信板块盘前继续下挫，康宁跌近4%，迈威尔科技、Lumentum跌超3%，Ciena跌近3%。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/415697941",
-      "importance": ""
-    },
-    {
       "id": "sinacomos:nixsrrw9421431",
       "time_str": "",
       "time": 1793870340000,
@@ -338,18 +602,6 @@
       "stock": "",
       "url": "https://finance.sina.com.cn/stock/observe/2026-11-05/doc-inixsrrw9421431.shtml",
       "sub_source": "新浪证券",
-      "importance": ""
-    },
-    {
-      "id": "xq4908673",
-      "time_str": "",
-      "time": 1793870327000,
-      "title": "【高新兴：控股子公司创联科技终止北交所上市辅导备案】高新兴(300098.SZ)公告称，公司控股子公司创联科技基于未来战略规划考虑，经与申万宏源友好协商，双方同...",
-      "text": "【高新兴：控股子公司创联科技终止北交所上市辅导备案】高新兴(300098.SZ)公告称，公司控股子公司创联科技基于未来战略规划考虑，经与申万宏源友好协商，双方同意终止北交所上市辅导协议，并于2026年11月4日签订终止协议。申万宏源同日向浙江证监局撤回上市辅导备案申请。该事项无需公司董事会及股东会审议，对生产经营不会产生重大影响。",
-      "source": "雪球",
-      "category": "fast",
-      "stock": "",
-      "url": "http://xueqiu.com/5124430882/415697940",
       "importance": ""
     },
     {
@@ -379,7 +631,7 @@
       "importance": ""
     },
     {
-      "id": "1635291558984",
+      "id": "163549846388",
       "time_str": "2026-11-05 17:14:46",
       "time": 1793870086000,
       "title": "平准基金大消息！a股独立行情、4800家上涨，新能源重磅催化涨停潮",
@@ -389,19 +641,6 @@
       "stock": "",
       "url": "https://www.163.com/dy/article/LB046BIR0519AFN9.html",
       "importance": "important"
-    },
-    {
-      "id": "sinacomos:nixsrry6065538",
-      "time_str": "",
-      "time": 1793870049000,
-      "title": "银行争先部署“数字员工”，“真人员工”怎么办？",
-      "text": "来源：行长要鉴 银行争先上线“数字员工”的消息，让不少银行人心里打鼓。铺天盖地的宣传里，AI效率高、出错少、连轴转。很多人不禁发问，活都让它干了...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-11-05/doc-inixsrry6065538.shtml",
-      "sub_source": "市场资讯",
-      "importance": ""
     },
     {
       "id": "sinacomos:nixsrrq8774131",
@@ -430,19 +669,6 @@
       "importance": ""
     },
     {
-      "id": "sinacomos:nixsrrq8771213",
-      "time_str": "",
-      "time": 1793869675000,
-      "title": "饶明成获批担任渝农商金融租赁副总经理",
-      "text": "11月5日金融一线消息，重庆金融监管局发布批复，核准饶明成渝农商金融租赁有限责任公司副总经理的任职资格。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/jryx/hm/2026-11-05/doc-inixsrrq8771213.shtml",
-      "sub_source": "金融一线",
-      "importance": ""
-    },
-    {
       "id": "sinacomos:nixsrry6052036",
       "time_str": "",
       "time": 1793869588000,
@@ -456,46 +682,7 @@
       "importance": "important"
     },
     {
-      "id": "sinacomos:nixsrrs5545591",
-      "time_str": "",
-      "time": 1793869514000,
-      "title": "中国工商银行获批收购浙江平湖工银村镇银行并设立分支机构",
-      "text": "11月5日金融一线消息，国家金融监督管理总局嘉兴监管分局发布批复，同意中国工商银行股份有限公司收购浙江平湖工银村镇银行股份有限公司并设立中国工商银行股份有限公司平...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-11-05/doc-inixsrrs5545591.shtml",
-      "sub_source": "金融一线",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:nixsrrq8766214",
-      "time_str": "",
-      "time": 1793869340000,
-      "title": "杨帆获批担任海盐湖商村镇银行董事、副行长（主持工作）",
-      "text": " 11月5日金融一线消息，国家金融监督管理总局嘉兴监管分局发布批复，核准杨帆海盐湖商村镇银行董事的任职资格；核准杨帆海盐湖商村镇银行副行长（主持工作）的任职资格。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/jryx/hm/2026-11-05/doc-inixsrrq8766214.shtml",
-      "sub_source": "金融一线",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:nixsrrs5543447",
-      "time_str": "",
-      "time": 1793869301000,
-      "title": "事关并购重组，上交所新动作",
-      "text": "并购重组是优化资源配置、推动产业整合、提升上市公司质量的重要途径。近日，上海证券交易所分别举办上市公司、市场机构两场并购重组专题座谈会...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-11-05/doc-inixsrrs5543447.shtml",
-      "sub_source": "上海证券报",
-      "importance": ""
-    },
-    {
-      "id": "1634975306216",
+      "id": "1639506288771",
       "time_str": "2026-11-05 17:01:04",
       "time": 1793869264000,
       "title": "梁文锋王兴兴上桌了",
@@ -507,7 +694,7 @@
       "importance": ""
     },
     {
-      "id": "163884500423",
+      "id": "1637038683498",
       "time_str": "2026-11-05 17:01:02",
       "time": 1793869262000,
       "title": "新迪天工CAD 2027版本全新发布！建模能力焕新，交互体验跃升",
@@ -519,7 +706,7 @@
       "importance": ""
     },
     {
-      "id": "1639188036762",
+      "id": "163694209710",
       "time_str": "2026-11-05 17:00:11",
       "time": 1793869211000,
       "title": "马来西亚登高集团联合中企获7亿林吉特物流仓储工程合同",
@@ -531,20 +718,7 @@
       "importance": ""
     },
     {
-      "id": "sinacomos:nixsrrq8764445",
-      "time_str": "",
-      "time": 1793868968000,
-      "title": "奥精医疗涉嫌财务数据虚假记载，被立案了",
-      "text": "来源：翠鸟资本 文|翠鸟资本 奥精医疗（688613.SH）的三季报没有按期出现，《立案告知书》先到了。 11月1日，奥精医疗收到证监会《立案告知书》。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/2026-11-05/doc-inixsrrq8764445.shtml",
-      "sub_source": "市场资讯",
-      "importance": "important"
-    },
-    {
-      "id": "1634164857479",
+      "id": "1638311163932",
       "time_str": "2026-11-05 16:56:02",
       "time": 1793868962000,
       "title": "合肥模式究竟是什么？",
@@ -556,7 +730,7 @@
       "importance": ""
     },
     {
-      "id": "1635254050670",
+      "id": "1632539301150",
       "time_str": "2026-11-05 16:55:38",
       "time": 1793868938000,
       "title": "倍轻松炸雷！实控人操纵自家股票被罚千万，火速卸任董事长",
@@ -566,19 +740,6 @@
       "stock": "",
       "url": "https://www.163.com/dy/article/LB033FKK0519MPBR.html",
       "importance": ""
-    },
-    {
-      "id": "sinacomos:nixsrrs5538724",
-      "time_str": "",
-      "time": 1793868763000,
-      "title": "腾讯、阿里、网易、小米集体大涨，恒科指数创20个月来最大单日涨幅",
-      "text": " 11月5日，港股主要指数大涨，恒生指数放量收涨3.67%，恒生科技指数收涨5.55%，为2025年2月底以来最大单日涨幅。南向资金净卖出超213亿港元。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-05/doc-inixsrrs5538724.shtml",
-      "sub_source": "21世纪经济报道",
-      "importance": "important"
     },
     {
       "id": "sinacomos:nixsrrq8761881",
@@ -594,7 +755,7 @@
       "importance": ""
     },
     {
-      "id": "1634249445277",
+      "id": "1635865460882",
       "time_str": "2026-11-05 16:49:36",
       "time": 1793868576000,
       "title": "宝马在华开启人员调整，赔偿N+5，沈阳基地产能利用率56%",
@@ -619,20 +780,7 @@
       "importance": ""
     },
     {
-      "id": "sinacomos:nixsrrs5535502",
-      "time_str": "",
-      "time": 1793868489000,
-      "title": "“中国巴菲特”梭哈AI大翻车！仅4个月沦为“6毛基”",
-      "text": "来源：南财社 A股这一波惨烈的调整，就连有“中国巴菲特”之称的但斌也未能幸免。 最新的基金净值报告显示，截至10月30日，东方港湾宏远2期的单位净值跌至0.6282元...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-05/doc-inixsrrs5535502.shtml",
-      "sub_source": "市场资讯",
-      "importance": ""
-    },
-    {
-      "id": "1633266106280",
+      "id": "1635033222301",
       "time_str": "2026-11-05 16:47:33",
       "time": 1793868453000,
       "title": "单价降了却越赚越多，肯德基、必胜客转型成功了吗？",
@@ -641,19 +789,6 @@
       "category": "fast",
       "stock": "",
       "url": "https://www.163.com/dy/article/LB028D8V0514E1H1.html",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:nixsrrq8757274",
-      "time_str": "",
-      "time": 1793868287000,
-      "title": "2026中银财富节·同行 “华”筑新篇“中”启富程：专业为伴，财富同行 从投资出发，为生活规划",
-      "text": "“近日，中国银行“2026中银财富节”正式启动。财富节以“与时同行，美好如期”为主题，构建“初见、探珍、绘景、求知、见远”五大主题场景，将权益活动、精选产品、资产配置...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-11-05/doc-inixsrrq8757274.shtml",
-      "sub_source": "新浪基金",
       "importance": ""
     },
     {
@@ -683,7 +818,7 @@
       "importance": "important"
     },
     {
-      "id": "1639970409569",
+      "id": "163516311272",
       "time_str": "2026-11-05 16:40:41",
       "time": 1793868041000,
       "title": "香港保险怎么买?五个品牌的定位测评",
@@ -721,7 +856,7 @@
       "importance": ""
     },
     {
-      "id": "1633004453655",
+      "id": "1637152233503",
       "time_str": "2026-11-05 16:35:16",
       "time": 1793867716000,
       "title": "商务部回应扩大自美采购农产品：“300亿对300亿”对等降税落地是前提",
@@ -746,85 +881,7 @@
       "importance": ""
     },
     {
-      "id": "sinacomos:nixsmis8875447",
-      "time_str": "",
-      "time": 1793867172000,
-      "title": "光大期货金融类日报20261105",
-      "text": "金融类 股指： （王东瀛，从业资格号：F03087149；交易咨询资格号：Z0019537） 昨日，A股市场放量大涨，Wind全A上涨3.32%，成交额2.05万亿元。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-05/doc-inixsmis8875447.shtml",
-      "sub_source": "市场资讯",
-      "importance": "important"
-    },
-    {
-      "id": "sinacomos:nixsmiy9503339",
-      "time_str": "",
-      "time": 1793867145000,
-      "title": "2026年财经快讯APP排行榜前五名有哪些？",
-      "text": "财经快讯APP排行榜前十名有哪些？这份2026年11月的实测榜单，把五款主流产品的快讯能力拆开对比，结论放在最后。 11月5日14：46：03...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsmiy9503339.shtml",
-      "sub_source": "市场资讯",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:nixsmiu5648264",
-      "time_str": "",
-      "time": 1793866931000,
-      "title": "润和软件Q3业绩转亏，现金流与短债偿付同步承压",
-      "text": "来源：证券之星 近日，润和软件（300339.SZ）再交出一份“增收不增利”的成绩单。今年前三季度，公司收入增速降至仅为个位数，扣非后净利润则同比大降逾三成...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-05/doc-inixsmiu5648264.shtml",
-      "sub_source": "市场资讯",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:nixsmka6162595",
-      "time_str": "",
-      "time": 1793866920000,
-      "title": "邮储银行三季报营业利润降2.48%，不良率逼近1%，资本充足率全线下滑",
-      "text": "来源：证券之星 10月30日，邮储银行（601658.SH）公布2026年第三季度报告。前三季度，该行实现营业收入2816.10亿元，同比增长6.24%；归母净利润800.56亿元，同比增长4...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-05/doc-inixsmka6162595.shtml",
-      "sub_source": "市场资讯",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:nixsmiy9510860",
-      "time_str": "",
-      "time": 1793866726000,
-      "title": "尾盘异动！688109，“20cm”涨停",
-      "text": "人工智能概念股爆发。 11月5日，A股全线收红。全市场超4800只个股上涨，成交额温和放大至2.14万亿元。 盘面上，光伏、人工智能、能源金属、通信工程等板块涨幅居前...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-05/doc-inixsmiy9510860.shtml",
-      "sub_source": "",
-      "importance": "important"
-    },
-    {
-      "id": "sinacomos:nixsmka6156541",
-      "time_str": "",
-      "time": 1793866605000,
-      "title": "大摩分析详文：中期选举不改AI投资周期 美股长期向好 特朗普政策不确定性将延续",
-      "text": "摩根士丹利发布报告，分析民主党中期选举大胜如何影响市场。该机构认为，民主党在美国中期选举中大获全胜，或将重塑财政政策，并加大对AI基建投资的审查力度...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsmka6156541.shtml",
-      "sub_source": "环球市场播报",
-      "importance": "important"
-    },
-    {
-      "id": "1636629830467",
+      "id": "1636049810984",
       "time_str": "2026-11-05 16:15:15",
       "time": 1793866515000,
       "title": "人潮涌动的独立储能，谁赚走了“第一桶金”？",
@@ -836,46 +893,7 @@
       "importance": ""
     },
     {
-      "id": "sinacomos:nixsmiy9504161",
-      "time_str": "",
-      "time": 1793866253000,
-      "title": "港股收评：恒指涨3.67%飙近900点 科指大涨5.55% 科网股强势 阿里巴巴涨超8%",
-      "text": "11月5日消息，港股三大指数集体大涨。截至收盘，恒生指数涨3.67%，报24796.98，恒生科技指数涨5.55%，国企指数涨3.87%。盘面上，科网股普涨，网易涨超9%，阿里...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-05/doc-inixsmiy9504161.shtml",
-      "sub_source": "新浪港股",
-      "importance": "important"
-    },
-    {
-      "id": "sinacomos:nixsmiy9504933",
-      "time_str": "",
-      "time": 1793866249000,
-      "title": "法航荷航第三季度营业利润超预期，上调全年燃油成本预测，荷航拟进一步裁员",
-      "text": "11月5日，法航荷航集团（Air France-KLM）公布第三季度业绩，营业利润达到13.4亿欧元，高于市场预期的11亿欧元，主要受益于印度及亚洲航线需求强劲...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsmiy9504933.shtml",
-      "sub_source": "环球市场播报",
-      "importance": ""
-    },
-    {
-      "id": "sinacomos:nixsmka6151998",
-      "time_str": "",
-      "time": 1793866143000,
-      "title": "国泰君安期货：能化多品种触及跌停！地缘因素消退了吗？",
-      "text": "国泰君安期货市场分析师  陈骏昊 投资咨询证号：Z0021546 能化板块此前在中东地缘反复与需求端负反馈因素之间来回拉锯，本周以来随着地缘出现缓和信号，多品种高位回落...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-05/doc-inixsmka6151998.shtml",
-      "sub_source": "市场资讯",
-      "importance": "important"
-    },
-    {
-      "id": "1638510169664",
+      "id": "1634943289176",
       "time_str": "2026-11-05 16:01:10",
       "time": 1793865670000,
       "title": "招联消金因征信业务违规被罚18.5万元，上半年营收净利双降",
@@ -887,7 +905,7 @@
       "importance": ""
     },
     {
-      "id": "163444708752",
+      "id": "1632384790755",
       "time_str": "2026-11-05 15:56:20",
       "time": 1793865380000,
       "title": "注意！A股关键时刻，摩根大通突然给出重要提醒！",
@@ -899,7 +917,31 @@
       "importance": ""
     },
     {
-      "id": "1638069140787",
+      "id": "ths681501467",
+      "time_str": "2026/11/05 15:49",
+      "time": 1793864940000,
+      "title": "汇通控股：实控人、董事长提议回购公司股份，资金总额200...",
+      "text": "汇通控股公告，公司董事会于2026年11月5日收到实际控制人、董事长陈王保先生《关于提议合肥汇通控股股份有限公司回购公司股份的函》，提议公司使用自有或自筹资金通过上海证券交易所股票交易系统以集中竞价交易方式回购公司发行的人民币普通股（...",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "603409",
+      "url": "http://stock.10jqka.com.cn/20261105/c681501467.shtml",
+      "importance": "important"
+    },
+    {
+      "id": "ths681501487",
+      "time_str": "2026/11/05 15:49",
+      "time": 1793864940000,
+      "title": "国家算力互联互通区域（湖北）节点将启动",
+      "text": "据2026中国5G+工业互联网大会新闻发布会介绍，本届大会将于11月18日至20日在武汉举办，聚焦人工智能与工业互联网融合。大会期间将启动国家算力互联互通区域（湖北）节点，同时首发国家算力互联互通“1+M+N”行业节点，并启动全国第二批“5G+工业...",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "",
+      "url": "http://stock.10jqka.com.cn/20261105/c681501487.shtml",
+      "importance": ""
+    },
+    {
+      "id": "1632510147752",
       "time_str": "2026-11-05 15:48:31",
       "time": 1793864911000,
       "title": "两条主线，强势大反弹！",
@@ -911,7 +953,7 @@
       "importance": ""
     },
     {
-      "id": "1639588468574",
+      "id": "1633879863285",
       "time_str": "2026-11-05 15:48:20",
       "time": 1793864900000,
       "title": "欧盟对低价值进口商品叠加征收有关税费，商务部：望欧方审慎评估",
@@ -923,7 +965,43 @@
       "importance": "hot"
     },
     {
-      "id": "1633977036923",
+      "id": "ths681501456",
+      "time_str": "2026/11/05 15:48",
+      "time": 1793864880000,
+      "title": "媒体称美众议院议长约翰逊将不再竞选党派领袖",
+      "text": "据多家媒体4日报道，美国国会众议院议长迈克·约翰逊已表示，将不会参与竞选新一届众议院共和党领袖。(新华社)",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "",
+      "url": "http://stock.10jqka.com.cn/20261105/c681501456.shtml",
+      "importance": ""
+    },
+    {
+      "id": "ths681501337",
+      "time_str": "2026/11/05 15:45",
+      "time": 1793864700000,
+      "title": "以岭药业：中药创新药小儿连花感冒颗粒获药品注册证书",
+      "text": "以岭药业公告，公司近日收到国家药品监督管理局核准签发的中药创新药“小儿连花感冒颗粒”《药品注册证书》，药品批准文号为国药准字Z20260006，注册分类为中药1.1类，剂型为颗粒剂，药品有效期36个月。该药品为公司自主研发的中药创新药，功能...",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "002603",
+      "url": "http://stock.10jqka.com.cn/20261105/c681501337.shtml",
+      "importance": ""
+    },
+    {
+      "id": "ths681501347",
+      "time_str": "2026/11/05 15:45",
+      "time": 1793864700000,
+      "title": "润都股份：富马酸伏诺拉生原料药获上市批准",
+      "text": "润都股份公告，公司近日收到国家药品监督管理局签发的富马酸伏诺拉生《化学原料药上市申请批准通知书》，批准注册。公司于2025年5月递交境内生产化学原料药上市申请并获受理，2026年3月收到CDE补充研究通知，2026年7月完成补充研究并递交资料，2...",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "002923",
+      "url": "http://stock.10jqka.com.cn/20261105/c681501347.shtml",
+      "importance": ""
+    },
+    {
+      "id": "1638450507323",
       "time_str": "2026-11-05 15:44:04",
       "time": 1793864644000,
       "title": "“厉害了厉娜”！芒果超媒涨超15%，绝味翻红！",
@@ -935,7 +1013,79 @@
       "importance": ""
     },
     {
-      "id": "1636599848870",
+      "id": "ths681501295",
+      "time_str": "2026/11/05 15:44",
+      "time": 1793864640000,
+      "title": "俄罗斯发生多节空车厢脱轨事故",
+      "text": "当地时间11月5日，据俄罗斯鞑靼斯坦共和国紧急情况总局消息，卡马河畔切尔尼发生11节空车厢脱轨事故，无人受伤，邻近路段列车运行未中断。目前尚不清楚事故发生的原因。（央视新闻）",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "",
+      "url": "http://stock.10jqka.com.cn/20261105/c681501295.shtml",
+      "importance": ""
+    },
+    {
+      "id": "ths681501290",
+      "time_str": "2026/11/05 15:43",
+      "time": 1793864580000,
+      "title": "摩根大通上调麦当劳目标价至270美元，看好门店现代化改造...",
+      "text": "11月5日，摩根大通将麦当劳（McDonald's）目标价从250美元上调至270美元，维持“增持”评级。该行分析师John Ivankoe认为，麦当劳正处于为期数年的业务转型阶段，重点改善现有门店的运营效率、技术系统及消费者体验。公司稳健的现金流为持续推进...",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "",
+      "url": "http://stock.10jqka.com.cn/20261105/c681501290.shtml",
+      "importance": ""
+    },
+    {
+      "id": "ths681501197",
+      "time_str": "2026/11/05 15:40",
+      "time": 1793864400000,
+      "title": "上交所召开并购重组专题座谈会 “并购六条”以来沪市新增...",
+      "text": "上交所近日分别召开上市公司、市场机构两场并购重组专题座谈会，邀请7家上市公司及7家证券、评估、创投、保险机构代表，围绕央国企同业竞争解决、跨界并购转型升级、分期支付等工具创新、科技企业估值、并购保险增信交易等研讨。数据显示，“并...",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "",
+      "url": "http://stock.10jqka.com.cn/20261105/c681501197.shtml",
+      "importance": ""
+    },
+    {
+      "id": "ths681501212",
+      "time_str": "2026/11/05 15:40",
+      "time": 1793864400000,
+      "title": "南向资金净卖出超180亿港元",
+      "text": "据同花顺iFinD数据，截至目前，南向资金净卖出超180亿港元，其中港股通（沪）卖出超120.45亿港元，港股通（深）卖出超60.48亿港元。",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "",
+      "url": "http://stock.10jqka.com.cn/20261105/c681501212.shtml",
+      "importance": ""
+    },
+    {
+      "id": "ths681501217",
+      "time_str": "2026/11/05 15:40",
+      "time": 1793864400000,
+      "title": "外交部：中方愿继续同美方一道维护好落实好两国元首重要共识",
+      "text": "11月5日，外交部发言人郭嘉昆主持例行记者会。在回答有关美国中期选举问题时，郭嘉昆表示，中期选举是美国的内政，中方此前已回应相关问题；中方愿继续同美方一道维护好落实好两国元首重要共识，加强沟通，妥处分歧，拓展合作，构建“基于尊重、...",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "",
+      "url": "http://stock.10jqka.com.cn/20261105/c681501217.shtml",
+      "importance": ""
+    },
+    {
+      "id": "ths681501178",
+      "time_str": "2026/11/05 15:39",
+      "time": 1793864340000,
+      "title": "加拿大对华无铠装建筑电缆作出双反终裁",
+      "text": "2026年10月27日，加拿大边境服务署（CBSA）对原产于或进口自中国的无铠装建筑电缆（Unarmoured Building Cables）作出反倾销和反补贴终裁，详细税率见附表。加拿大边境服务署终止对天津市飞亚凤达线缆科技有限公司（Tianjin Feiya Fengda Wire &...",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "",
+      "url": "http://stock.10jqka.com.cn/20261105/c681501178.shtml",
+      "importance": ""
+    },
+    {
+      "id": "1637771705099",
       "time_str": "2026-11-05 15:38:42",
       "time": 1793864322000,
       "title": "新版“站在光里”出现了？光伏板块大爆发，“易中天”却集体大跌",
@@ -945,6 +1095,30 @@
       "stock": "",
       "url": "https://www.163.com/dy/article/LAVUMATN0550BXD9.html",
       "importance": ""
+    },
+    {
+      "id": "ths681501098",
+      "time_str": "2026/11/05 15:36",
+      "time": 1793864160000,
+      "title": "盛和资源：恩古拉稀土矿规划年产5万吨稀土精矿，预计Q4稀...",
+      "text": "盛和资源总经理黄平在今天举行的业绩说明会上表示，公司目前控股的海外稀土矿为坦桑尼亚恩古拉稀土矿，该项目正在积极推动稀土矿采选技术出口前置许可申请工作，待获得前置许可手续后将启动项目建设，预计建设周期12个月，规划设计年产稀土精矿...",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "600392",
+      "url": "http://stock.10jqka.com.cn/20261105/c681501098.shtml",
+      "importance": ""
+    },
+    {
+      "id": "ths681501118",
+      "time_str": "2026/11/05 15:36",
+      "time": 1793864160000,
+      "title": "鸿海10月销售额1.31万亿新台币，同比增长45%",
+      "text": "鸿海10月销售额1.31万亿元新台币，同比增长45.7%；全年累计销售额8.98万亿元新台币，同比增长40.4％。",
+      "source": "同花顺",
+      "category": "fast",
+      "stock": "",
+      "url": "http://stock.10jqka.com.cn/20261105/c681501118.shtml",
+      "importance": "hot"
     },
     {
       "id": "ths681501042",
@@ -959,7 +1133,7 @@
       "importance": "important"
     },
     {
-      "id": "1637505819791",
+      "id": "1637936241712",
       "time_str": "2026-11-05 15:31:28",
       "time": 1793863888000,
       "title": "中荷人寿：总经理杨勇艇辞任，副总经理任临时负责人",
@@ -1052,7 +1226,7 @@
       "category": "fast",
       "stock": "",
       "url": "http://goodsfu.10jqka.com.cn/20261105/c681500789.shtml",
-      "importance": "hot"
+      "importance": ""
     },
     {
       "id": "ths681500775",
@@ -1067,7 +1241,7 @@
       "importance": ""
     },
     {
-      "id": "163568765885",
+      "id": "1634098296041",
       "time_str": "2026-11-05 15:21:06",
       "time": 1793863266000,
       "title": "发起股东陷兑付危机！华贵保险1.5亿股权续冻",
@@ -1079,7 +1253,7 @@
       "importance": "important"
     },
     {
-      "id": "1631457826997",
+      "id": "1639743827328",
       "time_str": "2026-11-05 15:20:08",
       "time": 1793863208000,
       "title": "短剧之争，不在时长榜上",
@@ -1127,7 +1301,7 @@
       "importance": ""
     },
     {
-      "id": "1632306633951",
+      "id": "16383731261",
       "time_str": "2026-11-05 15:09:20",
       "time": 1793862560000,
       "title": "用友网络控股股东高比例质押引关注：新增质押偿债，质押率突破五成",
@@ -1163,7 +1337,7 @@
       "importance": ""
     },
     {
-      "id": "1637845697925",
+      "id": "1632974126969",
       "time_str": "2026-11-05 15:04:39",
       "time": 1793862279000,
       "title": "收评：创业板指冲高回落涨0.87% 全市场超4800只个股上涨",
@@ -1247,7 +1421,7 @@
       "importance": "important"
     },
     {
-      "id": "1636374748138",
+      "id": "1636648176689",
       "time_str": "2026-11-05 14:59:26",
       "time": 1793861966000,
       "title": "交银国际信托原董事长张文被开除党籍和公职",
@@ -1256,7 +1430,7 @@
       "category": "fast",
       "stock": "",
       "url": "https://www.163.com/dy/article/LAVS1GTT0530IU8N.html",
-      "importance": "hot"
+      "importance": ""
     },
     {
       "id": "ths681499954",
@@ -1295,7 +1469,7 @@
       "importance": ""
     },
     {
-      "id": "1637101093756",
+      "id": "1639731085193",
       "time_str": "2026-11-05 14:50:40",
       "time": 1793861440000,
       "title": "老板被罚1184万！市值5年蒸发88%，倍轻松“失守”A股",
@@ -1319,7 +1493,7 @@
       "importance": ""
     },
     {
-      "id": "1637564215884",
+      "id": "1632944115642",
       "time_str": "2026-11-05 14:46:55",
       "time": 1793861215000,
       "title": "发货超7亿单后，董宇辉决定自己做品牌",
@@ -1355,7 +1529,7 @@
       "importance": "important"
     },
     {
-      "id": "1638802418096",
+      "id": "1631599288209",
       "time_str": "2026-11-05 14:41:55",
       "time": 1793860915000,
       "title": "贵州银行原党委委员、监事长肖慈发接受审查调查",
@@ -1367,7 +1541,7 @@
       "importance": "important"
     },
     {
-      "id": "1637378876879",
+      "id": "1635725993731",
       "time_str": "2026-11-05 14:41:29",
       "time": 1793860889000,
       "title": "香港保险哪家好？先看清需求类型，再匹配安达人寿、友邦、汇丰人寿这四家保司",
@@ -1427,7 +1601,7 @@
       "importance": ""
     },
     {
-      "id": "1635928203290",
+      "id": "1631541204175",
       "time_str": "2026-11-05 14:35:23",
       "time": 1793860523000,
       "title": "南京新模式破解二手老房流通难",
@@ -1439,7 +1613,7 @@
       "importance": ""
     },
     {
-      "id": "1639658672043",
+      "id": "1632699388674",
       "time_str": "2026-11-05 14:35:06",
       "time": 1793860506000,
       "title": "政治撕裂致以色列新政府组阁困难，内塔尼亚胡：可以谈判，但我必须继续担任总理",
@@ -1487,7 +1661,7 @@
       "importance": ""
     },
     {
-      "id": "1634784658308",
+      "id": "1634532665884",
       "time_str": "2026-11-05 14:26:52",
       "time": 1793860012000,
       "title": "女首富1270亿元身家背后，蓝思科技正在经历一场转型手术",
@@ -1523,7 +1697,7 @@
       "importance": "important"
     },
     {
-      "id": "1631468396041",
+      "id": "1638449334004",
       "time_str": "2026-11-05 14:16:31",
       "time": 1793859391000,
       "title": "他，挤下张一鸣，重新做回亚洲首富",
@@ -1535,7 +1709,7 @@
       "importance": ""
     },
     {
-      "id": "1638761381051",
+      "id": "1633570112023",
       "time_str": "2026-11-05 14:15:09",
       "time": 1793859309000,
       "title": "买黄金的年轻人，把日子过明白了",
@@ -1547,7 +1721,7 @@
       "importance": ""
     },
     {
-      "id": "1631241989099",
+      "id": "1635901962071",
       "time_str": "2026-11-05 14:14:53",
       "time": 1793859293000,
       "title": "明星基金经理接连萌生退意，基金公司拿什么留住“台柱子”？",
@@ -1559,7 +1733,7 @@
       "importance": ""
     },
     {
-      "id": "1638436131213",
+      "id": "1639191898937",
       "time_str": "2026-11-05 14:13:41",
       "time": 1793859221000,
       "title": "鲲鹏支付承认资金结算延迟并致歉，老牌持牌支付机构陷 POS 到账风波",
@@ -1583,7 +1757,7 @@
       "importance": ""
     },
     {
-      "id": "1637711211977",
+      "id": "1631110911971",
       "time_str": "2026-11-05 14:11:58",
       "time": 1793859118000,
       "title": "韩股大跌又熔断！日韩芯片巨头加速跳水，SK海力士跌超9%，爱德万测试重挫15%，东京电子跌10%",
@@ -1595,7 +1769,7 @@
       "importance": "important"
     },
     {
-      "id": "1638668388044",
+      "id": "1633118021104",
       "time_str": "2026-11-05 14:11:20",
       "time": 1793859080000,
       "title": "库克听证会延期，民主党又把守理事提名关口：特朗普掌控美联储之路受限",
@@ -1619,7 +1793,7 @@
       "importance": "important"
     },
     {
-      "id": "163613305229",
+      "id": "1637724578302",
       "time_str": "2026-11-05 14:09:38",
       "time": 1793858978000,
       "title": "高校“微专业”受追捧，能带来更多就业机会吗？",
@@ -1631,7 +1805,7 @@
       "importance": ""
     },
     {
-      "id": "1635726758088",
+      "id": "1632465912963",
       "time_str": "2026-11-05 14:09:05",
       "time": 1793858945000,
       "title": "储能避免了中亚大停电蔓延｜对话乌兹别克斯坦能源部",
@@ -1643,7 +1817,7 @@
       "importance": ""
     },
     {
-      "id": "1638328720023",
+      "id": "1632888584277",
       "time_str": "2026-11-05 14:08:51",
       "time": 1793858931000,
       "title": "港交所前副总裁，被香港廉政公署起诉",
@@ -1655,7 +1829,7 @@
       "importance": ""
     },
     {
-      "id": "1633538622906",
+      "id": "1638331216496",
       "time_str": "2026-11-05 14:08:21",
       "time": 1793858901000,
       "title": "山姆宝宝饼干像塑料、肯德基炸鸡像尸块，越来越多的「AI食物广告图」看得人直反胃",
@@ -1667,7 +1841,7 @@
       "importance": ""
     },
     {
-      "id": "1637349035756",
+      "id": "1638868707637",
       "time_str": "2026-11-05 14:06:44",
       "time": 1793858804000,
       "title": "王东堂出任中储粮集团总经理",
@@ -1703,7 +1877,7 @@
       "importance": "important"
     },
     {
-      "id": "1637131601230",
+      "id": "1633624379319",
       "time_str": "2026-11-05 14:01:12",
       "time": 1793858472000,
       "title": "芒果TV疑因热门综艺更新登录故障 服务陆续恢复",
@@ -1727,7 +1901,7 @@
       "importance": ""
     },
     {
-      "id": "1638822421940",
+      "id": "1636134387454",
       "time_str": "2026-11-05 14:00:12",
       "time": 1793858412000,
       "title": "飞利浦净利润暴跌85%，中国医疗影像业务承压",
@@ -1739,7 +1913,7 @@
       "importance": "important"
     },
     {
-      "id": "1638385211638",
+      "id": "163207622425",
       "time_str": "2026-11-05 13:59:02",
       "time": 1793858342000,
       "title": "朗源股份高管集体自愿降薪",
@@ -1763,7 +1937,7 @@
       "importance": ""
     },
     {
-      "id": "1639026944287",
+      "id": "1632903651713",
       "time_str": "2026-11-05 13:53:02",
       "time": 1793857982000,
       "title": "美国“蓝色浪潮”将会限制AI资本投入？高盛：恰恰相反！",
@@ -1787,7 +1961,7 @@
       "importance": "important"
     },
     {
-      "id": "1636853091105",
+      "id": "1638906669335",
       "time_str": "2026-11-05 13:52:07",
       "time": 1793857927000,
       "title": "最新汽车召回！涉及大众、丰田、克莱斯勒等",
@@ -1799,7 +1973,7 @@
       "importance": ""
     },
     {
-      "id": "1637103705851",
+      "id": "1632156736669",
       "time_str": "2026-11-05 13:49:40",
       "time": 1793857780000,
       "title": "AI交易松动，中国资产迎来机会！摩根大通也看好A股：还有10%-15%反弹空间",
@@ -1859,7 +2033,7 @@
       "importance": ""
     },
     {
-      "id": "1637294147102",
+      "id": "16385145482",
       "time_str": "2026-11-05 13:40:11",
       "time": 1793857211000,
       "title": "男子“梭哈”408万买黄金，9个月亏114万！",
@@ -1895,7 +2069,7 @@
       "importance": "important"
     },
     {
-      "id": "1635043921061",
+      "id": "1631608922028",
       "time_str": "2026-11-05 13:37:03",
       "time": 1793857023000,
       "title": "超80万辆汽车被召回！涉及国产普拉多、进口高尔夫等多款车型",
@@ -1907,7 +2081,7 @@
       "importance": ""
     },
     {
-      "id": "1638631601567",
+      "id": "1631451147986",
       "time_str": "2026-11-05 13:36:04",
       "time": 1793856964000,
       "title": "为操盘团伙介绍公募接盘锁仓，知名券商原首席策略分析师获刑",
@@ -1919,7 +2093,7 @@
       "importance": ""
     },
     {
-      "id": "1633140491354",
+      "id": "1632873510101",
       "time_str": "2026-11-05 13:35:54",
       "time": 1793856954000,
       "title": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类平准基金作用",
@@ -1931,7 +2105,7 @@
       "importance": "hot"
     },
     {
-      "id": "1631702603915",
+      "id": "1634009033473",
       "time_str": "2026-11-05 13:35:53",
       "time": 1793856953000,
       "title": "芒果TV崩了！综艺太火，服务器扛不住了？",
@@ -1943,7 +2117,7 @@
       "importance": ""
     },
     {
-      "id": "1633963684477",
+      "id": "1638520512610",
       "time_str": "2026-11-05 13:35:14",
       "time": 1793856914000,
       "title": "住出租屋的梁文锋，被00后捧成了“唯一真神”",
@@ -1955,7 +2129,7 @@
       "importance": ""
     },
     {
-      "id": "1639112555572",
+      "id": "1632646410133",
       "time_str": "2026-11-05 13:30:12",
       "time": 1793856612000,
       "title": "有人花408万买7斤黄金，9个月净亏114万，无奈割肉后，隔日金价大幅反弹",
@@ -2087,7 +2261,7 @@
       "importance": ""
     },
     {
-      "id": "1639357193666",
+      "id": "1638883984380",
       "time_str": "2026-11-05 13:09:14",
       "time": 1793855354000,
       "title": "震惊！股民群流出惨剧：一投资者从5000万做到3亿，重仓“易中天”加杠杆交易，盘中跳水导致账户全部爆仓",
@@ -2099,7 +2273,7 @@
       "importance": ""
     },
     {
-      "id": "1639699432486",
+      "id": "1636773984410",
       "time_str": "2026-11-05 13:02:57",
       "time": 1793854977000,
       "title": "Cat Wu入职OpenAI，Anthropic上市前突现核心离职潮",
@@ -2111,7 +2285,7 @@
       "importance": ""
     },
     {
-      "id": "1639335982813",
+      "id": "163216364509",
       "time_str": "2026-11-05 13:02:11",
       "time": 1793854931000,
       "title": "抖音集团李亮：最近发言言辞激烈被公司批评了",
@@ -2123,7 +2297,7 @@
       "importance": ""
     },
     {
-      "id": "163662845544",
+      "id": "1631051121248",
       "time_str": "2026-11-05 13:02:09",
       "time": 1793854929000,
       "title": "伯克希尔，连续3天扫货！",
@@ -2135,7 +2309,7 @@
       "importance": ""
     },
     {
-      "id": "1636865408509",
+      "id": "1637920437955",
       "time_str": "2026-11-05 13:00:05",
       "time": 1793854805000,
       "title": "韩国的“自主 AI”，绕不开中国模型",
@@ -2147,7 +2321,7 @@
       "importance": ""
     },
     {
-      "id": "1631501196595",
+      "id": "1631474480101",
       "time_str": "2026-11-05 12:57:26",
       "time": 1793854646000,
       "title": "操纵倍轻松股票被罚1184万、禁入5年，倍轻松实控人“闪电”辞任全部职务",
@@ -2159,7 +2333,7 @@
       "importance": ""
     },
     {
-      "id": "1633668382021",
+      "id": "1634911826189",
       "time_str": "2026-11-05 12:56:46",
       "time": 1793854606000,
       "title": "六年掌门人离场，中荷人寿如何续写千亿答卷？",
@@ -2171,7 +2345,7 @@
       "importance": ""
     },
     {
-      "id": "1638338320580",
+      "id": "1634340913488",
       "time_str": "2026-11-05 12:56:26",
       "time": 1793854586000,
       "title": "机器人行业三季报扫描：零部件吃肉，整机喝汤难",
@@ -2207,7 +2381,7 @@
       "importance": "important"
     },
     {
-      "id": "1639709733441",
+      "id": "1631831549599",
       "time_str": "2026-11-05 12:53:17",
       "time": 1793854397000,
       "title": "生猪价格跌破9元关口，行业亏损加剧推动能繁母猪产能去化提速",
@@ -2231,7 +2405,7 @@
       "importance": ""
     },
     {
-      "id": "1635111749427",
+      "id": "163862029815",
       "time_str": "2026-11-05 12:48:23",
       "time": 1793854103000,
       "title": "又见财务造假！科创板七年造假公司大盘点",
@@ -2255,7 +2429,7 @@
       "importance": ""
     },
     {
-      "id": "1637181421807",
+      "id": "1633025773781",
       "time_str": "2026-11-05 12:37:27",
       "time": 1793853447000,
       "title": "买黄金的年轻人，把日子过明白了",
@@ -2267,7 +2441,7 @@
       "importance": ""
     },
     {
-      "id": "1638862205951",
+      "id": "1634667496843",
       "time_str": "2026-11-05 12:36:31",
       "time": 1793853391000,
       "title": "前额叶之后，“前庭友好”在双十一卖爆了",
@@ -2277,186 +2451,6 @@
       "stock": "",
       "url": "https://www.163.com/dy/article/LAVK8JTT05199D2V.html",
       "importance": ""
-    },
-    {
-      "id": "ths681497361",
-      "time_str": "2026/11/05 12:36",
-      "time": 1793853360000,
-      "title": "国务院关于金融工作情况的报告：支持中央汇金公司发挥类...",
-      "text": "全国人大网11月5日发布了《国务院关于金融工作情况的报告——2026年11月3日在十四届全国人民代表大会常务委员会第二十五次会议上》。报告称，稳妥化解重点领域风险，守住不发生系统性金融风险底线。稳步推进重点区域和重点机构风险处置。实施好...",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261105/c681497361.shtml",
-      "importance": "hot"
-    },
-    {
-      "id": "ths681497308",
-      "time_str": "2026/11/05 12:34",
-      "time": 1793853240000,
-      "title": "新西兰总督：愿同中方拓展新兴领域合作",
-      "text": "新西兰总督辛迪·基罗4日表示，新方愿同中方拓展新兴领域合作，推动两国关系取得更大发展。基罗当天在接受新任中国驻新西兰大使赵星递交国书时说，对华关系是新西兰最重要对外关系之一，两国互信与合作不断加深。赵星表示，中方高度重视发展中新...",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261105/c681497308.shtml",
-      "importance": ""
-    },
-    {
-      "id": "ths681497307",
-      "time_str": "2026/11/05 12:33",
-      "time": 1793853180000,
-      "title": "设计总院：公司已跟踪多个低空信息化平台项目",
-      "text": "设计总院在2026年第三季度业绩说明会上表示，公司已跟踪多个低空信息化平台项目，并与中科星图等公司签订合作框架协议。下一步，公司将继续巩固“咨询—规划—设计—投融资—军民航协调—运营服务”全产业链服务能力，加强与低空运营及数字技术...",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "603357",
-      "url": "http://stock.10jqka.com.cn/20261105/c681497307.shtml",
-      "importance": ""
-    },
-    {
-      "id": "ths681497267",
-      "time_str": "2026/11/05 12:30",
-      "time": 1793853000000,
-      "title": "盛洋科技：下半年毛利率压力主要来自原材料端",
-      "text": "盛洋科技在2026年第三季度业绩说明会上表示，宏观环境下，下半年毛利率压力主要来自原材料端，铜、锡等大宗商品价格上涨，线缆类产品原材料占成本比重较高，向客户传导存在滞后，会挤压毛利空间。公司正通过优化订单结构、降本增效积极应对。（...",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "603703",
-      "url": "http://stock.10jqka.com.cn/20261105/c681497267.shtml",
-      "importance": "important"
-    },
-    {
-      "id": "ths681497280",
-      "time_str": "2026/11/05 12:30",
-      "time": 1793853000000,
-      "title": "特朗普抱怨参议院拖延永久夏令时法案",
-      "text": "在共和党中期选举遭遇历史性惨败仅仅一天后，美国总统特朗普4日就永久实施夏令时相关法案发帖，抱怨参议院迟迟不通过相关法案，称频繁调整时钟很麻烦。（新华社）",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261105/c681497280.shtml",
-      "importance": ""
-    },
-    {
-      "id": "1633260117817",
-      "time_str": "2026-11-05 12:23:38",
-      "time": 1793852618000,
-      "title": "美的耗资近120亿回购全部注销，美的大动作怎么看？",
-      "text": "美的耗资近120亿回购全部注销，美的大动作怎么看？",
-      "source": "网易财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://www.163.com/dy/article/LAVJ1N8N0519A56K.html",
-      "importance": "important"
-    },
-    {
-      "id": "1637289007028",
-      "time_str": "2026-11-05 12:23:15",
-      "time": 1793852595000,
-      "title": "抖音副总裁李亮发文：言辞激烈被公司批评，欢迎给红果多提意见",
-      "text": "抖音副总裁李亮发文：言辞激烈被公司批评，欢迎给红果多提意见",
-      "source": "网易财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://www.163.com/dy/article/LAVINI340519848A.html",
-      "importance": ""
-    },
-    {
-      "id": "cls2525954",
-      "time_str": "",
-      "time": 1793852569000,
-      "title": "【午报】深成指与创业板指双双涨超1%，全市场超4700股飘红，新能源方向集体走强",
-      "text": "①今日早盘市场延续反弹，深成指与创业板指双双涨超1%，半日放量超5000亿，新能源方向集体走强，光伏、锂电板块领涨；\n②个股层面，早盘涨停数量为59家，炸板率41%，连板股数量为18家，闽发铝业、浙文影业4连板。",
-      "source": "财联社",
-      "category": "fast",
-      "stock": "",
-      "url": "https://www.cls.cn/detail/2525954",
-      "importance": "important"
-    },
-    {
-      "id": "ths681497187",
-      "time_str": "2026/11/05 12:21",
-      "time": 1793852460000,
-      "title": "佛山照明：AI跌倒监测灯具已落地多个养老院及居家养老项目",
-      "text": "佛山照明11月5日在互动平台表示，公司AI跌倒监测灯具已落地多个养老院及居家养老项目，推广效果与市场反馈良好；光小明AI智能体目前处于推广阶段，尚未实现商业化。物联网平台方面，公司暂未与鸿蒙、京东开展合作，目前正在与天翼物联网平台对接...",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "200541",
-      "url": "http://stock.10jqka.com.cn/20261105/c681497187.shtml",
-      "importance": ""
-    },
-    {
-      "id": "ths681497183",
-      "time_str": "2026/11/05 12:20",
-      "time": 1793852400000,
-      "title": "月之暗面：Kimi Hosted Agents正式发布",
-      "text": "11月5日，月之暗面宣布发布Kimi Hosted Agents（托管智能体），将支撑Agent运行的Harness作为云端服务提供给企业和开发者，企业无需自行搭建和维护运行框架，即可获得7×24小时的托管环境，支持长程任务执行与多智能体高效协作。",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261105/c681497183.shtml",
-      "importance": "important"
-    },
-    {
-      "id": "ths681497150",
-      "time_str": "2026/11/05 12:19",
-      "time": 1793852340000,
-      "title": "伊朗多地集会反对美以霸权",
-      "text": "11月4日，伊朗民众在全国多地举行反美和反以集会，谴责美以霸权。在首都德黑兰，大批民众聚集在美国驻伊朗使馆旧址前，高呼反美反以口号。德黑兰市长扎卡尼在集会讲话中表示，美国和以色列试图寻求伊朗政权更迭，但他们必将失败。有当地居民表示...",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261105/c681497150.shtml",
-      "importance": ""
-    },
-    {
-      "id": "1633127937760",
-      "time_str": "2026-11-05 12:17:54",
-      "time": 1793852274000,
-      "title": "盘中，抄底资金涌入！近30只概念股涨停！这一赛道异动",
-      "text": "盘中，抄底资金涌入！近30只概念股涨停！这一赛道异动",
-      "source": "网易财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://www.163.com/dy/article/LAVJ6TJL0519JFL1.html",
-      "importance": "important"
-    },
-    {
-      "id": "1633046108554",
-      "time_str": "2026-11-05 12:13:32",
-      "time": 1793852012000,
-      "title": "跌到位了，高盛喊出：逢低买入A股，尤其AI",
-      "text": "跌到位了，高盛喊出：逢低买入A股，尤其AI",
-      "source": "网易财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://www.163.com/dy/article/LAVIVAAT05198NMR.html",
-      "importance": ""
-    },
-    {
-      "id": "ths681496872",
-      "time_str": "2026/11/05 12:13",
-      "time": 1793851980000,
-      "title": "四川发布通信及量子科技产业链供需清单",
-      "text": "11月4日，四川省通信及量子产业链供需对接活动暨新一代通信网建设应用专题会在成都举行，发布通信及量子科技产业链供需清单，涉及人才引育、技术创新、产业链配套、资金支持、应用场景等领域，一批项目集中签约。四川将通信及量子产业纳入全省“...",
-      "source": "同花顺",
-      "category": "fast",
-      "stock": "",
-      "url": "http://stock.10jqka.com.cn/20261105/c681496872.shtml",
-      "importance": ""
-    },
-    {
-      "id": "1631417700525",
-      "time_str": "2026-11-05 12:12:33",
-      "time": 1793851953000,
-      "title": "交银国际信托原董事长张文，被开除党籍和公职",
-      "text": "交银国际信托原董事长张文，被开除党籍和公职",
-      "source": "网易财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://www.163.com/dy/article/LAVIT6NC0519APGA.html",
-      "importance": "hot"
     }
   ]
 }
