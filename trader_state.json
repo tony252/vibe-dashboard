@@ -10,7 +10,7 @@
     "strongbuy": 0.25,
     "daily_picks": 0.2
    },
-   "cash": 45342.06017499996,
+   "cash": 44840.83877499997,
    "positions": [
     {
      "code": "000890",
@@ -112,29 +112,11 @@
      "open_date": "2026-10-26"
     },
     {
-     "code": "300504",
-     "name": "天邑股份",
-     "qty": 100,
-     "avg": 17.729,
-     "last": 17.28,
-     "strategy": "strongbuy",
-     "open_date": "2026-10-27"
-    },
-    {
-     "code": "920220",
-     "name": "朗信电气",
-     "qty": 200,
-     "avg": 54.723,
-     "last": 53.99,
-     "strategy": "strongbuy",
-     "open_date": "2026-10-28"
-    },
-    {
      "code": "002712",
      "name": "思美传媒",
      "qty": 400,
      "avg": 5.001,
-     "last": 5.27,
+     "last": 5.25,
      "strategy": "strong",
      "open_date": "2026-10-30"
     },
@@ -143,39 +125,48 @@
      "name": "阳普医疗",
      "qty": 200,
      "avg": 7.327,
-     "last": 7.6,
+     "last": 7.11,
      "strategy": "strongbuy",
      "open_date": "2026-10-30"
-    },
-    {
-     "code": "688518",
-     "name": "联赢激光",
-     "qty": 100,
-     "avg": 20.185,
-     "last": 21.36,
-     "strategy": "strongbuy",
-     "open_date": "2026-11-03"
-    },
-    {
-     "code": "002949",
-     "name": "华阳国际",
-     "qty": 500,
-     "avg": 15.375,
-     "last": 15.34,
-     "strategy": "strong",
-     "open_date": "2026-11-04"
     },
     {
      "code": "000897",
      "name": "津滨发展",
      "qty": 500,
      "avg": 1.924,
-     "last": 1.92,
+     "last": 1.93,
      "strategy": "strong",
      "open_date": "2026-11-04"
+    },
+    {
+     "code": "603725",
+     "name": "天安新材",
+     "qty": 1500,
+     "avg": 10.233,
+     "last": 10.21,
+     "strategy": "strong",
+     "open_date": "2026-11-05"
+    },
+    {
+     "code": "920007",
+     "name": "酉立智能",
+     "qty": 100,
+     "avg": 39.579,
+     "last": 39.49,
+     "strategy": "strongbuy",
+     "open_date": "2026-11-05"
+    },
+    {
+     "code": "300071",
+     "name": "福石控股",
+     "qty": 500,
+     "avg": 4.56,
+     "last": 4.55,
+     "strategy": "strongbuy",
+     "open_date": "2026-11-05"
     }
    ],
-   "realized": 16566.812649999993
+   "realized": 15228.88659999999
   },
   {
    "id": "cloud-sat-B",
@@ -184,7 +175,7 @@
     "strong": 0.3,
     "strongbuy": 0.2
    },
-   "cash": 27670.207974999994,
+   "cash": 26440.60704999999,
    "positions": [
     {
      "code": "000890",
@@ -214,20 +205,11 @@
      "open_date": "2026-09-24"
     },
     {
-     "code": "300504",
-     "name": "天邑股份",
-     "qty": 100,
-     "avg": 17.729,
-     "last": 17.28,
-     "strategy": "strongbuy",
-     "open_date": "2026-10-27"
-    },
-    {
      "code": "002712",
      "name": "思美传媒",
      "qty": 200,
      "avg": 5.001,
-     "last": 5.27,
+     "last": 5.25,
      "strategy": "strong",
      "open_date": "2026-10-30"
     },
@@ -236,7 +218,7 @@
      "name": "湖北广电",
      "qty": 100,
      "avg": 3.959,
-     "last": 4.03,
+     "last": 3.98,
      "strategy": "strong",
      "open_date": "2026-10-30"
     },
@@ -245,25 +227,16 @@
      "name": "阳普医疗",
      "qty": 200,
      "avg": 7.327,
-     "last": 7.6,
+     "last": 7.11,
      "strategy": "strongbuy",
      "open_date": "2026-10-30"
-    },
-    {
-     "code": "002949",
-     "name": "华阳国际",
-     "qty": 400,
-     "avg": 15.375,
-     "last": 15.34,
-     "strategy": "strong",
-     "open_date": "2026-11-04"
     },
     {
      "code": "000897",
      "name": "津滨发展",
      "qty": 400,
      "avg": 1.924,
-     "last": 1.92,
+     "last": 1.93,
      "strategy": "strong",
      "open_date": "2026-11-04"
     },
@@ -275,9 +248,27 @@
      "last": 11.92,
      "strategy": "strongbuy",
      "open_date": "2026-11-04"
+    },
+    {
+     "code": "603725",
+     "name": "天安新材",
+     "qty": 600,
+     "avg": 10.233,
+     "last": 10.21,
+     "strategy": "strong",
+     "open_date": "2026-11-05"
+    },
+    {
+     "code": "300071",
+     "name": "福石控股",
+     "qty": 500,
+     "avg": 4.56,
+     "last": 4.55,
+     "strategy": "strongbuy",
+     "open_date": "2026-11-05"
     }
    ],
-   "realized": 1825.0016000000032
+   "realized": 1092.1050500000033
   }
  ],
  "history": [
@@ -392,6 +383,10 @@
   {
    "ts": "2026-11-04 23:39",
    "equity": 168390.27
+  },
+  {
+   "ts": "2026-11-05 23:41",
+   "equity": 166199.45
   }
  ],
  "trades": [
@@ -2506,7 +2501,128 @@
    "price": 11.944,
    "reason": "strongbuy 信号买入",
    "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-05",
+   "ts": "2026-11-05 23:41",
+   "code": "300504",
+   "name": "天邑股份",
+   "side": "SELL",
+   "qty": 100,
+   "price": 16.826,
+   "reason": "止损 -4.9%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-05",
+   "ts": "2026-11-05 23:41",
+   "code": "920220",
+   "name": "朗信电气",
+   "side": "SELL",
+   "qty": 200,
+   "price": 51.656,
+   "reason": "止损 -5.4%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-05",
+   "ts": "2026-11-05 23:41",
+   "code": "688518",
+   "name": "联赢激光",
+   "side": "SELL",
+   "qty": 100,
+   "price": 21.966,
+   "reason": "止盈 +9.0%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-05",
+   "ts": "2026-11-05 23:41",
+   "code": "002949",
+   "name": "华阳国际",
+   "side": "SELL",
+   "qty": 500,
+   "price": 13.782,
+   "reason": "止损 -10.2%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-05",
+   "ts": "2026-11-05 23:41",
+   "code": "603725",
+   "name": "天安新材",
+   "side": "BUY",
+   "qty": 1500,
+   "price": 10.23,
+   "reason": "strong 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-05",
+   "ts": "2026-11-05 23:41",
+   "code": "920007",
+   "name": "酉立智能",
+   "side": "BUY",
+   "qty": 100,
+   "price": 39.569,
+   "reason": "strongbuy 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-05",
+   "ts": "2026-11-05 23:41",
+   "code": "300071",
+   "name": "福石控股",
+   "side": "BUY",
+   "qty": 500,
+   "price": 4.559,
+   "reason": "strongbuy 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-05",
+   "ts": "2026-11-05 23:41",
+   "code": "300504",
+   "name": "天邑股份",
+   "side": "SELL",
+   "qty": 100,
+   "price": 16.826,
+   "reason": "止损 -4.9%",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-05",
+   "ts": "2026-11-05 23:41",
+   "code": "002949",
+   "name": "华阳国际",
+   "side": "SELL",
+   "qty": 400,
+   "price": 13.782,
+   "reason": "止损 -10.2%",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-05",
+   "ts": "2026-11-05 23:41",
+   "code": "603725",
+   "name": "天安新材",
+   "side": "BUY",
+   "qty": 600,
+   "price": 10.23,
+   "reason": "strong 信号买入",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-05",
+   "ts": "2026-11-05 23:41",
+   "code": "300071",
+   "name": "福石控股",
+   "side": "BUY",
+   "qty": 500,
+   "price": 4.559,
+   "reason": "strongbuy 信号买入",
+   "account": "cloud-sat-B"
   }
  ],
- "last_run_date": "2026-11-04"
+ "last_run_date": "2026-11-05"
 }
