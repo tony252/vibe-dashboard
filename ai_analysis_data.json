@@ -151,88 +151,88 @@
     ],
     "sectors": [
       {
-        "name": "化学纤维制造业",
-        "code": "ZC28",
-        "pct": 3.84,
-        "amount_yi": 59.3,
-        "net_inflow_yi": 0
+        "name": "光伏辅材",
+        "code": "BK1316",
+        "pct": 10.68,
+        "amount_yi": 42.3,
+        "net_inflow_yi": 5.5
       },
       {
-        "name": "家具制造业",
-        "code": "ZC21",
-        "pct": 3.69,
-        "amount_yi": 44.7,
-        "net_inflow_yi": 0
+        "name": "光伏加工设备",
+        "code": "BK1317",
+        "pct": 10.58,
+        "amount_yi": 81.1,
+        "net_inflow_yi": 7.5
       },
       {
-        "name": "食品制造业",
-        "code": "ZC14",
-        "pct": 3.6,
-        "amount_yi": 3.8,
-        "net_inflow_yi": 0
+        "name": "光伏电池组件",
+        "code": "BK1315",
+        "pct": 9.72,
+        "amount_yi": 97.0,
+        "net_inflow_yi": 8.1
       },
       {
-        "name": "木材加工业",
-        "code": "ZC20",
-        "pct": 3.51,
-        "amount_yi": 6.4,
-        "net_inflow_yi": 0
+        "name": "光伏设备",
+        "code": "BK1031",
+        "pct": 9.38,
+        "amount_yi": 427.3,
+        "net_inflow_yi": 35.4
       },
       {
-        "name": "废弃资源利用业",
-        "code": "ZC42",
-        "pct": 3.36,
-        "amount_yi": 14.2,
-        "net_inflow_yi": 0
+        "name": "白银",
+        "code": "BK1616",
+        "pct": 7.71,
+        "amount_yi": 41.9,
+        "net_inflow_yi": 3.5
       },
       {
-        "name": "电气机械器材业",
-        "code": "ZC38",
-        "pct": 3.18,
-        "amount_yi": 1306.1,
-        "net_inflow_yi": 0
+        "name": "逆变器",
+        "code": "BK1320",
+        "pct": 7.15,
+        "amount_yi": 168.2,
+        "net_inflow_yi": 10.7
       },
       {
-        "name": "金属制品修理业",
-        "code": "ZC43",
-        "pct": 3.01,
-        "amount_yi": 471.7,
-        "net_inflow_yi": 0
+        "name": "硅料硅片",
+        "code": "BK1319",
+        "pct": 6.45,
+        "amount_yi": 7.3,
+        "net_inflow_yi": 1.1
       },
       {
-        "name": "金属制品业",
-        "code": "ZC33",
-        "pct": 2.93,
-        "amount_yi": 196.5,
-        "net_inflow_yi": 0
+        "name": "贵金属",
+        "code": "BK0732",
+        "pct": 5.7,
+        "amount_yi": 204.3,
+        "net_inflow_yi": 9.8
       },
       {
-        "name": "化学原料制品业",
-        "code": "ZC26",
-        "pct": 2.84,
-        "amount_yi": 655.1,
-        "net_inflow_yi": 0
+        "name": "氨纶",
+        "code": "BK1412",
+        "pct": 5.54,
+        "amount_yi": 3.7,
+        "net_inflow_yi": 0.2
       },
       {
-        "name": "橡胶塑料制品业",
-        "code": "ZC29",
-        "pct": 2.75,
-        "amount_yi": 188.4,
-        "net_inflow_yi": 0
+        "name": "品牌消费电子",
+        "code": "BK1337",
+        "pct": 5.51,
+        "amount_yi": 37.6,
+        "net_inflow_yi": 2.0
       },
       {
-        "name": "石油炼焦加工业",
-        "code": "ZC25",
-        "pct": 2.69,
-        "amount_yi": 3.9,
-        "net_inflow_yi": 0
+        "name": "锂",
+        "code": "BK1621",
+        "pct": 5.41,
+        "amount_yi": 84.6,
+        "net_inflow_yi": 7.5
       },
       {
-        "name": "文教体育用品业",
-        "code": "ZC24",
-        "pct": 2.59,
-        "amount_yi": 22.7,
-        "net_inflow_yi": 0
+        "name": "其他数字媒体",
+        "code": "BK1295",
+        "pct": 5.2,
+        "amount_yi": 22.6,
+        "net_inflow_yi": 0.4
       }
     ],
     "us_stocks": [],
@@ -621,5 +621,5 @@
       }
     ]
   },
-  "timestamp": "2026-11-05T11:35:47"
+  "timestamp": "2026-11-05T11:49:26"
 }
