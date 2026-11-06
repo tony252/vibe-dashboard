@@ -1,60 +1,18 @@
 {
- "generated": "2026-11-05",
+ "generated": "2026-11-06",
  "window_days": 8,
  "formula": "{================ 四周新高（近52周高 + 温和突破 + 连续5日）================}\nN52:=250; N4W:=20;\nHH52:=HHV(H,N52);                         {近52周最高价}\nNEAR52:=C>=HH52*0.95;                     {收盘在近一年高位(距高≤5%)}\nBRKREF:=HHV(REF(C,1),N4W);                {前20日(4周)最高收盘}\nBRK:=C>BRKREF;                           {今日创4周新高}\nGENTLE:=C/BRKREF<=1.035;                 {突破幅度≤3.5%(温和，不透支)}\nMA25V:=MA(C,25);\nIND25:=C/MA25V>0.92 AND C/MA25V<1.12;    {不远离25日线(±区间)}\nTREND:=MA(C,25)>MA(C,60);                {中期多头}\nAMT5:=MA(VOL,5)*C*100/1e8;               {近5日均额(亿)}\nLIQ:=AMT5>=1;                            {流动性过滤}\nHOLD:=COUNT(C>=BRKREF,5)=5;              {连续5日收盘守住突破位(未回落)}\nXG:=NEAR52 AND BRK AND GENTLE AND IND25 AND TREND AND LIQ AND HOLD;\n{说明：本公式为日线形态，与 gen_fourweek_newhigh.py 口径一致；北交所流动性多数不达标自然剔除。}",
  "dates": [
-  "2026-10-27",
   "2026-10-28",
   "2026-10-29",
   "2026-10-30",
   "2026-11-02",
   "2026-11-03",
   "2026-11-04",
-  "2026-11-05"
+  "2026-11-05",
+  "2026-11-06"
  ],
  "data": {
-  "2026-10-27": [
-   {
-    "code": "601398",
-    "name": "工商银行",
-    "price": 8.62,
-    "change_pct": 0.47,
-    "change_5d": 0.47,
-    "dist_52w_pct": -0.46,
-    "break_pct": 0.23,
-    "dev25_pct": 3.55,
-    "ma25": 8.32,
-    "ma60": 8.05,
-    "trend": true,
-    "amount_5d_yi": 198.35,
-    "consec_days": 1,
-    "score": 9.1,
-    "tag": "fourweek",
-    "reason": "近52周高-0.5% | 4周新高+0.2% | 偏离25日线+3.5% | 连续1日 | 5日均额198.3亿",
-    "days_since": 7,
-    "post_change_pct": null
-   },
-   {
-    "code": "600901",
-    "name": "江苏金租",
-    "price": 7.38,
-    "change_pct": 4.24,
-    "change_5d": 1.79,
-    "dist_52w_pct": -0.67,
-    "break_pct": 1.1,
-    "dev25_pct": 5.68,
-    "ma25": 6.98,
-    "ma60": 6.75,
-    "trend": true,
-    "amount_5d_yi": 12.05,
-    "consec_days": 1,
-    "score": 8.7,
-    "tag": "fourweek",
-    "reason": "近52周高-0.7% | 4周新高+1.1% | 偏离25日线+5.7% | 连续1日 | 5日均额12.1亿",
-    "days_since": 7,
-    "post_change_pct": null
-   }
-  ],
   "2026-10-28": [
    {
     "code": "600901",
@@ -73,7 +31,7 @@
     "score": 9.2,
     "tag": "fourweek",
     "reason": "近52周高-0.4% | 4周新高+2.0% | 偏离25日线+7.4% | 连续2日 | 5日均额13.7亿",
-    "days_since": 6,
+    "days_since": 7,
     "post_change_pct": null
    },
    {
@@ -93,7 +51,7 @@
     "score": 7.5,
     "tag": "fourweek",
     "reason": "近52周高-1.2% | 4周新高+0.9% | 偏离25日线+4.8% | 连续1日 | 5日均额54.9亿",
-    "days_since": 6,
+    "days_since": 7,
     "post_change_pct": null
    }
   ],
@@ -115,7 +73,7 @@
     "score": 8.9,
     "tag": "fourweek",
     "reason": "近52周高-0.5% | 4周新高+0.4% | 偏离25日线+7.3% | 连续3日 | 5日均额14.3亿",
-    "days_since": 5,
+    "days_since": 6,
     "post_change_pct": null
    },
    {
@@ -135,7 +93,7 @@
     "score": 9.2,
     "tag": "fourweek",
     "reason": "近52周高-0.4% | 4周新高+1.5% | 偏离25日线+6.3% | 连续1日 | 5日均额30.7亿",
-    "days_since": 5,
+    "days_since": 6,
     "post_change_pct": null
    },
    {
@@ -155,7 +113,7 @@
     "score": 5.5,
     "tag": "fourweek",
     "reason": "近52周高-2.3% | 4周新高+1.1% | 偏离25日线+4.4% | 连续1日 | 5日均额130.9亿",
-    "days_since": 5,
+    "days_since": 6,
     "post_change_pct": null
    }
   ],
@@ -178,7 +136,7 @@
     "score": 8.4,
     "tag": "fourweek",
     "reason": "近52周高-0.8% | 4周新高+1.4% | 偏离25日线+8.0% | 连续1日 | 5日均额10.6亿",
-    "days_since": 3,
+    "days_since": 4,
     "post_change_pct": null
    },
    {
@@ -198,8 +156,8 @@
     "score": 8.3,
     "tag": "fourweek",
     "reason": "近52周高-0.9% | 4周新高+3.5% | 偏离25日线+7.8% | 连续1日 | 5日均额6.1亿",
-    "days_since": 3,
-    "post_change_pct": 1.17
+    "days_since": 4,
+    "post_change_pct": null
    },
    {
     "code": "600887",
@@ -218,8 +176,8 @@
     "score": 7.5,
     "tag": "fourweek",
     "reason": "近52周高-1.2% | 4周新高+1.6% | 偏离25日线+9.4% | 连续1日 | 5日均额131.0亿",
-    "days_since": 3,
-    "post_change_pct": 1.4
+    "days_since": 4,
+    "post_change_pct": null
    },
    {
     "code": "601169",
@@ -238,8 +196,8 @@
     "score": 6.0,
     "tag": "fourweek",
     "reason": "近52周高-2.0% | 4周新高+3.2% | 偏离25日线+5.2% | 连续1日 | 5日均额68.2亿",
-    "days_since": 3,
-    "post_change_pct": -1.7
+    "days_since": 4,
+    "post_change_pct": null
    },
    {
     "code": "601728",
@@ -258,7 +216,7 @@
     "score": 0.5,
     "tag": "fourweek",
     "reason": "近52周高-4.7% | 4周新高+0.4% | 偏离25日线+6.4% | 连续1日 | 5日均额41.3亿",
-    "days_since": 3,
+    "days_since": 4,
     "post_change_pct": null
    }
   ],
@@ -280,11 +238,12 @@
     "score": 6.8,
     "tag": "fourweek",
     "reason": "近52周高-1.6% | 4周新高+3.3% | 偏离25日线+9.1% | 连续2日 | 5日均额46.4亿",
-    "days_since": 2,
+    "days_since": 3,
     "post_change_pct": null
    }
   ],
   "2026-11-04": [],
-  "2026-11-05": []
+  "2026-11-05": [],
+  "2026-11-06": []
  }
 }
