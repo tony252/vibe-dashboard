@@ -2459,5 +2459,112 @@
       }
     ],
     "total_cost": 96632.0
+  },
+  "2026-11-06": {
+    "date": "2026-11-06",
+    "capital": 100000,
+    "positions": [
+      {
+        "code": "300217",
+        "name": "东方电热",
+        "buy_price": 4.29,
+        "buy_date": "2026-11-06",
+        "shares": 2300,
+        "cost": 9867.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.926
+      },
+      {
+        "code": "002181",
+        "name": "粤 传 媒",
+        "buy_price": 11.7,
+        "buy_date": "2026-11-06",
+        "shares": 800,
+        "cost": 9360.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.787
+      },
+      {
+        "code": "300393",
+        "name": "中来股份",
+        "buy_price": 5.81,
+        "buy_date": "2026-11-06",
+        "shares": 1700,
+        "cost": 9877.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 4.496
+      },
+      {
+        "code": "603037",
+        "name": "凯众股份",
+        "buy_price": 12.63,
+        "buy_date": "2026-11-06",
+        "shares": 700,
+        "cost": 8841.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 4.467
+      },
+      {
+        "code": "301046",
+        "name": "能辉科技",
+        "buy_price": 26.85,
+        "buy_date": "2026-11-06",
+        "shares": 300,
+        "cost": 8055.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.625
+      },
+      {
+        "code": "688678",
+        "name": "福立旺",
+        "buy_price": 20.76,
+        "buy_date": "2026-11-06",
+        "shares": 400,
+        "cost": 8304.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 4.584
+      },
+      {
+        "code": "603334",
+        "name": "丰倍生物",
+        "buy_price": 27.29,
+        "buy_date": "2026-11-06",
+        "shares": 300,
+        "cost": 8187.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 4.2
+      },
+      {
+        "code": "600650",
+        "name": "锦江在线",
+        "buy_price": 10.97,
+        "buy_date": "2026-11-06",
+        "shares": 900,
+        "cost": 9873.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.888
+      },
+      {
+        "code": "600354",
+        "name": "敦煌种业",
+        "buy_price": 7.55,
+        "buy_date": "2026-11-06",
+        "shares": 1300,
+        "cost": 9815.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.742
+      },
+      {
+        "code": "300931",
+        "name": "通用电梯",
+        "buy_price": 14.36,
+        "buy_date": "2026-11-06",
+        "shares": 600,
+        "cost": 8616.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.588
+      }
+    ],
+    "total_cost": 90795.0
   }
 }
