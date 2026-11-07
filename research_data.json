@@ -1,12 +1,31 @@
 {
   "date": "2026-11-06",
-  "updated_at": "2026-11-07 12:03:11",
+  "updated_at": "2026-11-07 20:03:07",
   "stats": {
-    "processed": 28,
+    "processed": 34,
     "alerts": 0,
-    "filtered": 18
+    "filtered": 19
   },
   "events": [
+    {
+      "time": "2026-11-07 18:39",
+      "type": "archive",
+      "title": "又一A股公司，遭证监会立案！",
+      "content": "来源：央视财经 凤凰航运（000520）11月7日发布公告，公司于11月6日收到中国证监会下发的《立案告知书》，因涉嫌信息披露违法违规，根据相关法律法规...",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/wm/2026-11-07/doc-inixxcvy8181027.shtml",
+      "stocks": [
+        {
+          "name": "凤凰航运",
+          "code": "000520",
+          "match_reason": "直接提及[凤凰航运]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
     {
       "time": "2026-11-07 11:29",
       "type": "archive",
@@ -434,7 +453,7 @@
       "keywords": "直接提及[浙文影业]（选股推荐）",
       "reason": "新闻提及 | 3次",
       "source": "event",
-      "selected_at": "2026-11-07 12:06",
+      "selected_at": "2026-11-07 20:06",
       "first_seen": "2026-11-06 16:33",
       "is_new": false
     },
@@ -444,8 +463,18 @@
       "keywords": "直接提及[三环集团]（选股推荐）",
       "reason": "新闻提及 | 3次",
       "source": "event",
-      "selected_at": "2026-11-07 12:06",
+      "selected_at": "2026-11-07 20:06",
       "first_seen": "2026-11-06 16:33",
+      "is_new": false
+    },
+    {
+      "name": "凤凰航运",
+      "code": "000520",
+      "keywords": "直接提及[凤凰航运]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-11-07 20:06",
+      "first_seen": "2026-11-06 20:06",
       "is_new": false
     },
     {
@@ -454,7 +483,7 @@
       "keywords": "直接提及[长鑫科技]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-07 12:06",
+      "selected_at": "2026-11-07 20:06",
       "first_seen": "2026-11-06 16:33",
       "is_new": false
     },
@@ -464,7 +493,7 @@
       "keywords": "直接提及[芒果超媒]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-07 12:06",
+      "selected_at": "2026-11-07 20:06",
       "first_seen": "2026-11-06 16:33",
       "is_new": false
     },
@@ -474,7 +503,7 @@
       "keywords": "直接提及[华泰证券]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-07 12:06",
+      "selected_at": "2026-11-07 20:06",
       "first_seen": "2026-11-06 16:33",
       "is_new": false
     },
@@ -484,7 +513,7 @@
       "keywords": "直接提及[中信证券]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-07 12:06",
+      "selected_at": "2026-11-07 20:06",
       "first_seen": "2026-11-06 16:33",
       "is_new": false
     },
@@ -494,18 +523,8 @@
       "keywords": "直接提及[东方海洋]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-07 12:06",
+      "selected_at": "2026-11-07 20:06",
       "first_seen": "2026-11-07 12:06",
-      "is_new": true
-    },
-    {
-      "name": "凤凰航运",
-      "code": "000520",
-      "keywords": "直接提及[凤凰航运]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-07 12:06",
-      "first_seen": "2026-11-06 20:06",
       "is_new": false
     },
     {
@@ -514,9 +533,9 @@
       "keywords": "直接提及[华智数媒]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-07 12:06",
+      "selected_at": "2026-11-07 20:06",
       "first_seen": "2026-11-07 12:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "佛山照明",
@@ -524,7 +543,7 @@
       "keywords": "直接提及[佛山照明]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-07 12:06",
+      "selected_at": "2026-11-07 20:06",
       "first_seen": "2026-11-06 20:06",
       "is_new": false
     },
@@ -534,7 +553,7 @@
       "keywords": "直接提及[工商银行]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-07 12:06",
+      "selected_at": "2026-11-07 20:06",
       "first_seen": "2026-11-06 16:33",
       "is_new": false
     },
@@ -544,7 +563,7 @@
       "keywords": "直接提及[引力传媒]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-07 12:06",
+      "selected_at": "2026-11-07 20:06",
       "first_seen": "2026-11-06 16:33",
       "is_new": false
     },
@@ -554,7 +573,7 @@
       "keywords": "直接提及[光洋股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-07 12:06",
+      "selected_at": "2026-11-07 20:06",
       "first_seen": "2026-11-06 16:33",
       "is_new": false
     },
@@ -564,7 +583,7 @@
       "keywords": "直接提及[阳光照明]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-07 12:06",
+      "selected_at": "2026-11-07 20:06",
       "first_seen": "2026-11-06 16:33",
       "is_new": false
     },
@@ -574,7 +593,7 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"13.82\">涨幅13.82%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率5.79%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-07 12:06",
+      "selected_at": "2026-11-07 20:06",
       "first_seen": "2026-11-06 16:33",
       "is_new": false
     }
