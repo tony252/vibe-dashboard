@@ -1,12 +1,51 @@
 {
   "date": "2026-11-06",
-  "updated_at": "2026-11-08 12:02:53",
+  "updated_at": "2026-11-08 20:03:04",
   "stats": {
-    "processed": 41,
+    "processed": 47,
     "alerts": 0,
     "filtered": 20
   },
   "events": [
+    {
+      "time": "2026-11-08 19:19",
+      "type": "archive",
+      "title": "生猪产能去化加速！农牧渔板块逆市上涨，农牧渔ETF华宝（159275）标的指数盘中涨超1%",
+      "content": "农牧渔板块周五（11月6日）逆市上涨。截至收盘，新赛股份、万向德农双双涨停，金健米业涨超6%，邦基科技、神农种业、天邦食品等亦涨幅居前。",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/money/fund/etf/2026-11-08/doc-inixzpas7032319.shtml",
+      "stocks": [
+        {
+          "name": "万向德农",
+          "code": "600371",
+          "match_reason": "直接提及[万向德农]（选股推荐）"
+        },
+        {
+          "name": "邦基科技",
+          "code": "603151",
+          "match_reason": "直接提及[邦基科技]（选股推荐）"
+        },
+        {
+          "name": "金健米业",
+          "code": "600127",
+          "match_reason": "直接提及[金健米业]（选股推荐）"
+        },
+        {
+          "name": "神农种业",
+          "code": "300189",
+          "match_reason": "直接提及[神农种业]（选股推荐）"
+        },
+        {
+          "name": "天邦食品",
+          "code": "002124",
+          "match_reason": "直接提及[天邦食品]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
     {
       "time": "2026-11-08 08:59",
       "type": "archive",
@@ -387,25 +426,6 @@
         "memory": false,
         "source": true
       }
-    },
-    {
-      "time": "2026-11-05 07:00",
-      "type": "archive",
-      "title": "【早报】深夜巨震，油价重挫超8%，黄金大涨超3%；美股剧烈分化，中概股集体爆发；亨通光电、凯莱英、三环集团拟回购公司股份",
-      "content": "①央行：今日开展3000亿元买断式逆回购操作②股票回购增持再贷款扩容，5家城商行进入支持机构名单③美股道指涨超3%④华为、阿里等20家单位共建智能体互联基础设施⑤亨通光电、凯莱英、三环集团拟回购公司股份。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2525668",
-      "stocks": [
-        {
-          "name": "三环集团",
-          "code": "300408",
-          "match_reason": "直接提及[三环集团]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
     }
   ],
   "keywords": {
@@ -465,7 +485,12 @@
     "002086": "2026-11-07 12:06",
     "300426": "2026-11-07 12:06",
     "000858": "2026-11-08 12:05",
-    "600109": "2026-11-08 12:05"
+    "600109": "2026-11-08 12:05",
+    "600371": "2026-11-08 20:06",
+    "603151": "2026-11-08 20:06",
+    "600127": "2026-11-08 20:06",
+    "300189": "2026-11-08 20:06",
+    "002124": "2026-11-08 20:06"
   },
   "watchlist": [
     {
@@ -474,7 +499,7 @@
       "keywords": "直接提及[浙文影业]（选股推荐）",
       "reason": "新闻提及 | 3次",
       "source": "event",
-      "selected_at": "2026-11-08 12:05",
+      "selected_at": "2026-11-08 20:06",
       "first_seen": "2026-11-06 16:33",
       "is_new": false
     },
@@ -484,7 +509,7 @@
       "keywords": "直接提及[凤凰航运]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-08 12:05",
+      "selected_at": "2026-11-08 20:06",
       "first_seen": "2026-11-06 20:06",
       "is_new": false
     },
@@ -494,7 +519,7 @@
       "keywords": "直接提及[长鑫科技]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-08 12:05",
+      "selected_at": "2026-11-08 20:06",
       "first_seen": "2026-11-06 16:33",
       "is_new": false
     },
@@ -504,17 +529,7 @@
       "keywords": "直接提及[芒果超媒]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-08 12:05",
-      "first_seen": "2026-11-06 16:33",
-      "is_new": false
-    },
-    {
-      "name": "三环集团",
-      "code": "300408",
-      "keywords": "直接提及[三环集团]（选股推荐）",
-      "reason": "新闻提及 | 2次",
-      "source": "event",
-      "selected_at": "2026-11-08 12:05",
+      "selected_at": "2026-11-08 20:06",
       "first_seen": "2026-11-06 16:33",
       "is_new": false
     },
@@ -524,7 +539,7 @@
       "keywords": "直接提及[华泰证券]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-08 12:05",
+      "selected_at": "2026-11-08 20:06",
       "first_seen": "2026-11-06 16:33",
       "is_new": false
     },
@@ -534,9 +549,59 @@
       "keywords": "直接提及[中信证券]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-08 12:05",
+      "selected_at": "2026-11-08 20:06",
       "first_seen": "2026-11-06 16:33",
       "is_new": false
+    },
+    {
+      "name": "万向德农",
+      "code": "600371",
+      "keywords": "直接提及[万向德农]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-08 20:06",
+      "first_seen": "2026-11-08 20:06",
+      "is_new": true
+    },
+    {
+      "name": "邦基科技",
+      "code": "603151",
+      "keywords": "直接提及[邦基科技]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-08 20:06",
+      "first_seen": "2026-11-08 20:06",
+      "is_new": true
+    },
+    {
+      "name": "金健米业",
+      "code": "600127",
+      "keywords": "直接提及[金健米业]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-08 20:06",
+      "first_seen": "2026-11-08 20:06",
+      "is_new": true
+    },
+    {
+      "name": "神农种业",
+      "code": "300189",
+      "keywords": "直接提及[神农种业]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-08 20:06",
+      "first_seen": "2026-11-08 20:06",
+      "is_new": true
+    },
+    {
+      "name": "天邦食品",
+      "code": "002124",
+      "keywords": "直接提及[天邦食品]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-08 20:06",
+      "first_seen": "2026-11-08 20:06",
+      "is_new": true
     },
     {
       "name": "五粮液",
@@ -544,9 +609,9 @@
       "keywords": "直接提及[五粮液]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-08 12:05",
+      "selected_at": "2026-11-08 20:06",
       "first_seen": "2026-11-08 12:05",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "国金证券",
@@ -554,9 +619,9 @@
       "keywords": "直接提及[国金证券]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-08 12:05",
+      "selected_at": "2026-11-08 20:06",
       "first_seen": "2026-11-08 12:05",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "东方海洋",
@@ -564,7 +629,7 @@
       "keywords": "直接提及[东方海洋]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-08 12:05",
+      "selected_at": "2026-11-08 20:06",
       "first_seen": "2026-11-07 12:06",
       "is_new": false
     },
@@ -574,48 +639,8 @@
       "keywords": "直接提及[华智数媒]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-08 12:05",
+      "selected_at": "2026-11-08 20:06",
       "first_seen": "2026-11-07 12:06",
-      "is_new": false
-    },
-    {
-      "name": "佛山照明",
-      "code": "000541",
-      "keywords": "直接提及[佛山照明]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-08 12:05",
-      "first_seen": "2026-11-06 20:06",
-      "is_new": false
-    },
-    {
-      "name": "工商银行",
-      "code": "601398",
-      "keywords": "直接提及[工商银行]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-08 12:05",
-      "first_seen": "2026-11-06 16:33",
-      "is_new": false
-    },
-    {
-      "name": "引力传媒",
-      "code": "603598",
-      "keywords": "直接提及[引力传媒]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-08 12:05",
-      "first_seen": "2026-11-06 16:33",
-      "is_new": false
-    },
-    {
-      "name": "光洋股份",
-      "code": "002708",
-      "keywords": "直接提及[光洋股份]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-08 12:05",
-      "first_seen": "2026-11-06 16:33",
       "is_new": false
     }
   ]
