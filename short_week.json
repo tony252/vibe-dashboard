@@ -1,7 +1,7 @@
 {
  "meta": {
   "sample": false,
-  "generated": "2026-11-09 16:40"
+  "generated": "2026-11-09 20:08"
  },
  "method": [
   {
@@ -77,24 +77,6 @@
     "close": {
      "picks": [
       {
-       "name": "万向德农",
-       "code": "600371",
-       "board": "沪市",
-       "margin": false,
-       "signal": "量价齐升",
-       "score": 62,
-       "stars": 3,
-       "price": "13.51",
-       "change_pct": 9.04,
-       "entry": "13.51",
-       "target": "14.32",
-       "stop": "12.97",
-       "position": "8%~10%",
-       "turnover": "32.78%",
-       "main_ratio": "+6%",
-       "reason": "主力净流入+5.6%；连板身位4天（辨识度高）；量价齐升；换手32.8%（活跃且未失控）"
-      },
-      {
        "name": "马矿股份",
        "code": "601123",
        "board": "沪市",
@@ -147,6 +129,24 @@
        "turnover": "26.43%",
        "main_ratio": "+12%",
        "reason": "主力净占比+12%（大资金介入）；连板身位2天（辨识度高）；换手26.4%（活跃且未失控）"
+      },
+      {
+       "name": "鸿富诚",
+       "code": "301716",
+       "board": "创业板",
+       "margin": false,
+       "signal": "连板接力",
+       "score": 58,
+       "stars": 3,
+       "price": "382.10",
+       "change_pct": 9.17,
+       "entry": "382.10",
+       "target": "405.03",
+       "stop": "366.82",
+       "position": "8%~10%",
+       "turnover": "22.01%",
+       "main_ratio": "+9%",
+       "reason": "主力净占比+9%（大资金介入）；连板身位2天（辨识度高）；换手22.0%（活跃且未失控）"
       },
       {
        "name": "百花医药",
@@ -221,24 +221,6 @@
        "reason": "换手5.1%（活跃且未失控）；盗火线高分100；近3日强势"
       },
       {
-       "name": "晶雪节能",
-       "code": "301010",
-       "board": "创业板",
-       "margin": false,
-       "signal": "龙头新高",
-       "score": 34,
-       "stars": 2,
-       "price": "26.21",
-       "change_pct": 20.01,
-       "entry": "26.21",
-       "target": "27.52",
-       "stop": "25.16",
-       "position": "5%~8%",
-       "turnover": "20.90%",
-       "main_ratio": "—",
-       "reason": "涨幅榜/新高（当日最强）；换手20.9%（活跃且未失控）"
-      },
-      {
        "name": "万通智控",
        "code": "300643",
        "board": "创业板",
@@ -275,58 +257,76 @@
        "reason": "换手3.0%（偏冷）；盗火线高分100；放量(量比1.7)"
       },
       {
-       "name": "祥明智能",
-       "code": "301226",
+       "name": "晶雪节能",
+       "code": "301010",
        "board": "创业板",
        "margin": false,
-       "signal": "龙头新高",
+       "signal": "量价齐升",
        "score": 28,
        "stars": 1,
-       "price": "33.06",
-       "change_pct": 20.0,
-       "entry": "33.06",
-       "target": "34.38",
-       "stop": "31.74",
+       "price": "26.21",
+       "change_pct": 20.01,
+       "entry": "26.21",
+       "target": "27.26",
+       "stop": "25.16",
        "position": "3%~5%",
-       "turnover": "3.50%",
+       "turnover": "20.90%",
        "main_ratio": "—",
-       "reason": "涨幅榜/新高（当日最强）；换手3.5%（偏冷）"
+       "reason": "量价齐升；换手20.9%（活跃且未失控）"
       },
       {
-       "name": "宇树科技",
-       "code": "688836",
+       "name": "燧原科技",
+       "code": "688801",
        "board": "科创板",
        "margin": false,
        "signal": "量价齐升",
        "score": 28,
        "stars": 1,
-       "price": "716.00",
-       "change_pct": 9.04,
-       "entry": "716.00",
-       "target": "744.64",
-       "stop": "687.36",
+       "price": "432.80",
+       "change_pct": 17.26,
+       "entry": "432.80",
+       "target": "450.11",
+       "stop": "415.49",
        "position": "3%~5%",
-       "turnover": "23.40%",
+       "turnover": "17.20%",
        "main_ratio": "—",
-       "reason": "量价齐升；换手23.4%（活跃且未失控）"
+       "reason": "量价齐升；换手17.2%（活跃且未失控）"
       },
       {
-       "name": "金利华电",
-       "code": "300069",
+       "name": "托伦斯",
+       "code": "301583",
        "board": "创业板",
        "margin": false,
-       "signal": "量价齐升",
-       "score": 28,
+       "signal": "高换手强势",
+       "score": 22,
        "stars": 1,
-       "price": "24.26",
-       "change_pct": 8.35,
-       "entry": "24.26",
-       "target": "25.23",
-       "stop": "23.29",
+       "price": "104.38",
+       "change_pct": 2.94,
+       "entry": "104.38",
+       "target": "108.56",
+       "stop": "100.20",
        "position": "3%~5%",
-       "turnover": "19.10%",
+       "turnover": "25.20%",
        "main_ratio": "—",
-       "reason": "量价齐升；换手19.1%（活跃且未失控）"
+       "reason": "高换手抗跌；换手25.2%（活跃且未失控）"
+      },
+      {
+       "name": "文峰光电",
+       "code": "920296",
+       "board": "北交所",
+       "margin": false,
+       "signal": "高换手强势",
+       "score": 22,
+       "stars": 1,
+       "price": "25.30",
+       "change_pct": 2.68,
+       "entry": "25.30",
+       "target": "26.31",
+       "stop": "24.29",
+       "position": "3%~5%",
+       "turnover": "19.00%",
+       "main_ratio": "—",
+       "reason": "高换手抗跌；换手19.0%（活跃且未失控）"
       }
      ]
     }
