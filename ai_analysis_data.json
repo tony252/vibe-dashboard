@@ -3,43 +3,43 @@
     "indices": [
       {
         "name": "上证指数",
-        "current": 3664.14,
-        "pct": 0.41
+        "current": 3669.86,
+        "pct": 0.57
       },
       {
         "name": "深证成指",
-        "current": 11188.21,
-        "pct": 0.11
+        "current": 11230.14,
+        "pct": 0.49
       },
       {
         "name": "创业板指",
-        "current": 2472.96,
-        "pct": 0.31
+        "current": 2487.26,
+        "pct": 0.89
       },
       {
         "name": "沪深300",
-        "current": 4061.25,
-        "pct": 0.17
-      },
-      {
-        "name": "科创50",
-        "current": 1257.73,
+        "current": 4068.83,
         "pct": 0.36
       },
       {
+        "name": "科创50",
+        "current": 1266.72,
+        "pct": 1.08
+      },
+      {
         "name": "上证50",
-        "current": 2788.73,
-        "pct": 0.05
+        "current": 2790.41,
+        "pct": 0.11
       },
       {
         "name": "中证500",
-        "current": 6607.46,
-        "pct": 0.15
+        "current": 6631.69,
+        "pct": 0.52
       },
       {
         "name": "中证1000",
-        "current": 6526.58,
-        "pct": 0.33
+        "current": 6548.38,
+        "pct": 0.66
       }
     ],
     "top_gainers": [
@@ -48,191 +48,191 @@
         "code": "002596",
         "price": 3.48,
         "change_pct": 10.13,
-        "turnover": 5.35
+        "turnover": 5.44
       },
       {
         "name": "思美传媒",
         "code": "002712",
         "price": 6.56,
         "change_pct": 10.07,
-        "turnover": 17.24
+        "turnover": 17.44
       },
       {
         "name": "泰尔股份",
         "code": "002347",
         "price": 7.0,
         "change_pct": 10.06,
-        "turnover": 5.43
+        "turnover": 5.52
       },
       {
         "name": "保利联合",
         "code": "002037",
         "price": 7.23,
         "change_pct": 10.05,
-        "turnover": 0.65
+        "turnover": 0.66
       },
       {
         "name": "新亚制程",
         "code": "002388",
         "price": 7.34,
         "change_pct": 10.04,
-        "turnover": 17.91
+        "turnover": 17.95
       },
       {
         "name": "飞亚达",
         "code": "000026",
         "price": 20.19,
         "change_pct": 10.03,
-        "turnover": 3.65
+        "turnover": 3.68
       },
       {
         "name": "顺灏股份",
         "code": "002565",
         "price": 10.54,
         "change_pct": 10.02,
-        "turnover": 4.31
+        "turnover": 4.34
       },
       {
         "name": "光洋股份",
         "code": "002708",
         "price": 21.97,
         "change_pct": 10.02,
-        "turnover": 13.12
+        "turnover": 13.94
+      },
+      {
+        "name": "信通电子",
+        "code": "001388",
+        "price": 23.29,
+        "change_pct": 10.01,
+        "turnover": 8.67
       },
       {
         "name": "声迅股份",
         "code": "003004",
         "price": 50.89,
         "change_pct": 10.01,
-        "turnover": 1.86
+        "turnover": 1.87
       },
       {
         "name": "钧达股份",
         "code": "002865",
         "price": 49.05,
         "change_pct": 10.0,
-        "turnover": 9.91
+        "turnover": 9.97
       },
       {
         "name": "金固股份",
         "code": "002488",
         "price": 7.48,
         "change_pct": 10.0,
-        "turnover": 6.39
+        "turnover": 6.54
       },
       {
         "name": "天邦食品",
         "code": "002124",
         "price": 2.2,
         "change_pct": 10.0,
-        "turnover": 7.89
+        "turnover": 7.94
       },
       {
         "name": "胜通能源",
         "code": "001331",
         "price": 31.35,
         "change_pct": 10.0,
-        "turnover": 2.1
+        "turnover": 2.14
       },
       {
         "name": "冰山冷热",
         "code": "000530",
         "price": 9.57,
         "change_pct": 10.0,
-        "turnover": 14.26
-      },
-      {
-        "name": "奥士康",
-        "code": "002913",
-        "price": 58.42,
-        "change_pct": 10.0,
-        "turnover": 2.38
+        "turnover": 14.31
       }
     ],
     "sectors": [
       {
+        "name": "印制电路板",
+        "code": "BK1340",
+        "pct": 5.21,
+        "amount_yi": 493.3,
+        "net_inflow_yi": 37.4
+      },
+      {
         "name": "卫浴电器",
         "code": "BK1452",
-        "pct": 4.78,
-        "amount_yi": 1.4,
+        "pct": 5.01,
+        "amount_yi": 1.5,
         "net_inflow_yi": 0.5
       },
       {
         "name": "焦炭Ⅲ",
         "code": "BK1492",
-        "pct": 4.73,
-        "amount_yi": 11.3,
-        "net_inflow_yi": 1.9
+        "pct": 4.72,
+        "amount_yi": 11.7,
+        "net_inflow_yi": 2.0
       },
       {
         "name": "焦炭Ⅱ",
         "code": "BK1249",
-        "pct": 4.73,
-        "amount_yi": 11.3,
-        "net_inflow_yi": 1.9
+        "pct": 4.72,
+        "amount_yi": 11.7,
+        "net_inflow_yi": 2.0
       },
       {
-        "name": "印制电路板",
-        "code": "BK1340",
-        "pct": 4.12,
-        "amount_yi": 453.3,
-        "net_inflow_yi": 31.5
+        "name": "其他数字媒体",
+        "code": "BK1295",
+        "pct": 4.58,
+        "amount_yi": 26.3,
+        "net_inflow_yi": -0.2
+      },
+      {
+        "name": "元件",
+        "code": "BK0459",
+        "pct": 4.41,
+        "amount_yi": 557.3,
+        "net_inflow_yi": 39.1
+      },
+      {
+        "name": "通信线缆及配套",
+        "code": "BK1592",
+        "pct": 4.4,
+        "amount_yi": 126.2,
+        "net_inflow_yi": 9.6
       },
       {
         "name": "航天装备Ⅲ",
         "code": "BK1385",
-        "pct": 4.06,
-        "amount_yi": 56.9,
+        "pct": 4.01,
+        "amount_yi": 59.2,
         "net_inflow_yi": 8.5
       },
       {
         "name": "航天装备Ⅱ",
         "code": "BK1232",
-        "pct": 4.06,
-        "amount_yi": 56.9,
+        "pct": 4.01,
+        "amount_yi": 59.2,
         "net_inflow_yi": 8.5
-      },
-      {
-        "name": "通信线缆及配套",
-        "code": "BK1592",
-        "pct": 3.74,
-        "amount_yi": 116.7,
-        "net_inflow_yi": 8.6
       },
       {
         "name": "其他小金属",
         "code": "BK1624",
-        "pct": 3.69,
-        "amount_yi": 58.4,
-        "net_inflow_yi": 5.2
-      },
-      {
-        "name": "其他数字媒体",
-        "code": "BK1295",
-        "pct": 3.55,
-        "amount_yi": 25.4,
-        "net_inflow_yi": -0.2
-      },
-      {
-        "name": "煤炭",
-        "code": "BK0437",
-        "pct": 3.51,
-        "amount_yi": 86.4,
-        "net_inflow_yi": 8.7
+        "pct": 3.84,
+        "amount_yi": 61.8,
+        "net_inflow_yi": 5.1
       },
       {
         "name": "稀土",
         "code": "BK1626",
-        "pct": 3.47,
-        "amount_yi": 15.9,
-        "net_inflow_yi": 0.8
+        "pct": 3.66,
+        "amount_yi": 16.9,
+        "net_inflow_yi": 0.7
       },
       {
-        "name": "元件",
-        "code": "BK0459",
-        "pct": 3.41,
-        "amount_yi": 511.5,
-        "net_inflow_yi": 33.1
+        "name": "煤炭",
+        "code": "BK0437",
+        "pct": 3.5,
+        "amount_yi": 90.3,
+        "net_inflow_yi": 9.0
       }
     ],
     "us_stocks": [],
@@ -243,105 +243,105 @@
         "code": "002596",
         "price": 3.48,
         "change_pct": 10.13,
-        "turnover": 5.35
+        "turnover": 5.44
       },
       {
         "name": "思美传媒",
         "code": "002712",
         "price": 6.56,
         "change_pct": 10.07,
-        "turnover": 17.24
+        "turnover": 17.44
       },
       {
         "name": "泰尔股份",
         "code": "002347",
         "price": 7.0,
         "change_pct": 10.06,
-        "turnover": 5.43
+        "turnover": 5.52
       },
       {
         "name": "保利联合",
         "code": "002037",
         "price": 7.23,
         "change_pct": 10.05,
-        "turnover": 0.65
+        "turnover": 0.66
       },
       {
         "name": "新亚制程",
         "code": "002388",
         "price": 7.34,
         "change_pct": 10.04,
-        "turnover": 17.91
+        "turnover": 17.95
       },
       {
         "name": "飞亚达",
         "code": "000026",
         "price": 20.19,
         "change_pct": 10.03,
-        "turnover": 3.65
+        "turnover": 3.68
       },
       {
         "name": "顺灏股份",
         "code": "002565",
         "price": 10.54,
         "change_pct": 10.02,
-        "turnover": 4.31
+        "turnover": 4.34
       },
       {
         "name": "光洋股份",
         "code": "002708",
         "price": 21.97,
         "change_pct": 10.02,
-        "turnover": 13.12
+        "turnover": 13.94
+      },
+      {
+        "name": "信通电子",
+        "code": "001388",
+        "price": 23.29,
+        "change_pct": 10.01,
+        "turnover": 8.67
       },
       {
         "name": "声迅股份",
         "code": "003004",
         "price": 50.89,
         "change_pct": 10.01,
-        "turnover": 1.86
+        "turnover": 1.87
       },
       {
         "name": "钧达股份",
         "code": "002865",
         "price": 49.05,
         "change_pct": 10.0,
-        "turnover": 9.91
+        "turnover": 9.97
       },
       {
         "name": "金固股份",
         "code": "002488",
         "price": 7.48,
         "change_pct": 10.0,
-        "turnover": 6.39
+        "turnover": 6.54
       },
       {
         "name": "天邦食品",
         "code": "002124",
         "price": 2.2,
         "change_pct": 10.0,
-        "turnover": 7.89
+        "turnover": 7.94
       },
       {
         "name": "胜通能源",
         "code": "001331",
         "price": 31.35,
         "change_pct": 10.0,
-        "turnover": 2.1
+        "turnover": 2.14
       },
       {
         "name": "冰山冷热",
         "code": "000530",
         "price": 9.57,
         "change_pct": 10.0,
-        "turnover": 14.26
-      },
-      {
-        "name": "奥士康",
-        "code": "002913",
-        "price": 58.42,
-        "change_pct": 10.0,
-        "turnover": 2.38
+        "turnover": 14.31
       }
     ],
     "yimeng_stocks": [
@@ -621,5 +621,5 @@
       }
     ]
   },
-  "timestamp": "2026-11-09T11:11:23"
+  "timestamp": "2026-11-09T11:26:15"
 }
