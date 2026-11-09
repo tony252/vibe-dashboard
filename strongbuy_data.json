@@ -184,21 +184,9 @@
       "turnover": 20.9,
       "change_5d": 12.0,
       "volume": 5.474,
-      "tag": "newhigh",
+      "tag": "volume",
       "score": 5,
-      "reason": "涨幅榜前列(第1名),飙升20.0%"
-    },
-    {
-      "code": "301226",
-      "name": "祥明智能",
-      "price": 33.06,
-      "change_pct": 20.0,
-      "turnover": 3.5,
-      "change_5d": 12.0,
-      "volume": 1.214,
-      "tag": "newhigh",
-      "score": 5,
-      "reason": "涨幅榜前列(第2名),飙升20.0%"
+      "reason": "量价齐升,换手20.9%,成交5.5亿"
     },
     {
       "code": "301718",
@@ -208,45 +196,21 @@
       "turnover": 46.5,
       "change_5d": 12.0,
       "volume": 8.78,
-      "tag": "newhigh",
-      "score": 5,
-      "reason": "涨幅榜前列(第3名),飙升20.0%"
-    },
-    {
-      "code": "600371",
-      "name": "万向德农",
-      "price": 13.51,
-      "change_pct": 9.04,
-      "turnover": 32.8,
-      "change_5d": 5.4,
-      "volume": 12.117,
       "tag": "volume",
       "score": 5,
-      "reason": "量价齐升,换手32.8%,成交12.1亿"
+      "reason": "量价齐升,换手46.5%,成交8.8亿"
     },
     {
-      "code": "688836",
-      "name": "宇树科技",
-      "price": 716.0,
-      "change_pct": 9.04,
-      "turnover": 23.4,
-      "change_5d": 5.4,
-      "volume": 51.173,
+      "code": "688801",
+      "name": "燧原科技",
+      "price": 432.8,
+      "change_pct": 17.26,
+      "turnover": 17.2,
+      "change_5d": 10.4,
+      "volume": 12.551,
       "tag": "volume",
       "score": 5,
-      "reason": "量价齐升,换手23.4%,成交51.2亿"
-    },
-    {
-      "code": "300069",
-      "name": "金利华电",
-      "price": 24.26,
-      "change_pct": 8.35,
-      "turnover": 19.1,
-      "change_5d": 5.0,
-      "volume": 5.462,
-      "tag": "volume",
-      "score": 5,
-      "reason": "量价齐升,换手19.1%,成交5.5亿"
+      "reason": "量价齐升,换手17.2%,成交12.6亿"
     },
     {
       "code": "301583",
@@ -285,5 +249,5 @@
       "reason": "高换手19.0%,成交1.0亿"
     }
   ],
-  "updated_at": "2026-11-09 17:03:53"
+  "updated_at": "2026-11-09 17:18:58"
 }
