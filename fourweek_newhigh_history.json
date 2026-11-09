@@ -1,60 +1,18 @@
 {
- "generated": "2026-11-06",
+ "generated": "2026-11-09",
  "window_days": 8,
  "formula": "{================ 四周新高（近52周高 + 温和突破 + 连续5日）================}\nN52:=250; N4W:=20;\nHH52:=HHV(H,N52);                         {近52周最高价}\nNEAR52:=C>=HH52*0.95;                     {收盘在近一年高位(距高≤5%)}\nBRKREF:=HHV(REF(C,1),N4W);                {前20日(4周)最高收盘}\nBRK:=C>BRKREF;                           {今日创4周新高}\nGENTLE:=C/BRKREF<=1.035;                 {突破幅度≤3.5%(温和，不透支)}\nMA25V:=MA(C,25);\nIND25:=C/MA25V>0.92 AND C/MA25V<1.12;    {不远离25日线(±区间)}\nTREND:=MA(C,25)>MA(C,60);                {中期多头}\nAMT5:=MA(VOL,5)*C*100/1e8;               {近5日均额(亿)}\nLIQ:=AMT5>=1;                            {流动性过滤}\nHOLD:=COUNT(C>=BRKREF,5)=5;              {连续5日收盘守住突破位(未回落)}\nXG:=NEAR52 AND BRK AND GENTLE AND IND25 AND TREND AND LIQ AND HOLD;\n{说明：本公式为日线形态，与 gen_fourweek_newhigh.py 口径一致；北交所流动性多数不达标自然剔除。}",
  "dates": [
-  "2026-10-28",
   "2026-10-29",
   "2026-10-30",
   "2026-11-02",
   "2026-11-03",
   "2026-11-04",
   "2026-11-05",
-  "2026-11-06"
+  "2026-11-06",
+  "2026-11-09"
  ],
  "data": {
-  "2026-10-28": [
-   {
-    "code": "600901",
-    "name": "江苏金租",
-    "price": 7.53,
-    "change_pct": 2.03,
-    "change_5d": 5.76,
-    "dist_52w_pct": -0.4,
-    "break_pct": 2.03,
-    "dev25_pct": 7.38,
-    "ma25": 7.01,
-    "ma60": 6.77,
-    "trend": true,
-    "amount_5d_yi": 13.69,
-    "consec_days": 2,
-    "score": 9.2,
-    "tag": "fourweek",
-    "reason": "近52周高-0.4% | 4周新高+2.0% | 偏离25日线+7.4% | 连续2日 | 5日均额13.7亿",
-    "days_since": 7,
-    "post_change_pct": null
-   },
-   {
-    "code": "601985",
-    "name": "中国核电",
-    "price": 9.66,
-    "change_pct": 1.68,
-    "change_5d": 1.9,
-    "dist_52w_pct": -1.23,
-    "break_pct": 0.94,
-    "dev25_pct": 4.78,
-    "ma25": 9.22,
-    "ma60": 9.04,
-    "trend": true,
-    "amount_5d_yi": 54.88,
-    "consec_days": 1,
-    "score": 7.5,
-    "tag": "fourweek",
-    "reason": "近52周高-1.2% | 4周新高+0.9% | 偏离25日线+4.8% | 连续1日 | 5日均额54.9亿",
-    "days_since": 7,
-    "post_change_pct": null
-   }
-  ],
   "2026-10-29": [
    {
     "code": "600901",
@@ -73,7 +31,7 @@
     "score": 8.9,
     "tag": "fourweek",
     "reason": "近52周高-0.5% | 4周新高+0.4% | 偏离25日线+7.3% | 连续3日 | 5日均额14.3亿",
-    "days_since": 6,
+    "days_since": 7,
     "post_change_pct": null
    },
    {
@@ -93,7 +51,7 @@
     "score": 9.2,
     "tag": "fourweek",
     "reason": "近52周高-0.4% | 4周新高+1.5% | 偏离25日线+6.3% | 连续1日 | 5日均额30.7亿",
-    "days_since": 6,
+    "days_since": 7,
     "post_change_pct": null
    },
    {
@@ -113,7 +71,7 @@
     "score": 5.5,
     "tag": "fourweek",
     "reason": "近52周高-2.3% | 4周新高+1.1% | 偏离25日线+4.4% | 连续1日 | 5日均额130.9亿",
-    "days_since": 6,
+    "days_since": 7,
     "post_change_pct": null
    }
   ],
@@ -136,7 +94,7 @@
     "score": 8.4,
     "tag": "fourweek",
     "reason": "近52周高-0.8% | 4周新高+1.4% | 偏离25日线+8.0% | 连续1日 | 5日均额10.6亿",
-    "days_since": 4,
+    "days_since": 5,
     "post_change_pct": null
    },
    {
@@ -156,7 +114,7 @@
     "score": 8.3,
     "tag": "fourweek",
     "reason": "近52周高-0.9% | 4周新高+3.5% | 偏离25日线+7.8% | 连续1日 | 5日均额6.1亿",
-    "days_since": 4,
+    "days_since": 5,
     "post_change_pct": null
    },
    {
@@ -176,8 +134,8 @@
     "score": 7.5,
     "tag": "fourweek",
     "reason": "近52周高-1.2% | 4周新高+1.6% | 偏离25日线+9.4% | 连续1日 | 5日均额131.0亿",
-    "days_since": 4,
-    "post_change_pct": null
+    "days_since": 5,
+    "post_change_pct": 1.7
    },
    {
     "code": "601169",
@@ -196,7 +154,7 @@
     "score": 6.0,
     "tag": "fourweek",
     "reason": "近52周高-2.0% | 4周新高+3.2% | 偏离25日线+5.2% | 连续1日 | 5日均额68.2亿",
-    "days_since": 4,
+    "days_since": 5,
     "post_change_pct": null
    },
    {
@@ -216,7 +174,7 @@
     "score": 0.5,
     "tag": "fourweek",
     "reason": "近52周高-4.7% | 4周新高+0.4% | 偏离25日线+6.4% | 连续1日 | 5日均额41.3亿",
-    "days_since": 4,
+    "days_since": 5,
     "post_change_pct": null
    }
   ],
@@ -238,12 +196,50 @@
     "score": 6.8,
     "tag": "fourweek",
     "reason": "近52周高-1.6% | 4周新高+3.3% | 偏离25日线+9.1% | 连续2日 | 5日均额46.4亿",
-    "days_since": 3,
+    "days_since": 4,
     "post_change_pct": null
    }
   ],
   "2026-11-04": [],
   "2026-11-05": [],
-  "2026-11-06": []
+  "2026-11-06": [],
+  "2026-11-09": [
+   {
+    "code": "601577",
+    "name": "长沙银行",
+    "price": 10.09,
+    "change_pct": 0.9,
+    "change_5d": 1.51,
+    "dist_52w_pct": -0.88,
+    "break_pct": 0.9,
+    "dev25_pct": 3.59,
+    "ma25": 9.74,
+    "ma60": 9.69,
+    "trend": true,
+    "amount_5d_yi": 13.17,
+    "consec_days": 1,
+    "score": 8.2,
+    "tag": "fourweek",
+    "reason": "近52周高-0.9% | 4周新高+0.9% | 偏离25日线+3.6% | 连续1日 | 5日均额13.2亿"
+   },
+   {
+    "code": "600566",
+    "name": "济川药业",
+    "price": 29.4,
+    "change_pct": 0.41,
+    "change_5d": 6.33,
+    "dist_52w_pct": -1.14,
+    "break_pct": 0.41,
+    "dev25_pct": 8.61,
+    "ma25": 27.07,
+    "ma60": 25.93,
+    "trend": true,
+    "amount_5d_yi": 15.86,
+    "consec_days": 1,
+    "score": 7.7,
+    "tag": "fourweek",
+    "reason": "近52周高-1.1% | 4周新高+0.4% | 偏离25日线+8.6% | 连续1日 | 5日均额15.9亿"
+   }
+  ]
  }
 }
