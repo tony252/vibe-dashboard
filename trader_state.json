@@ -10,7 +10,7 @@
     "strongbuy": 0.25,
     "daily_picks": 0.2
    },
-   "cash": 45273.83104999997,
+   "cash": 45525.67467499997,
    "positions": [
     {
      "code": "000890",
@@ -116,7 +116,7 @@
      "name": "阳普医疗",
      "qty": 200,
      "avg": 7.327,
-     "last": 7.08,
+     "last": 7.17,
      "strategy": "strongbuy",
      "open_date": "2026-10-30"
     },
@@ -125,25 +125,16 @@
      "name": "津滨发展",
      "qty": 500,
      "avg": 1.924,
-     "last": 1.94,
+     "last": 1.93,
      "strategy": "strong",
      "open_date": "2026-11-04"
-    },
-    {
-     "code": "920007",
-     "name": "酉立智能",
-     "qty": 100,
-     "avg": 39.579,
-     "last": 39.49,
-     "strategy": "strongbuy",
-     "open_date": "2026-11-05"
     },
     {
      "code": "300071",
      "name": "福石控股",
      "qty": 500,
      "avg": 4.56,
-     "last": 4.55,
+     "last": 4.49,
      "strategy": "strongbuy",
      "open_date": "2026-11-05"
     },
@@ -152,7 +143,7 @@
      "name": "东方材料",
      "qty": 700,
      "avg": 22.2,
-     "last": 22.15,
+     "last": 22.22,
      "strategy": "strong",
      "open_date": "2026-11-06"
     },
@@ -161,7 +152,7 @@
      "name": "汉嘉数智",
      "qty": 100,
      "avg": 13.5,
-     "last": 13.47,
+     "last": 13.69,
      "strategy": "strong",
      "open_date": "2026-11-06"
     },
@@ -170,7 +161,7 @@
      "name": "神开股份",
      "qty": 100,
      "avg": 7.186,
-     "last": 7.17,
+     "last": 7.19,
      "strategy": "strong",
      "open_date": "2026-11-06"
     },
@@ -182,9 +173,18 @@
      "last": 2.82,
      "strategy": "strongbuy",
      "open_date": "2026-11-06"
+    },
+    {
+     "code": "002300",
+     "name": "太阳电缆",
+     "qty": 500,
+     "avg": 8.93,
+     "last": 8.91,
+     "strategy": "strongbuy",
+     "open_date": "2026-11-10"
     }
    ],
-   "realized": 16485.62114999999
+   "realized": 17244.680774999993
   },
   {
    "id": "cloud-sat-B",
@@ -193,7 +193,7 @@
     "strong": 0.3,
     "strongbuy": 0.2
    },
-   "cash": 27383.687049999993,
+   "cash": 27507.906999999992,
    "positions": [
     {
      "code": "000890",
@@ -223,20 +223,11 @@
      "open_date": "2026-09-24"
     },
     {
-     "code": "000665",
-     "name": "湖北广电",
-     "qty": 100,
-     "avg": 3.959,
-     "last": 4.1,
-     "strategy": "strong",
-     "open_date": "2026-10-30"
-    },
-    {
      "code": "300030",
      "name": "阳普医疗",
      "qty": 200,
      "avg": 7.327,
-     "last": 7.08,
+     "last": 7.17,
      "strategy": "strongbuy",
      "open_date": "2026-10-30"
     },
@@ -245,7 +236,7 @@
      "name": "津滨发展",
      "qty": 400,
      "avg": 1.924,
-     "last": 1.94,
+     "last": 1.93,
      "strategy": "strong",
      "open_date": "2026-11-04"
     },
@@ -254,7 +245,7 @@
      "name": "福石控股",
      "qty": 500,
      "avg": 4.56,
-     "last": 4.55,
+     "last": 4.49,
      "strategy": "strongbuy",
      "open_date": "2026-11-05"
     },
@@ -263,7 +254,7 @@
      "name": "东方材料",
      "qty": 300,
      "avg": 22.2,
-     "last": 22.15,
+     "last": 22.22,
      "strategy": "strong",
      "open_date": "2026-11-06"
     },
@@ -293,9 +284,18 @@
      "last": 2.82,
      "strategy": "strongbuy",
      "open_date": "2026-11-06"
+    },
+    {
+     "code": "000068",
+     "name": "华控赛格",
+     "qty": 100,
+     "avg": 2.867,
+     "last": 2.86,
+     "strategy": "strong",
+     "open_date": "2026-11-10"
     }
    ],
-   "realized": 2313.0362500000033
+   "realized": 2328.027850000003
   }
  ],
  "history": [
@@ -418,6 +418,10 @@
   {
    "ts": "2026-11-06 23:16",
    "equity": 168527.52
+  },
+  {
+   "ts": "2026-11-10 01:44",
+   "equity": 169346.58
   }
  ],
  "trades": [
@@ -2796,7 +2800,51 @@
    "price": 2.826,
    "reason": "strongbuy 信号买入",
    "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10 01:44",
+   "code": "920007",
+   "name": "酉立智能",
+   "side": "SELL",
+   "qty": 100,
+   "price": 47.205,
+   "reason": "止盈 +19.5%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10 01:44",
+   "code": "002300",
+   "name": "太阳电缆",
+   "side": "BUY",
+   "qty": 500,
+   "price": 8.928,
+   "reason": "strongbuy 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10 01:44",
+   "code": "000665",
+   "name": "湖北广电",
+   "side": "SELL",
+   "qty": 100,
+   "price": 4.112,
+   "reason": "持有11天轮出",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10 01:44",
+   "code": "000068",
+   "name": "华控赛格",
+   "side": "BUY",
+   "qty": 100,
+   "price": 2.866,
+   "reason": "strong 信号买入",
+   "account": "cloud-sat-B"
   }
  ],
- "last_run_date": "2026-11-06"
+ "last_run_date": "2026-11-10"
 }
