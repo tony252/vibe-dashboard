@@ -477,3 +477,15 @@
 [2026-11-06 22:55:04] [INFO] 已写入 /home/runner/work/vibe-dashboard/vibe-dashboard/daily_picks.json [2026-11-06][高欣唯科科技形态]: 10 只
 [2026-11-06 22:55:04] [INFO] 完成！共找到 10 只
 [2026-11-06 22:55:04] [INFO] ===== 结束 =====
+[2026-11-10 00:17:00] [INFO] ===== 高欣唯科科技形态选股开始 =====
+[2026-11-10 00:17:00] [INFO] 进入云端扫描模式（无本地TDX，使用网络行情）
+[2026-11-10 00:17:04] [INFO] 候选池 325 只
+[2026-11-10 00:18:21] [INFO] 网络K线获取失败 002811: HTTP Error 504: Gateway Time-out
+[2026-11-10 00:19:20] [INFO] 云端已扫描 100/325...
+[2026-11-10 00:21:01] [INFO] 网络K线获取失败 000593: HTTP Error 504: Gateway Time-out
+[2026-11-10 00:21:37] [INFO] 云端已扫描 200/325...
+[2026-11-10 00:23:25] [INFO] 云端已扫描 300/325...
+[2026-11-10 00:23:48] [INFO] 结果已保存到: /home/runner/work/vibe-dashboard/vibe-dashboard/breakout_stocks.txt
+[2026-11-10 00:23:48] [INFO] 已写入 /home/runner/work/vibe-dashboard/vibe-dashboard/daily_picks.json [2026-11-10][高欣唯科科技形态]: 10 只
+[2026-11-10 00:23:48] [INFO] 完成！共找到 10 只
+[2026-11-10 00:23:48] [INFO] ===== 结束 =====
