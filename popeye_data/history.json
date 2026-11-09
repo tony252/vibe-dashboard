@@ -2574,22 +2574,22 @@
       {
         "code": "300056",
         "name": "中创环保",
-        "buy_price": 8.43,
+        "buy_price": 8.68,
         "buy_date": "2026-11-09",
         "shares": 1100,
-        "cost": 9273.0,
+        "cost": 9548.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 12.4
+        "change_at_buy": 15.733
       },
       {
         "code": "300825",
         "name": "阿尔特",
-        "buy_price": 11.92,
+        "buy_price": 12.34,
         "buy_date": "2026-11-09",
         "shares": 800,
-        "cost": 9536.0,
+        "cost": 9872.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 10.781
+        "change_at_buy": 14.684
       },
       {
         "code": "600715",
@@ -2632,16 +2632,6 @@
         "change_at_buy": 10.063
       },
       {
-        "code": "600156",
-        "name": "华升股份",
-        "buy_price": 7.78,
-        "buy_date": "2026-11-09",
-        "shares": 1200,
-        "cost": 9336.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 10.042
-      },
-      {
         "code": "603703",
         "name": "盛洋科技",
         "buy_price": 11.1,
@@ -2670,8 +2660,18 @@
         "cost": 9625.0,
         "reason": "黄金区间3-6%",
         "change_at_buy": 10.0
+      },
+      {
+        "code": "000530",
+        "name": "冰山冷热",
+        "buy_price": 9.57,
+        "buy_date": "2026-11-09",
+        "shares": 1000,
+        "cost": 9570.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.0
       }
     ],
-    "total_cost": 96823.0
+    "total_cost": 97668.0
   }
 }
