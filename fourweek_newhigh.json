@@ -1,4 +1,41 @@
 {
- "date": "2026-11-06",
- "picks": []
+ "date": "2026-11-09",
+ "picks": [
+  {
+   "code": "601577",
+   "name": "长沙银行",
+   "price": 10.09,
+   "change_pct": 0.9,
+   "change_5d": 1.51,
+   "dist_52w_pct": -0.88,
+   "break_pct": 0.9,
+   "dev25_pct": 3.59,
+   "ma25": 9.74,
+   "ma60": 9.69,
+   "trend": true,
+   "amount_5d_yi": 13.17,
+   "consec_days": 1,
+   "score": 8.2,
+   "tag": "fourweek",
+   "reason": "近52周高-0.9% | 4周新高+0.9% | 偏离25日线+3.6% | 连续1日 | 5日均额13.2亿"
+  },
+  {
+   "code": "600566",
+   "name": "济川药业",
+   "price": 29.4,
+   "change_pct": 0.41,
+   "change_5d": 6.33,
+   "dist_52w_pct": -1.14,
+   "break_pct": 0.41,
+   "dev25_pct": 8.61,
+   "ma25": 27.07,
+   "ma60": 25.93,
+   "trend": true,
+   "amount_5d_yi": 15.86,
+   "consec_days": 1,
+   "score": 7.7,
+   "tag": "fourweek",
+   "reason": "近52周高-1.1% | 4周新高+0.4% | 偏离25日线+8.6% | 连续1日 | 5日均额15.9亿"
+  }
+ ]
 }
