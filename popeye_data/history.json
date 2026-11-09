@@ -2566,5 +2566,112 @@
       }
     ],
     "total_cost": 94289.0
+  },
+  "2026-11-09": {
+    "date": "2026-11-09",
+    "capital": 100000,
+    "positions": [
+      {
+        "code": "300056",
+        "name": "中创环保",
+        "buy_price": 8.43,
+        "buy_date": "2026-11-09",
+        "shares": 1100,
+        "cost": 9273.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 12.4
+      },
+      {
+        "code": "300825",
+        "name": "阿尔特",
+        "buy_price": 11.92,
+        "buy_date": "2026-11-09",
+        "shares": 800,
+        "cost": 9536.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.781
+      },
+      {
+        "code": "600715",
+        "name": "文投控股",
+        "buy_price": 2.59,
+        "buy_date": "2026-11-09",
+        "shares": 3800,
+        "cost": 9842.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.213
+      },
+      {
+        "code": "600609",
+        "name": "金杯汽车",
+        "buy_price": 3.48,
+        "buy_date": "2026-11-09",
+        "shares": 2800,
+        "cost": 9744.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.127
+      },
+      {
+        "code": "002596",
+        "name": "海南瑞泽",
+        "buy_price": 3.48,
+        "buy_date": "2026-11-09",
+        "shares": 2800,
+        "cost": 9744.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.127
+      },
+      {
+        "code": "002347",
+        "name": "泰尔股份",
+        "buy_price": 7.0,
+        "buy_date": "2026-11-09",
+        "shares": 1400,
+        "cost": 9800.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.063
+      },
+      {
+        "code": "600156",
+        "name": "华升股份",
+        "buy_price": 7.78,
+        "buy_date": "2026-11-09",
+        "shares": 1200,
+        "cost": 9336.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.042
+      },
+      {
+        "code": "603703",
+        "name": "盛洋科技",
+        "buy_price": 11.1,
+        "buy_date": "2026-11-09",
+        "shares": 900,
+        "cost": 9990.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.01
+      },
+      {
+        "code": "600121",
+        "name": "郑州煤电",
+        "buy_price": 4.73,
+        "buy_date": "2026-11-09",
+        "shares": 2100,
+        "cost": 9933.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.0
+      },
+      {
+        "code": "600853",
+        "name": "龙建股份",
+        "buy_price": 3.85,
+        "buy_date": "2026-11-09",
+        "shares": 2500,
+        "cost": 9625.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.0
+      }
+    ],
+    "total_cost": 96823.0
   }
 }
