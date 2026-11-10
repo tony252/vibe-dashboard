@@ -277674,6 +277674,96 @@
       "time": "15:30",
       "picks": [
         {
+          "code": "301697",
+          "name": "贝特利",
+          "price": 37.5,
+          "change_pct": 7.021,
+          "turnover": 67.61881,
+          "volume_yi": 10.57,
+          "score": 100,
+          "reason": "换手67.6% | 涨幅+7.0%"
+        },
+        {
+          "code": "301313",
+          "name": "凡拓数创",
+          "price": 76.49,
+          "change_pct": 9.632,
+          "turnover": 40.2769,
+          "volume_yi": 23.66,
+          "score": 100,
+          "reason": "换手40.3% | 涨幅+9.6%"
+        },
+        {
+          "code": "601599",
+          "name": "浙文影业",
+          "price": 5.6,
+          "change_pct": 4.089,
+          "turnover": 39.66647,
+          "volume_yi": 25.16,
+          "score": 100,
+          "reason": "换手39.7% | 涨幅+4.1%"
+        },
+        {
+          "code": "002086",
+          "name": "东方海洋",
+          "price": 4.62,
+          "change_pct": 5.721,
+          "turnover": 39.02527,
+          "volume_yi": 27.9,
+          "score": 100,
+          "reason": "换手39.0% | 涨幅+5.7%"
+        },
+        {
+          "code": "002578",
+          "name": "闽发铝业",
+          "price": 6.06,
+          "change_pct": 9.982,
+          "turnover": 38.90398,
+          "volume_yi": 19.22,
+          "score": 100,
+          "reason": "换手38.9% | 涨幅+10.0%"
+        },
+        {
+          "code": "301052",
+          "name": "果麦文化",
+          "price": 40.8,
+          "change_pct": 5.263,
+          "turnover": 35.74734,
+          "volume_yi": 11.59,
+          "score": 100,
+          "reason": "换手35.7% | 涨幅+5.3%"
+        },
+        {
+          "code": "301513",
+          "name": "尚水智能",
+          "price": 60.95,
+          "change_pct": 4.797,
+          "turnover": 31.1697,
+          "volume_yi": 3.94,
+          "score": 100,
+          "reason": "换手31.2% | 涨幅+4.8%"
+        },
+        {
+          "code": "000995",
+          "name": "皇台酒业",
+          "price": 17.57,
+          "change_pct": 5.21,
+          "turnover": 30.19218,
+          "volume_yi": 9.1,
+          "score": 100,
+          "reason": "换手30.2% | 涨幅+5.2%"
+        },
+        {
+          "code": "301569",
+          "name": "联亚药业",
+          "price": 19.6,
+          "change_pct": 4.089,
+          "turnover": 29.70383,
+          "volume_yi": 6.82,
+          "score": 100,
+          "reason": "换手29.7% | 涨幅+4.1%"
+        },
+        {
           "code": "603381",
           "name": "永臻股份",
           "price": 21.89,
@@ -277682,6 +277772,16 @@
           "volume_yi": 8.7,
           "score": 100,
           "reason": "换手29.6% | 涨幅+10.0%"
+        },
+        {
+          "code": "002565",
+          "name": "顺灏股份",
+          "price": 11.29,
+          "change_pct": 7.116,
+          "turnover": 29.57973,
+          "volume_yi": 34.12,
+          "score": 100,
+          "reason": "换手29.6% | 涨幅+7.1%"
         },
         {
           "code": "603703",
@@ -277694,134 +277794,34 @@
           "reason": "换手29.2% | 涨幅+10.0%"
         },
         {
-          "code": "002995",
-          "name": "天地在线",
-          "price": 20.68,
-          "change_pct": 10.0,
-          "turnover": 20.45433,
-          "volume_yi": 4.93,
-          "score": 100,
-          "reason": "换手20.5% | 涨幅+10.0%"
-        },
-        {
-          "code": "002313",
-          "name": "日海智能",
-          "price": 9.24,
-          "change_pct": 10.0,
-          "turnover": 10.10709,
-          "volume_yi": 3.43,
-          "score": 90,
-          "reason": "换手10.1% | 涨幅+10.0%"
-        },
-        {
-          "code": "301591",
-          "name": "肯特股份",
-          "price": 43.2,
-          "change_pct": 14.346,
-          "turnover": 45.407,
+          "code": "301262",
+          "name": "海看股份",
+          "price": 25.25,
+          "change_pct": 4.21,
+          "turnover": 28.38206,
           "volume_yi": 8.7,
-          "score": 80,
-          "reason": "换手45.4% | 涨幅+14.3%[偏高]"
+          "score": 100,
+          "reason": "换手28.4% | 涨幅+4.2%"
         },
         {
-          "code": "300556",
-          "name": "丝路视觉",
-          "price": 22.25,
-          "change_pct": 20.011,
-          "turnover": 36.60908,
-          "volume_yi": 8.17,
-          "score": 80,
-          "reason": "换手36.6% | 涨幅+20.0%[偏高]"
+          "code": "002712",
+          "name": "思美传媒",
+          "price": 6.21,
+          "change_pct": 5.792,
+          "turnover": 28.15655,
+          "volume_yi": 9.21,
+          "score": 100,
+          "reason": "换手28.2% | 涨幅+5.8%"
         },
         {
-          "code": "600892",
-          "name": "大晟文化",
-          "price": 5.6,
-          "change_pct": 10.02,
-          "turnover": 34.14611,
-          "volume_yi": 10.03,
-          "score": 80,
-          "reason": "换手34.1% | 涨幅+10.0%[偏高]"
-        },
-        {
-          "code": "301428",
-          "name": "世纪恒通",
-          "price": 34.17,
-          "change_pct": 15.4,
-          "turnover": 33.76606,
-          "volume_yi": 7.64,
-          "score": 80,
-          "reason": "换手33.8% | 涨幅+15.4%[偏高]"
-        },
-        {
-          "code": "601188",
-          "name": "龙江交通",
-          "price": 4.61,
-          "change_pct": 10.024,
-          "turnover": 32.44331,
-          "volume_yi": 19.26,
-          "score": 80,
-          "reason": "换手32.4% | 涨幅+10.0%[偏高]"
-        },
-        {
-          "code": "300426",
-          "name": "华智数媒",
-          "price": 11.47,
-          "change_pct": 19.979,
-          "turnover": 27.55871,
-          "volume_yi": 11.5,
-          "score": 80,
-          "reason": "换手27.6% | 涨幅+20.0%[偏高]"
-        },
-        {
-          "code": "300534",
-          "name": "陇神戎发",
-          "price": 11.26,
-          "change_pct": 10.176,
-          "turnover": 24.85477,
-          "volume_yi": 8.27,
-          "score": 80,
-          "reason": "换手24.9% | 涨幅+10.2%[偏高]"
-        },
-        {
-          "code": "000530",
-          "name": "冰山冷热",
-          "price": 10.53,
-          "change_pct": 10.031,
-          "turnover": 24.44777,
-          "volume_yi": 15.33,
-          "score": 80,
-          "reason": "换手24.4% | 涨幅+10.0%[偏高]"
-        },
-        {
-          "code": "002865",
-          "name": "钧达股份",
-          "price": 48.9,
-          "change_pct": 10.011,
-          "turnover": 23.63174,
-          "volume_yi": 24.98,
-          "score": 80,
-          "reason": "换手23.6% | 涨幅+10.0%[偏高]"
-        },
-        {
-          "code": "600778",
-          "name": "友好集团",
-          "price": 5.82,
-          "change_pct": 10.019,
-          "turnover": 22.15641,
-          "volume_yi": 3.95,
-          "score": 80,
-          "reason": "换手22.2% | 涨幅+10.0%[偏高]"
-        },
-        {
-          "code": "002343",
-          "name": "慈文传媒",
-          "price": 9.33,
-          "change_pct": 10.024,
-          "turnover": 21.92552,
-          "volume_yi": 9.47,
-          "score": 80,
-          "reason": "换手21.9% | 涨幅+10.0%[偏高]"
+          "code": "301699",
+          "name": "洛轴股份",
+          "price": 33.44,
+          "change_pct": 3.658,
+          "turnover": 28.1192,
+          "volume_yi": 6.55,
+          "score": 100,
+          "reason": "换手28.1% | 涨幅+3.7%"
         }
       ]
     }
