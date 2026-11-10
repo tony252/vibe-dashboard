@@ -2689,24 +2689,34 @@
         "change_at_buy": 20.073
       },
       {
-        "code": "300825",
-        "name": "阿尔特",
-        "buy_price": 13.83,
+        "code": "300752",
+        "name": "隆利科技",
+        "buy_price": 11.17,
         "buy_date": "2026-11-10",
-        "shares": 700,
-        "cost": 9681.0,
+        "shares": 800,
+        "cost": 8936.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 11.353
+        "change_at_buy": 12.036
       },
       {
-        "code": "300670",
-        "name": "大烨智能",
-        "buy_price": 6.24,
+        "code": "300989",
+        "name": "蕾奥规划",
+        "buy_price": 12.59,
         "buy_date": "2026-11-10",
-        "shares": 1600,
-        "cost": 9984.0,
+        "shares": 700,
+        "cost": 8813.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 11.032
+        "change_at_buy": 11.613
+      },
+      {
+        "code": "300154",
+        "name": "瑞凌股份",
+        "buy_price": 14.78,
+        "buy_date": "2026-11-10",
+        "shares": 600,
+        "cost": 8868.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.463
       },
       {
         "code": "002021",
@@ -2729,6 +2739,16 @@
         "change_at_buy": 10.156
       },
       {
+        "code": "002036",
+        "name": "联创电子",
+        "buy_price": 5.68,
+        "buy_date": "2026-11-10",
+        "shares": 1700,
+        "cost": 9656.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.078
+      },
+      {
         "code": "600609",
         "name": "金杯汽车",
         "buy_price": 3.83,
@@ -2739,6 +2759,16 @@
         "change_at_buy": 10.057
       },
       {
+        "code": "603058",
+        "name": "永吉股份",
+        "buy_price": 8.54,
+        "buy_date": "2026-11-10",
+        "shares": 1100,
+        "cost": 9393.999999999998,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.052
+      },
+      {
         "code": "600715",
         "name": "文投控股",
         "buy_price": 2.85,
@@ -2747,38 +2777,8 @@
         "cost": 9975.0,
         "reason": "黄金区间3-6%",
         "change_at_buy": 10.039
-      },
-      {
-        "code": "001318",
-        "name": "阳光乳业",
-        "buy_price": 14.69,
-        "buy_date": "2026-11-10",
-        "shares": 600,
-        "cost": 8814.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 10.037
-      },
-      {
-        "code": "603037",
-        "name": "凯众股份",
-        "buy_price": 14.37,
-        "buy_date": "2026-11-10",
-        "shares": 600,
-        "cost": 8622.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 10.031
-      },
-      {
-        "code": "603121",
-        "name": "华培动力",
-        "buy_price": 13.18,
-        "buy_date": "2026-11-10",
-        "shares": 700,
-        "cost": 9226.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 10.017
       }
     ],
-    "total_cost": 95954.0
+    "total_cost": 95294.0
   }
 }
