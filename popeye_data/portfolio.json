@@ -1,107 +1,107 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "capital": 100000,
   "positions": [
     {
-      "code": "300056",
-      "name": "中创环保",
-      "buy_price": 8.69,
-      "buy_date": "2026-11-09",
-      "shares": 1100,
-      "cost": 9559.0,
+      "code": "300264",
+      "name": "佳创视讯",
+      "buy_price": 6.58,
+      "buy_date": "2026-11-10",
+      "shares": 1500,
+      "cost": 9870.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 15.867
+      "change_at_buy": 20.073
     },
     {
       "code": "300825",
       "name": "阿尔特",
-      "buy_price": 12.42,
-      "buy_date": "2026-11-09",
-      "shares": 800,
-      "cost": 9936.0,
+      "buy_price": 13.83,
+      "buy_date": "2026-11-10",
+      "shares": 700,
+      "cost": 9681.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 15.428
+      "change_at_buy": 11.353
     },
     {
-      "code": "600715",
-      "name": "文投控股",
-      "buy_price": 2.59,
-      "buy_date": "2026-11-09",
-      "shares": 3800,
-      "cost": 9842.0,
+      "code": "300670",
+      "name": "大烨智能",
+      "buy_price": 6.24,
+      "buy_date": "2026-11-10",
+      "shares": 1600,
+      "cost": 9984.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 10.213
+      "change_at_buy": 11.032
+    },
+    {
+      "code": "002021",
+      "name": "中捷资源",
+      "buy_price": 2.37,
+      "buy_date": "2026-11-10",
+      "shares": 4200,
+      "cost": 9954.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 10.233
+    },
+    {
+      "code": "002535",
+      "name": "林州重机",
+      "buy_price": 2.82,
+      "buy_date": "2026-11-10",
+      "shares": 3500,
+      "cost": 9870.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 10.156
     },
     {
       "code": "600609",
       "name": "金杯汽车",
-      "buy_price": 3.48,
-      "buy_date": "2026-11-09",
-      "shares": 2800,
-      "cost": 9744.0,
+      "buy_price": 3.83,
+      "buy_date": "2026-11-10",
+      "shares": 2600,
+      "cost": 9958.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 10.127
+      "change_at_buy": 10.057
     },
     {
-      "code": "002596",
-      "name": "海南瑞泽",
-      "buy_price": 3.48,
-      "buy_date": "2026-11-09",
-      "shares": 2800,
-      "cost": 9744.0,
+      "code": "600715",
+      "name": "文投控股",
+      "buy_price": 2.85,
+      "buy_date": "2026-11-10",
+      "shares": 3500,
+      "cost": 9975.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 10.127
+      "change_at_buy": 10.039
     },
     {
-      "code": "002347",
-      "name": "泰尔股份",
-      "buy_price": 7.0,
-      "buy_date": "2026-11-09",
-      "shares": 1400,
-      "cost": 9800.0,
+      "code": "001318",
+      "name": "阳光乳业",
+      "buy_price": 14.69,
+      "buy_date": "2026-11-10",
+      "shares": 600,
+      "cost": 8814.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 10.063
+      "change_at_buy": 10.037
     },
     {
-      "code": "603703",
-      "name": "盛洋科技",
-      "buy_price": 11.1,
-      "buy_date": "2026-11-09",
-      "shares": 900,
-      "cost": 9990.0,
+      "code": "603037",
+      "name": "凯众股份",
+      "buy_price": 14.37,
+      "buy_date": "2026-11-10",
+      "shares": 600,
+      "cost": 8622.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 10.01
+      "change_at_buy": 10.031
     },
     {
-      "code": "600121",
-      "name": "郑州煤电",
-      "buy_price": 4.73,
-      "buy_date": "2026-11-09",
-      "shares": 2100,
-      "cost": 9933.0,
+      "code": "603121",
+      "name": "华培动力",
+      "buy_price": 13.18,
+      "buy_date": "2026-11-10",
+      "shares": 700,
+      "cost": 9226.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 10.0
-    },
-    {
-      "code": "600853",
-      "name": "龙建股份",
-      "buy_price": 3.85,
-      "buy_date": "2026-11-09",
-      "shares": 2500,
-      "cost": 9625.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 10.0
-    },
-    {
-      "code": "000530",
-      "name": "冰山冷热",
-      "buy_price": 9.57,
-      "buy_date": "2026-11-09",
-      "shares": 1000,
-      "cost": 9570.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 10.0
+      "change_at_buy": 10.017
     }
   ],
-  "total_cost": 97743.0
+  "total_cost": 95954.0
 }
