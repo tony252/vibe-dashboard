@@ -10,7 +10,7 @@
     "strongbuy": 0.25,
     "daily_picks": 0.2
    },
-   "cash": 45525.67467499997,
+   "cash": 48322.87519999997,
    "positions": [
     {
      "code": "000890",
@@ -116,7 +116,7 @@
      "name": "阳普医疗",
      "qty": 200,
      "avg": 7.327,
-     "last": 7.17,
+     "last": 7.19,
      "strategy": "strongbuy",
      "open_date": "2026-10-30"
     },
@@ -125,25 +125,16 @@
      "name": "津滨发展",
      "qty": 500,
      "avg": 1.924,
-     "last": 1.93,
+     "last": 1.92,
      "strategy": "strong",
      "open_date": "2026-11-04"
-    },
-    {
-     "code": "300071",
-     "name": "福石控股",
-     "qty": 500,
-     "avg": 4.56,
-     "last": 4.49,
-     "strategy": "strongbuy",
-     "open_date": "2026-11-05"
     },
     {
      "code": "603110",
      "name": "东方材料",
      "qty": 700,
      "avg": 22.2,
-     "last": 22.22,
+     "last": 22.45,
      "strategy": "strong",
      "open_date": "2026-11-06"
     },
@@ -152,7 +143,7 @@
      "name": "汉嘉数智",
      "qty": 100,
      "avg": 13.5,
-     "last": 13.69,
+     "last": 13.84,
      "strategy": "strong",
      "open_date": "2026-11-06"
     },
@@ -161,17 +152,8 @@
      "name": "神开股份",
      "qty": 100,
      "avg": 7.186,
-     "last": 7.19,
+     "last": 7.25,
      "strategy": "strong",
-     "open_date": "2026-11-06"
-    },
-    {
-     "code": "300237",
-     "name": "美晨科技",
-     "qty": 200,
-     "avg": 2.827,
-     "last": 2.82,
-     "strategy": "strongbuy",
      "open_date": "2026-11-06"
     },
     {
@@ -179,12 +161,12 @@
      "name": "太阳电缆",
      "qty": 500,
      "avg": 8.93,
-     "last": 8.91,
+     "last": 8.93,
      "strategy": "strongbuy",
      "open_date": "2026-11-10"
     }
    ],
-   "realized": 17244.680774999993
+   "realized": 17196.481299999996
   },
   {
    "id": "cloud-sat-B",
@@ -193,7 +175,7 @@
     "strong": 0.3,
     "strongbuy": 0.2
    },
-   "cash": 27507.906999999992,
+   "cash": 32574.204424999993,
    "positions": [
     {
      "code": "000890",
@@ -227,7 +209,7 @@
      "name": "阳普医疗",
      "qty": 200,
      "avg": 7.327,
-     "last": 7.17,
+     "last": 7.19,
      "strategy": "strongbuy",
      "open_date": "2026-10-30"
     },
@@ -236,25 +218,16 @@
      "name": "津滨发展",
      "qty": 400,
      "avg": 1.924,
-     "last": 1.93,
+     "last": 1.92,
      "strategy": "strong",
      "open_date": "2026-11-04"
-    },
-    {
-     "code": "300071",
-     "name": "福石控股",
-     "qty": 500,
-     "avg": 4.56,
-     "last": 4.49,
-     "strategy": "strongbuy",
-     "open_date": "2026-11-05"
     },
     {
      "code": "603110",
      "name": "东方材料",
      "qty": 300,
      "avg": 22.2,
-     "last": 22.22,
+     "last": 22.45,
      "strategy": "strong",
      "open_date": "2026-11-06"
     },
@@ -263,7 +236,7 @@
      "name": "世荣兆业",
      "qty": 100,
      "avg": 3.949,
-     "last": 3.94,
+     "last": 3.95,
      "strategy": "strong",
      "open_date": "2026-11-06"
     },
@@ -272,17 +245,8 @@
      "name": "光大嘉宝",
      "qty": 100,
      "avg": 2.085,
-     "last": 2.08,
+     "last": 2.07,
      "strategy": "strong",
-     "open_date": "2026-11-06"
-    },
-    {
-     "code": "300237",
-     "name": "美晨科技",
-     "qty": 900,
-     "avg": 2.827,
-     "last": 2.82,
-     "strategy": "strongbuy",
      "open_date": "2026-11-06"
     },
     {
@@ -290,12 +254,12 @@
      "name": "华控赛格",
      "qty": 100,
      "avg": 2.867,
-     "last": 2.86,
+     "last": 2.95,
      "strategy": "strong",
      "open_date": "2026-11-10"
     }
    ],
-   "realized": 2328.027850000003
+   "realized": 2570.0252750000036
   }
  ],
  "history": [
@@ -420,8 +384,8 @@
    "equity": 168527.52
   },
   {
-   "ts": "2026-11-10 01:44",
-   "equity": 169346.58
+   "ts": "2026-11-10 23:43",
+   "equity": 169887.08
   }
  ],
  "trades": [
@@ -2843,6 +2807,50 @@
    "qty": 100,
    "price": 2.866,
    "reason": "strong 信号买入",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10 23:43",
+   "code": "300071",
+   "name": "福石控股",
+   "side": "SELL",
+   "qty": 500,
+   "price": 4.301,
+   "reason": "止损 -5.5%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10 23:43",
+   "code": "300237",
+   "name": "美晨科技",
+   "side": "SELL",
+   "qty": 200,
+   "price": 3.244,
+   "reason": "止盈 +15.0%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10 23:43",
+   "code": "300071",
+   "name": "福石控股",
+   "side": "SELL",
+   "qty": 500,
+   "price": 4.301,
+   "reason": "止损 -5.5%",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10 23:43",
+   "code": "300237",
+   "name": "美晨科技",
+   "side": "SELL",
+   "qty": 900,
+   "price": 3.244,
+   "reason": "止盈 +15.0%",
    "account": "cloud-sat-B"
   }
  ],
