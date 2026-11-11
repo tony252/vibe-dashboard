@@ -3,43 +3,43 @@
     "indices": [
       {
         "name": "上证指数",
-        "current": 3663.83,
-        "pct": 0.0
+        "current": 3653.8,
+        "pct": -0.27
       },
       {
         "name": "深证成指",
-        "current": 11245.74,
-        "pct": 0.04
+        "current": 11188.11,
+        "pct": -0.48
       },
       {
         "name": "创业板指",
-        "current": 2509.42,
-        "pct": 0.6
+        "current": 2495.85,
+        "pct": 0.06
       },
       {
         "name": "沪深300",
-        "current": 4051.17,
-        "pct": -0.2
+        "current": 4038.42,
+        "pct": -0.51
       },
       {
         "name": "科创50",
-        "current": 1270.35,
-        "pct": 0.42
+        "current": 1259.99,
+        "pct": -0.4
       },
       {
         "name": "上证50",
-        "current": 2762.25,
-        "pct": -0.39
+        "current": 2755.31,
+        "pct": -0.64
       },
       {
         "name": "中证500",
-        "current": 6660.11,
-        "pct": 0.21
+        "current": 6622.07,
+        "pct": -0.36
       },
       {
         "name": "中证1000",
-        "current": 6595.1,
-        "pct": 0.24
+        "current": 6557.74,
+        "pct": -0.33
       }
     ],
     "top_gainers": [
@@ -48,191 +48,191 @@
         "code": "000631",
         "price": 3.14,
         "change_pct": 10.18,
-        "turnover": 1.54
+        "turnover": 1.61
       },
       {
         "name": "尤夫股份",
         "code": "002427",
         "price": 4.69,
         "change_pct": 10.09,
-        "turnover": 2.73
+        "turnover": 3.16
       },
       {
         "name": "神开股份",
         "code": "002278",
         "price": 7.98,
         "change_pct": 10.07,
-        "turnover": 8.19
+        "turnover": 9.23
       },
       {
         "name": "凯撒文化",
         "code": "002425",
         "price": 3.83,
         "change_pct": 10.06,
-        "turnover": 14.01
+        "turnover": 15.2
       },
       {
         "name": "飞亚达",
         "code": "000026",
         "price": 23.16,
         "change_pct": 10.02,
-        "turnover": 4.57
+        "turnover": 4.82
       },
       {
         "name": "光洋股份",
         "code": "002708",
         "price": 26.59,
         "change_pct": 10.01,
-        "turnover": 11.99
+        "turnover": 17.06
       },
       {
         "name": "锋龙股份",
         "code": "002931",
         "price": 53.08,
         "change_pct": 10.01,
-        "turnover": 5.86
+        "turnover": 5.95
+      },
+      {
+        "name": "胜通能源",
+        "code": "001331",
+        "price": 35.28,
+        "change_pct": 10.01,
+        "turnover": 3.4
       },
       {
         "name": "达 意 隆",
         "code": "002209",
         "price": 13.96,
         "change_pct": 10.01,
-        "turnover": 1.35
+        "turnover": 1.39
       },
       {
         "name": "日发精机",
         "code": "002520",
         "price": 7.26,
         "change_pct": 10.0,
-        "turnover": 6.86
+        "turnover": 7.36
       },
       {
         "name": "常铝股份",
         "code": "002160",
         "price": 4.4,
         "change_pct": 10.0,
-        "turnover": 11.26
+        "turnover": 11.44
+      },
+      {
+        "name": "三联锻造",
+        "code": "001282",
+        "price": 18.7,
+        "change_pct": 10.0,
+        "turnover": 6.28
       },
       {
         "name": "金浦钛业",
         "code": "000545",
         "price": 2.09,
         "change_pct": 10.0,
-        "turnover": 3.77
+        "turnover": 4.48
       },
       {
         "name": "亚玛顿",
         "code": "002623",
         "price": 23.33,
         "change_pct": 10.0,
-        "turnover": 0.35
+        "turnover": 0.36
       },
       {
         "name": "东易日盛",
         "code": "002713",
         "price": 8.48,
         "change_pct": 9.99,
-        "turnover": 1.33
-      },
-      {
-        "name": "瀛通通讯",
-        "code": "002861",
-        "price": 14.32,
-        "change_pct": 9.98,
-        "turnover": 1.58
-      },
-      {
-        "name": "日海智能",
-        "code": "002313",
-        "price": 10.16,
-        "change_pct": 9.96,
-        "turnover": 7.79
+        "turnover": 1.59
       }
     ],
     "sectors": [
       {
-        "name": "其他数字媒体",
-        "code": "BK1295",
-        "pct": 5.59,
-        "amount_yi": 16.9,
-        "net_inflow_yi": 0.9
-      },
-      {
         "name": "其他能源发电",
         "code": "BK1378",
         "pct": 5.09,
-        "amount_yi": 1.1,
+        "amount_yi": 1.2,
+        "net_inflow_yi": 0.4
+      },
+      {
+        "name": "其他数字媒体",
+        "code": "BK1295",
+        "pct": 4.77,
+        "amount_yi": 22.0,
+        "net_inflow_yi": 0.8
+      },
+      {
+        "name": "汽车综合服务",
+        "code": "BK1524",
+        "pct": 3.61,
+        "amount_yi": 8.2,
         "net_inflow_yi": 0.4
       },
       {
         "name": "卫浴电器",
         "code": "BK1452",
-        "pct": 3.4,
-        "amount_yi": 0.9,
+        "pct": 3.15,
+        "amount_yi": 1.0,
         "net_inflow_yi": 0.4
       },
       {
         "name": "长材",
         "code": "BK1369",
-        "pct": 3.28,
-        "amount_yi": 1.3,
+        "pct": 3.12,
+        "amount_yi": 1.5,
         "net_inflow_yi": 0.4
-      },
-      {
-        "name": "通信网络设备及器件",
-        "code": "BK1591",
-        "pct": 3.18,
-        "amount_yi": 267.6,
-        "net_inflow_yi": 34.6
-      },
-      {
-        "name": "汽车综合服务",
-        "code": "BK1524",
-        "pct": 3.18,
-        "amount_yi": 5.7,
-        "net_inflow_yi": 0.3
-      },
-      {
-        "name": "通信线缆及配套",
-        "code": "BK1592",
-        "pct": 2.79,
-        "amount_yi": 49.5,
-        "net_inflow_yi": 2.6
       },
       {
         "name": "综合包装",
         "code": "BK1536",
-        "pct": 2.55,
-        "amount_yi": 0.9,
+        "pct": 2.68,
+        "amount_yi": 1.2,
         "net_inflow_yi": 0.2
-      },
-      {
-        "name": "涤纶",
-        "code": "BK1413",
-        "pct": 2.48,
-        "amount_yi": 3.6,
-        "net_inflow_yi": 0.4
       },
       {
         "name": "玻璃制造",
         "code": "BK1461",
-        "pct": 2.29,
-        "amount_yi": 4.9,
-        "net_inflow_yi": 0.3
+        "pct": 2.59,
+        "amount_yi": 7.1,
+        "net_inflow_yi": 1.0
       },
       {
-        "name": "通信设备",
-        "code": "BK0448",
-        "pct": 2.28,
-        "amount_yi": 361.5,
-        "net_inflow_yi": 41.4
+        "name": "通信网络设备及器件",
+        "code": "BK1591",
+        "pct": 2.52,
+        "amount_yi": 359.4,
+        "net_inflow_yi": 39.6
       },
       {
-        "name": "印制电路板",
-        "code": "BK1340",
-        "pct": 2.23,
-        "amount_yi": 220.6,
-        "net_inflow_yi": 12.0
+        "name": "通信线缆及配套",
+        "code": "BK1592",
+        "pct": 2.21,
+        "amount_yi": 69.3,
+        "net_inflow_yi": 2.9
+      },
+      {
+        "name": "涤纶",
+        "code": "BK1413",
+        "pct": 2.04,
+        "amount_yi": 4.3,
+        "net_inflow_yi": 0.4
+      },
+      {
+        "name": "会展服务",
+        "code": "BK1565",
+        "pct": 1.88,
+        "amount_yi": 3.3,
+        "net_inflow_yi": 0.1
+      },
+      {
+        "name": "钛白粉",
+        "code": "BK1421",
+        "pct": 1.88,
+        "amount_yi": 2.2,
+        "net_inflow_yi": 0.4
       }
     ],
     "us_stocks": [],
@@ -243,105 +243,105 @@
         "code": "000631",
         "price": 3.14,
         "change_pct": 10.18,
-        "turnover": 1.54
+        "turnover": 1.61
       },
       {
         "name": "尤夫股份",
         "code": "002427",
         "price": 4.69,
         "change_pct": 10.09,
-        "turnover": 2.73
+        "turnover": 3.16
       },
       {
         "name": "神开股份",
         "code": "002278",
         "price": 7.98,
         "change_pct": 10.07,
-        "turnover": 8.19
+        "turnover": 9.23
       },
       {
         "name": "凯撒文化",
         "code": "002425",
         "price": 3.83,
         "change_pct": 10.06,
-        "turnover": 14.01
+        "turnover": 15.2
       },
       {
         "name": "飞亚达",
         "code": "000026",
         "price": 23.16,
         "change_pct": 10.02,
-        "turnover": 4.57
+        "turnover": 4.82
       },
       {
         "name": "光洋股份",
         "code": "002708",
         "price": 26.59,
         "change_pct": 10.01,
-        "turnover": 11.99
+        "turnover": 17.06
       },
       {
         "name": "锋龙股份",
         "code": "002931",
         "price": 53.08,
         "change_pct": 10.01,
-        "turnover": 5.86
+        "turnover": 5.95
+      },
+      {
+        "name": "胜通能源",
+        "code": "001331",
+        "price": 35.28,
+        "change_pct": 10.01,
+        "turnover": 3.4
       },
       {
         "name": "达 意 隆",
         "code": "002209",
         "price": 13.96,
         "change_pct": 10.01,
-        "turnover": 1.35
+        "turnover": 1.39
       },
       {
         "name": "日发精机",
         "code": "002520",
         "price": 7.26,
         "change_pct": 10.0,
-        "turnover": 6.86
+        "turnover": 7.36
       },
       {
         "name": "常铝股份",
         "code": "002160",
         "price": 4.4,
         "change_pct": 10.0,
-        "turnover": 11.26
+        "turnover": 11.44
+      },
+      {
+        "name": "三联锻造",
+        "code": "001282",
+        "price": 18.7,
+        "change_pct": 10.0,
+        "turnover": 6.28
       },
       {
         "name": "金浦钛业",
         "code": "000545",
         "price": 2.09,
         "change_pct": 10.0,
-        "turnover": 3.77
+        "turnover": 4.48
       },
       {
         "name": "亚玛顿",
         "code": "002623",
         "price": 23.33,
         "change_pct": 10.0,
-        "turnover": 0.35
+        "turnover": 0.36
       },
       {
         "name": "东易日盛",
         "code": "002713",
         "price": 8.48,
         "change_pct": 9.99,
-        "turnover": 1.33
-      },
-      {
-        "name": "瀛通通讯",
-        "code": "002861",
-        "price": 14.32,
-        "change_pct": 9.98,
-        "turnover": 1.58
-      },
-      {
-        "name": "日海智能",
-        "code": "002313",
-        "price": 10.16,
-        "change_pct": 9.96,
-        "turnover": 7.79
+        "turnover": 1.59
       }
     ],
     "yimeng_stocks": [
@@ -614,5 +614,5 @@
       }
     ]
   },
-  "timestamp": "2026-11-11T09:53:01"
+  "timestamp": "2026-11-11T10:11:01"
 }
