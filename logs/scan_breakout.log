@@ -524,3 +524,19 @@
 [2026-11-11 22:37:15] [INFO] 已写入 /home/runner/work/vibe-dashboard/vibe-dashboard/daily_picks.json [2026-11-11][高欣唯科科技形态]: 10 只
 [2026-11-11 22:37:15] [INFO] 完成！共找到 10 只
 [2026-11-11 22:37:15] [INFO] ===== 结束 =====
+[2026-11-11 23:18:47] [INFO] ===== 高欣唯科科技形态选股开始 =====
+[2026-11-11 23:18:47] [INFO] 进入云端扫描模式（无本地TDX，使用网络行情）
+[2026-11-11 23:18:55] [INFO] 候选池 322 只
+[2026-11-11 23:20:12] [INFO] 网络K线获取失败 300684: <urlopen error _ssl.c:1001: The handshake operation timed out>
+[2026-11-11 23:20:32] [INFO] 网络K线获取失败 002148: <urlopen error _ssl.c:1001: The handshake operation timed out>
+[2026-11-11 23:20:55] [INFO] 网络K线获取失败 002703: <urlopen error _ssl.c:1001: The handshake operation timed out>
+[2026-11-11 23:21:52] [INFO] 网络K线获取失败 002957: <urlopen error _ssl.c:1001: The handshake operation timed out>
+[2026-11-11 23:23:03] [INFO] 网络K线获取失败 603040: <urlopen error _ssl.c:1001: The handshake operation timed out>
+[2026-11-11 23:24:45] [INFO] 云端已扫描 100/322...
+[2026-11-11 23:26:43] [INFO] 网络K线获取失败 600261: <urlopen error _ssl.c:1001: The handshake operation timed out>
+[2026-11-11 23:27:31] [INFO] 云端已扫描 200/322...
+[2026-11-11 23:29:40] [INFO] 云端已扫描 300/322...
+[2026-11-11 23:30:11] [INFO] 结果已保存到: /home/runner/work/vibe-dashboard/vibe-dashboard/breakout_stocks.txt
+[2026-11-11 23:30:11] [INFO] 已写入 /home/runner/work/vibe-dashboard/vibe-dashboard/daily_picks.json [2026-11-11][高欣唯科科技形态]: 10 只
+[2026-11-11 23:30:11] [INFO] 完成！共找到 10 只
+[2026-11-11 23:30:11] [INFO] ===== 结束 =====
