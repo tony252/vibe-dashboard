@@ -2780,5 +2780,112 @@
       }
     ],
     "total_cost": 95294.0
+  },
+  "2026-11-11": {
+    "date": "2026-11-11",
+    "capital": 100000,
+    "positions": [
+      {
+        "code": "002278",
+        "name": "神开股份",
+        "buy_price": 7.98,
+        "buy_date": "2026-11-11",
+        "shares": 1200,
+        "cost": 9576.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.069
+      },
+      {
+        "code": "603042",
+        "name": "华脉科技",
+        "buy_price": 13.38,
+        "buy_date": "2026-11-11",
+        "shares": 700,
+        "cost": 9366.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.033
+      },
+      {
+        "code": "603725",
+        "name": "天安新材",
+        "buy_price": 11.96,
+        "buy_date": "2026-11-11",
+        "shares": 800,
+        "cost": 9568.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.028
+      },
+      {
+        "code": "000635",
+        "name": "英 力 特",
+        "buy_price": 10.21,
+        "buy_date": "2026-11-11",
+        "shares": 900,
+        "cost": 9189.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.022
+      },
+      {
+        "code": "002765",
+        "name": "蓝黛科技",
+        "buy_price": 7.8,
+        "buy_date": "2026-11-11",
+        "shares": 1200,
+        "cost": 9360.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.014
+      },
+      {
+        "code": "000545",
+        "name": "金浦钛业",
+        "buy_price": 2.09,
+        "buy_date": "2026-11-11",
+        "shares": 4700,
+        "cost": 9823.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.0
+      },
+      {
+        "code": "002160",
+        "name": "常铝股份",
+        "buy_price": 4.4,
+        "buy_date": "2026-11-11",
+        "shares": 2200,
+        "cost": 9680.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.0
+      },
+      {
+        "code": "002520",
+        "name": "日发精机",
+        "buy_price": 7.26,
+        "buy_date": "2026-11-11",
+        "shares": 1300,
+        "cost": 9438.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.0
+      },
+      {
+        "code": "603028",
+        "name": "赛福天",
+        "buy_price": 7.95,
+        "buy_date": "2026-11-11",
+        "shares": 1200,
+        "cost": 9540.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 9.959
+      },
+      {
+        "code": "002313",
+        "name": "日海智能",
+        "buy_price": 10.16,
+        "buy_date": "2026-11-11",
+        "shares": 900,
+        "cost": 9144.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 9.957
+      }
+    ],
+    "total_cost": 94684.0
   }
 }
