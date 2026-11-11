@@ -3,6 +3,16 @@
   "capital": 100000,
   "positions": [
     {
+      "code": "000407",
+      "name": "胜利股份",
+      "buy_price": 4.35,
+      "buy_date": "2026-11-11",
+      "shares": 2200,
+      "cost": 9570.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 10.127
+    },
+    {
       "code": "002278",
       "name": "神开股份",
       "buy_price": 7.98,
@@ -11,6 +21,16 @@
       "cost": 9576.0,
       "reason": "黄金区间3-6%",
       "change_at_buy": 10.069
+    },
+    {
+      "code": "002148",
+      "name": "北纬科技",
+      "buy_price": 6.57,
+      "buy_date": "2026-11-11",
+      "shares": 1500,
+      "cost": 9855.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 10.05
     },
     {
       "code": "603042",
@@ -31,6 +51,16 @@
       "cost": 9568.0,
       "reason": "黄金区间3-6%",
       "change_at_buy": 10.028
+    },
+    {
+      "code": "600228",
+      "name": "返利科技",
+      "buy_price": 9.77,
+      "buy_date": "2026-11-11",
+      "shares": 1000,
+      "cost": 9770.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 10.023
     },
     {
       "code": "000635",
@@ -71,37 +101,7 @@
       "cost": 9680.0,
       "reason": "黄金区间3-6%",
       "change_at_buy": 10.0
-    },
-    {
-      "code": "002520",
-      "name": "日发精机",
-      "buy_price": 7.26,
-      "buy_date": "2026-11-11",
-      "shares": 1300,
-      "cost": 9438.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 10.0
-    },
-    {
-      "code": "603028",
-      "name": "赛福天",
-      "buy_price": 7.95,
-      "buy_date": "2026-11-11",
-      "shares": 1200,
-      "cost": 9540.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 9.959
-    },
-    {
-      "code": "002313",
-      "name": "日海智能",
-      "buy_price": 10.16,
-      "buy_date": "2026-11-11",
-      "shares": 900,
-      "cost": 9144.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 9.957
     }
   ],
-  "total_cost": 94684.0
+  "total_cost": 95757.0
 }
