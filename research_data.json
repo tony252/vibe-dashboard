@@ -1,10 +1,10 @@
 {
   "date": "2026-11-11",
-  "updated_at": "2026-11-11 16:33:20",
+  "updated_at": "2026-11-11 20:03:12",
   "stats": {
-    "processed": 7,
+    "processed": 12,
     "alerts": 0,
-    "filtered": 7
+    "filtered": 8
   },
   "events": [
     {
@@ -19,6 +19,30 @@
           "name": "向日葵",
           "code": "300111",
           "match_reason": "直接提及[向日葵]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-11 12:16",
+      "type": "archive",
+      "title": "【午报】创业板指半日涨近1%，算力硬件股集体反弹，中际旭创、新易盛双双涨超8%",
+      "content": "①今日市场延续分化走势，沪指小幅下跌，创业板涨近1%，其中算力硬件股集体反弹，AI漫剧、机器人概念股反复活跃；\n②盘面上，今日早盘涨停数量为51家，连板股数量为16家，大东方、日出东方晋级4连板。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2531186",
+      "stocks": [
+        {
+          "name": "大东方",
+          "code": "600327",
+          "match_reason": "直接提及[大东方]（选股推荐）"
+        },
+        {
+          "name": "日出东方",
+          "code": "603366",
+          "match_reason": "直接提及[日出东方]（选股推荐）"
         }
       ],
       "verification": {
@@ -200,7 +224,7 @@
       "现金管理"
     ]
   },
-  "mode": "report",
+  "mode": "scan",
   "week": 46,
   "stock_meta": {
     "002578": "2026-11-11 16:33",
@@ -221,14 +245,34 @@
   },
   "watchlist": [
     {
+      "name": "大东方",
+      "code": "600327",
+      "keywords": "直接提及[大东方]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-11-11 20:06",
+      "first_seen": "2026-11-11 16:33",
+      "is_new": false
+    },
+    {
+      "name": "日出东方",
+      "code": "603366",
+      "keywords": "直接提及[日出东方]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-11-11 20:06",
+      "first_seen": "2026-11-11 16:33",
+      "is_new": false
+    },
+    {
       "name": "闽发铝业",
       "code": "002578",
       "keywords": "直接提及[闽发铝业]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-11 16:33",
+      "selected_at": "2026-11-11 20:06",
       "first_seen": "2026-11-11 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "向日葵",
@@ -236,9 +280,9 @@
       "keywords": "直接提及[向日葵]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-11 16:33",
+      "selected_at": "2026-11-11 20:06",
       "first_seen": "2026-11-11 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "日盈电子",
@@ -246,9 +290,9 @@
       "keywords": "直接提及[日盈电子]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-11 16:33",
+      "selected_at": "2026-11-11 20:06",
       "first_seen": "2026-11-11 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "华培动力",
@@ -256,9 +300,9 @@
       "keywords": "直接提及[华培动力]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-11 16:33",
+      "selected_at": "2026-11-11 20:06",
       "first_seen": "2026-11-11 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "国金证券",
@@ -266,9 +310,9 @@
       "keywords": "直接提及[国金证券]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-11 16:33",
+      "selected_at": "2026-11-11 20:06",
       "first_seen": "2026-11-11 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "光洋股份",
@@ -276,9 +320,9 @@
       "keywords": "直接提及[光洋股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-11 16:33",
+      "selected_at": "2026-11-11 20:06",
       "first_seen": "2026-11-11 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "阳光照明",
@@ -286,9 +330,9 @@
       "keywords": "直接提及[阳光照明]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-11 16:33",
+      "selected_at": "2026-11-11 20:06",
       "first_seen": "2026-11-11 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "贵州茅台",
@@ -296,29 +340,9 @@
       "keywords": "直接提及[贵州茅台]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-11 16:33",
+      "selected_at": "2026-11-11 20:06",
       "first_seen": "2026-11-11 16:33",
-      "is_new": true
-    },
-    {
-      "name": "日出东方",
-      "code": "603366",
-      "keywords": "直接提及[日出东方]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-11 16:33",
-      "first_seen": "2026-11-11 16:33",
-      "is_new": true
-    },
-    {
-      "name": "大东方",
-      "code": "600327",
-      "keywords": "直接提及[大东方]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-11 16:33",
-      "first_seen": "2026-11-11 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "东方新能",
@@ -326,9 +350,9 @@
       "keywords": "直接提及[东方新能]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-11 16:33",
+      "selected_at": "2026-11-11 20:06",
       "first_seen": "2026-11-11 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "清源股份",
@@ -336,9 +360,9 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.98\">涨幅9.98%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率6.41%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-11 16:33",
+      "selected_at": "2026-11-11 20:06",
       "first_seen": "2026-11-11 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "腾达科技",
@@ -346,9 +370,9 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.34%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-11 16:33",
+      "selected_at": "2026-11-11 20:06",
       "first_seen": "2026-11-11 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "东方嘉盛",
@@ -356,9 +380,9 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.79%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-11 16:33",
+      "selected_at": "2026-11-11 20:06",
       "first_seen": "2026-11-11 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "东方通信",
@@ -366,9 +390,9 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.53%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-11 16:33",
+      "selected_at": "2026-11-11 20:06",
       "first_seen": "2026-11-11 16:33",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
