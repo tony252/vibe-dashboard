@@ -1,7 +1,7 @@
 {
  "meta": {
   "sample": false,
-  "generated": "2026-11-11 16:22"
+  "generated": "2026-11-11 19:28"
  },
  "method": [
   {
@@ -82,7 +82,7 @@
        "board": "深市",
        "margin": false,
        "signal": "连板接力",
-       "score": 58,
+       "score": 68,
        "stars": 3,
        "price": "60.05",
        "change_pct": 2.47,
@@ -92,7 +92,7 @@
        "position": "8%~10%",
        "turnover": "20.00%",
        "main_ratio": "+29%",
-       "reason": "主力净占比+29%（大资金介入）；连板身位2天（辨识度高）；换手20.0%（活跃且未失控）"
+       "reason": "主力净占比+29%（大资金介入）；连板身位2天（辨识度高）；高换手抗跌；换手20.0%（活跃且未失控）"
       },
       {
        "name": "新亚制程",
@@ -221,24 +221,6 @@
        "reason": "主力净占比+9%（大资金介入）；换手33.4%（活跃且未失控）"
       },
       {
-       "name": "蘅东光",
-       "code": "920045",
-       "board": "北交所",
-       "margin": false,
-       "signal": "龙头新高",
-       "score": 34,
-       "stars": 2,
-       "price": "414.50",
-       "change_pct": 26.45,
-       "entry": "414.50",
-       "target": "435.23",
-       "stop": "397.92",
-       "position": "5%~8%",
-       "turnover": "11.80%",
-       "main_ratio": "—",
-       "reason": "涨幅榜/新高（当日最强）；换手11.8%（活跃且未失控）"
-      },
-      {
        "name": "利扬芯片",
        "code": "688135",
        "board": "科创板",
@@ -255,6 +237,42 @@
        "turnover": "12.90%",
        "main_ratio": "—",
        "reason": "涨幅榜/新高（当日最强）；换手12.9%（活跃且未失控）"
+      },
+      {
+       "name": "德尔股份",
+       "code": "300473",
+       "board": "创业板",
+       "margin": false,
+       "signal": "龙头新高",
+       "score": 34,
+       "stars": 2,
+       "price": "58.79",
+       "change_pct": 20.0,
+       "entry": "58.79",
+       "target": "61.73",
+       "stop": "56.44",
+       "position": "5%~8%",
+       "turnover": "18.30%",
+       "main_ratio": "—",
+       "reason": "涨幅榜/新高（当日最强）；换手18.3%（活跃且未失控）"
+      },
+      {
+       "name": "源杰科技",
+       "code": "688498",
+       "board": "科创板",
+       "margin": false,
+       "signal": "龙头新高",
+       "score": 34,
+       "stars": 2,
+       "price": "774.85",
+       "change_pct": 20.0,
+       "entry": "774.85",
+       "target": "813.59",
+       "stop": "743.86",
+       "position": "5%~8%",
+       "turnover": "8.20%",
+       "main_ratio": "—",
+       "reason": "涨幅榜/新高（当日最强）；换手8.2%（活跃且未失控）"
       },
       {
        "name": "龙溪股份",
@@ -291,24 +309,6 @@
        "turnover": "31.80%",
        "main_ratio": "—",
        "reason": "量价齐升；换手31.8%（活跃且未失控）"
-      },
-      {
-       "name": "风语筑",
-       "code": "603466",
-       "board": "沪市",
-       "margin": false,
-       "signal": "量价齐升",
-       "score": 28,
-       "stars": 1,
-       "price": "16.86",
-       "change_pct": 9.98,
-       "entry": "16.86",
-       "target": "17.53",
-       "stop": "16.19",
-       "position": "3%~5%",
-       "turnover": "21.00%",
-       "main_ratio": "—",
-       "reason": "量价齐升；换手21.0%（活跃且未失控）"
       }
      ]
     }
