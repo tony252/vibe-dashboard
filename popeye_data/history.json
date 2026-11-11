@@ -2786,6 +2786,16 @@
     "capital": 100000,
     "positions": [
       {
+        "code": "300310",
+        "name": "宜通世纪",
+        "buy_price": 5.3,
+        "buy_date": "2026-11-11",
+        "shares": 1800,
+        "cost": 9540.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 14.224
+      },
+      {
         "code": "000407",
         "name": "胜利股份",
         "buy_price": 4.35,
@@ -2874,18 +2884,8 @@
         "cost": 9823.0,
         "reason": "黄金区间3-6%",
         "change_at_buy": 10.0
-      },
-      {
-        "code": "002160",
-        "name": "常铝股份",
-        "buy_price": 4.4,
-        "buy_date": "2026-11-11",
-        "shares": 2200,
-        "cost": 9680.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 10.0
       }
     ],
-    "total_cost": 95757.0
+    "total_cost": 95617.0
   }
 }
