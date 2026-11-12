@@ -2893,24 +2893,44 @@
     "capital": 100000,
     "positions": [
       {
-        "code": "688613",
-        "name": "奥精医疗",
-        "buy_price": 8.44,
-        "buy_date": "2026-11-12",
-        "shares": 1100,
-        "cost": 9284.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 5.897
-      },
-      {
         "code": "600693",
         "name": "东百集团",
-        "buy_price": 9.59,
+        "buy_price": 9.6,
         "buy_date": "2026-11-12",
         "shares": 1000,
-        "cost": 9590.0,
+        "cost": 9600.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 5.501
+        "change_at_buy": 5.611
+      },
+      {
+        "code": "688613",
+        "name": "奥精医疗",
+        "buy_price": 8.4,
+        "buy_date": "2026-11-12",
+        "shares": 1100,
+        "cost": 9240.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.395
+      },
+      {
+        "code": "300629",
+        "name": "新劲刚",
+        "buy_price": 19.53,
+        "buy_date": "2026-11-12",
+        "shares": 500,
+        "cost": 9765.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.969
+      },
+      {
+        "code": "603353",
+        "name": "和顺石油",
+        "buy_price": 29.48,
+        "buy_date": "2026-11-12",
+        "shares": 300,
+        "cost": 8844.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.248
       },
       {
         "code": "000592",
@@ -2925,32 +2945,32 @@
       {
         "code": "002277",
         "name": "友阿股份",
-        "buy_price": 6.6,
+        "buy_price": 6.61,
         "buy_date": "2026-11-12",
         "shares": 1500,
-        "cost": 9900.0,
+        "cost": 9915.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 5.769
+        "change_at_buy": 5.929
       },
       {
         "code": "605166",
         "name": "聚合顺",
-        "buy_price": 7.95,
+        "buy_price": 7.94,
         "buy_date": "2026-11-12",
         "shares": 1200,
-        "cost": 9540.0,
+        "cost": 9528.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 5.718
+        "change_at_buy": 5.585
       },
       {
         "code": "603283",
         "name": "赛腾股份",
-        "buy_price": 45.26,
+        "buy_price": 45.29,
         "buy_date": "2026-11-12",
         "shares": 200,
-        "cost": 9052.0,
+        "cost": 9058.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 5.501
+        "change_at_buy": 5.571
       },
       {
         "code": "002156",
@@ -2965,34 +2985,14 @@
       {
         "code": "600506",
         "name": "统一股份",
-        "buy_price": 19.36,
+        "buy_price": 19.35,
         "buy_date": "2026-11-12",
         "shares": 500,
-        "cost": 9680.0,
+        "cost": 9675.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 5.504
-      },
-      {
-        "code": "301015",
-        "name": "百洋制药",
-        "buy_price": 27.0,
-        "buy_date": "2026-11-12",
-        "shares": 300,
-        "cost": 8100.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 5.304
-      },
-      {
-        "code": "600316",
-        "name": "洪都航空",
-        "buy_price": 36.01,
-        "buy_date": "2026-11-12",
-        "shares": 200,
-        "cost": 7202.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 5.787
+        "change_at_buy": 5.45
       }
     ],
-    "total_cost": 91510.0
+    "total_cost": 94787.0
   }
 }
