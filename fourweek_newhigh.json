@@ -1,4 +1,23 @@
 {
- "date": "2026-11-11",
- "picks": []
+ "date": "2026-11-12",
+ "picks": [
+  {
+   "code": "600566",
+   "name": "济川药业",
+   "price": 29.87,
+   "change_pct": 1.25,
+   "change_5d": 3.28,
+   "dist_52w_pct": -0.76,
+   "break_pct": 0.17,
+   "dev25_pct": 8.32,
+   "ma25": 27.58,
+   "ma60": 26.14,
+   "trend": true,
+   "amount_5d_yi": 12.33,
+   "consec_days": 1,
+   "score": 8.5,
+   "tag": "fourweek",
+   "reason": "近52周高-0.8% | 4周新高+0.2% | 偏离25日线+8.3% | 连续1日 | 5日均额12.3亿"
+  }
+ ]
 }
