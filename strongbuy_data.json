@@ -177,41 +177,113 @@
   ],
   "stocks": [
     {
-      "code": "301209",
-      "name": "联合化学",
-      "price": 49.54,
-      "change_pct": 18.57,
-      "turnover": 5.2,
-      "change_5d": 11.1,
-      "volume": 3.158,
+      "code": "920374",
+      "name": "云里物里",
+      "price": 18.99,
+      "change_pct": 17.44,
+      "turnover": 10.1,
+      "change_5d": 10.5,
+      "volume": 0.894,
       "tag": "newhigh",
       "score": 5,
-      "reason": "涨幅榜前列(第1名),飙升18.6%"
+      "reason": "涨幅榜前列(第1名),飙升17.4%"
     },
     {
       "code": "300829",
       "name": "金丹科技",
-      "price": 29.64,
-      "change_pct": 18.28,
-      "turnover": 14.6,
-      "change_5d": 11.0,
-      "volume": 7.062,
+      "price": 29.08,
+      "change_pct": 16.04,
+      "turnover": 16.0,
+      "change_5d": 9.6,
+      "volume": 7.774,
       "tag": "newhigh",
       "score": 5,
-      "reason": "涨幅榜前列(第2名),飙升18.3%"
+      "reason": "涨幅榜前列(第2名),飙升16.0%"
     },
     {
-      "code": "920374",
-      "name": "云里物里",
-      "price": 18.88,
-      "change_pct": 16.76,
-      "turnover": 9.9,
-      "change_5d": 10.1,
-      "volume": 0.874,
+      "code": "300058",
+      "name": "蓝色光标",
+      "price": 15.22,
+      "change_pct": 14.35,
+      "turnover": 16.6,
+      "change_5d": 8.6,
+      "volume": 85.401,
       "tag": "newhigh",
       "score": 5,
-      "reason": "涨幅榜前列(第3名),飙升16.8%"
+      "reason": "涨幅榜前列(第3名),飙升14.3%"
+    },
+    {
+      "code": "002164",
+      "name": "宁波东力",
+      "price": 23.54,
+      "change_pct": 7.44,
+      "turnover": 16.4,
+      "change_5d": 4.5,
+      "volume": 18.704,
+      "tag": "volume",
+      "score": 5,
+      "reason": "量价齐升,换手16.4%,成交18.7亿"
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "price": 37.22,
+      "change_pct": 7.32,
+      "turnover": 16.7,
+      "change_5d": 4.4,
+      "volume": 30.467,
+      "tag": "volume",
+      "score": 5,
+      "reason": "量价齐升,换手16.7%,成交30.5亿"
+    },
+    {
+      "code": "301520",
+      "name": "万邦医药",
+      "price": 65.38,
+      "change_pct": 7.21,
+      "turnover": 29.8,
+      "change_5d": 4.3,
+      "volume": 6.578,
+      "tag": "volume",
+      "score": 5,
+      "reason": "量价齐升,换手29.8%,成交6.6亿"
+    },
+    {
+      "code": "002593",
+      "name": "日上集团",
+      "price": 4.89,
+      "change_pct": 2.95,
+      "turnover": 20.7,
+      "change_5d": 1.8,
+      "volume": 5.824,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手20.7%,成交5.8亿"
+    },
+    {
+      "code": "600327",
+      "name": "大东方",
+      "price": 6.72,
+      "change_pct": 2.91,
+      "turnover": 28.0,
+      "change_5d": 1.7,
+      "volume": 16.343,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手28.0%,成交16.3亿"
+    },
+    {
+      "code": "301686",
+      "name": "中塑股份",
+      "price": 137.2,
+      "change_pct": 2.71,
+      "turnover": 13.2,
+      "change_5d": 1.6,
+      "volume": 1.565,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手13.2%,成交1.6亿"
     }
   ],
-  "updated_at": "2026-11-12 10:40:56"
+  "updated_at": "2026-11-12 10:56:05"
 }
