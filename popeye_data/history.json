@@ -2887,5 +2887,112 @@
       }
     ],
     "total_cost": 95617.0
+  },
+  "2026-11-12": {
+    "date": "2026-11-12",
+    "capital": 100000,
+    "positions": [
+      {
+        "code": "600467",
+        "name": "好当家",
+        "buy_price": 2.48,
+        "buy_date": "2026-11-12",
+        "shares": 4000,
+        "cost": 9920.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.222
+      },
+      {
+        "code": "601929",
+        "name": "吉视传媒",
+        "buy_price": 2.81,
+        "buy_date": "2026-11-12",
+        "shares": 3500,
+        "cost": 9835.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.196
+      },
+      {
+        "code": "002652",
+        "name": "扬子新材",
+        "buy_price": 4.7,
+        "buy_date": "2026-11-12",
+        "shares": 2100,
+        "cost": 9870.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.07
+      },
+      {
+        "code": "603135",
+        "name": "中重科技",
+        "buy_price": 10.18,
+        "buy_date": "2026-11-12",
+        "shares": 900,
+        "cost": 9162.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.054
+      },
+      {
+        "code": "002021",
+        "name": "中捷资源",
+        "buy_price": 2.63,
+        "buy_date": "2026-11-12",
+        "shares": 3800,
+        "cost": 9994.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.042
+      },
+      {
+        "code": "002229",
+        "name": "鸿博股份",
+        "buy_price": 10.32,
+        "buy_date": "2026-11-12",
+        "shares": 900,
+        "cost": 9288.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.021
+      },
+      {
+        "code": "002205",
+        "name": "国统股份",
+        "buy_price": 11.75,
+        "buy_date": "2026-11-12",
+        "shares": 800,
+        "cost": 9400.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.019
+      },
+      {
+        "code": "603330",
+        "name": "天洋新材",
+        "buy_price": 11.58,
+        "buy_date": "2026-11-12",
+        "shares": 800,
+        "cost": 9264.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 9.972
+      },
+      {
+        "code": "600558",
+        "name": "大西洋",
+        "buy_price": 5.96,
+        "buy_date": "2026-11-12",
+        "shares": 1600,
+        "cost": 9536.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 9.963
+      },
+      {
+        "code": "002693",
+        "name": "双成药业",
+        "buy_price": 8.73,
+        "buy_date": "2026-11-12",
+        "shares": 1100,
+        "cost": 9603.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 9.95
+      }
+    ],
+    "total_cost": 95872.0
   }
 }
