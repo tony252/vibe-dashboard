@@ -177,113 +177,41 @@
   ],
   "stocks": [
     {
-      "code": "688702",
-      "name": "盛科通信",
-      "price": 232.68,
-      "change_pct": 15.1,
-      "turnover": 6.7,
-      "change_5d": 9.1,
-      "volume": 31.861,
+      "code": "688801",
+      "name": "燧原科技",
+      "price": 569.77,
+      "change_pct": 15.34,
+      "turnover": 19.0,
+      "change_5d": 9.2,
+      "volume": 18.205,
       "tag": "newhigh",
       "score": 5,
-      "reason": "涨幅榜前列(第1名),飙升15.1%"
+      "reason": "涨幅榜前列(第1名),飙升15.3%"
     },
     {
-      "code": "300829",
-      "name": "金丹科技",
-      "price": 28.62,
-      "change_pct": 14.21,
-      "turnover": 18.2,
-      "change_5d": 8.5,
-      "volume": 8.874,
+      "code": "688552",
+      "name": "航天南湖",
+      "price": 37.37,
+      "change_pct": 14.42,
+      "turnover": 3.2,
+      "change_5d": 8.7,
+      "volume": 3.778,
       "tag": "newhigh",
       "score": 5,
-      "reason": "涨幅榜前列(第2名),飙升14.2%"
+      "reason": "涨幅榜前列(第2名),飙升14.4%"
     },
     {
       "code": "920374",
       "name": "云里物里",
-      "price": 18.38,
-      "change_pct": 13.67,
-      "turnover": 11.2,
-      "change_5d": 8.2,
-      "volume": 0.985,
+      "price": 18.48,
+      "change_pct": 14.29,
+      "turnover": 11.5,
+      "change_5d": 8.6,
+      "volume": 1.011,
       "tag": "newhigh",
       "score": 5,
-      "reason": "涨幅榜前列(第3名),飙升13.7%"
-    },
-    {
-      "code": "300030",
-      "name": "阳普医疗",
-      "price": 7.58,
-      "change_pct": 6.16,
-      "turnover": 16.5,
-      "change_5d": 3.7,
-      "volume": 3.349,
-      "tag": "volume",
-      "score": 5,
-      "reason": "量价齐升,换手16.5%,成交3.3亿"
-    },
-    {
-      "code": "002529",
-      "name": "海源复材",
-      "price": 7.22,
-      "change_pct": 5.87,
-      "turnover": 16.0,
-      "change_5d": 3.5,
-      "volume": 2.835,
-      "tag": "volume",
-      "score": 5,
-      "reason": "量价齐升,换手16.0%,成交2.8亿"
-    },
-    {
-      "code": "301578",
-      "name": "辰奕智能",
-      "price": 32.68,
-      "change_pct": 5.76,
-      "turnover": 17.9,
-      "change_5d": 3.5,
-      "volume": 1.724,
-      "tag": "volume",
-      "score": 5,
-      "reason": "量价齐升,换手17.9%,成交1.7亿"
-    },
-    {
-      "code": "920196",
-      "name": "南方乳业",
-      "price": 17.92,
-      "change_pct": 2.99,
-      "turnover": 19.7,
-      "change_5d": 1.8,
-      "volume": 0.864,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手19.7%,成交0.9亿"
-    },
-    {
-      "code": "301413",
-      "name": "安培龙",
-      "price": 82.6,
-      "change_pct": 2.99,
-      "turnover": 17.1,
-      "change_5d": 1.8,
-      "volume": 10.236,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手17.1%,成交10.2亿"
-    },
-    {
-      "code": "300534",
-      "name": "陇神戎发",
-      "price": 11.19,
-      "change_pct": 2.94,
-      "turnover": 16.5,
-      "change_5d": 1.8,
-      "volume": 5.476,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手16.5%,成交5.5亿"
+      "reason": "涨幅榜前列(第3名),飙升14.3%"
     }
   ],
-  "updated_at": "2026-11-12 13:18:48"
+  "updated_at": "2026-11-12 13:34:19"
 }
