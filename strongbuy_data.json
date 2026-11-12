@@ -177,113 +177,41 @@
   ],
   "stocks": [
     {
+      "code": "301209",
+      "name": "联合化学",
+      "price": 49.54,
+      "change_pct": 18.57,
+      "turnover": 5.2,
+      "change_5d": 11.1,
+      "volume": 3.158,
+      "tag": "newhigh",
+      "score": 5,
+      "reason": "涨幅榜前列(第1名),飙升18.6%"
+    },
+    {
       "code": "300829",
       "name": "金丹科技",
-      "price": 30.07,
-      "change_pct": 19.99,
-      "turnover": 11.8,
-      "change_5d": 12.0,
-      "volume": 5.587,
+      "price": 29.64,
+      "change_pct": 18.28,
+      "turnover": 14.6,
+      "change_5d": 11.0,
+      "volume": 7.062,
       "tag": "newhigh",
       "score": 5,
-      "reason": "涨幅榜前列(第1名),飙升20.0%"
+      "reason": "涨幅榜前列(第2名),飙升18.3%"
     },
     {
-      "code": "688146",
-      "name": "中船特气",
-      "price": 175.67,
-      "change_pct": 17.04,
-      "turnover": 2.4,
-      "change_5d": 10.2,
-      "volume": 20.95,
-      "tag": "newhigh",
-      "score": 5,
-      "reason": "涨幅榜前列(第2名),飙升17.0%"
-    },
-    {
-      "code": "688801",
-      "name": "燧原科技",
-      "price": 576.92,
-      "change_pct": 16.79,
-      "turnover": 13.0,
+      "code": "920374",
+      "name": "云里物里",
+      "price": 18.88,
+      "change_pct": 16.76,
+      "turnover": 9.9,
       "change_5d": 10.1,
-      "volume": 12.241,
+      "volume": 0.874,
       "tag": "newhigh",
       "score": 5,
       "reason": "涨幅榜前列(第3名),飙升16.8%"
-    },
-    {
-      "code": "002313",
-      "name": "日海智能",
-      "price": 11.01,
-      "change_pct": 8.37,
-      "turnover": 16.9,
-      "change_5d": 5.0,
-      "volume": 7.012,
-      "tag": "volume",
-      "score": 5,
-      "reason": "量价齐升,换手16.9%,成交7.0亿"
-    },
-    {
-      "code": "300071",
-      "name": "福石控股",
-      "price": 4.68,
-      "change_pct": 7.09,
-      "turnover": 12.0,
-      "change_5d": 4.3,
-      "volume": 5.081,
-      "tag": "volume",
-      "score": 5,
-      "reason": "量价齐升,换手12.0%,成交5.1亿"
-    },
-    {
-      "code": "002164",
-      "name": "宁波东力",
-      "price": 23.4,
-      "change_pct": 6.8,
-      "turnover": 13.3,
-      "change_5d": 4.1,
-      "volume": 15.154,
-      "tag": "volume",
-      "score": 5,
-      "reason": "量价齐升,换手13.3%,成交15.2亿"
-    },
-    {
-      "code": "600293",
-      "name": "三峡新材",
-      "price": 4.43,
-      "change_pct": 2.78,
-      "turnover": 14.6,
-      "change_5d": 1.7,
-      "volume": 7.563,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手14.6%,成交7.6亿"
-    },
-    {
-      "code": "002148",
-      "name": "北纬科技",
-      "price": 6.75,
-      "change_pct": 2.74,
-      "turnover": 16.1,
-      "change_5d": 1.6,
-      "volume": 5.094,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手16.1%,成交5.1亿"
-    },
-    {
-      "code": "002310",
-      "name": "东方新能",
-      "price": 3.03,
-      "change_pct": 2.71,
-      "turnover": 11.7,
-      "change_5d": 1.6,
-      "volume": 15.441,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手11.7%,成交15.4亿"
     }
   ],
-  "updated_at": "2026-11-12 10:18:45"
+  "updated_at": "2026-11-12 10:40:56"
 }
