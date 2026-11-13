@@ -1,23 +1,41 @@
 {
- "date": "2026-11-12",
+ "date": "2026-11-13",
  "picks": [
   {
-   "code": "600566",
-   "name": "济川药业",
-   "price": 29.87,
-   "change_pct": 1.25,
-   "change_5d": 3.28,
-   "dist_52w_pct": -0.76,
-   "break_pct": 0.17,
-   "dev25_pct": 8.32,
-   "ma25": 27.58,
-   "ma60": 26.14,
+   "code": "601577",
+   "name": "长沙银行",
+   "price": 10.12,
+   "change_pct": 1.0,
+   "change_5d": 1.2,
+   "dist_52w_pct": -1.08,
+   "break_pct": 0.2,
+   "dev25_pct": 3.34,
+   "ma25": 9.79,
+   "ma60": 9.75,
    "trend": true,
-   "amount_5d_yi": 12.33,
+   "amount_5d_yi": 11.36,
    "consec_days": 1,
-   "score": 8.5,
+   "score": 7.8,
    "tag": "fourweek",
-   "reason": "近52周高-0.8% | 4周新高+0.2% | 偏离25日线+8.3% | 连续1日 | 5日均额12.3亿"
+   "reason": "近52周高-1.1% | 4周新高+0.2% | 偏离25日线+3.3% | 连续1日 | 5日均额11.4亿"
+  },
+  {
+   "code": "001872",
+   "name": "招商港口",
+   "price": 25.69,
+   "change_pct": 1.62,
+   "change_5d": 1.34,
+   "dist_52w_pct": -4.43,
+   "break_pct": 0.12,
+   "dev25_pct": 2.72,
+   "ma25": 25.01,
+   "ma60": 24.0,
+   "trend": true,
+   "amount_5d_yi": 3.77,
+   "consec_days": 1,
+   "score": 1.1,
+   "tag": "fourweek",
+   "reason": "近52周高-4.4% | 4周新高+0.1% | 偏离25日线+2.7% | 连续1日 | 5日均额3.8亿"
   }
  ]
 }
