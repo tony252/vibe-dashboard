@@ -295967,5 +295967,52 @@
         }
       ]
     }
+  },
+  "2026-11-13": {
+    "高欣资金净流入": {
+      "time": "08:33",
+      "picks": [
+        {
+          "code": "000001",
+          "name": "平安银行",
+          "net_amount_5d": -1705864.0,
+          "net_ratio_avg": -0.34,
+          "positive_days": 3,
+          "change_pct": -0.67,
+          "price": 3655.83,
+          "score": 15.2
+        },
+        {
+          "code": "000002",
+          "name": "万科A",
+          "net_amount_5d": -1706131.0,
+          "net_ratio_avg": -0.34,
+          "positive_days": 3,
+          "change_pct": -0.67,
+          "price": 3833.26,
+          "score": 15.2
+        },
+        {
+          "code": "000961",
+          "name": "中南建设",
+          "net_amount_5d": -701923.0,
+          "net_ratio_avg": -2.38,
+          "positive_days": 2,
+          "change_pct": -2.24,
+          "price": 4272.57,
+          "score": 10.67
+        },
+        {
+          "code": "000063",
+          "name": "中兴通讯",
+          "net_amount_5d": -491538.0,
+          "net_ratio_avg": -1.45,
+          "positive_days": 2,
+          "change_pct": -0.62,
+          "price": 3620.01,
+          "score": 10.19
+        }
+      ]
+    }
   }
 }
