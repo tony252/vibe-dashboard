@@ -10,7 +10,7 @@
     "strongbuy": 0.25,
     "daily_picks": 0.2
    },
-   "cash": 46842.24249999997,
+   "cash": 48302.14674999997,
    "positions": [
     {
      "code": "000890",
@@ -125,7 +125,7 @@
      "name": "太阳电缆",
      "qty": 500,
      "avg": 8.93,
-     "last": 8.89,
+     "last": 8.67,
      "strategy": "strongbuy",
      "open_date": "2026-11-10"
     },
@@ -134,7 +134,7 @@
      "name": "光大嘉宝",
      "qty": 100,
      "avg": 2.055,
-     "last": 2.09,
+     "last": 2.1,
      "strategy": "strong",
      "open_date": "2026-11-11"
     },
@@ -143,16 +143,7 @@
      "name": "利扬芯片",
      "qty": 100,
      "avg": 35.099,
-     "last": 35.02,
-     "strategy": "strongbuy",
-     "open_date": "2026-11-11"
-    },
-    {
-     "code": "300071",
-     "name": "福石控股",
-     "qty": 300,
-     "avg": 4.38,
-     "last": 4.52,
+     "last": 36.0,
      "strategy": "strongbuy",
      "open_date": "2026-11-11"
     },
@@ -161,7 +152,7 @@
      "name": "有方科技",
      "qty": 500,
      "avg": 29.065,
-     "last": 29.0,
+     "last": 29.55,
      "strategy": "strong",
      "open_date": "2026-11-13"
     },
@@ -170,12 +161,12 @@
      "name": "气派科技",
      "qty": 100,
      "avg": 28.674,
-     "last": 28.61,
+     "last": 29.54,
      "strategy": "strong",
      "open_date": "2026-11-13"
     }
    ],
-   "realized": 19071.280299999995
+   "realized": 19217.184549999994
   },
   {
    "id": "cloud-sat-B",
@@ -184,7 +175,7 @@
     "strong": 0.3,
     "strongbuy": 0.2
    },
-   "cash": 28569.86549999998,
+   "cash": 31489.67399999998,
    "positions": [
     {
      "code": "000890",
@@ -227,7 +218,7 @@
      "name": "世荣兆业",
      "qty": 100,
      "avg": 3.949,
-     "last": 3.95,
+     "last": 3.98,
      "strategy": "strong",
      "open_date": "2026-11-06"
     },
@@ -236,7 +227,7 @@
      "name": "光大嘉宝",
      "qty": 100,
      "avg": 2.085,
-     "last": 2.09,
+     "last": 2.1,
      "strategy": "strong",
      "open_date": "2026-11-06"
     },
@@ -254,16 +245,7 @@
      "name": "利扬芯片",
      "qty": 100,
      "avg": 35.099,
-     "last": 35.02,
-     "strategy": "strongbuy",
-     "open_date": "2026-11-11"
-    },
-    {
-     "code": "300071",
-     "name": "福石控股",
-     "qty": 600,
-     "avg": 4.38,
-     "last": 4.52,
+     "last": 36.0,
      "strategy": "strongbuy",
      "open_date": "2026-11-11"
     },
@@ -272,7 +254,7 @@
      "name": "有方科技",
      "qty": 200,
      "avg": 29.065,
-     "last": 29.0,
+     "last": 29.55,
      "strategy": "strong",
      "open_date": "2026-11-13"
     },
@@ -281,12 +263,12 @@
      "name": "中威电子",
      "qty": 100,
      "avg": 8.87,
-     "last": 8.85,
+     "last": 8.96,
      "strategy": "strong",
      "open_date": "2026-11-13"
     }
    ],
-   "realized": 3278.2950500000034
+   "realized": 3570.1035500000035
   }
  ],
  "history": [
@@ -419,8 +401,8 @@
    "equity": 170734.26
   },
   {
-   "ts": "2026-11-13 00:07",
-   "equity": 172290.11
+   "ts": "2026-11-13 23:35",
+   "equity": 173181.82
   }
  ],
  "trades": [
@@ -3073,6 +3055,28 @@
    "qty": 100,
    "price": 8.868,
    "reason": "strong 信号买入",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13 23:35",
+   "code": "300071",
+   "name": "福石控股",
+   "side": "SELL",
+   "qty": 300,
+   "price": 4.87,
+   "reason": "止盈 +11.4%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13 23:35",
+   "code": "300071",
+   "name": "福石控股",
+   "side": "SELL",
+   "qty": 600,
+   "price": 4.87,
+   "reason": "止盈 +11.4%",
    "account": "cloud-sat-B"
   }
  ],
