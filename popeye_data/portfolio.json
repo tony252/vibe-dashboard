@@ -3,105 +3,105 @@
   "capital": 100000,
   "positions": [
     {
-      "code": "603118",
-      "name": "共进股份",
-      "buy_price": 13.45,
+      "code": "300692",
+      "name": "中赋科技",
+      "buy_price": 9.82,
+      "buy_date": "2026-11-13",
+      "shares": 1000,
+      "cost": 9820.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 5.933
+    },
+    {
+      "code": "301395",
+      "name": "仁信新材",
+      "buy_price": 14.73,
+      "buy_date": "2026-11-13",
+      "shares": 600,
+      "cost": 8838.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 5.895
+    },
+    {
+      "code": "605169",
+      "name": "洪通燃气",
+      "buy_price": 14.32,
+      "buy_date": "2026-11-13",
+      "shares": 600,
+      "cost": 8592.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 5.683
+    },
+    {
+      "code": "688238",
+      "name": "和元生物",
+      "buy_price": 7.26,
+      "buy_date": "2026-11-13",
+      "shares": 1300,
+      "cost": 9438.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 5.677
+    },
+    {
+      "code": "603036",
+      "name": "如通股份",
+      "buy_price": 13.48,
       "buy_date": "2026-11-13",
       "shares": 700,
-      "cost": 9415.0,
+      "cost": 9436.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 5.906
+      "change_at_buy": 5.312
     },
     {
-      "code": "300421",
-      "name": "力星股份",
-      "buy_price": 19.15,
+      "code": "300251",
+      "name": "光线传媒",
+      "buy_price": 13.09,
       "buy_date": "2026-11-13",
-      "shares": 500,
-      "cost": 9575.0,
+      "shares": 700,
+      "cost": 9163.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 5.86
+      "change_at_buy": 5.31
     },
     {
-      "code": "300683",
-      "name": "海特生物",
-      "buy_price": 23.85,
+      "code": "603118",
+      "name": "共进股份",
+      "buy_price": 13.37,
       "buy_date": "2026-11-13",
-      "shares": 400,
-      "cost": 9540.0,
+      "shares": 700,
+      "cost": 9359.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 5.859
-    },
-    {
-      "code": "603955",
-      "name": "大千生态",
-      "buy_price": 35.35,
-      "buy_date": "2026-11-13",
-      "shares": 200,
-      "cost": 7070.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 5.997
-    },
-    {
-      "code": "300657",
-      "name": "弘信电子",
-      "buy_price": 32.92,
-      "buy_date": "2026-11-13",
-      "shares": 300,
-      "cost": 9876.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 5.988
-    },
-    {
-      "code": "300237",
-      "name": "美晨科技",
-      "buy_price": 3.26,
-      "buy_date": "2026-11-13",
-      "shares": 3000,
-      "cost": 9780.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 19.853
+      "change_at_buy": 5.276
     },
     {
       "code": "300097",
       "name": "智云股份",
-      "buy_price": 8.9,
+      "buy_price": 8.47,
       "buy_date": "2026-11-13",
       "shares": 1100,
-      "cost": 9790.0,
+      "cost": 9317.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 10.285
+      "change_at_buy": 4.957
     },
     {
-      "code": "002205",
-      "name": "国统股份",
-      "buy_price": 12.93,
+      "code": "300025",
+      "name": "华星创业",
+      "buy_price": 5.3,
       "buy_date": "2026-11-13",
-      "shares": 700,
-      "cost": 9051.0,
+      "shares": 1800,
+      "cost": 9540.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 10.043
+      "change_at_buy": 4.95
     },
     {
-      "code": "002748",
-      "name": "世龙实业",
-      "buy_price": 12.39,
+      "code": "600128",
+      "name": "苏豪弘业",
+      "buy_price": 8.35,
       "buy_date": "2026-11-13",
-      "shares": 800,
-      "cost": 9912.0,
+      "shares": 1100,
+      "cost": 9185.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 10.036
-    },
-    {
-      "code": "600715",
-      "name": "文投控股",
-      "buy_price": 3.4,
-      "buy_date": "2026-11-13",
-      "shares": 2900,
-      "cost": 9860.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 10.032
+      "change_at_buy": 4.899
     }
   ],
-  "total_cost": 93869.0
+  "total_cost": 92688.0
 }
