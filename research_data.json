@@ -1,12 +1,31 @@
 {
   "date": "2026-11-13",
-  "updated_at": "2026-11-14 20:03:02",
+  "updated_at": "2026-11-15 12:03:03",
   "stats": {
-    "processed": 29,
+    "processed": 36,
     "alerts": 0,
-    "filtered": 13
+    "filtered": 14
   },
   "events": [
+    {
+      "time": "2026-11-15 09:00",
+      "type": "archive",
+      "title": "飞天茅台、精品茅台零售均价领涨 五粮液普五八代、古井贡古20大幅攀升 白酒大单品总价创6天以来新高",
+      "content": "新浪财经“酒价内参”过去24小时收集的数据显示，11月15日中国白酒业12大单品的终端零售均价十一涨一平，没有一款酒品的价格较昨日下跌，整体价盘强势攀升...",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/chanjing/jync/2026-11-15/doc-iniyupue9781556.shtml",
+      "stocks": [
+        {
+          "name": "五粮液",
+          "code": "000858",
+          "match_reason": "直接提及[五粮液]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
     {
       "time": "2026-11-14 09:54",
       "type": "archive",
@@ -354,7 +373,8 @@
     "301578": "2026-11-14 12:06",
     "000678": "2026-11-14 12:06",
     "600261": "2026-11-14 12:06",
-    "000525": "2026-11-14 12:06"
+    "000525": "2026-11-14 12:06",
+    "000858": "2026-11-15 12:06"
   },
   "watchlist": [
     {
@@ -363,7 +383,7 @@
       "keywords": "直接提及[日出东方]（选股推荐）",
       "reason": "新闻提及 | 4次",
       "source": "event",
-      "selected_at": "2026-11-14 20:06",
+      "selected_at": "2026-11-15 12:06",
       "first_seen": "2026-11-13 16:32",
       "is_new": false
     },
@@ -373,7 +393,7 @@
       "keywords": "直接提及[天普股份]（选股推荐）",
       "reason": "新闻提及 | 3次",
       "source": "event",
-      "selected_at": "2026-11-14 20:06",
+      "selected_at": "2026-11-15 12:06",
       "first_seen": "2026-11-13 20:06",
       "is_new": false
     },
@@ -383,9 +403,19 @@
       "keywords": "直接提及[大东方]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-14 20:06",
+      "selected_at": "2026-11-15 12:06",
       "first_seen": "2026-11-13 16:32",
       "is_new": false
+    },
+    {
+      "name": "五粮液",
+      "code": "000858",
+      "keywords": "直接提及[五粮液]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-15 12:06",
+      "first_seen": "2026-11-15 12:06",
+      "is_new": true
     },
     {
       "name": "华胜天成",
@@ -393,7 +423,7 @@
       "keywords": "直接提及[华胜天成]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-14 20:06",
+      "selected_at": "2026-11-15 12:06",
       "first_seen": "2026-11-14 12:06",
       "is_new": false
     },
@@ -403,7 +433,7 @@
       "keywords": "直接提及[工商银行]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-14 20:06",
+      "selected_at": "2026-11-15 12:06",
       "first_seen": "2026-11-13 20:06",
       "is_new": false
     },
@@ -413,7 +443,7 @@
       "keywords": "直接提及[农业银行]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-14 20:06",
+      "selected_at": "2026-11-15 12:06",
       "first_seen": "2026-11-13 20:06",
       "is_new": false
     },
@@ -423,7 +453,7 @@
       "keywords": "直接提及[辰奕智能]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-14 20:06",
+      "selected_at": "2026-11-15 12:06",
       "first_seen": "2026-11-14 12:06",
       "is_new": false
     },
@@ -433,7 +463,7 @@
       "keywords": "直接提及[东方环宇]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-14 20:06",
+      "selected_at": "2026-11-15 12:06",
       "first_seen": "2026-11-13 16:32",
       "is_new": false
     },
@@ -443,7 +473,7 @@
       "keywords": "直接提及[襄阳轴承]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-14 20:06",
+      "selected_at": "2026-11-15 12:06",
       "first_seen": "2026-11-14 12:06",
       "is_new": false
     },
@@ -453,7 +483,7 @@
       "keywords": "直接提及[阳光照明]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-14 20:06",
+      "selected_at": "2026-11-15 12:06",
       "first_seen": "2026-11-14 12:06",
       "is_new": false
     },
@@ -463,7 +493,7 @@
       "keywords": "直接提及[红太阳]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-14 20:06",
+      "selected_at": "2026-11-15 12:06",
       "first_seen": "2026-11-14 12:06",
       "is_new": false
     },
@@ -473,7 +503,7 @@
       "keywords": "直接提及[陇神戎发]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-14 20:06",
+      "selected_at": "2026-11-15 12:06",
       "first_seen": "2026-11-13 16:32",
       "is_new": false
     },
@@ -483,7 +513,7 @@
       "keywords": "直接提及[粤芯半导]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-14 20:06",
+      "selected_at": "2026-11-15 12:06",
       "first_seen": "2026-11-13 16:32",
       "is_new": false
     },
@@ -493,17 +523,7 @@
       "keywords": "直接提及[东方海洋]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-14 20:06",
-      "first_seen": "2026-11-13 16:32",
-      "is_new": false
-    },
-    {
-      "name": "文投控股",
-      "code": "600715",
-      "keywords": "直接提及[文投控股]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-14 20:06",
+      "selected_at": "2026-11-15 12:06",
       "first_seen": "2026-11-13 16:32",
       "is_new": false
     }
