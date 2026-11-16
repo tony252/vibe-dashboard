@@ -2,21 +2,21 @@
  "mode": "cloud-daily",
  "live": true,
  "start_capital": 150000.0,
- "equity": 173181.82,
- "cash": 79791.82,
- "exposure": 93390.0,
- "ret_pct": 15.45,
+ "equity": 171612.69,
+ "cash": 74894.69,
+ "exposure": 96718.0,
+ "ret_pct": 14.41,
  "regime": "NEUTRAL",
- "regime_detail": "2026-11-12 净持仓均值 -0.06%（IF -0.1%，IH -0.1%，IC -0.0%，IM -0.1%）",
+ "regime_detail": "2026-11-13 净持仓均值 -0.06%（IF -0.0%，IH -0.1%，IC -0.0%，IM -0.1%）",
  "adaptive": {
   "regime": "NEUTRAL",
-  "regime_detail": "2026-11-12 净持仓均值 -0.06%（IF -0.1%，IH -0.1%，IC -0.0%，IM -0.1%）",
+  "regime_detail": "2026-11-13 净持仓均值 -0.06%（IF -0.0%，IH -0.1%，IC -0.0%，IM -0.1%）",
   "mood_trend": "FLAT",
-  "mood_slope": -0.0008,
+  "mood_slope": -0.0003,
   "mood_vol": 0.0031,
   "year_end": true,
   "quarter_end": false,
-  "cffex_days": 106,
+  "cffex_days": 107,
   "params": {
    "exposure_cap": 0.612,
    "single_cap": 0.135,
@@ -94,21 +94,21 @@
    }
   ]
  },
- "updated": "2026-11-13 23:35",
- "run_date": "2026-11-13",
+ "updated": "2026-11-17 01:17",
+ "run_date": "2026-11-17",
  "source_freshness": {
   "strong_stocks": {
-   "updated": "2026-11-13 01:50",
+   "updated": "2026-11-14 01:33",
    "used": true,
-   "stale_days": 0
+   "stale_days": 3
   },
   "strongbuy_data": {
-   "updated": "2026-11-13",
+   "updated": "2026-11-16",
    "used": true,
-   "stale_days": 0
+   "stale_days": 1
   },
   "daily_picks": {
-   "updated": "2026-11-13",
+   "updated": "2026-11-16",
    "used": true,
    "stale_days": null
   }
@@ -117,22 +117,22 @@
   {
    "id": "cloud-main-A",
    "mandate": 100000.0,
-   "equity": 119422.15,
-   "cash": 48302.15,
-   "exposure": 71120.0,
-   "pnl": 19422.15,
-   "pnl_pct": 19.42,
+   "equity": 118103.31,
+   "cash": 45879.31,
+   "exposure": 72224.0,
+   "pnl": 18103.31,
+   "pnl_pct": 18.1,
    "status": "盈利追加",
    "strategies": "strong,strongbuy,daily_picks"
   },
   {
    "id": "cloud-sat-B",
    "mandate": 50000.0,
-   "equity": 53759.67,
-   "cash": 31489.67,
-   "exposure": 22270.0,
-   "pnl": 3759.67,
-   "pnl_pct": 7.52,
+   "equity": 53509.39,
+   "cash": 29015.39,
+   "exposure": 24494.0,
+   "pnl": 3509.39,
+   "pnl_pct": 7.02,
    "status": "盈利追加",
    "strategies": "strong,strongbuy"
   }
@@ -148,18 +148,6 @@
    "pnl": -37.4,
    "pnl_pct": -0.23,
    "strategy": "strong",
-   "account": "cloud-main-A"
-  },
-  {
-   "code": "002819",
-   "name": "东方中科",
-   "qty": 100,
-   "avg": 26.72,
-   "last": 26.66,
-   "value": 2666.0,
-   "pnl": -6.0,
-   "pnl_pct": -0.22,
-   "strategy": "daily_picks",
    "account": "cloud-main-A"
   },
   {
@@ -271,38 +259,14 @@
    "account": "cloud-main-A"
   },
   {
-   "code": "000897",
-   "name": "津滨发展",
-   "qty": 500,
-   "avg": 1.924,
-   "last": 1.94,
-   "value": 970.0,
-   "pnl": 8.0,
-   "pnl_pct": 0.83,
-   "strategy": "strong",
-   "account": "cloud-main-A"
-  },
-  {
-   "code": "002300",
-   "name": "太阳电缆",
-   "qty": 500,
-   "avg": 8.93,
-   "last": 8.67,
-   "value": 4335.0,
-   "pnl": -130.0,
-   "pnl_pct": -2.91,
-   "strategy": "strongbuy",
-   "account": "cloud-main-A"
-  },
-  {
    "code": "600622",
    "name": "光大嘉宝",
    "qty": 100,
    "avg": 2.055,
-   "last": 2.1,
-   "value": 210.0,
-   "pnl": 4.5,
-   "pnl_pct": 2.19,
+   "last": 2.07,
+   "value": 207.0,
+   "pnl": 1.5,
+   "pnl_pct": 0.73,
    "strategy": "strong",
    "account": "cloud-main-A"
   },
@@ -311,10 +275,10 @@
    "name": "利扬芯片",
    "qty": 100,
    "avg": 35.099,
-   "last": 36.0,
-   "value": 3600.0,
-   "pnl": 90.1,
-   "pnl_pct": 2.57,
+   "last": 36.5,
+   "value": 3650.0,
+   "pnl": 140.1,
+   "pnl_pct": 3.99,
    "strategy": "strongbuy",
    "account": "cloud-main-A"
   },
@@ -323,10 +287,10 @@
    "name": "有方科技",
    "qty": 500,
    "avg": 29.065,
-   "last": 29.55,
-   "value": 14775.0,
-   "pnl": 242.5,
-   "pnl_pct": 1.67,
+   "last": 28.3,
+   "value": 14150.0,
+   "pnl": -382.5,
+   "pnl_pct": -2.63,
    "strategy": "strong",
    "account": "cloud-main-A"
   },
@@ -335,11 +299,59 @@
    "name": "气派科技",
    "qty": 100,
    "avg": 28.674,
-   "last": 29.54,
-   "value": 2954.0,
-   "pnl": 86.6,
-   "pnl_pct": 3.02,
+   "last": 28.76,
+   "value": 2876.0,
+   "pnl": 8.6,
+   "pnl_pct": 0.3,
    "strategy": "strong",
+   "account": "cloud-main-A"
+  },
+  {
+   "code": "000607",
+   "name": "华媒控股",
+   "qty": 300,
+   "avg": 4.199,
+   "last": 4.19,
+   "value": 1257.0,
+   "pnl": -2.7,
+   "pnl_pct": -0.21,
+   "strategy": "strong",
+   "account": "cloud-main-A"
+  },
+  {
+   "code": "001358",
+   "name": "兴欣新材",
+   "qty": 100,
+   "avg": 26.7,
+   "last": 26.64,
+   "value": 2664.0,
+   "pnl": -6.0,
+   "pnl_pct": -0.22,
+   "strategy": "daily_picks",
+   "account": "cloud-main-A"
+  },
+  {
+   "code": "002343",
+   "name": "慈文传媒",
+   "qty": 500,
+   "avg": 10.143,
+   "last": 10.12,
+   "value": 5060.0,
+   "pnl": -11.5,
+   "pnl_pct": -0.23,
+   "strategy": "strongbuy",
+   "account": "cloud-main-A"
+  },
+  {
+   "code": "600408",
+   "name": "安泰集团",
+   "qty": 200,
+   "avg": 3.758,
+   "last": 3.75,
+   "value": 750.0,
+   "pnl": -1.6,
+   "pnl_pct": -0.21,
+   "strategy": "strongbuy",
    "account": "cloud-main-A"
   },
   {
@@ -379,26 +391,14 @@
    "account": "cloud-sat-B"
   },
   {
-   "code": "000897",
-   "name": "津滨发展",
-   "qty": 400,
-   "avg": 1.924,
-   "last": 1.94,
-   "value": 776.0,
-   "pnl": 6.4,
-   "pnl_pct": 0.83,
-   "strategy": "strong",
-   "account": "cloud-sat-B"
-  },
-  {
    "code": "002016",
    "name": "世荣兆业",
    "qty": 100,
    "avg": 3.949,
-   "last": 3.98,
-   "value": 398.0,
-   "pnl": 3.1,
-   "pnl_pct": 0.79,
+   "last": 3.89,
+   "value": 389.0,
+   "pnl": -5.9,
+   "pnl_pct": -1.49,
    "strategy": "strong",
    "account": "cloud-sat-B"
   },
@@ -407,10 +407,10 @@
    "name": "光大嘉宝",
    "qty": 100,
    "avg": 2.085,
-   "last": 2.1,
-   "value": 210.0,
-   "pnl": 1.5,
-   "pnl_pct": 0.72,
+   "last": 2.07,
+   "value": 207.0,
+   "pnl": -1.5,
+   "pnl_pct": -0.72,
    "strategy": "strong",
    "account": "cloud-sat-B"
   },
@@ -419,10 +419,10 @@
    "name": "华控赛格",
    "qty": 100,
    "avg": 2.867,
-   "last": 2.91,
-   "value": 291.0,
-   "pnl": 4.3,
-   "pnl_pct": 1.5,
+   "last": 2.9,
+   "value": 290.0,
+   "pnl": 3.3,
+   "pnl_pct": 1.15,
    "strategy": "strong",
    "account": "cloud-sat-B"
   },
@@ -431,10 +431,10 @@
    "name": "利扬芯片",
    "qty": 100,
    "avg": 35.099,
-   "last": 36.0,
-   "value": 3600.0,
-   "pnl": 90.1,
-   "pnl_pct": 2.57,
+   "last": 36.5,
+   "value": 3650.0,
+   "pnl": 140.1,
+   "pnl_pct": 3.99,
    "strategy": "strongbuy",
    "account": "cloud-sat-B"
   },
@@ -443,10 +443,10 @@
    "name": "有方科技",
    "qty": 200,
    "avg": 29.065,
-   "last": 29.55,
-   "value": 5910.0,
-   "pnl": 97.0,
-   "pnl_pct": 1.67,
+   "last": 28.3,
+   "value": 5660.0,
+   "pnl": -153.0,
+   "pnl_pct": -2.63,
    "strategy": "strong",
    "account": "cloud-sat-B"
   },
@@ -455,136 +455,51 @@
    "name": "中威电子",
    "qty": 100,
    "avg": 8.87,
-   "last": 8.96,
-   "value": 896.0,
-   "pnl": 9.0,
-   "pnl_pct": 1.01,
+   "last": 8.72,
+   "value": 872.0,
+   "pnl": -15.0,
+   "pnl_pct": -1.69,
    "strategy": "strong",
+   "account": "cloud-sat-B"
+  },
+  {
+   "code": "000607",
+   "name": "华媒控股",
+   "qty": 200,
+   "avg": 4.199,
+   "last": 4.19,
+   "value": 838.0,
+   "pnl": -1.8,
+   "pnl_pct": -0.21,
+   "strategy": "strong",
+   "account": "cloud-sat-B"
+  },
+  {
+   "code": "002343",
+   "name": "慈文传媒",
+   "qty": 200,
+   "avg": 10.143,
+   "last": 10.12,
+   "value": 2024.0,
+   "pnl": -4.6,
+   "pnl_pct": -0.23,
+   "strategy": "strongbuy",
+   "account": "cloud-sat-B"
+  },
+  {
+   "code": "600408",
+   "name": "安泰集团",
+   "qty": 100,
+   "avg": 3.758,
+   "last": 3.75,
+   "value": 375.0,
+   "pnl": -0.8,
+   "pnl_pct": -0.21,
+   "strategy": "strongbuy",
    "account": "cloud-sat-B"
   }
  ],
  "trades": [
-  {
-   "date": "2026-10-08",
-   "ts": "2026-10-08 22:45",
-   "code": "300259",
-   "name": "新天科技",
-   "side": "SELL",
-   "qty": 100,
-   "price": 4.551,
-   "reason": "持有14天轮出",
-   "account": "cloud-main-A"
-  },
-  {
-   "date": "2026-10-08",
-   "ts": "2026-10-08 22:45",
-   "code": "300977",
-   "name": "深圳瑞捷",
-   "side": "SELL",
-   "qty": 100,
-   "price": 19.012,
-   "reason": "止损 -4.7%",
-   "account": "cloud-main-A"
-  },
-  {
-   "date": "2026-10-08",
-   "ts": "2026-10-08 22:45",
-   "code": "300947",
-   "name": "德必集团",
-   "side": "BUY",
-   "qty": 100,
-   "price": 15.982,
-   "reason": "strong 信号买入",
-   "account": "cloud-main-A"
-  },
-  {
-   "date": "2026-10-08",
-   "ts": "2026-10-08 22:45",
-   "code": "600758",
-   "name": "辽宁能源",
-   "side": "BUY",
-   "qty": 200,
-   "price": 3.757,
-   "reason": "strong 信号买入",
-   "account": "cloud-main-A"
-  },
-  {
-   "date": "2026-10-08",
-   "ts": "2026-10-08 22:45",
-   "code": "600152",
-   "name": "维科技术",
-   "side": "BUY",
-   "qty": 100,
-   "price": 8.497,
-   "reason": "daily_picks 信号买入",
-   "account": "cloud-main-A"
-  },
-  {
-   "date": "2026-10-08",
-   "ts": "2026-10-08 22:45",
-   "code": "920627",
-   "name": "力王股份",
-   "side": "BUY",
-   "qty": 200,
-   "price": 17.866,
-   "reason": "strongbuy 信号买入",
-   "account": "cloud-main-A"
-  },
-  {
-   "date": "2026-10-08",
-   "ts": "2026-10-08 22:45",
-   "code": "002285",
-   "name": "世联行",
-   "side": "SELL",
-   "qty": 100,
-   "price": 3.383,
-   "reason": "持有15天轮出",
-   "account": "cloud-sat-B"
-  },
-  {
-   "date": "2026-10-08",
-   "ts": "2026-10-08 22:45",
-   "code": "301311",
-   "name": "昆船智能",
-   "side": "SELL",
-   "qty": 100,
-   "price": 18.752,
-   "reason": "持有14天轮出",
-   "account": "cloud-sat-B"
-  },
-  {
-   "date": "2026-10-08",
-   "ts": "2026-10-08 22:45",
-   "code": "600121",
-   "name": "郑州煤电",
-   "side": "SELL",
-   "qty": 100,
-   "price": 5.349,
-   "reason": "持有10天轮出",
-   "account": "cloud-sat-B"
-  },
-  {
-   "date": "2026-10-08",
-   "ts": "2026-10-08 22:45",
-   "code": "920627",
-   "name": "力王股份",
-   "side": "BUY",
-   "qty": 100,
-   "price": 17.866,
-   "reason": "strongbuy 信号买入",
-   "account": "cloud-sat-B"
-  },
-  {
-   "date": "2026-10-08",
-   "ts": "2026-10-08 22:45",
-   "code": "002614",
-   "name": "奥佳华",
-   "side": "BUY",
-   "qty": 100,
-   "price": 8.357,
-   "reason": "strongbuy 信号买入",
-   "account": "cloud-sat-B"
-  },
   {
    "date": "2026-10-09",
    "ts": "2026-10-09 22:28",
@@ -2663,6 +2578,127 @@
    "price": 4.87,
    "reason": "止盈 +11.4%",
    "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "002819",
+   "name": "东方中科",
+   "side": "SELL",
+   "qty": 100,
+   "price": 21.657,
+   "reason": "止损 -18.8%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "000897",
+   "name": "津滨发展",
+   "side": "SELL",
+   "qty": 500,
+   "price": 1.926,
+   "reason": "持有13天轮出",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "002300",
+   "name": "太阳电缆",
+   "side": "SELL",
+   "qty": 500,
+   "price": 8.413,
+   "reason": "止损 -5.6%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "000607",
+   "name": "华媒控股",
+   "side": "BUY",
+   "qty": 300,
+   "price": 4.198,
+   "reason": "strong 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "001358",
+   "name": "兴欣新材",
+   "side": "BUY",
+   "qty": 100,
+   "price": 26.693,
+   "reason": "daily_picks 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "002343",
+   "name": "慈文传媒",
+   "side": "BUY",
+   "qty": 500,
+   "price": 10.14,
+   "reason": "strongbuy 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "600408",
+   "name": "安泰集团",
+   "side": "BUY",
+   "qty": 200,
+   "price": 3.757,
+   "reason": "strongbuy 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "000897",
+   "name": "津滨发展",
+   "side": "SELL",
+   "qty": 400,
+   "price": 1.926,
+   "reason": "持有13天轮出",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "000607",
+   "name": "华媒控股",
+   "side": "BUY",
+   "qty": 200,
+   "price": 4.198,
+   "reason": "strong 信号买入",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "002343",
+   "name": "慈文传媒",
+   "side": "BUY",
+   "qty": 200,
+   "price": 10.14,
+   "reason": "strongbuy 信号买入",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "600408",
+   "name": "安泰集团",
+   "side": "BUY",
+   "qty": 100,
+   "price": 3.757,
+   "reason": "strongbuy 信号买入",
+   "account": "cloud-sat-B"
   }
  ],
  "history": [
@@ -2797,23 +2833,27 @@
   {
    "ts": "2026-11-13 23:35",
    "equity": 173181.82
+  },
+  {
+   "ts": "2026-11-17 01:17",
+   "equity": 171612.69
   }
  ],
  "allocations": {
   "strong": {
    "alloc_total": 50000.0,
    "assigned": 50000.0,
-   "deployed": 50297.0
+   "deployed": 49653.0
   },
   "strongbuy": {
    "alloc_total": 35000.0,
    "assigned": 35000.0,
-   "deployed": 23137.0
+   "deployed": 27111.0
   },
   "daily_picks": {
    "alloc_total": 20000.0,
    "assigned": 20000.0,
-   "deployed": 19956.0
+   "deployed": 19954.0
   }
  }
 }

@@ -10,7 +10,7 @@
     "strongbuy": 0.25,
     "daily_picks": 0.2
    },
-   "cash": 48302.14674999997,
+   "cash": 45879.307824999974,
    "positions": [
     {
      "code": "000890",
@@ -20,15 +20,6 @@
      "last": 7.44,
      "strategy": "strong",
      "open_date": "2026-09-15"
-    },
-    {
-     "code": "002819",
-     "name": "东方中科",
-     "qty": 100,
-     "avg": 26.72,
-     "last": 26.66,
-     "strategy": "daily_picks",
-     "open_date": "2026-09-25"
     },
     {
      "code": "920748",
@@ -112,29 +103,11 @@
      "open_date": "2026-10-26"
     },
     {
-     "code": "000897",
-     "name": "津滨发展",
-     "qty": 500,
-     "avg": 1.924,
-     "last": 1.94,
-     "strategy": "strong",
-     "open_date": "2026-11-04"
-    },
-    {
-     "code": "002300",
-     "name": "太阳电缆",
-     "qty": 500,
-     "avg": 8.93,
-     "last": 8.67,
-     "strategy": "strongbuy",
-     "open_date": "2026-11-10"
-    },
-    {
      "code": "600622",
      "name": "光大嘉宝",
      "qty": 100,
      "avg": 2.055,
-     "last": 2.1,
+     "last": 2.07,
      "strategy": "strong",
      "open_date": "2026-11-11"
     },
@@ -143,7 +116,7 @@
      "name": "利扬芯片",
      "qty": 100,
      "avg": 35.099,
-     "last": 36.0,
+     "last": 36.5,
      "strategy": "strongbuy",
      "open_date": "2026-11-11"
     },
@@ -152,7 +125,7 @@
      "name": "有方科技",
      "qty": 500,
      "avg": 29.065,
-     "last": 29.55,
+     "last": 28.3,
      "strategy": "strong",
      "open_date": "2026-11-13"
     },
@@ -161,12 +134,48 @@
      "name": "气派科技",
      "qty": 100,
      "avg": 28.674,
-     "last": 29.54,
+     "last": 28.76,
      "strategy": "strong",
      "open_date": "2026-11-13"
+    },
+    {
+     "code": "000607",
+     "name": "华媒控股",
+     "qty": 300,
+     "avg": 4.199,
+     "last": 4.19,
+     "strategy": "strong",
+     "open_date": "2026-11-17"
+    },
+    {
+     "code": "001358",
+     "name": "兴欣新材",
+     "qty": 100,
+     "avg": 26.7,
+     "last": 26.64,
+     "strategy": "daily_picks",
+     "open_date": "2026-11-17"
+    },
+    {
+     "code": "002343",
+     "name": "慈文传媒",
+     "qty": 500,
+     "avg": 10.143,
+     "last": 10.12,
+     "strategy": "strongbuy",
+     "open_date": "2026-11-17"
+    },
+    {
+     "code": "600408",
+     "name": "安泰集团",
+     "qty": 200,
+     "avg": 3.758,
+     "last": 3.75,
+     "strategy": "strongbuy",
+     "open_date": "2026-11-17"
     }
    ],
-   "realized": 19217.184549999994
+   "realized": 18447.883149999994
   },
   {
    "id": "cloud-sat-B",
@@ -175,7 +184,7 @@
     "strong": 0.3,
     "strongbuy": 0.2
    },
-   "cash": 31489.67399999998,
+   "cash": 29015.385374999976,
    "positions": [
     {
      "code": "000890",
@@ -205,20 +214,11 @@
      "open_date": "2026-09-24"
     },
     {
-     "code": "000897",
-     "name": "津滨发展",
-     "qty": 400,
-     "avg": 1.924,
-     "last": 1.94,
-     "strategy": "strong",
-     "open_date": "2026-11-04"
-    },
-    {
      "code": "002016",
      "name": "世荣兆业",
      "qty": 100,
      "avg": 3.949,
-     "last": 3.98,
+     "last": 3.89,
      "strategy": "strong",
      "open_date": "2026-11-06"
     },
@@ -227,7 +227,7 @@
      "name": "光大嘉宝",
      "qty": 100,
      "avg": 2.085,
-     "last": 2.1,
+     "last": 2.07,
      "strategy": "strong",
      "open_date": "2026-11-06"
     },
@@ -236,7 +236,7 @@
      "name": "华控赛格",
      "qty": 100,
      "avg": 2.867,
-     "last": 2.91,
+     "last": 2.9,
      "strategy": "strong",
      "open_date": "2026-11-10"
     },
@@ -245,7 +245,7 @@
      "name": "利扬芯片",
      "qty": 100,
      "avg": 35.099,
-     "last": 36.0,
+     "last": 36.5,
      "strategy": "strongbuy",
      "open_date": "2026-11-11"
     },
@@ -254,7 +254,7 @@
      "name": "有方科技",
      "qty": 200,
      "avg": 29.065,
-     "last": 29.55,
+     "last": 28.3,
      "strategy": "strong",
      "open_date": "2026-11-13"
     },
@@ -263,12 +263,39 @@
      "name": "中威电子",
      "qty": 100,
      "avg": 8.87,
-     "last": 8.96,
+     "last": 8.72,
      "strategy": "strong",
      "open_date": "2026-11-13"
+    },
+    {
+     "code": "000607",
+     "name": "华媒控股",
+     "qty": 200,
+     "avg": 4.199,
+     "last": 4.19,
+     "strategy": "strong",
+     "open_date": "2026-11-17"
+    },
+    {
+     "code": "002343",
+     "name": "慈文传媒",
+     "qty": 200,
+     "avg": 10.143,
+     "last": 10.12,
+     "strategy": "strongbuy",
+     "open_date": "2026-11-17"
+    },
+    {
+     "code": "600408",
+     "name": "安泰集团",
+     "qty": 100,
+     "avg": 3.758,
+     "last": 3.75,
+     "strategy": "strongbuy",
+     "open_date": "2026-11-17"
     }
    ],
-   "realized": 3570.1035500000035
+   "realized": 3570.3257500000036
   }
  ],
  "history": [
@@ -403,6 +430,10 @@
   {
    "ts": "2026-11-13 23:35",
    "equity": 173181.82
+  },
+  {
+   "ts": "2026-11-17 01:17",
+   "equity": 171612.69
   }
  ],
  "trades": [
@@ -3078,7 +3109,128 @@
    "price": 4.87,
    "reason": "止盈 +11.4%",
    "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "002819",
+   "name": "东方中科",
+   "side": "SELL",
+   "qty": 100,
+   "price": 21.657,
+   "reason": "止损 -18.8%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "000897",
+   "name": "津滨发展",
+   "side": "SELL",
+   "qty": 500,
+   "price": 1.926,
+   "reason": "持有13天轮出",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "002300",
+   "name": "太阳电缆",
+   "side": "SELL",
+   "qty": 500,
+   "price": 8.413,
+   "reason": "止损 -5.6%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "000607",
+   "name": "华媒控股",
+   "side": "BUY",
+   "qty": 300,
+   "price": 4.198,
+   "reason": "strong 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "001358",
+   "name": "兴欣新材",
+   "side": "BUY",
+   "qty": 100,
+   "price": 26.693,
+   "reason": "daily_picks 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "002343",
+   "name": "慈文传媒",
+   "side": "BUY",
+   "qty": 500,
+   "price": 10.14,
+   "reason": "strongbuy 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "600408",
+   "name": "安泰集团",
+   "side": "BUY",
+   "qty": 200,
+   "price": 3.757,
+   "reason": "strongbuy 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "000897",
+   "name": "津滨发展",
+   "side": "SELL",
+   "qty": 400,
+   "price": 1.926,
+   "reason": "持有13天轮出",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "000607",
+   "name": "华媒控股",
+   "side": "BUY",
+   "qty": 200,
+   "price": 4.198,
+   "reason": "strong 信号买入",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "002343",
+   "name": "慈文传媒",
+   "side": "BUY",
+   "qty": 200,
+   "price": 10.14,
+   "reason": "strongbuy 信号买入",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17 01:17",
+   "code": "600408",
+   "name": "安泰集团",
+   "side": "BUY",
+   "qty": 100,
+   "price": 3.757,
+   "reason": "strongbuy 信号买入",
+   "account": "cloud-sat-B"
   }
  ],
- "last_run_date": "2026-11-13"
+ "last_run_date": "2026-11-17"
 }
