@@ -3101,5 +3101,112 @@
       }
     ],
     "total_cost": 92688.0
+  },
+  "2026-11-16": {
+    "date": "2026-11-16",
+    "capital": 100000,
+    "positions": [
+      {
+        "code": "601366",
+        "name": "利群股份",
+        "buy_price": 3.91,
+        "buy_date": "2026-11-16",
+        "shares": 2500,
+        "cost": 9775.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.962
+      },
+      {
+        "code": "600853",
+        "name": "龙建股份",
+        "buy_price": 4.42,
+        "buy_date": "2026-11-16",
+        "shares": 2200,
+        "cost": 9724.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.742
+      },
+      {
+        "code": "002286",
+        "name": "保龄宝",
+        "buy_price": 9.4,
+        "buy_date": "2026-11-16",
+        "shares": 1000,
+        "cost": 9400.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.028
+      },
+      {
+        "code": "002861",
+        "name": "瀛通通讯",
+        "buy_price": 12.98,
+        "buy_date": "2026-11-16",
+        "shares": 700,
+        "cost": 9086.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.016
+      },
+      {
+        "code": "003017",
+        "name": "大洋生物",
+        "buy_price": 22.7,
+        "buy_date": "2026-11-16",
+        "shares": 400,
+        "cost": 9080.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.926
+      },
+      {
+        "code": "603103",
+        "name": "横店影视",
+        "buy_price": 20.44,
+        "buy_date": "2026-11-16",
+        "shares": 400,
+        "cost": 8176.000000000001,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.852
+      },
+      {
+        "code": "001379",
+        "name": "腾达科技",
+        "buy_price": 16.73,
+        "buy_date": "2026-11-16",
+        "shares": 500,
+        "cost": 8365.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.752
+      },
+      {
+        "code": "301487",
+        "name": "盟固利",
+        "buy_price": 19.96,
+        "buy_date": "2026-11-16",
+        "shares": 500,
+        "cost": 9980.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.108
+      },
+      {
+        "code": "605577",
+        "name": "龙版传媒",
+        "buy_price": 16.92,
+        "buy_date": "2026-11-16",
+        "shares": 500,
+        "cost": 8460.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.028
+      },
+      {
+        "code": "300561",
+        "name": "汇金科技",
+        "buy_price": 15.43,
+        "buy_date": "2026-11-16",
+        "shares": 600,
+        "cost": 9258.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 4.752
+      }
+    ],
+    "total_cost": 91304.0
   }
 }
