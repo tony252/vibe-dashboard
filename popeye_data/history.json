@@ -3214,6 +3214,76 @@
     "capital": 100000,
     "positions": [
       {
+        "code": "301187",
+        "name": "欧圣电气",
+        "buy_price": 18.36,
+        "buy_date": "2026-11-17",
+        "shares": 500,
+        "cost": 9180.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.882
+      },
+      {
+        "code": "002261",
+        "name": "拓维信息",
+        "buy_price": 22.96,
+        "buy_date": "2026-11-17",
+        "shares": 400,
+        "cost": 9184.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.709
+      },
+      {
+        "code": "301388",
+        "name": "欣灵电气",
+        "buy_price": 22.72,
+        "buy_date": "2026-11-17",
+        "shares": 400,
+        "cost": 9088.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.429
+      },
+      {
+        "code": "600711",
+        "name": "盛屯矿业",
+        "buy_price": 7.91,
+        "buy_date": "2026-11-17",
+        "shares": 1200,
+        "cost": 9492.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.89
+      },
+      {
+        "code": "301256",
+        "name": "华融化学",
+        "buy_price": 8.66,
+        "buy_date": "2026-11-17",
+        "shares": 1100,
+        "cost": 9526.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.61
+      },
+      {
+        "code": "600895",
+        "name": "张江高科",
+        "buy_price": 27.35,
+        "buy_date": "2026-11-17",
+        "shares": 300,
+        "cost": 8205.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.558
+      },
+      {
+        "code": "002187",
+        "name": "广百股份",
+        "buy_price": 8.1,
+        "buy_date": "2026-11-17",
+        "shares": 1200,
+        "cost": 9720.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.606
+      },
+      {
         "code": "300786",
         "name": "国林科技",
         "buy_price": 13.4,
@@ -3224,6 +3294,16 @@
         "change_at_buy": 19.964
       },
       {
+        "code": "603030",
+        "name": "全筑股份",
+        "buy_price": 1.94,
+        "buy_date": "2026-11-17",
+        "shares": 5100,
+        "cost": 9894.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.227
+      },
+      {
         "code": "000707",
         "name": "双环科技",
         "buy_price": 4.59,
@@ -3232,88 +3312,8 @@
         "cost": 9639.0,
         "reason": "黄金区间3-6%",
         "change_at_buy": 10.072
-      },
-      {
-        "code": "000859",
-        "name": "国风新材",
-        "buy_price": 8.31,
-        "buy_date": "2026-11-17",
-        "shares": 1200,
-        "cost": 9972.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 10.066
-      },
-      {
-        "code": "600202",
-        "name": "哈空调",
-        "buy_price": 5.59,
-        "buy_date": "2026-11-17",
-        "shares": 1700,
-        "cost": 9503.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 10.039
-      },
-      {
-        "code": "002584",
-        "name": "西陇科学",
-        "buy_price": 7.91,
-        "buy_date": "2026-11-17",
-        "shares": 1200,
-        "cost": 9492.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 10.014
-      },
-      {
-        "code": "002652",
-        "name": "扬子新材",
-        "buy_price": 4.4,
-        "buy_date": "2026-11-17",
-        "shares": 2200,
-        "cost": 9680.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 10.0
-      },
-      {
-        "code": "002771",
-        "name": "真视通",
-        "buy_price": 11.88,
-        "buy_date": "2026-11-17",
-        "shares": 800,
-        "cost": 9504.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 10.0
-      },
-      {
-        "code": "600619",
-        "name": "海立股份",
-        "buy_price": 13.1,
-        "buy_date": "2026-11-17",
-        "shares": 700,
-        "cost": 9170.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 9.992
-      },
-      {
-        "code": "000521",
-        "name": "长虹美菱",
-        "buy_price": 4.74,
-        "buy_date": "2026-11-17",
-        "shares": 2100,
-        "cost": 9954.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 9.977
-      },
-      {
-        "code": "600936",
-        "name": "北投科技",
-        "buy_price": 4.42,
-        "buy_date": "2026-11-17",
-        "shares": 2200,
-        "cost": 9724.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 9.95
       }
     ],
-    "total_cost": 96018.0
+    "total_cost": 93308.0
   }
 }
