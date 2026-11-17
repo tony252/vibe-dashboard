@@ -1,10 +1,10 @@
 {
   "date": "2026-11-17",
-  "updated_at": "2026-11-17 16:33:29",
+  "updated_at": "2026-11-17 20:03:07",
   "stats": {
-    "processed": 7,
+    "processed": 9,
     "alerts": 0,
-    "filtered": 7
+    "filtered": 8
   },
   "events": [
     {
@@ -38,6 +38,25 @@
           "name": "农业银行",
           "code": "601288",
           "match_reason": "直接提及[农业银行]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-17 12:18",
+      "type": "archive",
+      "title": "【午报】科创50探底回升涨超3%，半导体芯片产业集体爆发，AI漫剧概念陷入调整",
+      "content": "①今日早盘市场探底回升，深成指、创业板指翻红，科创50指数涨超3%，其中芯片产业链异动拉升，华为算力、家电板块表现活跃；\n②个股层面，早盘涨停数量为41家，连板股数量为7家，广百股份晋级4连板。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2536358",
+      "stocks": [
+        {
+          "name": "广百股份",
+          "code": "002187",
+          "match_reason": "直接提及[广百股份]（选股推荐）"
         }
       ],
       "verification": {
@@ -190,7 +209,7 @@
       "现金管理"
     ]
   },
-  "mode": "report",
+  "mode": "scan",
   "week": 47,
   "stock_meta": {
     "600327": "2026-11-17 16:33",
@@ -207,7 +226,8 @@
     "002739": "2026-11-17 16:33",
     "603166": "2026-11-17 16:33",
     "002419": "2026-11-17 16:33",
-    "000533": "2026-11-17 16:33"
+    "000533": "2026-11-17 16:33",
+    "002187": "2026-11-17 20:06"
   },
   "watchlist": [
     {
@@ -216,9 +236,9 @@
       "keywords": "直接提及[大东方]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-17 16:33",
+      "selected_at": "2026-11-17 20:06",
       "first_seen": "2026-11-17 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "长江电力",
@@ -226,9 +246,9 @@
       "keywords": "直接提及[长江电力]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-17 16:33",
+      "selected_at": "2026-11-17 20:06",
       "first_seen": "2026-11-17 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "农业银行",
@@ -236,8 +256,18 @@
       "keywords": "直接提及[农业银行]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-17 16:33",
+      "selected_at": "2026-11-17 20:06",
       "first_seen": "2026-11-17 16:33",
+      "is_new": false
+    },
+    {
+      "name": "广百股份",
+      "code": "002187",
+      "keywords": "直接提及[广百股份]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-17 20:06",
+      "first_seen": "2026-11-17 20:06",
       "is_new": true
     },
     {
@@ -246,9 +276,9 @@
       "keywords": "直接提及[骏成科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-17 16:33",
+      "selected_at": "2026-11-17 20:06",
       "first_seen": "2026-11-17 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "百洋股份",
@@ -256,9 +286,9 @@
       "keywords": "直接提及[百洋股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-17 16:33",
+      "selected_at": "2026-11-17 20:06",
       "first_seen": "2026-11-17 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "襄阳轴承",
@@ -266,9 +296,9 @@
       "keywords": "直接提及[襄阳轴承]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-17 16:33",
+      "selected_at": "2026-11-17 20:06",
       "first_seen": "2026-11-17 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "北纬科技",
@@ -276,9 +306,9 @@
       "keywords": "直接提及[北纬科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-17 16:33",
+      "selected_at": "2026-11-17 20:06",
       "first_seen": "2026-11-17 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "天普股份",
@@ -286,9 +316,9 @@
       "keywords": "直接提及[天普股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-17 16:33",
+      "selected_at": "2026-11-17 20:06",
       "first_seen": "2026-11-17 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "兴欣新材",
@@ -296,9 +326,9 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.04%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-17 16:33",
+      "selected_at": "2026-11-17 20:06",
       "first_seen": "2026-11-17 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "东方中科",
@@ -306,9 +336,9 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.98\">涨幅9.98%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.69%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-17 16:33",
+      "selected_at": "2026-11-17 20:06",
       "first_seen": "2026-11-17 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "中马传动",
@@ -316,9 +346,9 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.98\">涨幅9.98%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率6.96%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-17 16:33",
+      "selected_at": "2026-11-17 20:06",
       "first_seen": "2026-11-17 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "儒意电影",
@@ -326,9 +356,9 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.96\">涨幅9.96%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率7.57%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-17 16:33",
+      "selected_at": "2026-11-17 20:06",
       "first_seen": "2026-11-17 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "福达股份",
@@ -336,9 +366,9 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"10.04\">涨幅10.04%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.23%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-17 16:33",
+      "selected_at": "2026-11-17 20:06",
       "first_seen": "2026-11-17 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "天虹股份",
@@ -346,19 +376,9 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.98\">涨幅9.98%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率6.01%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-17 16:33",
+      "selected_at": "2026-11-17 20:06",
       "first_seen": "2026-11-17 16:33",
-      "is_new": true
-    },
-    {
-      "name": "顺钠股份",
-      "code": "000533",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.97\">涨幅9.97%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率6.61%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-17 16:33",
-      "first_seen": "2026-11-17 16:33",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
