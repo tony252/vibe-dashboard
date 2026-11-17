@@ -313409,5 +313409,200 @@
         }
       ]
     }
+  },
+  "2026-11-17": {
+    "高欣资金净流入": {
+      "time": "08:51",
+      "picks": [
+        {
+          "code": "000063",
+          "name": "中兴通讯",
+          "net_amount_5d": -474885.0,
+          "net_ratio_avg": -1.48,
+          "positive_days": 2,
+          "change_pct": 0.84,
+          "price": 3671.7,
+          "score": 10.63
+        },
+        {
+          "code": "000001",
+          "name": "平安银行",
+          "net_amount_5d": -5607984.0,
+          "net_ratio_avg": -1.45,
+          "positive_days": 2,
+          "change_pct": -0.87,
+          "price": 3602.57,
+          "score": 10.26
+        },
+        {
+          "code": "000002",
+          "name": "万科A",
+          "net_amount_5d": -5607540.0,
+          "net_ratio_avg": -1.45,
+          "positive_days": 2,
+          "change_pct": -0.88,
+          "price": 3777.43,
+          "score": 10.26
+        },
+        {
+          "code": "000961",
+          "name": "中南建设",
+          "net_amount_5d": -1077887.0,
+          "net_ratio_avg": -4.01,
+          "positive_days": 1,
+          "change_pct": -1.55,
+          "price": 4151.6,
+          "score": 5.46
+        },
+        {
+          "code": "000066",
+          "name": "中国长城",
+          "net_amount_5d": -825959.0,
+          "net_ratio_avg": -3.56,
+          "positive_days": 1,
+          "change_pct": -1.37,
+          "price": 3131.77,
+          "score": 5.41
+        }
+      ]
+    },
+    "杰克船长": {
+      "time": "08:51",
+      "picks": [
+        {
+          "name": "天虹股份",
+          "code": "002419",
+          "price": "5.400",
+          "change": 9.98,
+          "turnover": "6.00717",
+          "score": 101,
+          "limit_score": 28,
+          "total": 101,
+          "level": "⭐⭐⭐强力🔥",
+          "action": "重仓30%",
+          "rules": [
+            "换手温和",
+            "强势",
+            "上涨趋势",
+            "🔥涨停信号",
+            "站上MA5"
+          ],
+          "change_val": 9.98,
+          "chan_score": 0,
+          "chan_buy": null,
+          "chan_buy_price": "5.400",
+          "chan_bottom_div": null,
+          "chan_confidence": 0,
+          "final_score": 101
+        },
+        {
+          "name": "顺钠股份",
+          "code": "000533",
+          "price": "9.820",
+          "change": 9.966,
+          "turnover": "6.61308",
+          "score": 101,
+          "limit_score": 28,
+          "total": 101,
+          "level": "⭐⭐⭐强力🔥",
+          "action": "重仓30%",
+          "rules": [
+            "换手温和",
+            "强势",
+            "上涨趋势",
+            "🔥涨停信号",
+            "站上MA5"
+          ],
+          "change_val": 9.966,
+          "chan_score": 0,
+          "chan_buy": null,
+          "chan_buy_price": "9.820",
+          "chan_bottom_div": null,
+          "chan_confidence": 0,
+          "final_score": 101
+        },
+        {
+          "name": "科达制造",
+          "code": "600499",
+          "price": "12.140",
+          "change": 7.72,
+          "turnover": "3.03158",
+          "score": 98,
+          "limit_score": 23,
+          "total": 98,
+          "level": "⭐⭐⭐强力🔥",
+          "action": "重仓30%",
+          "rules": [
+            "换手温和",
+            "强势",
+            "价格适中",
+            "上涨趋势",
+            "🔥涨停信号",
+            "站上MA5"
+          ],
+          "change_val": 7.72,
+          "chan_score": 0,
+          "chan_buy": null,
+          "chan_buy_price": "12.140",
+          "chan_bottom_div": null,
+          "chan_confidence": 0,
+          "final_score": 98
+        },
+        {
+          "name": "清研环境",
+          "code": "301288",
+          "price": "16.780",
+          "change": 7.084,
+          "turnover": "5.64617",
+          "score": 98,
+          "limit_score": 23,
+          "total": 98,
+          "level": "⭐⭐⭐强力🔥",
+          "action": "重仓30%",
+          "rules": [
+            "换手温和",
+            "强势",
+            "价格适中",
+            "上涨趋势",
+            "🔥涨停信号",
+            "站上MA5"
+          ],
+          "change_val": 7.084,
+          "chan_score": 0,
+          "chan_buy": null,
+          "chan_buy_price": "16.780",
+          "chan_bottom_div": null,
+          "chan_confidence": 0,
+          "final_score": 98
+        },
+        {
+          "name": "原尚股份",
+          "code": "603813",
+          "price": "22.900",
+          "change": 7.059,
+          "turnover": "4.16074",
+          "score": 98,
+          "limit_score": 23,
+          "total": 98,
+          "level": "⭐⭐⭐强力🔥",
+          "action": "重仓30%",
+          "rules": [
+            "换手温和",
+            "强势",
+            "价格适中",
+            "上涨趋势",
+            "🔥涨停信号",
+            "站上MA5"
+          ],
+          "change_val": 7.059,
+          "chan_score": 0,
+          "chan_buy": null,
+          "chan_buy_price": "22.900",
+          "chan_bottom_div": null,
+          "chan_confidence": 0,
+          "final_score": 98
+        }
+      ]
+    }
   }
 }
