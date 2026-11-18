@@ -177,113 +177,77 @@
   ],
   "stocks": [
     {
-      "code": "301288",
-      "name": "清研环境",
-      "price": 24.17,
+      "code": "301391",
+      "name": "卡莱特",
+      "price": 46.66,
       "change_pct": 20.01,
-      "turnover": 14.2,
+      "turnover": 9.1,
       "change_5d": 12.0,
-      "volume": 2.523,
-      "tag": "newhigh",
+      "volume": 3.491,
+      "tag": "volume",
       "score": 5,
-      "reason": "涨幅榜前列(第1名),飙升20.0%"
+      "reason": "量价齐升,换手9.1%,成交3.5亿"
     },
     {
       "code": "300324",
       "name": "旋极信息",
       "price": 4.44,
       "change_pct": 20.0,
-      "turnover": 15.8,
+      "turnover": 16.3,
       "change_5d": 12.0,
-      "volume": 11.163,
-      "tag": "newhigh",
-      "score": 5,
-      "reason": "涨幅榜前列(第2名),飙升20.0%"
-    },
-    {
-      "code": "300991",
-      "name": "创益通",
-      "price": 22.68,
-      "change_pct": 20.0,
-      "turnover": 6.6,
-      "change_5d": 12.0,
-      "volume": 1.489,
-      "tag": "newhigh",
-      "score": 5,
-      "reason": "涨幅榜前列(第3名),飙升20.0%"
-    },
-    {
-      "code": "300706",
-      "name": "阿石创",
-      "price": 42.74,
-      "change_pct": 4.73,
-      "turnover": 11.8,
-      "change_5d": 2.8,
-      "volume": 5.478,
+      "volume": 11.598,
       "tag": "volume",
       "score": 5,
-      "reason": "量价齐升,换手11.8%,成交5.5亿"
+      "reason": "量价齐升,换手16.3%,成交11.6亿"
     },
     {
-      "code": "001219",
-      "name": "青岛食品",
-      "price": 17.59,
-      "change_pct": 4.39,
-      "turnover": 10.6,
-      "change_5d": 2.6,
-      "volume": 3.546,
+      "code": "301288",
+      "name": "清研环境",
+      "price": 23.9,
+      "change_pct": 18.67,
+      "turnover": 17.7,
+      "change_5d": 11.2,
+      "volume": 3.175,
       "tag": "volume",
       "score": 5,
-      "reason": "量价齐升,换手10.6%,成交3.5亿"
-    },
-    {
-      "code": "002451",
-      "name": "摩恩电气",
-      "price": 7.43,
-      "change_pct": 4.21,
-      "turnover": 8.2,
-      "change_5d": 2.5,
-      "volume": 2.72,
-      "tag": "volume",
-      "score": 5,
-      "reason": "量价齐升,换手8.2%,成交2.7亿"
-    },
-    {
-      "code": "002584",
-      "name": "西陇科学",
-      "price": 8.14,
-      "change_pct": 2.91,
-      "turnover": 22.8,
-      "change_5d": 1.7,
-      "volume": 9.187,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手22.8%,成交9.2亿"
-    },
-    {
-      "code": "002889",
-      "name": "东方嘉盛",
-      "price": 15.62,
-      "change_pct": 2.7,
-      "turnover": 10.0,
-      "change_5d": 1.6,
-      "volume": 3.854,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手10.0%,成交3.9亿"
+      "reason": "量价齐升,换手17.7%,成交3.2亿"
     },
     {
       "code": "600206",
       "name": "有研新材",
-      "price": 40.34,
-      "change_pct": 2.57,
-      "turnover": 9.0,
-      "change_5d": 1.5,
-      "volume": 30.455,
+      "price": 40.45,
+      "change_pct": 2.85,
+      "turnover": 10.1,
+      "change_5d": 1.7,
+      "volume": 34.275,
       "tag": "resilient",
       "score": 4,
-      "reason": "高换手9.0%,成交30.5亿"
+      "reason": "高换手10.1%,成交34.3亿"
+    },
+    {
+      "code": "002451",
+      "name": "摩恩电气",
+      "price": 7.32,
+      "change_pct": 2.67,
+      "turnover": 8.9,
+      "change_5d": 1.6,
+      "volume": 2.956,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手8.9%,成交3.0亿"
+    },
+    {
+      "code": "300786",
+      "name": "国林科技",
+      "price": 13.71,
+      "change_pct": 2.31,
+      "turnover": 22.4,
+      "change_5d": 1.4,
+      "volume": 4.535,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手22.4%,成交4.5亿"
     }
   ],
-  "updated_at": "2026-11-18 10:10:59"
+  "updated_at": "2026-11-18 10:25:55"
 }
