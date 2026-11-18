@@ -330560,6 +330560,522 @@
     "高欣季度环比增长": {
       "time": "17:47",
       "picks": []
+    },
+    "追涨强势股_15:30": {
+      "time": "15:30",
+      "picks": [
+        {
+          "code": "000530",
+          "name": "冰山冷热",
+          "price": 12.41,
+          "change_pct": 4.726,
+          "turnover": 47.24892,
+          "volume_yi": 34.61,
+          "score": 100,
+          "reason": "换手47.2% | 涨幅+4.7%"
+        },
+        {
+          "code": "002148",
+          "name": "北纬科技",
+          "price": 8.92,
+          "change_pct": 9.988,
+          "turnover": 42.01816,
+          "volume_yi": 16.76,
+          "score": 100,
+          "reason": "换手42.0% | 涨幅+10.0%"
+        },
+        {
+          "code": "601188",
+          "name": "龙江交通",
+          "price": 5.08,
+          "change_pct": 7.173,
+          "turnover": 31.39329,
+          "volume_yi": 20.88,
+          "score": 100,
+          "reason": "换手31.4% | 涨幅+7.2%"
+        },
+        {
+          "code": "300706",
+          "name": "阿石创",
+          "price": 43.52,
+          "change_pct": 6.641,
+          "turnover": 25.26489,
+          "volume_yi": 12.1,
+          "score": 100,
+          "reason": "换手25.3% | 涨幅+6.6%"
+        },
+        {
+          "code": "600408",
+          "name": "安泰集团",
+          "price": 3.71,
+          "change_pct": 6.304,
+          "turnover": 23.22909,
+          "volume_yi": 8.78,
+          "score": 100,
+          "reason": "换手23.2% | 涨幅+6.3%"
+        },
+        {
+          "code": "002535",
+          "name": "林州重机",
+          "price": 3.01,
+          "change_pct": 5.245,
+          "turnover": 22.6039,
+          "volume_yi": 4.9,
+          "score": 100,
+          "reason": "换手22.6% | 涨幅+5.2%"
+        },
+        {
+          "code": "301010",
+          "name": "晶雪节能",
+          "price": 24.9,
+          "change_pct": 6.775,
+          "turnover": 21.33522,
+          "volume_yi": 5.68,
+          "score": 100,
+          "reason": "换手21.3% | 涨幅+6.8%"
+        },
+        {
+          "code": "300829",
+          "name": "金丹科技",
+          "price": 30.91,
+          "change_pct": 4.851,
+          "turnover": 20.30276,
+          "volume_yi": 10.3,
+          "score": 100,
+          "reason": "换手20.3% | 涨幅+4.9%"
+        },
+        {
+          "code": "603118",
+          "name": "共进股份",
+          "price": 15.8,
+          "change_pct": 6.757,
+          "turnover": 19.19473,
+          "volume_yi": 22.93,
+          "score": 100,
+          "reason": "换手19.2% | 涨幅+6.8%"
+        },
+        {
+          "code": "002229",
+          "name": "鸿博股份",
+          "price": 10.78,
+          "change_pct": 5.479,
+          "turnover": 17.87938,
+          "volume_yi": 9.22,
+          "score": 100,
+          "reason": "换手17.9% | 涨幅+5.5%"
+        },
+        {
+          "code": "000823",
+          "name": "超声电子",
+          "price": 17.65,
+          "change_pct": 6.07,
+          "turnover": 17.75633,
+          "volume_yi": 18.24,
+          "score": 100,
+          "reason": "换手17.8% | 涨幅+6.1%"
+        },
+        {
+          "code": "600206",
+          "name": "有研新材",
+          "price": 41.62,
+          "change_pct": 5.823,
+          "turnover": 17.18844,
+          "volume_yi": 58.99,
+          "score": 100,
+          "reason": "换手17.2% | 涨幅+5.8%"
+        },
+        {
+          "code": "300539",
+          "name": "横河精密",
+          "price": 21.51,
+          "change_pct": 9.243,
+          "turnover": 17.183,
+          "volume_yi": 7.84,
+          "score": 100,
+          "reason": "换手17.2% | 涨幅+9.2%"
+        },
+        {
+          "code": "301178",
+          "name": "天亿马",
+          "price": 39.32,
+          "change_pct": 8.081,
+          "turnover": 16.88231,
+          "volume_yi": 4.37,
+          "score": 100,
+          "reason": "换手16.9% | 涨幅+8.1%"
+        },
+        {
+          "code": "688372",
+          "name": "伟测科技",
+          "price": 92.08,
+          "change_pct": 5.608,
+          "turnover": 16.67565,
+          "volume_yi": 25.96,
+          "score": 90,
+          "reason": "换手16.7% | 涨幅+5.6%"
+        }
+      ]
+    },
+    "陈小群战法": {
+      "time": "18:03",
+      "picks": [
+        {
+          "code": "002148",
+          "name": "北纬科技",
+          "price": 8.92,
+          "change": 9.99,
+          "level": "陈小群战法",
+          "vol_ratio": 1.24,
+          "relative": 1.397,
+          "score": 4,
+          "ma_ok": true,
+          "ma5": 8.19,
+          "ma10": 7.12,
+          "ma20": 6.51,
+          "ma60": 6.39
+        },
+        {
+          "code": "601188",
+          "name": "龙江交通",
+          "price": 5.08,
+          "change": 7.17,
+          "level": "陈小群战法",
+          "vol_ratio": 1.25,
+          "relative": 1.562,
+          "score": 4,
+          "ma_ok": true,
+          "ma5": 4.71,
+          "ma10": 4.39,
+          "ma20": 3.84,
+          "ma60": 3.25
+        },
+        {
+          "code": "600408",
+          "name": "安泰集团",
+          "price": 3.71,
+          "change": 6.3,
+          "level": "陈小群战法",
+          "vol_ratio": 1.29,
+          "relative": 1.127,
+          "score": 4,
+          "ma_ok": true,
+          "ma5": 3.63,
+          "ma10": 3.49,
+          "ma20": 3.42,
+          "ma60": 3.29
+        },
+        {
+          "code": "002535",
+          "name": "林州重机",
+          "price": 3.01,
+          "change": 5.25,
+          "level": "陈小群战法",
+          "vol_ratio": 1.7,
+          "relative": 1.171,
+          "score": 4,
+          "ma_ok": true,
+          "ma5": 2.8,
+          "ma10": 2.72,
+          "ma20": 2.74,
+          "ma60": 2.57
+        },
+        {
+          "code": "000530",
+          "name": "冰山冷热",
+          "price": 12.41,
+          "change": 4.73,
+          "level": "陈小群战法",
+          "vol_ratio": 1.21,
+          "relative": 1.798,
+          "score": 4,
+          "ma_ok": true,
+          "ma5": 11.31,
+          "ma10": 10.57,
+          "ma20": 9.59,
+          "ma60": 6.9
+        },
+        {
+          "code": "300121",
+          "name": "阳谷华泰",
+          "price": 11.11,
+          "change": 4.52,
+          "level": "陈小群战法",
+          "vol_ratio": 1.63,
+          "relative": 1.129,
+          "score": 4,
+          "ma_ok": true,
+          "ma5": 10.53,
+          "ma10": 10.26,
+          "ma20": 10.06,
+          "ma60": 9.84
+        },
+        {
+          "code": "600983",
+          "name": "惠而浦",
+          "price": 8.54,
+          "change": 4.27,
+          "level": "陈小群战法",
+          "vol_ratio": 2.32,
+          "relative": 1.117,
+          "score": 4,
+          "ma_ok": true,
+          "ma5": 8.14,
+          "ma10": 8.12,
+          "ma20": 7.87,
+          "ma60": 7.65
+        },
+        {
+          "code": "002233",
+          "name": "塔牌集团",
+          "price": 8.03,
+          "change": 4.15,
+          "level": "陈小群战法",
+          "vol_ratio": 1.25,
+          "relative": 1.103,
+          "score": 4,
+          "ma_ok": true,
+          "ma5": 7.68,
+          "ma10": 7.65,
+          "ma20": 7.64,
+          "ma60": 7.28
+        },
+        {
+          "code": "002959",
+          "name": "小熊电器",
+          "price": 41.52,
+          "change": 4.06,
+          "level": "陈小群战法",
+          "vol_ratio": 2.52,
+          "relative": 1.225,
+          "score": 4,
+          "ma_ok": true,
+          "ma5": 36.64,
+          "ma10": 35.27,
+          "ma20": 34.6,
+          "ma60": 33.9
+        },
+        {
+          "code": "300539",
+          "name": "横河精密",
+          "price": 21.51,
+          "change": 9.24,
+          "level": "陈小群战法",
+          "vol_ratio": 1.15,
+          "relative": 1.207,
+          "score": 3,
+          "ma_ok": true,
+          "ma5": 20.16,
+          "ma10": 19.55,
+          "ma20": 18.92,
+          "ma60": 17.82
+        },
+        {
+          "code": "300237",
+          "name": "美晨科技",
+          "price": 3.05,
+          "change": 5.54,
+          "level": "陈小群战法",
+          "vol_ratio": 1.02,
+          "relative": 1.295,
+          "score": 3,
+          "ma_ok": true,
+          "ma5": 3.01,
+          "ma10": 2.91,
+          "ma20": 2.59,
+          "ma60": 2.35
+        },
+        {
+          "code": "002095",
+          "name": "生 意 宝",
+          "price": 16.44,
+          "change": 5.05,
+          "level": "陈小群战法",
+          "vol_ratio": 2.08,
+          "relative": 1.071,
+          "score": 3,
+          "ma_ok": true,
+          "ma5": 15.88,
+          "ma10": 15.79,
+          "ma20": 15.51,
+          "ma60": 15.35
+        },
+        {
+          "code": "300829",
+          "name": "金丹科技",
+          "price": 30.91,
+          "change": 4.85,
+          "level": "陈小群战法",
+          "vol_ratio": 1.0,
+          "relative": 1.419,
+          "score": 3,
+          "ma_ok": true,
+          "ma5": 29.17,
+          "ma10": 27.45,
+          "ma20": 25.09,
+          "ma60": 21.78
+        },
+        {
+          "code": "300960",
+          "name": "通业科技",
+          "price": 19.54,
+          "change": 4.77,
+          "level": "陈小群战法",
+          "vol_ratio": 0.87,
+          "relative": 1.129,
+          "score": 3,
+          "ma_ok": true,
+          "ma5": 19.5,
+          "ma10": 18.23,
+          "ma20": 17.37,
+          "ma60": 17.3
+        }
+      ]
+    },
+    "大力水手下午": {
+      "time": "18:03",
+      "count": 14,
+      "picks": [
+        {
+          "code": "301256",
+          "name": "华融化学",
+          "price": 9.08,
+          "change": 4.85,
+          "turnover": 5.34,
+          "volume_ratio": 3.82,
+          "score": 73.1,
+          "level": "A"
+        },
+        {
+          "code": "300940",
+          "name": "南极光",
+          "price": 11.45,
+          "change": 3.53,
+          "turnover": 6.98,
+          "volume_ratio": 3.47,
+          "score": 66.3,
+          "level": "A"
+        },
+        {
+          "code": "300047",
+          "name": "天源迪科",
+          "price": 8.76,
+          "change": 4.41,
+          "turnover": 8.12,
+          "volume_ratio": 2.76,
+          "score": 65.9,
+          "level": "A"
+        },
+        {
+          "code": "300121",
+          "name": "阳谷华泰",
+          "price": 11.11,
+          "change": 4.52,
+          "turnover": 9.47,
+          "volume_ratio": 2.16,
+          "score": 63.1,
+          "level": "A"
+        },
+        {
+          "code": "002146",
+          "name": "荣盛发展",
+          "price": 0.93,
+          "change": 3.33,
+          "turnover": 7.53,
+          "volume_ratio": 3.06,
+          "score": 62.3,
+          "level": "A"
+        },
+        {
+          "code": "300615",
+          "name": "欣天科技",
+          "price": 10.38,
+          "change": 3.39,
+          "turnover": 8.77,
+          "volume_ratio": 2.25,
+          "score": 57.0,
+          "level": "A"
+        },
+        {
+          "code": "300798",
+          "name": "锦鸡股份",
+          "price": 6.84,
+          "change": 3.64,
+          "turnover": 7.9,
+          "volume_ratio": 2.05,
+          "score": 54.5,
+          "level": "A"
+        },
+        {
+          "code": "300560",
+          "name": "中富通",
+          "price": 12.09,
+          "change": 4.67,
+          "turnover": 7.3,
+          "volume_ratio": 1.64,
+          "score": 54.4,
+          "level": "A"
+        },
+        {
+          "code": "300921",
+          "name": "南凌科技",
+          "price": 12.8,
+          "change": 4.15,
+          "turnover": 5.33,
+          "volume_ratio": 1.89,
+          "score": 50.3,
+          "level": "A"
+        },
+        {
+          "code": "000034",
+          "name": "神州数码",
+          "price": 23.0,
+          "change": 4.21,
+          "turnover": 5.74,
+          "volume_ratio": 1.76,
+          "score": 50.2,
+          "level": "A"
+        },
+        {
+          "code": "002575",
+          "name": "群兴玩具",
+          "price": 4.92,
+          "change": 3.8,
+          "turnover": 5.18,
+          "volume_ratio": 1.98,
+          "score": 49.1,
+          "level": "A"
+        },
+        {
+          "code": "002990",
+          "name": "盛视科技",
+          "price": 32.37,
+          "change": 4.62,
+          "turnover": 7.18,
+          "volume_ratio": 1.01,
+          "score": 47.6,
+          "level": "A"
+        },
+        {
+          "code": "002418",
+          "name": "康盛股份",
+          "price": 3.65,
+          "change": 3.4,
+          "turnover": 6.32,
+          "volume_ratio": 1.67,
+          "score": 46.3,
+          "level": "A"
+        },
+        {
+          "code": "603803",
+          "name": "瑞斯康达",
+          "price": 8.58,
+          "change": 3.62,
+          "turnover": 5.05,
+          "volume_ratio": 1.57,
+          "score": 43.9,
+          "level": "A"
+        }
+      ]
     }
   }
 }
