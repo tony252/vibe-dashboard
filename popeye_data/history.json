@@ -3315,5 +3315,112 @@
       }
     ],
     "total_cost": 93308.0
+  },
+  "2026-11-18": {
+    "date": "2026-11-18",
+    "capital": 100000,
+    "positions": [
+      {
+        "code": "600567",
+        "name": "山鹰国际",
+        "buy_price": 0.9,
+        "buy_date": "2026-11-18",
+        "shares": 11100,
+        "cost": 9990.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.882
+      },
+      {
+        "code": "300565",
+        "name": "科信技术",
+        "buy_price": 8.71,
+        "buy_date": "2026-11-18",
+        "shares": 1100,
+        "cost": 9581.000000000002,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.704
+      },
+      {
+        "code": "600666",
+        "name": "奥瑞德",
+        "buy_price": 3.04,
+        "buy_date": "2026-11-18",
+        "shares": 3200,
+        "cost": 9728.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.556
+      },
+      {
+        "code": "600186",
+        "name": "莲花控股",
+        "buy_price": 8.57,
+        "buy_date": "2026-11-18",
+        "shares": 1100,
+        "cost": 9427.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.025
+      },
+      {
+        "code": "300237",
+        "name": "美晨科技",
+        "buy_price": 3.03,
+        "buy_date": "2026-11-18",
+        "shares": 3300,
+        "cost": 9999.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 4.844
+      },
+      {
+        "code": "300846",
+        "name": "首都在线",
+        "buy_price": 16.79,
+        "buy_date": "2026-11-18",
+        "shares": 500,
+        "cost": 8395.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.465
+      },
+      {
+        "code": "002095",
+        "name": "生 意 宝",
+        "buy_price": 16.49,
+        "buy_date": "2026-11-18",
+        "shares": 600,
+        "cost": 9893.999999999998,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.367
+      },
+      {
+        "code": "300571",
+        "name": "平治信息",
+        "buy_price": 23.9,
+        "buy_date": "2026-11-18",
+        "shares": 400,
+        "cost": 9560.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.147
+      },
+      {
+        "code": "300209",
+        "name": "行云科技",
+        "buy_price": 19.84,
+        "buy_date": "2026-11-18",
+        "shares": 500,
+        "cost": 9920.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.085
+      },
+      {
+        "code": "002261",
+        "name": "拓维信息",
+        "buy_price": 24.08,
+        "buy_date": "2026-11-18",
+        "shares": 400,
+        "cost": 9632.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 4.878
+      }
+    ],
+    "total_cost": 96126.0
   }
 }
