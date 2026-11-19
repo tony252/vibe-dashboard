@@ -1,12 +1,93 @@
 {
   "date": "2026-11-18",
-  "updated_at": "2026-11-18 20:03:22",
+  "updated_at": "2026-11-19 12:40:12",
   "stats": {
-    "processed": 16,
+    "processed": 24,
     "alerts": 0,
-    "filtered": 6
+    "filtered": 10
   },
   "events": [
+    {
+      "time": "2026-11-19 11:48",
+      "type": "archive",
+      "title": "九阳股份，再度上演“地天板”！",
+      "content": "11月19日早盘，人气股九阳股份一度触及涨停，再度上演“地天板”。该股前天盘中上演“地天板”，昨日盘中上演“天地板”。 截至券商中国记者发稿，九阳股份涨7.97%，报30...",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/stock/zqgd/2026-11-19/doc-inizfunc0446546.shtml",
+      "stocks": [
+        {
+          "name": "九阳股份",
+          "code": "002242",
+          "match_reason": "直接提及[九阳股份]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-18 17:47",
+      "type": "archive",
+      "title": "【数据看盘】多路资金激烈博弈九阳股份，机构扎堆PCB人气股",
+      "content": "①九阳股份今日上演“天地板”，获一家机构买入7389万，同时深股通买入1.46亿，遭东莞证券南京分公司卖出1.72亿，华鑫证券上海瑞平路营业部卖出1.03亿。\n②PCB概念股沪电股份获五家机构买入3.76亿，深南电路获五家机构买入1.99亿。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2538034",
+      "stocks": [
+        {
+          "name": "九阳股份",
+          "code": "002242",
+          "match_reason": "直接提及[九阳股份]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-18 17:35",
+      "type": "archive",
+      "title": "【焦点复盘】创业板指探底回升涨0.85%，两市成交年内首次跌破1.4万亿，算力硬件股午后回暖",
+      "content": "①连板晋级率不足两成，昨日连板股仅有华东重机实现晋级，高位股持续遭遇负反馈，百洋股份、大东方等多股连续4日跌停，昨日“地天板”的九阳股份午后上演“天地板”； ②今日几大主要指数均创阶段新低，但其周线KDJ持续处于超卖区，后市或维持震荡酝酿周线级别修复。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2538014",
+      "stocks": [
+        {
+          "name": "华东重机",
+          "code": "002685",
+          "match_reason": "直接提及[华东重机]（选股推荐）"
+        },
+        {
+          "name": "九阳股份",
+          "code": "002242",
+          "match_reason": "直接提及[九阳股份]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-18 16:42",
+      "type": "archive",
+      "title": "【每日收评】科创50指数涨超2%，两市成交额创16月以来地量，算力租赁概念全线爆发",
+      "content": "①今日市场午后探底回升，三大指数集体收红，科创50涨超2%，两市成交额仅1.37万亿，创16月以来地量；\n②盘面上，华为算力、算力租赁双双领涨，PCB概念股集体回暖，另一方面，高位人气股退潮仍在延续，九阳股份午后上演天地板。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2537925",
+      "stocks": [
+        {
+          "name": "九阳股份",
+          "code": "002242",
+          "match_reason": "直接提及[九阳股份]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
     {
       "time": "2026-11-18 12:15",
       "type": "archive",
@@ -183,16 +264,31 @@
     "603166": "2026-11-18 18:33",
     "002419": "2026-11-18 18:33",
     "600499": "2026-11-18 18:33",
-    "301288": "2026-11-18 18:33"
+    "301288": "2026-11-18 18:33",
+    "688276": "2026-11-19 12:43",
+    "603985": "2026-11-19 12:43",
+    "000158": "2026-11-19 12:43",
+    "002955": "2026-11-19 12:43",
+    "000815": "2026-11-19 12:43"
   },
   "watchlist": [
+    {
+      "name": "九阳股份",
+      "code": "002242",
+      "keywords": "直接提及[九阳股份]（选股推荐）",
+      "reason": "新闻提及 | 5次",
+      "source": "event",
+      "selected_at": "2026-11-19 12:43",
+      "first_seen": "2026-11-18 18:33",
+      "is_new": false
+    },
     {
       "name": "华东重机",
       "code": "002685",
       "keywords": "直接提及[华东重机]（选股推荐）",
-      "reason": "新闻提及 | 1次",
+      "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-18 20:06",
+      "selected_at": "2026-11-19 12:43",
       "first_seen": "2026-11-18 18:33",
       "is_new": false
     },
@@ -202,7 +298,7 @@
       "keywords": "直接提及[瀛通通讯]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-18 20:06",
+      "selected_at": "2026-11-19 12:43",
       "first_seen": "2026-11-18 18:33",
       "is_new": false
     },
@@ -212,17 +308,7 @@
       "keywords": "直接提及[荣盛发展]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-18 20:06",
-      "first_seen": "2026-11-18 18:33",
-      "is_new": false
-    },
-    {
-      "name": "九阳股份",
-      "code": "002242",
-      "keywords": "直接提及[九阳股份]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-18 20:06",
+      "selected_at": "2026-11-19 12:43",
       "first_seen": "2026-11-18 18:33",
       "is_new": false
     },
@@ -232,7 +318,7 @@
       "keywords": "直接提及[有研新材]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-18 20:06",
+      "selected_at": "2026-11-19 12:43",
       "first_seen": "2026-11-18 18:33",
       "is_new": false
     },
@@ -242,7 +328,7 @@
       "keywords": "直接提及[大东方]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-18 20:06",
+      "selected_at": "2026-11-19 12:43",
       "first_seen": "2026-11-18 18:33",
       "is_new": false
     },
@@ -252,7 +338,7 @@
       "keywords": "直接提及[襄阳轴承]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-18 20:06",
+      "selected_at": "2026-11-19 12:43",
       "first_seen": "2026-11-18 18:33",
       "is_new": false
     },
@@ -262,49 +348,59 @@
       "keywords": "直接提及[广百股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-18 20:06",
+      "selected_at": "2026-11-19 12:43",
       "first_seen": "2026-11-18 18:33",
       "is_new": false
     },
     {
-      "name": "东方中科",
-      "code": "002819",
+      "name": "百克生物",
+      "code": "688276",
       "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.98\">涨幅9.98%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.69%</span>",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"14.64\">涨幅14.64%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.21%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-18 20:06",
-      "first_seen": "2026-11-18 18:33",
-      "is_new": false
+      "selected_at": "2026-11-19 12:43",
+      "first_seen": "2026-11-19 12:43",
+      "is_new": true
     },
     {
-      "name": "中马传动",
-      "code": "603767",
+      "name": "恒润股份",
+      "code": "603985",
       "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.98\">涨幅9.98%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率6.96%</span>",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"10.01\">涨幅10.01%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.26%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-18 20:06",
-      "first_seen": "2026-11-18 18:33",
-      "is_new": false
+      "selected_at": "2026-11-19 12:43",
+      "first_seen": "2026-11-19 12:43",
+      "is_new": true
     },
     {
-      "name": "儒意电影",
-      "code": "002739",
+      "name": "常山北明",
+      "code": "000158",
       "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.96\">涨幅9.96%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率7.57%</span>",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"10.00\">涨幅10.00%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.79%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-18 20:06",
-      "first_seen": "2026-11-18 18:33",
-      "is_new": false
+      "selected_at": "2026-11-19 12:43",
+      "first_seen": "2026-11-19 12:43",
+      "is_new": true
     },
     {
-      "name": "福达股份",
-      "code": "603166",
+      "name": "鸿合科技",
+      "code": "002955",
       "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"10.04\">涨幅10.04%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.23%</span>",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"10.00\">涨幅10.00%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.26%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-18 20:06",
-      "first_seen": "2026-11-18 18:33",
-      "is_new": false
+      "selected_at": "2026-11-19 12:43",
+      "first_seen": "2026-11-19 12:43",
+      "is_new": true
+    },
+    {
+      "name": "美利云",
+      "code": "000815",
+      "keywords": "涨停",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率10.52%</span>",
+      "source": "杰克",
+      "selected_at": "2026-11-19 12:43",
+      "first_seen": "2026-11-19 12:43",
+      "is_new": true
     },
     {
       "name": "天虹股份",
@@ -312,7 +408,7 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.98\">涨幅9.98%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率6.01%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-18 20:06",
+      "selected_at": "2026-11-19 12:43",
       "first_seen": "2026-11-18 18:33",
       "is_new": false
     },
@@ -322,17 +418,7 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"7.72\">涨幅7.72%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.03%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-18 20:06",
-      "first_seen": "2026-11-18 18:33",
-      "is_new": false
-    },
-    {
-      "name": "清研环境",
-      "code": "301288",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"7.08\">涨幅7.08%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率5.65%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-18 20:06",
+      "selected_at": "2026-11-19 12:43",
       "first_seen": "2026-11-18 18:33",
       "is_new": false
     }
