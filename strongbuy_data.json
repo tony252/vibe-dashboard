@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "yimeng": [
     {
       "code": "001358",
@@ -178,112 +178,77 @@
   ],
   "stocks": [
     {
-      "code": "920924",
-      "name": "广脉科技",
-      "price": 15.34,
-      "change_pct": 30.0,
-      "turnover": 16.7,
-      "change_5d": 18.0,
-      "volume": 1.551,
-      "tag": "newhigh",
-      "score": 5,
-      "reason": "涨幅榜前列(第1名),飙升30.0%"
-    },
-    {
       "code": "301391",
       "name": "卡莱特",
-      "price": 46.66,
-      "change_pct": 20.01,
-      "turnover": 10.1,
-      "change_5d": 12.0,
-      "volume": 3.946,
+      "price": 52.26,
+      "change_pct": 12.0,
+      "turnover": 5.2,
+      "change_5d": 7.2,
+      "volume": 2.49,
       "tag": "newhigh",
       "score": 5,
-      "reason": "涨幅榜前列(第2名),飙升20.0%"
+      "reason": "涨幅榜前列(第1名),飙升12.0%"
     },
     {
-      "code": "688316",
-      "name": "青云科技",
-      "price": 50.82,
-      "change_pct": 20.0,
-      "turnover": 13.4,
-      "change_5d": 12.0,
-      "volume": 3.056,
+      "code": "000889",
+      "name": "中嘉博创",
+      "price": 3.72,
+      "change_pct": 10.06,
+      "turnover": 1.6,
+      "change_5d": 6.0,
+      "volume": 0.503,
       "tag": "newhigh",
       "score": 5,
-      "reason": "涨幅榜前列(第3名),飙升20.0%"
+      "reason": "涨幅榜前列(第2名),飙升10.1%"
     },
     {
-      "code": "601188",
-      "name": "龙江交通",
-      "price": 5.08,
-      "change_pct": 7.17,
-      "turnover": 31.4,
-      "change_5d": 4.3,
-      "volume": 20.88,
-      "tag": "volume",
+      "code": "002685",
+      "name": "华东重机",
+      "price": 8.11,
+      "change_pct": 10.04,
+      "turnover": 15.0,
+      "change_5d": 6.0,
+      "volume": 12.235,
+      "tag": "newhigh",
       "score": 5,
-      "reason": "量价齐升,换手31.4%,成交20.9亿"
+      "reason": "涨幅榜前列(第3名),飙升10.0%"
     },
     {
-      "code": "301010",
-      "name": "晶雪节能",
-      "price": 24.9,
-      "change_pct": 6.78,
-      "turnover": 21.3,
-      "change_5d": 4.1,
-      "volume": 5.685,
-      "tag": "volume",
-      "score": 5,
-      "reason": "量价齐升,换手21.3%,成交5.7亿"
-    },
-    {
-      "code": "603118",
-      "name": "共进股份",
-      "price": 15.8,
-      "change_pct": 6.76,
-      "turnover": 19.2,
-      "change_5d": 4.1,
-      "volume": 22.928,
-      "tag": "volume",
-      "score": 5,
-      "reason": "量价齐升,换手19.2%,成交22.9亿"
-    },
-    {
-      "code": "001358",
-      "name": "兴欣新材",
-      "price": 25.95,
-      "change_pct": 2.53,
-      "turnover": 19.5,
-      "change_5d": 1.5,
-      "volume": 2.579,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手19.5%,成交2.6亿"
-    },
-    {
-      "code": "301716",
-      "name": "鸿富诚",
-      "price": 294.96,
-      "change_pct": 2.14,
-      "turnover": 16.7,
-      "change_5d": 1.3,
-      "volume": 6.137,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手16.7%,成交6.1亿"
-    },
-    {
-      "code": "600202",
-      "name": "哈空调",
-      "price": 5.7,
-      "change_pct": 1.97,
-      "turnover": 28.4,
+      "code": "300209",
+      "name": "行云科技",
+      "price": 22.6,
+      "change_pct": 2.03,
+      "turnover": 3.0,
       "change_5d": 1.2,
-      "volume": 6.306,
+      "volume": 5.087,
       "tag": "resilient",
       "score": 4,
-      "reason": "高换手28.4%,成交6.3亿"
+      "reason": "高换手3.0%,成交5.1亿"
+    },
+    {
+      "code": "688757",
+      "name": "胜科纳米",
+      "price": 28.38,
+      "change_pct": 1.94,
+      "turnover": 2.7,
+      "change_5d": 1.2,
+      "volume": 1.404,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手2.7%,成交1.4亿"
+    },
+    {
+      "code": "000711",
+      "name": "京蓝科技",
+      "price": 3.54,
+      "change_pct": 1.72,
+      "turnover": 3.0,
+      "change_5d": 1.0,
+      "volume": 2.545,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手3.0%,成交2.5亿"
     }
-  ]
+  ],
+  "updated_at": "2026-11-19 09:34:25"
 }
