@@ -178,89 +178,77 @@
   ],
   "stocks": [
     {
-      "code": "301391",
-      "name": "卡莱特",
-      "price": 52.58,
-      "change_pct": 12.69,
-      "turnover": 7.7,
-      "change_5d": 7.6,
-      "volume": 3.74,
-      "tag": "newhigh",
-      "score": 5,
-      "reason": "涨幅榜前列(第1名),飙升12.7%"
-    },
-    {
-      "code": "301148",
-      "name": "嘉戎技术",
-      "price": 51.57,
-      "change_pct": 12.67,
-      "turnover": 1.9,
-      "change_5d": 7.6,
-      "volume": 0.561,
-      "tag": "newhigh",
-      "score": 5,
-      "reason": "涨幅榜前列(第2名),飙升12.7%"
-    },
-    {
       "code": "301348",
       "name": "蓝箭电子",
-      "price": 20.16,
-      "change_pct": 11.69,
-      "turnover": 5.5,
-      "change_5d": 7.0,
-      "volume": 2.113,
+      "price": 20.8,
+      "change_pct": 15.23,
+      "turnover": 8.5,
+      "change_5d": 9.1,
+      "volume": 3.29,
       "tag": "newhigh",
       "score": 5,
-      "reason": "涨幅榜前列(第3名),飙升11.7%"
+      "reason": "涨幅榜前列(第1名),飙升15.2%"
+    },
+    {
+      "code": "300905",
+      "name": "宝丽迪",
+      "price": 31.03,
+      "change_pct": 13.54,
+      "turnover": 8.5,
+      "change_5d": 8.1,
+      "volume": 3.59,
+      "tag": "newhigh",
+      "score": 5,
+      "reason": "涨幅榜前列(第2名),飙升13.5%"
+    },
+    {
+      "code": "920178",
+      "name": "锐翔智能",
+      "price": 67.53,
+      "change_pct": 13.5,
+      "turnover": 5.6,
+      "change_5d": 8.1,
+      "volume": 0.713,
+      "tag": "newhigh",
+      "score": 5,
+      "reason": "涨幅榜前列(第3名),飙升13.5%"
+    },
+    {
+      "code": "600186",
+      "name": "莲花控股",
+      "price": 9.2,
+      "change_pct": 2.45,
+      "turnover": 7.6,
+      "change_5d": 1.5,
+      "volume": 12.479,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手7.6%,成交12.5亿"
     },
     {
       "code": "600410",
       "name": "华胜天成",
-      "price": 17.4,
-      "change_pct": 3.45,
-      "turnover": 12.8,
-      "change_5d": 2.1,
-      "volume": 25.023,
-      "tag": "volume",
-      "score": 5,
-      "reason": "量价齐升,换手12.8%,成交25.0亿"
-    },
-    {
-      "code": "002197",
-      "name": "证通电子",
-      "price": 6.28,
-      "change_pct": 2.78,
-      "turnover": 12.4,
-      "change_5d": 1.7,
-      "volume": 4.305,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手12.4%,成交4.3亿"
-    },
-    {
-      "code": "002578",
-      "name": "闽发铝业",
-      "price": 4.07,
-      "change_pct": 2.52,
-      "turnover": 5.9,
-      "change_5d": 1.5,
-      "volume": 2.042,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手5.9%,成交2.0亿"
-    },
-    {
-      "code": "301396",
-      "name": "宏景科技",
-      "price": 117.35,
-      "change_pct": 2.4,
-      "turnover": 9.5,
+      "price": 17.21,
+      "change_pct": 2.32,
+      "turnover": 16.5,
       "change_5d": 1.4,
-      "volume": 15.878,
+      "volume": 32.016,
       "tag": "resilient",
       "score": 4,
-      "reason": "高换手9.5%,成交15.9亿"
+      "reason": "高换手16.5%,成交32.0亿"
+    },
+    {
+      "code": "603220",
+      "name": "中贝通信",
+      "price": 15.9,
+      "change_pct": 1.79,
+      "turnover": 7.9,
+      "change_5d": 1.1,
+      "volume": 6.791,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手7.9%,成交6.8亿"
     }
   ],
-  "updated_at": "2026-11-19 09:48:37"
+  "updated_at": "2026-11-19 10:03:28"
 }
