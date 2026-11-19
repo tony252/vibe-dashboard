@@ -331077,5 +331077,112 @@
         }
       ]
     }
+  },
+  "2026-11-19": {
+    "高欣资金净流入": {
+      "time": "08:28",
+      "picks": [
+        {
+          "code": "600900",
+          "name": "长江电力",
+          "net_amount_5d": 71921.0,
+          "net_ratio_avg": 4.69,
+          "positive_days": 4,
+          "change_pct": 0.26,
+          "price": 30.68,
+          "score": 63.01
+        },
+        {
+          "code": "600028",
+          "name": "中国石化",
+          "net_amount_5d": 15036.0,
+          "net_ratio_avg": 3.01,
+          "positive_days": 4,
+          "change_pct": 1.36,
+          "price": 5.97,
+          "score": 34.85
+        },
+        {
+          "code": "600050",
+          "name": "中国联通",
+          "net_amount_5d": 7037.0,
+          "net_ratio_avg": 2.31,
+          "positive_days": 4,
+          "change_pct": 2.49,
+          "price": 4.53,
+          "score": 28.88
+        },
+        {
+          "code": "600016",
+          "name": "民生银行",
+          "net_amount_5d": 10697.0,
+          "net_ratio_avg": 1.31,
+          "positive_days": 3,
+          "change_pct": -0.28,
+          "price": 3.5,
+          "score": 24.43
+        },
+        {
+          "code": "600019",
+          "name": "宝钢股份",
+          "net_amount_5d": -3191.0,
+          "net_ratio_avg": -1.89,
+          "positive_days": 1,
+          "change_pct": 1.28,
+          "price": 6.32,
+          "score": 20.43
+        },
+        {
+          "code": "600009",
+          "name": "上海机场",
+          "net_amount_5d": 2515.0,
+          "net_ratio_avg": 0.66,
+          "positive_days": 2,
+          "change_pct": 0.28,
+          "price": 24.85,
+          "score": 12.62
+        },
+        {
+          "code": "600104",
+          "name": "上汽集团",
+          "net_amount_5d": -6646.0,
+          "net_ratio_avg": -2.17,
+          "positive_days": 2,
+          "change_pct": 1.57,
+          "price": 10.32,
+          "score": 11.18
+        },
+        {
+          "code": "000858",
+          "name": "五粮液",
+          "net_amount_5d": -611664.0,
+          "net_ratio_avg": -1.25,
+          "positive_days": 2,
+          "change_pct": 1.49,
+          "price": 9721.87,
+          "score": 11.12
+        },
+        {
+          "code": "600183",
+          "name": "生益科技",
+          "net_amount_5d": -238883.0,
+          "net_ratio_avg": -5.93,
+          "positive_days": 1,
+          "change_pct": 3.91,
+          "price": 60.9,
+          "score": 7.93
+        },
+        {
+          "code": "600048",
+          "name": "保利发展",
+          "net_amount_5d": -17103.0,
+          "net_ratio_avg": -6.94,
+          "positive_days": 1,
+          "change_pct": -0.95,
+          "price": 5.2,
+          "score": 5.29
+        }
+      ]
+    }
   }
 }
