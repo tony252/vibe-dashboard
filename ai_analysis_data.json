@@ -3,52 +3,101 @@
     "indices": [
       {
         "name": "上证指数",
-        "current": 3565.51,
-        "pct": -0.62
+        "current": 3563.03,
+        "pct": -0.69
       },
       {
         "name": "深证成指",
-        "current": 10584.34,
-        "pct": -0.7
+        "current": 10574.74,
+        "pct": -0.79
       },
       {
         "name": "创业板指",
-        "current": 2292.45,
-        "pct": -0.83
+        "current": 2291.09,
+        "pct": -0.89
       },
       {
         "name": "沪深300",
-        "current": 3965.48,
-        "pct": -0.46
+        "current": 3961.64,
+        "pct": -0.56
       },
       {
         "name": "科创50",
-        "current": 1253.07,
-        "pct": 0.41
+        "current": 1254.94,
+        "pct": 0.56
       },
       {
         "name": "上证50",
-        "current": 2751.65,
-        "pct": -0.47
+        "current": 2750.24,
+        "pct": -0.52
       },
       {
         "name": "中证500",
-        "current": 6256.55,
+        "current": 6256.63,
         "pct": -0.41
       },
       {
         "name": "中证1000",
-        "current": 5958.21,
-        "pct": -1.56
+        "current": 5953.54,
+        "pct": -1.64
       }
     ],
     "top_gainers": [
+      {
+        "name": "灿芯股份",
+        "code": "688691",
+        "price": 63.77,
+        "change_pct": 20.0,
+        "turnover": 23.87
+      },
+      {
+        "name": "*ST仕净",
+        "code": "301030",
+        "price": 2.88,
+        "change_pct": 20.0,
+        "turnover": 10.4
+      },
+      {
+        "name": "蓝箭电子",
+        "code": "301348",
+        "price": 21.66,
+        "change_pct": 20.0,
+        "turnover": 18.83
+      },
+      {
+        "name": "卡莱特",
+        "code": "301391",
+        "price": 55.99,
+        "change_pct": 20.0,
+        "turnover": 13.93
+      },
+      {
+        "name": "耐科装备",
+        "code": "688419",
+        "price": 38.49,
+        "change_pct": 13.04,
+        "turnover": 5.0
+      },
+      {
+        "name": "燕东微",
+        "code": "688172",
+        "price": 37.72,
+        "change_pct": 11.99,
+        "turnover": 3.34
+      },
+      {
+        "name": "芯碁微装",
+        "code": "688630",
+        "price": 228.0,
+        "change_pct": 10.62,
+        "turnover": 6.63
+      },
       {
         "name": "康盛股份",
         "code": "002418",
         "price": 4.02,
         "change_pct": 10.14,
-        "turnover": 4.92
+        "turnover": 4.99
       },
       {
         "name": "*ST发展",
@@ -62,176 +111,120 @@
         "code": "000610",
         "price": 7.33,
         "change_pct": 10.06,
-        "turnover": 3.5
+        "turnover": 3.53
       },
       {
         "name": "京蓝科技",
         "code": "000711",
         "price": 3.83,
         "change_pct": 10.06,
-        "turnover": 10.97
+        "turnover": 11.04
+      },
+      {
+        "name": "兴业股份",
+        "code": "603928",
+        "price": 12.38,
+        "change_pct": 10.04,
+        "turnover": 12.78
       },
       {
         "name": "中京电子",
         "code": "002579",
         "price": 12.17,
         "change_pct": 10.04,
-        "turnover": 12.67
+        "turnover": 12.7
       },
       {
-        "name": "真视通",
-        "code": "002771",
-        "price": 14.38,
-        "change_pct": 10.02,
-        "turnover": 1.83
-      },
-      {
-        "name": "兴欣新材",
-        "code": "001358",
-        "price": 28.55,
-        "change_pct": 10.02,
-        "turnover": 23.55
-      },
-      {
-        "name": "大港股份",
-        "code": "002077",
-        "price": 12.11,
-        "change_pct": 9.99,
-        "turnover": 8.36
-      },
-      {
-        "name": "襄阳轴承",
-        "code": "000678",
-        "price": 16.74,
-        "change_pct": 9.99,
-        "turnover": 32.32
-      },
-      {
-        "name": "红 宝 丽",
-        "code": "002165",
-        "price": 6.3,
-        "change_pct": 9.95,
-        "turnover": 6.47
-      },
-      {
-        "name": "毅昌科技",
-        "code": "002420",
-        "price": 6.42,
-        "change_pct": 9.93,
-        "turnover": 1.76
-      },
-      {
-        "name": "ST天圣",
-        "code": "002872",
-        "price": 5.87,
-        "change_pct": 9.93,
-        "turnover": 5.71
-      },
-      {
-        "name": "金科股份",
-        "code": "000656",
-        "price": 1.02,
-        "change_pct": 9.68,
-        "turnover": 6.45
-      },
-      {
-        "name": "九阳股份",
-        "code": "002242",
-        "price": 31.01,
-        "change_pct": 9.31,
-        "turnover": 22.88
-      },
-      {
-        "name": "*ST美丽",
-        "code": "000010",
-        "price": 1.02,
-        "change_pct": 7.37,
-        "turnover": 6.93
+        "name": "三佳科技",
+        "code": "600520",
+        "price": 22.17,
+        "change_pct": 10.03,
+        "turnover": 6.87
       }
     ],
     "sectors": [
       {
         "name": "酒饮料茶制造业",
         "code": "ZC15",
-        "pct": 0.18,
-        "amount_yi": 102.2,
+        "pct": 0.2,
+        "amount_yi": 106.1,
         "net_inflow_yi": 0
       },
       {
         "name": "计算机电子设备业",
         "code": "ZC39",
-        "pct": -0.2,
-        "amount_yi": 2255.9,
+        "pct": -0.27,
+        "amount_yi": 2318.3,
         "net_inflow_yi": 0
       },
       {
         "name": "非金属矿物制品业",
         "code": "ZC30",
         "pct": -0.43,
-        "amount_yi": 148.6,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "黑色金属冶炼业",
-        "code": "ZC31",
-        "pct": -0.44,
-        "amount_yi": 49.8,
+        "amount_yi": 153.8,
         "net_inflow_yi": 0
       },
       {
         "name": "仪器仪表制造业",
         "code": "ZC40",
-        "pct": -0.56,
-        "amount_yi": 115.2,
+        "pct": -0.51,
+        "amount_yi": 119.7,
         "net_inflow_yi": 0
       },
       {
-        "name": "医药制造业",
-        "code": "ZC27",
-        "pct": -0.69,
-        "amount_yi": 239.5,
+        "name": "黑色金属冶炼业",
+        "code": "ZC31",
+        "pct": -0.7,
+        "amount_yi": 51.9,
         "net_inflow_yi": 0
       },
       {
         "name": "纺织服装服饰业",
         "code": "ZC18",
-        "pct": -0.7,
-        "amount_yi": 24.5,
+        "pct": -0.75,
+        "amount_yi": 25.6,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "医药制造业",
+        "code": "ZC27",
+        "pct": -0.78,
+        "amount_yi": 249.1,
         "net_inflow_yi": 0
       },
       {
         "name": "金属制品修理业",
         "code": "ZC43",
-        "pct": -0.71,
-        "amount_yi": 260.4,
+        "pct": -0.78,
+        "amount_yi": 270.5,
         "net_inflow_yi": 0
       },
       {
         "name": "化学纤维制造业",
         "code": "ZC28",
-        "pct": -0.74,
-        "amount_yi": 29.8,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "造纸纸制品业",
-        "code": "ZC22",
-        "pct": -0.76,
-        "amount_yi": 62.2,
+        "pct": -0.93,
+        "amount_yi": 30.8,
         "net_inflow_yi": 0
       },
       {
         "name": "农副食品加工业",
         "code": "ZC13",
-        "pct": -0.85,
-        "amount_yi": 35.3,
+        "pct": -0.98,
+        "amount_yi": 36.5,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "造纸纸制品业",
+        "code": "ZC22",
+        "pct": -0.98,
+        "amount_yi": 65.3,
         "net_inflow_yi": 0
       },
       {
         "name": "金属制品业",
         "code": "ZC33",
-        "pct": -0.88,
-        "amount_yi": 152.1,
+        "pct": -0.99,
+        "amount_yi": 156.7,
         "net_inflow_yi": 0
       }
     ],
@@ -239,11 +232,60 @@
     "us_indices": [],
     "strong_stocks": [
       {
+        "name": "灿芯股份",
+        "code": "688691",
+        "price": 63.77,
+        "change_pct": 20.0,
+        "turnover": 23.87
+      },
+      {
+        "name": "*ST仕净",
+        "code": "301030",
+        "price": 2.88,
+        "change_pct": 20.0,
+        "turnover": 10.4
+      },
+      {
+        "name": "蓝箭电子",
+        "code": "301348",
+        "price": 21.66,
+        "change_pct": 20.0,
+        "turnover": 18.83
+      },
+      {
+        "name": "卡莱特",
+        "code": "301391",
+        "price": 55.99,
+        "change_pct": 20.0,
+        "turnover": 13.93
+      },
+      {
+        "name": "耐科装备",
+        "code": "688419",
+        "price": 38.49,
+        "change_pct": 13.04,
+        "turnover": 5.0
+      },
+      {
+        "name": "燕东微",
+        "code": "688172",
+        "price": 37.72,
+        "change_pct": 11.99,
+        "turnover": 3.34
+      },
+      {
+        "name": "芯碁微装",
+        "code": "688630",
+        "price": 228.0,
+        "change_pct": 10.62,
+        "turnover": 6.63
+      },
+      {
         "name": "康盛股份",
         "code": "002418",
         "price": 4.02,
         "change_pct": 10.14,
-        "turnover": 4.92
+        "turnover": 4.99
       },
       {
         "name": "*ST发展",
@@ -257,91 +299,35 @@
         "code": "000610",
         "price": 7.33,
         "change_pct": 10.06,
-        "turnover": 3.5
+        "turnover": 3.53
       },
       {
         "name": "京蓝科技",
         "code": "000711",
         "price": 3.83,
         "change_pct": 10.06,
-        "turnover": 10.97
+        "turnover": 11.04
+      },
+      {
+        "name": "兴业股份",
+        "code": "603928",
+        "price": 12.38,
+        "change_pct": 10.04,
+        "turnover": 12.78
       },
       {
         "name": "中京电子",
         "code": "002579",
         "price": 12.17,
         "change_pct": 10.04,
-        "turnover": 12.67
+        "turnover": 12.7
       },
       {
-        "name": "真视通",
-        "code": "002771",
-        "price": 14.38,
-        "change_pct": 10.02,
-        "turnover": 1.83
-      },
-      {
-        "name": "兴欣新材",
-        "code": "001358",
-        "price": 28.55,
-        "change_pct": 10.02,
-        "turnover": 23.55
-      },
-      {
-        "name": "大港股份",
-        "code": "002077",
-        "price": 12.11,
-        "change_pct": 9.99,
-        "turnover": 8.36
-      },
-      {
-        "name": "襄阳轴承",
-        "code": "000678",
-        "price": 16.74,
-        "change_pct": 9.99,
-        "turnover": 32.32
-      },
-      {
-        "name": "红 宝 丽",
-        "code": "002165",
-        "price": 6.3,
-        "change_pct": 9.95,
-        "turnover": 6.47
-      },
-      {
-        "name": "毅昌科技",
-        "code": "002420",
-        "price": 6.42,
-        "change_pct": 9.93,
-        "turnover": 1.76
-      },
-      {
-        "name": "ST天圣",
-        "code": "002872",
-        "price": 5.87,
-        "change_pct": 9.93,
-        "turnover": 5.71
-      },
-      {
-        "name": "金科股份",
-        "code": "000656",
-        "price": 1.02,
-        "change_pct": 9.68,
-        "turnover": 6.45
-      },
-      {
-        "name": "九阳股份",
-        "code": "002242",
-        "price": 31.01,
-        "change_pct": 9.31,
-        "turnover": 22.88
-      },
-      {
-        "name": "*ST美丽",
-        "code": "000010",
-        "price": 1.02,
-        "change_pct": 7.37,
-        "turnover": 6.93
+        "name": "三佳科技",
+        "code": "600520",
+        "price": 22.17,
+        "change_pct": 10.03,
+        "turnover": 6.87
       }
     ],
     "yimeng_stocks": [
@@ -621,5 +607,5 @@
       }
     ]
   },
-  "timestamp": "2026-11-19T13:53:43"
+  "timestamp": "2026-11-19T14:07:27"
 }
