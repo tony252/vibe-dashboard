@@ -178,77 +178,77 @@
   ],
   "stocks": [
     {
+      "code": "920981",
+      "name": "晶赛科技",
+      "price": 27.7,
+      "change_pct": 20.12,
+      "turnover": 11.4,
+      "change_5d": 12.1,
+      "volume": 1.131,
+      "tag": "newhigh",
+      "score": 5,
+      "reason": "涨幅榜前列(第1名),飙升20.1%"
+    },
+    {
       "code": "300812",
       "name": "易天股份",
       "price": 18.0,
       "change_pct": 20.0,
-      "turnover": 10.6,
+      "turnover": 11.4,
       "change_5d": 12.0,
-      "volume": 3.238,
+      "volume": 3.488,
       "tag": "newhigh",
       "score": 5,
-      "reason": "涨幅榜前列(第1名),飙升20.0%"
+      "reason": "涨幅榜前列(第2名),飙升20.0%"
     },
     {
-      "code": "920981",
-      "name": "晶赛科技",
-      "price": 26.36,
-      "change_pct": 14.31,
-      "turnover": 7.6,
-      "change_5d": 8.6,
-      "volume": 0.743,
+      "code": "301132",
+      "name": "满坤科技",
+      "price": 49.1,
+      "change_pct": 15.37,
+      "turnover": 9.6,
+      "change_5d": 9.2,
+      "volume": 4.191,
       "tag": "newhigh",
       "score": 5,
-      "reason": "涨幅榜前列(第2名),飙升14.3%"
-    },
-    {
-      "code": "002741",
-      "name": "光华科技",
-      "price": 18.76,
-      "change_pct": 10.03,
-      "turnover": 5.1,
-      "change_5d": 6.0,
-      "volume": 4.067,
-      "tag": "newhigh",
-      "score": 5,
-      "reason": "涨幅榜前列(第3名),飙升10.0%"
-    },
-    {
-      "code": "603366",
-      "name": "日出东方",
-      "price": 9.3,
-      "change_pct": 1.97,
-      "turnover": 5.5,
-      "change_5d": 1.2,
-      "volume": 4.008,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手5.5%,成交4.0亿"
-    },
-    {
-      "code": "301010",
-      "name": "晶雪节能",
-      "price": 20.3,
-      "change_pct": 1.91,
-      "turnover": 5.5,
-      "change_5d": 1.1,
-      "volume": 1.145,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手5.5%,成交1.1亿"
+      "reason": "涨幅榜前列(第3名),飙升15.4%"
     },
     {
       "code": "301718",
       "name": "通则康威",
-      "price": 47.84,
-      "change_pct": 1.79,
-      "turnover": 10.3,
-      "change_5d": 1.1,
-      "volume": 1.717,
+      "price": 47.81,
+      "change_pct": 1.72,
+      "turnover": 12.3,
+      "change_5d": 1.0,
+      "volume": 2.041,
       "tag": "resilient",
       "score": 4,
-      "reason": "高换手10.3%,成交1.7亿"
+      "reason": "高换手12.3%,成交2.0亿"
+    },
+    {
+      "code": "688757",
+      "name": "胜科纳米",
+      "price": 29.22,
+      "change_pct": 1.6,
+      "turnover": 7.3,
+      "change_5d": 1.0,
+      "volume": 3.902,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手7.3%,成交3.9亿"
+    },
+    {
+      "code": "601188",
+      "name": "龙江交通",
+      "price": 4.64,
+      "change_pct": 1.53,
+      "turnover": 18.1,
+      "change_5d": 0.9,
+      "volume": 9.918,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手18.1%,成交9.9亿"
     }
   ],
-  "updated_at": "2026-11-20 09:48:31"
+  "updated_at": "2026-11-20 10:03:36"
 }
