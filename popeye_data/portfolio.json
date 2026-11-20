@@ -15,32 +15,32 @@
     {
       "code": "603081",
       "name": "大丰实业",
-      "buy_price": 9.8,
+      "buy_price": 9.79,
       "buy_date": "2026-11-20",
       "shares": 1000,
-      "cost": 9800.0,
+      "cost": 9790.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 5.038
-    },
-    {
-      "code": "300287",
-      "name": "飞利信",
-      "buy_price": 3.61,
-      "buy_date": "2026-11-20",
-      "shares": 2700,
-      "cost": 9747.0,
-      "reason": "黄金区间3-6%",
-      "change_at_buy": 4.335
+      "change_at_buy": 4.93
     },
     {
       "code": "301256",
       "name": "华融化学",
-      "buy_price": 9.13,
+      "buy_price": 9.18,
       "buy_date": "2026-11-20",
       "shares": 1000,
-      "cost": 9130.0,
+      "cost": 9180.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 4.105
+      "change_at_buy": 4.675
+    },
+    {
+      "code": "300287",
+      "name": "飞利信",
+      "buy_price": 3.6,
+      "buy_date": "2026-11-20",
+      "shares": 2700,
+      "cost": 9720.0,
+      "reason": "黄金区间3-6%",
+      "change_at_buy": 4.046
     },
     {
       "code": "000158",
@@ -55,42 +55,42 @@
     {
       "code": "601083",
       "name": "锦江航运",
-      "buy_price": 14.2,
+      "buy_price": 14.22,
       "buy_date": "2026-11-20",
       "shares": 700,
-      "cost": 9940.0,
+      "cost": 9954.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 3.273
+      "change_at_buy": 3.418
     },
     {
       "code": "001201",
       "name": "东瑞股份",
-      "buy_price": 17.13,
+      "buy_price": 17.14,
       "buy_date": "2026-11-20",
       "shares": 500,
-      "cost": 8565.0,
+      "cost": 8570.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 4.963
+      "change_at_buy": 5.025
     },
     {
       "code": "300788",
       "name": "中信出版",
-      "buy_price": 28.85,
+      "buy_price": 28.72,
       "buy_date": "2026-11-20",
       "shares": 300,
-      "cost": 8655.0,
+      "cost": 8616.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 4.076
+      "change_at_buy": 3.608
     },
     {
       "code": "301331",
       "name": "恩威医药",
-      "buy_price": 20.04,
+      "buy_price": 20.05,
       "buy_date": "2026-11-20",
       "shares": 400,
-      "cost": 8016.0,
+      "cost": 8020.0,
       "reason": "黄金区间3-6%",
-      "change_at_buy": 3.246
+      "change_at_buy": 3.297
     },
     {
       "code": "300413",
@@ -103,5 +103,5 @@
       "change_at_buy": 3.193
     }
   ],
-  "total_cost": 91441.0
+  "total_cost": 91438.0
 }
