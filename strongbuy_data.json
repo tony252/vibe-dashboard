@@ -182,9 +182,9 @@
       "name": "易天股份",
       "price": 18.0,
       "change_pct": 20.0,
-      "turnover": 15.9,
+      "turnover": 16.0,
       "change_5d": 12.0,
-      "volume": 4.917,
+      "volume": 4.945,
       "tag": "newhigh",
       "score": 5,
       "reason": "涨幅榜前列(第1名),飙升20.0%"
@@ -194,9 +194,9 @@
       "name": "凡拓数创",
       "price": 59.16,
       "change_pct": 20.0,
-      "turnover": 34.5,
+      "turnover": 34.6,
       "change_5d": 12.0,
-      "volume": 14.698,
+      "volume": 14.761,
       "tag": "newhigh",
       "score": 5,
       "reason": "涨幅榜前列(第2名),飙升20.0%"
@@ -206,13 +206,49 @@
       "name": "满坤科技",
       "price": 51.07,
       "change_pct": 20.0,
-      "turnover": 18.2,
+      "turnover": 18.4,
       "change_5d": 12.0,
-      "volume": 8.254,
+      "volume": 8.329,
       "tag": "newhigh",
       "score": 5,
       "reason": "涨幅榜前列(第3名),飙升20.0%"
+    },
+    {
+      "code": "301583",
+      "name": "托伦斯",
+      "price": 109.68,
+      "change_pct": 2.98,
+      "turnover": 33.4,
+      "change_5d": 1.8,
+      "volume": 11.395,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手33.4%,成交11.4亿"
+    },
+    {
+      "code": "600127",
+      "name": "金健米业",
+      "price": 8.18,
+      "change_pct": 2.89,
+      "turnover": 19.0,
+      "change_5d": 1.7,
+      "volume": 9.963,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手19.0%,成交10.0亿"
+    },
+    {
+      "code": "301660",
+      "name": "粤芯半导",
+      "price": 30.82,
+      "change_pct": 2.67,
+      "turnover": 32.2,
+      "change_5d": 1.6,
+      "volume": 24.088,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手32.2%,成交24.1亿"
     }
   ],
-  "updated_at": "2026-11-20 14:34:35"
+  "updated_at": "2026-11-20 14:49:13"
 }
