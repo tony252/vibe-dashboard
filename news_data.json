@@ -1,15 +1,53 @@
 {
-  "update_time": "2026-11-22 20:33:41",
-  "total": 275,
+  "update_time": "2026-11-22 20:48:29",
+  "total": 274,
   "source_stats": {
-    "新浪财经": 57,
+    "网易财经": 88,
+    "新浪财经": 56,
     "同花顺": 100,
-    "财联社": 30,
-    "网易财经": 88
+    "财联社": 30
   },
-  "hot_count": 14,
-  "important_count": 69,
+  "hot_count": 16,
+  "important_count": 67,
   "items": [
+    {
+      "id": "1632688507912",
+      "time_str": "2026-11-22 20:39:24",
+      "time": 1795351164000,
+      "title": "沪深北交易所降低融资保证金比例下限至80%",
+      "text": "沪深北交易所降低融资保证金比例下限至80%",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/money/article/LCC8LQ8L00258105.html",
+      "importance": "hot"
+    },
+    {
+      "id": "sinacomos:nizrhva8874824",
+      "time_str": "",
+      "time": 1795350932000,
+      "title": "三连跌停后，002187，最新回应！",
+      "text": "近期，广百股份（002187）经历了一轮暴涨暴跌。 11月22日，广百股份再次披露异动公告，公司提示，其股票于2026年11月18日、11月19日...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-22/doc-inizrhva8874824.shtml",
+      "sub_source": "",
+      "importance": "important"
+    },
+    {
+      "id": "sinacomos:nizrpca1081611",
+      "time_str": "",
+      "time": 1795350832000,
+      "title": "招商策略：本轮市场多项指标趋近市场底部  红利交易拥挤度明显上升",
+      "text": "相关阅读十大机构看后市：A股性价比处历史极高值位置，有望在近期反弹，春季行情概率正在提升 【招商策略】当前市场所处的位置，历史复盘对比以及情景推演——A股投资策略周...",
+      "source": "新浪财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrpca1081611.shtml",
+      "sub_source": "市场资讯",
+      "importance": ""
+    },
     {
       "id": "sinacomos:nizrhve1210097",
       "time_str": "",
@@ -356,7 +394,7 @@
       "stock": "",
       "url": "https://finance.sina.com.cn/wm/2026-11-22/doc-inizrhuw5918701.shtml",
       "sub_source": "上海证券报",
-      "importance": "important"
+      "importance": "hot"
     },
     {
       "id": "sinacomos:nizrhve1170740",
@@ -370,32 +408,6 @@
       "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-22/doc-inizrhve1170740.shtml",
       "sub_source": "北京商报",
       "importance": ""
-    },
-    {
-      "id": "sinacomos:nizrhve1172804",
-      "time_str": "",
-      "time": 1795345371000,
-      "title": "明天停牌！300500，将被实施其他风险警示",
-      "text": "公司股票将于11月23日停牌一天。启迪设计(300500)11月22日公告称，公司收到证监会江苏监管局《行政处罚事先告知书》，因原子公司虚增利润等事项...",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-22/doc-inizrhve1172804.shtml",
-      "sub_source": "证券时报网",
-      "importance": "important"
-    },
-    {
-      "id": "sinacomos:nizrhuy2703204",
-      "time_str": "",
-      "time": 1795345370000,
-      "title": "复星医药拟回购2.5亿元至5亿元A股股份",
-      "text": "11月22日晚间，复星医药（600196）的回购A股方案出炉，公司拟以集中竞价交易方式，回购2.5亿元至5亿元公司股份，回购上限为33元/股。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-22/doc-inizrhuy2703204.shtml",
-      "sub_source": "北京商报",
-      "importance": "hot"
     },
     {
       "id": "sinacomos:nizrhva8843966",
@@ -536,6 +548,18 @@
       "importance": "important"
     },
     {
+      "id": "cls2540996",
+      "time_str": "",
+      "time": 1795343988000,
+      "title": "沪深北交易所降低融资保证金比例下限至80%",
+      "text": "沪深北交易所降低融资保证金比例下限至80%",
+      "source": "财联社",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.cls.cn/detail/2540996",
+      "importance": "hot"
+    },
+    {
       "id": "ths682076825",
       "time_str": "2026/11/22 18:39",
       "time": 1795343940000,
@@ -557,7 +581,7 @@
       "category": "fast",
       "stock": "",
       "url": "http://stock.10jqka.com.cn/20261122/c682076819.shtml",
-      "importance": "important"
+      "importance": "hot"
     },
     {
       "id": "ths682076803",
@@ -634,7 +658,7 @@
       "importance": "important"
     },
     {
-      "id": "1635447500570",
+      "id": "163513536835",
       "time_str": "2026-11-22 18:12:56",
       "time": 1795342376000,
       "title": "老牌房企控股股东遭证监会立案 \"摘星脱帽\"不到半年",
@@ -755,7 +779,7 @@
       "category": "fast",
       "stock": "",
       "url": "http://stock.10jqka.com.cn/20261122/c682076450.shtml",
-      "importance": "hot"
+      "importance": "important"
     },
     {
       "id": "sinacomos:nizrape8920090",
@@ -832,19 +856,6 @@
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-22/doc-inizqwfa6031520.shtml",
       "sub_source": "环球市场播报",
       "importance": "important"
-    },
-    {
-      "id": "sinacomos:nizqwfe2803603",
-      "time_str": "",
-      "time": 1795335892000,
-      "title": "伊朗称袭击美军驻巴林基地并击落两架无人机，霍尔木兹海峡两艘油轮遇袭",
-      "text": "当地时间11月21日，伊朗伊斯兰革命卫队宣布，使用导弹及无人机袭击了位于巴林里法和阿瓦利基地的两部美军“爱国者”防空系统雷达。",
-      "source": "新浪财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-22/doc-inizqwfe2803603.shtml",
-      "sub_source": "环球市场播报",
-      "importance": ""
     },
     {
       "id": "sinacomos:nizraph1225489",
@@ -1892,7 +1903,7 @@
       "importance": ""
     },
     {
-      "id": "1633405709411",
+      "id": "1632868125083",
       "time_str": "2026-11-22 09:29:06",
       "time": 1795310946000,
       "title": "金价跌破3550美元，分析称短期下行未逆转",
@@ -1902,18 +1913,6 @@
       "stock": "",
       "url": "https://www.163.com/dy/article/LCB2AEU00514R9OJ.html",
       "importance": ""
-    },
-    {
-      "id": "163847924536",
-      "time_str": "2026-11-22 09:29:06",
-      "time": 1795310946000,
-      "title": "谷歌宣布2027年智能家居重大调整 Nest应用将关停",
-      "text": "谷歌宣布2027年智能家居重大调整 Nest应用将关停",
-      "source": "网易财经",
-      "category": "fast",
-      "stock": "",
-      "url": "https://www.163.com/dy/article/LCB2AFC90514R9OJ.html",
-      "importance": "important"
     },
     {
       "id": "ths682075225",
@@ -1988,7 +1987,7 @@
       "importance": ""
     },
     {
-      "id": "1633036408907",
+      "id": "1639316947146",
       "time_str": "2026-11-22 09:06:13",
       "time": 1795309573000,
       "title": "东阿阿胶高管团队再动荡:\"华润系\"80后孙金妮辞职",
@@ -2348,19 +2347,7 @@
       "importance": "important"
     },
     {
-      "id": "cls2539273",
-      "time_str": "",
-      "time": 1795089560000,
-      "title": "南向资金追踪｜净买入超39亿港元 连续加仓中芯国际及腾讯流出阿里",
-      "text": "①南向资金当日成交约902亿港元，资金持续流入哪些个股？\n②资金流入腾讯控股超38亿港元，近期持仓趋势有何变化？",
-      "source": "财联社",
-      "category": "fast",
-      "stock": "",
-      "url": "https://www.cls.cn/detail/2539273",
-      "importance": ""
-    },
-    {
-      "id": "1634695537245",
+      "id": "1636166923083",
       "time_str": "2026-11-19 18:02:08",
       "time": 1795082528000,
       "title": "“宁德时代报警抓理想”冲上热搜，双方分手内幕曝光",
@@ -2372,7 +2359,7 @@
       "importance": ""
     },
     {
-      "id": "1633955218047",
+      "id": "1631969809673",
       "time_str": "2026-11-19 17:55:34",
       "time": 1795082134000,
       "title": "格力电器回应来了：因150元诉讼费成被执行人",
@@ -2384,7 +2371,7 @@
       "importance": ""
     },
     {
-      "id": "1636083021308",
+      "id": "1636672207168",
       "time_str": "2026-11-19 16:58:23",
       "time": 1795078703000,
       "title": "高端人才交不上税？英国要重新评估“全球人才签证”政策",
@@ -2396,7 +2383,7 @@
       "importance": "important"
     },
     {
-      "id": "1638143602134",
+      "id": "1631686350563",
       "time_str": "2026-11-19 16:50:32",
       "time": 1795078232000,
       "title": "APEC时刻的深市上市公司，向全球市场“递名片”",
@@ -2408,7 +2395,7 @@
       "importance": ""
     },
     {
-      "id": "1638306898494",
+      "id": "1638475759152",
       "time_str": "2026-11-19 16:45:03",
       "time": 1795077903000,
       "title": "宗馥莉的动静，为啥总是这么大？",
@@ -2420,7 +2407,7 @@
       "importance": ""
     },
     {
-      "id": "1638625708990",
+      "id": "1635037874474",
       "time_str": "2026-11-19 16:28:43",
       "time": 1795076923000,
       "title": "长三角正在补齐短板：三条高铁开通在即，皖北县域加速建厂",
@@ -2432,7 +2419,7 @@
       "importance": ""
     },
     {
-      "id": "1633915834654",
+      "id": "1632541714180",
       "time_str": "2026-11-19 16:25:38",
       "time": 1795076738000,
       "title": "筹划一年半折戟！通光线缆长飞光纤终止6亿合资项目，双方实缴不足百万",
@@ -2444,7 +2431,7 @@
       "importance": ""
     },
     {
-      "id": "1638689634280",
+      "id": "1636951469428",
       "time_str": "2026-11-19 16:25:04",
       "time": 1795076704000,
       "title": "雷军布斯，您慌啥子嘛",
@@ -2456,7 +2443,7 @@
       "importance": ""
     },
     {
-      "id": "1633635323054",
+      "id": "1635795872344",
       "time_str": "2026-11-19 16:00:58",
       "time": 1795075258000,
       "title": "止步五连板！华东重机的GPU概念狂飙",
@@ -2465,6 +2452,18 @@
       "category": "fast",
       "stock": "",
       "url": "https://www.163.com/dy/article/LC41H3BV0519S55I.html",
+      "importance": ""
+    },
+    {
+      "id": "1634555390046",
+      "time_str": "2026-11-19 15:58:31",
+      "time": 1795075111000,
+      "title": "算力采购价格2028年大概率下降，腾讯刘炽平：AI投入很难给出固定回本时间表",
+      "text": "算力采购价格2028年大概率下降，腾讯刘炽平：AI投入很难给出固定回本时间表",
+      "source": "网易财经",
+      "category": "fast",
+      "stock": "",
+      "url": "https://www.163.com/dy/article/LC41CFML0519APGA.html",
       "importance": ""
     }
   ]
