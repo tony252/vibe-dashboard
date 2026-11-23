@@ -1,12 +1,31 @@
 {
   "date": "2026-11-23",
-  "updated_at": "2026-11-23 16:33:17",
+  "updated_at": "2026-11-23 20:03:12",
   "stats": {
-    "processed": 8,
+    "processed": 13,
     "alerts": 0,
-    "filtered": 8
+    "filtered": 9
   },
   "events": [
+    {
+      "time": "2026-11-23 19:53",
+      "type": "archive",
+      "title": "5连板热门股，澄清传闻！人形机器人板块爆火，主力资金加仓多只概念股",
+      "content": "人形机器人产业正处于从技术突破迈向规模化商业化的破晓时刻。 今日（11月23日），市场全天低开回升，创业板指涨超3%。AI漫剧概念拉升，上海电影、横店影视、慈文传媒...",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-23/doc-iniztrzw2216375.shtml",
+      "stocks": [
+        {
+          "name": "慈文传媒",
+          "code": "002343",
+          "match_reason": "直接提及[慈文传媒]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
     {
       "time": "2026-11-23 16:30",
       "type": "archive",
@@ -229,7 +248,7 @@
       "现金管理"
     ]
   },
-  "mode": "report",
+  "mode": "scan",
   "week": 48,
   "stock_meta": {
     "600900": "2026-11-23 16:33",
@@ -246,7 +265,8 @@
     "600327": "2026-11-23 16:33",
     "000823": "2026-11-23 16:33",
     "601398": "2026-11-23 16:33",
-    "300550": "2026-11-23 16:33"
+    "300550": "2026-11-23 16:33",
+    "002343": "2026-11-23 20:06"
   },
   "watchlist": [
     {
@@ -255,8 +275,18 @@
       "keywords": "直接提及[长江电力]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-23 16:33",
+      "selected_at": "2026-11-23 20:06",
       "first_seen": "2026-11-23 16:33",
+      "is_new": false
+    },
+    {
+      "name": "慈文传媒",
+      "code": "002343",
+      "keywords": "直接提及[慈文传媒]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-23 20:06",
+      "first_seen": "2026-11-23 20:06",
       "is_new": true
     },
     {
@@ -265,9 +295,9 @@
       "keywords": "直接提及[山东路桥]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-23 16:33",
+      "selected_at": "2026-11-23 20:06",
       "first_seen": "2026-11-23 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "阳光乳业",
@@ -275,9 +305,9 @@
       "keywords": "直接提及[阳光乳业]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-23 16:33",
+      "selected_at": "2026-11-23 20:06",
       "first_seen": "2026-11-23 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "中信证券",
@@ -285,9 +315,9 @@
       "keywords": "直接提及[中信证券]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-23 16:33",
+      "selected_at": "2026-11-23 20:06",
       "first_seen": "2026-11-23 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "华东重机",
@@ -295,9 +325,9 @@
       "keywords": "直接提及[华东重机]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-23 16:33",
+      "selected_at": "2026-11-23 20:06",
       "first_seen": "2026-11-23 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "清研环境",
@@ -305,9 +335,9 @@
       "keywords": "直接提及[清研环境]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-23 16:33",
+      "selected_at": "2026-11-23 20:06",
       "first_seen": "2026-11-23 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "真视通",
@@ -315,9 +345,9 @@
       "keywords": "直接提及[真视通]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-23 16:33",
+      "selected_at": "2026-11-23 20:06",
       "first_seen": "2026-11-23 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "盛剑科技",
@@ -325,9 +355,9 @@
       "keywords": "直接提及[盛剑科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-23 16:33",
+      "selected_at": "2026-11-23 20:06",
       "first_seen": "2026-11-23 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "交通银行",
@@ -335,9 +365,9 @@
       "keywords": "直接提及[交通银行]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-23 16:33",
+      "selected_at": "2026-11-23 20:06",
       "first_seen": "2026-11-23 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "广百股份",
@@ -345,9 +375,9 @@
       "keywords": "直接提及[广百股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-23 16:33",
+      "selected_at": "2026-11-23 20:06",
       "first_seen": "2026-11-23 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "东方海洋",
@@ -355,9 +385,9 @@
       "keywords": "直接提及[东方海洋]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-23 16:33",
+      "selected_at": "2026-11-23 20:06",
       "first_seen": "2026-11-23 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "大东方",
@@ -365,9 +395,9 @@
       "keywords": "直接提及[大东方]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-23 16:33",
+      "selected_at": "2026-11-23 20:06",
       "first_seen": "2026-11-23 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "超声电子",
@@ -375,9 +405,9 @@
       "keywords": "直接提及[超声电子]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-23 16:33",
+      "selected_at": "2026-11-23 20:06",
       "first_seen": "2026-11-23 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "工商银行",
@@ -385,19 +415,9 @@
       "keywords": "直接提及[工商银行]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-23 16:33",
+      "selected_at": "2026-11-23 20:06",
       "first_seen": "2026-11-23 16:33",
-      "is_new": true
-    },
-    {
-      "name": "和仁科技",
-      "code": "300550",
-      "keywords": "涨停 · 缠论买点",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"4.41\">涨幅4.41%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.37%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-23 16:33",
-      "first_seen": "2026-11-23 16:33",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
