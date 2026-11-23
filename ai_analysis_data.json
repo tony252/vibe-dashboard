@@ -318,74 +318,25 @@
     ],
     "yimeng_stocks": [
       {
-        "name": "安泰集团",
-        "code": "600408",
-        "price": 3.54,
-        "change_pct": 3.81,
-        "turnover": 24.62
-      },
-      {
-        "name": "托伦斯",
-        "code": "301583",
-        "price": 108.37,
-        "change_pct": 1.75,
-        "turnover": 35.58
-      },
-      {
-        "name": "力聚热能",
-        "code": "603391",
-        "price": 70.4,
-        "change_pct": 1.44,
-        "turnover": 17.23
-      },
-      {
-        "name": "襄阳轴承",
-        "code": "000678",
-        "price": 16.98,
-        "change_pct": 1.43,
-        "turnover": 33.28
-      },
-      {
-        "name": "兴业股份",
-        "code": "603928",
-        "price": 12.58,
-        "change_pct": 1.62,
-        "turnover": 17.99
-      },
-      {
-        "name": "北纬科技",
-        "code": "002148",
-        "price": 10.06,
-        "change_pct": 8.17,
-        "turnover": 51.95
-      },
-      {
-        "name": "汇金科技",
-        "code": "300561",
-        "price": 16.37,
-        "change_pct": 6.78,
-        "turnover": 19.81
+        "name": "超声电子",
+        "code": "000823",
+        "price": 19.89,
+        "change_pct": 7.46,
+        "turnover": 33.99
       },
       {
         "name": "粤芯半导",
         "code": "301660",
-        "price": 30.61,
-        "change_pct": 1.97,
-        "turnover": 34.28
+        "price": 32.0,
+        "change_pct": 4.54,
+        "turnover": 33.93
       },
       {
-        "name": "通则康威",
-        "code": "301718",
-        "price": 48.0,
-        "change_pct": 2.13,
-        "turnover": 26.69
-      },
-      {
-        "name": "华智数媒",
-        "code": "300426",
-        "price": 8.65,
-        "change_pct": 8.8,
-        "turnover": 17.75
+        "name": "托伦斯",
+        "code": "301583",
+        "price": 116.97,
+        "change_pct": 7.94,
+        "turnover": 36.89
       }
     ],
     "slowrise": [
@@ -593,5 +544,5 @@
       }
     ]
   },
-  "timestamp": "2026-11-23T15:23:47"
+  "timestamp": "2026-11-23T15:41:55"
 }
