@@ -3,73 +3,80 @@
     "indices": [
       {
         "name": "上证指数",
-        "current": 3538.41,
-        "pct": 0.13
+        "current": 3537.16,
+        "pct": 0.1
       },
       {
         "name": "深证成指",
-        "current": 10478.63,
-        "pct": 2.17
+        "current": 10491.47,
+        "pct": 2.29
       },
       {
         "name": "创业板指",
-        "current": 2287.5,
-        "pct": 3.41
+        "current": 2292.85,
+        "pct": 3.65
       },
       {
         "name": "沪深300",
-        "current": 3961.65,
-        "pct": 0.18
+        "current": 3962.26,
+        "pct": 0.19
       },
       {
         "name": "科创50",
-        "current": 1235.84,
-        "pct": 0.39
+        "current": 1235.49,
+        "pct": 0.36
       },
       {
         "name": "上证50",
-        "current": 2761.74,
-        "pct": -0.87
+        "current": 2760.48,
+        "pct": -0.91
       },
       {
         "name": "中证500",
-        "current": 6139.89,
-        "pct": 2.23
+        "current": 6146.56,
+        "pct": 2.34
       },
       {
         "name": "中证1000",
-        "current": 5824.89,
-        "pct": 3.12
+        "current": 5826.18,
+        "pct": 3.14
       }
     ],
     "top_gainers": [
+      {
+        "name": "*ST皇庭",
+        "code": "000056",
+        "price": 1.71,
+        "change_pct": 10.32,
+        "turnover": 2.78
+      },
       {
         "name": "东方海洋",
         "code": "002086",
         "price": 4.13,
         "change_pct": 10.13,
-        "turnover": 26.5
+        "turnover": 26.51
       },
       {
         "name": "京蓝科技",
         "code": "000711",
         "price": 4.25,
         "change_pct": 10.1,
-        "turnover": 11.54
+        "turnover": 11.56
       },
       {
         "name": "澳洋健康",
         "code": "002172",
         "price": 5.13,
         "change_pct": 10.09,
-        "turnover": 16.57
+        "turnover": 16.62
       },
       {
         "name": "顺灏股份",
         "code": "002565",
         "price": 8.09,
         "change_pct": 10.07,
-        "turnover": 9.71
+        "turnover": 9.8
       },
       {
         "name": "荣联科技",
@@ -83,188 +90,188 @@
         "code": "002199",
         "price": 10.4,
         "change_pct": 10.05,
-        "turnover": 9.45
+        "turnover": 9.48
       },
       {
         "name": "传智教育",
         "code": "003032",
         "price": 8.87,
         "change_pct": 10.05,
-        "turnover": 11.77
+        "turnover": 11.8
       },
       {
         "name": "百洋股份",
         "code": "002696",
         "price": 7.34,
         "change_pct": 10.04,
-        "turnover": 21.95
+        "turnover": 22.0
       },
       {
         "name": "高德红外",
         "code": "002414",
         "price": 10.41,
         "change_pct": 10.04,
-        "turnover": 2.77
+        "turnover": 2.78
+      },
+      {
+        "name": "通化金马",
+        "code": "000766",
+        "price": 10.96,
+        "change_pct": 10.04,
+        "turnover": 5.14
       },
       {
         "name": "北纬科技",
         "code": "002148",
         "price": 11.07,
         "change_pct": 10.04,
-        "turnover": 39.93
+        "turnover": 40.0
       },
       {
         "name": "汇洲智能",
         "code": "002122",
         "price": 2.96,
         "change_pct": 10.04,
-        "turnover": 3.05
+        "turnover": 3.06
       },
       {
         "name": "万向钱潮",
         "code": "000559",
         "price": 10.53,
         "change_pct": 10.03,
-        "turnover": 2.69
+        "turnover": 2.71
       },
       {
         "name": "天奇股份",
         "code": "002009",
         "price": 14.59,
         "change_pct": 10.03,
-        "turnover": 11.96
-      },
-      {
-        "name": "埃斯顿",
-        "code": "002747",
-        "price": 26.68,
-        "change_pct": 10.02,
-        "turnover": 6.14
-      },
-      {
-        "name": "兴欣新材",
-        "code": "001358",
-        "price": 28.88,
-        "change_pct": 10.02,
-        "turnover": 24.74
+        "turnover": 12.02
       }
     ],
     "sectors": [
       {
         "name": "视频媒体",
         "code": "BK1296",
-        "pct": 15.91,
-        "amount_yi": 37.8,
+        "pct": 14.22,
+        "amount_yi": 38.9,
         "net_inflow_yi": 4.0
       },
       {
         "name": "其他数字媒体",
         "code": "BK1295",
-        "pct": 13.74,
-        "amount_yi": 33.7,
+        "pct": 13.11,
+        "amount_yi": 34.2,
         "net_inflow_yi": 1.5
       },
       {
         "name": "机器人",
         "code": "BK1408",
-        "pct": 9.65,
-        "amount_yi": 112.4,
-        "net_inflow_yi": 7.8
+        "pct": 9.81,
+        "amount_yi": 117.0,
+        "net_inflow_yi": 8.6
       },
       {
         "name": "文字媒体",
         "code": "BK1298",
-        "pct": 9.17,
-        "amount_yi": 27.7,
-        "net_inflow_yi": 2.5
+        "pct": 8.83,
+        "amount_yi": 28.4,
+        "net_inflow_yi": 2.6
       },
       {
         "name": "院线",
         "code": "BK1300",
-        "pct": 8.45,
-        "amount_yi": 18.2,
+        "pct": 8.5,
+        "amount_yi": 18.9,
         "net_inflow_yi": 1.1
       },
       {
         "name": "影视院线",
         "code": "BK1222",
-        "pct": 8.39,
-        "amount_yi": 88.4,
-        "net_inflow_yi": 5.9
+        "pct": 7.98,
+        "amount_yi": 92.4,
+        "net_inflow_yi": 6.4
       },
       {
         "name": "影视动漫制作",
         "code": "BK1299",
-        "pct": 8.37,
-        "amount_yi": 70.2,
-        "net_inflow_yi": 4.8
-      },
-      {
-        "name": "数字媒体",
-        "code": "BK1221",
-        "pct": 7.39,
-        "amount_yi": 124.3,
-        "net_inflow_yi": 8.8
+        "pct": 7.82,
+        "amount_yi": 73.5,
+        "net_inflow_yi": 5.3
       },
       {
         "name": "医疗研发外包",
         "code": "BK1600",
-        "pct": 7.25,
-        "amount_yi": 123.1,
+        "pct": 7.36,
+        "amount_yi": 129.1,
         "net_inflow_yi": 3.4
+      },
+      {
+        "name": "数字媒体",
+        "code": "BK1221",
+        "pct": 7.2,
+        "amount_yi": 128.5,
+        "net_inflow_yi": 9.2
       },
       {
         "name": "自动化设备",
         "code": "BK1237",
-        "pct": 6.71,
-        "amount_yi": 301.3,
-        "net_inflow_yi": 9.7
+        "pct": 6.91,
+        "amount_yi": 315.9,
+        "net_inflow_yi": 11.3
       },
       {
         "name": "文化用品",
         "code": "BK1542",
-        "pct": 6.63,
-        "amount_yi": 5.0,
+        "pct": 6.54,
+        "amount_yi": 5.2,
         "net_inflow_yi": 0.4
       },
       {
-        "name": "电机Ⅲ",
-        "code": "BK1307",
-        "pct": 6.14,
-        "amount_yi": 49.8,
-        "net_inflow_yi": 3.2
+        "name": "其他自动化设备",
+        "code": "BK1410",
+        "pct": 6.38,
+        "amount_yi": 60.8,
+        "net_inflow_yi": 0.2
       }
     ],
     "us_stocks": [],
     "us_indices": [],
     "strong_stocks": [
       {
+        "name": "*ST皇庭",
+        "code": "000056",
+        "price": 1.71,
+        "change_pct": 10.32,
+        "turnover": 2.78
+      },
+      {
         "name": "东方海洋",
         "code": "002086",
         "price": 4.13,
         "change_pct": 10.13,
-        "turnover": 26.5
+        "turnover": 26.51
       },
       {
         "name": "京蓝科技",
         "code": "000711",
         "price": 4.25,
         "change_pct": 10.1,
-        "turnover": 11.54
+        "turnover": 11.56
       },
       {
         "name": "澳洋健康",
         "code": "002172",
         "price": 5.13,
         "change_pct": 10.09,
-        "turnover": 16.57
+        "turnover": 16.62
       },
       {
         "name": "顺灏股份",
         "code": "002565",
         "price": 8.09,
         "change_pct": 10.07,
-        "turnover": 9.71
+        "turnover": 9.8
       },
       {
         "name": "荣联科技",
@@ -278,70 +285,63 @@
         "code": "002199",
         "price": 10.4,
         "change_pct": 10.05,
-        "turnover": 9.45
+        "turnover": 9.48
       },
       {
         "name": "传智教育",
         "code": "003032",
         "price": 8.87,
         "change_pct": 10.05,
-        "turnover": 11.77
+        "turnover": 11.8
       },
       {
         "name": "百洋股份",
         "code": "002696",
         "price": 7.34,
         "change_pct": 10.04,
-        "turnover": 21.95
+        "turnover": 22.0
       },
       {
         "name": "高德红外",
         "code": "002414",
         "price": 10.41,
         "change_pct": 10.04,
-        "turnover": 2.77
+        "turnover": 2.78
+      },
+      {
+        "name": "通化金马",
+        "code": "000766",
+        "price": 10.96,
+        "change_pct": 10.04,
+        "turnover": 5.14
       },
       {
         "name": "北纬科技",
         "code": "002148",
         "price": 11.07,
         "change_pct": 10.04,
-        "turnover": 39.93
+        "turnover": 40.0
       },
       {
         "name": "汇洲智能",
         "code": "002122",
         "price": 2.96,
         "change_pct": 10.04,
-        "turnover": 3.05
+        "turnover": 3.06
       },
       {
         "name": "万向钱潮",
         "code": "000559",
         "price": 10.53,
         "change_pct": 10.03,
-        "turnover": 2.69
+        "turnover": 2.71
       },
       {
         "name": "天奇股份",
         "code": "002009",
         "price": 14.59,
         "change_pct": 10.03,
-        "turnover": 11.96
-      },
-      {
-        "name": "埃斯顿",
-        "code": "002747",
-        "price": 26.68,
-        "change_pct": 10.02,
-        "turnover": 6.14
-      },
-      {
-        "name": "兴欣新材",
-        "code": "001358",
-        "price": 28.88,
-        "change_pct": 10.02,
-        "turnover": 24.74
+        "turnover": 12.02
       }
     ],
     "yimeng_stocks": [
@@ -621,5 +621,5 @@
       }
     ]
   },
-  "timestamp": "2026-11-23T13:52:43"
+  "timestamp": "2026-11-23T14:05:17"
 }
