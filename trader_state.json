@@ -10,7 +10,7 @@
     "strongbuy": 0.25,
     "daily_picks": 0.2
    },
-   "cash": 45330.05177499996,
+   "cash": 45187.94699999997,
    "positions": [
     {
      "code": "000890",
@@ -38,15 +38,6 @@
      "last": 3.26,
      "strategy": "strongbuy",
      "open_date": "2026-09-25"
-    },
-    {
-     "code": "600022",
-     "name": "山东钢铁",
-     "qty": 200,
-     "avg": 1.283,
-     "last": 1.28,
-     "strategy": "daily_picks",
-     "open_date": "2026-09-28"
     },
     {
      "code": "603626",
@@ -94,56 +85,20 @@
      "open_date": "2026-10-26"
     },
     {
-     "code": "600622",
-     "name": "光大嘉宝",
-     "qty": 100,
-     "avg": 2.055,
-     "last": 1.99,
-     "strategy": "strong",
-     "open_date": "2026-11-11"
-    },
-    {
      "code": "600408",
      "name": "安泰集团",
      "qty": 200,
      "avg": 3.758,
-     "last": 3.84,
+     "last": 3.75,
      "strategy": "strongbuy",
      "open_date": "2026-11-17"
-    },
-    {
-     "code": "300977",
-     "name": "深圳瑞捷",
-     "qty": 900,
-     "avg": 16.056,
-     "last": 15.85,
-     "strategy": "strong",
-     "open_date": "2026-11-18"
-    },
-    {
-     "code": "600758",
-     "name": "辽宁能源",
-     "qty": 100,
-     "avg": 3.057,
-     "last": 3.01,
-     "strategy": "strong",
-     "open_date": "2026-11-18"
-    },
-    {
-     "code": "301038",
-     "name": "深水规院",
-     "qty": 100,
-     "avg": 14.142,
-     "last": 14.32,
-     "strategy": "strong",
-     "open_date": "2026-11-19"
     },
     {
      "code": "300730",
      "name": "科创信息",
      "qty": 100,
      "avg": 9.23,
-     "last": 9.65,
+     "last": 9.19,
      "strategy": "strong",
      "open_date": "2026-11-19"
     },
@@ -166,43 +121,43 @@
      "open_date": "2026-11-19"
     },
     {
-     "code": "002146",
-     "name": "荣盛发展",
-     "qty": 1500,
-     "avg": 0.932,
-     "last": 0.93,
+     "code": "600121",
+     "name": "郑州煤电",
+     "qty": 3800,
+     "avg": 4.089,
+     "last": 4.08,
      "strategy": "strong",
-     "open_date": "2026-11-20"
+     "open_date": "2026-11-24"
     },
     {
-     "code": "001358",
-     "name": "兴欣新材",
+     "code": "603159",
+     "name": "上海亚虹",
+     "qty": 100,
+     "avg": 19.394,
+     "last": 19.35,
+     "strategy": "strong",
+     "open_date": "2026-11-24"
+    },
+    {
+     "code": "002314",
+     "name": "南山控股",
+     "qty": 100,
+     "avg": 1.834,
+     "last": 1.83,
+     "strategy": "strong",
+     "open_date": "2026-11-24"
+    },
+    {
+     "code": "920067",
+     "name": "N华晟",
      "qty": 200,
-     "avg": 26.009,
-     "last": 25.95,
+     "avg": 39.188,
+     "last": 39.1,
      "strategy": "strongbuy",
-     "open_date": "2026-11-20"
-    },
-    {
-     "code": "301348",
-     "name": "蓝箭电子",
-     "qty": 100,
-     "avg": 21.708,
-     "last": 21.66,
-     "strategy": "strongbuy",
-     "open_date": "2026-11-20"
-    },
-    {
-     "code": "002535",
-     "name": "林州重机",
-     "qty": 100,
-     "avg": 3.017,
-     "last": 3.01,
-     "strategy": "strongbuy",
-     "open_date": "2026-11-20"
+     "open_date": "2026-11-24"
     }
    ],
-   "realized": 16760.48782499999
+   "realized": 16412.35612499999
   },
   {
    "id": "cloud-sat-B",
@@ -211,7 +166,7 @@
     "strong": 0.3,
     "strongbuy": 0.2
    },
-   "cash": 27565.33977499998,
+   "cash": 27450.725524999973,
    "positions": [
     {
      "code": "000890",
@@ -241,79 +196,61 @@
      "open_date": "2026-09-24"
     },
     {
-     "code": "000068",
-     "name": "华控赛格",
-     "qty": 100,
-     "avg": 2.867,
-     "last": 2.77,
-     "strategy": "strong",
-     "open_date": "2026-11-10"
-    },
-    {
      "code": "600408",
      "name": "安泰集团",
      "qty": 100,
      "avg": 3.758,
-     "last": 3.84,
+     "last": 3.75,
      "strategy": "strongbuy",
      "open_date": "2026-11-17"
-    },
-    {
-     "code": "300977",
-     "name": "深圳瑞捷",
-     "qty": 300,
-     "avg": 16.056,
-     "last": 15.85,
-     "strategy": "strong",
-     "open_date": "2026-11-18"
     },
     {
      "code": "600103",
      "name": "青山纸业",
      "qty": 1100,
      "avg": 3.358,
-     "last": 3.28,
+     "last": 3.35,
      "strategy": "strongbuy",
      "open_date": "2026-11-18"
-    },
-    {
-     "code": "301038",
-     "name": "深水规院",
-     "qty": 100,
-     "avg": 14.142,
-     "last": 14.32,
-     "strategy": "strong",
-     "open_date": "2026-11-19"
     },
     {
      "code": "300730",
      "name": "科创信息",
      "qty": 100,
      "avg": 9.23,
-     "last": 9.65,
+     "last": 9.19,
      "strategy": "strong",
      "open_date": "2026-11-19"
     },
     {
-     "code": "002146",
-     "name": "荣盛发展",
-     "qty": 1100,
-     "avg": 0.932,
-     "last": 0.93,
+     "code": "600121",
+     "name": "郑州煤电",
+     "qty": 1700,
+     "avg": 4.089,
+     "last": 4.08,
      "strategy": "strong",
-     "open_date": "2026-11-20"
+     "open_date": "2026-11-24"
     },
     {
-     "code": "301348",
-     "name": "蓝箭电子",
+     "code": "002291",
+     "name": "遥望科技",
      "qty": 100,
-     "avg": 21.708,
-     "last": 21.66,
+     "avg": 4.72,
+     "last": 4.71,
+     "strategy": "strong",
+     "open_date": "2026-11-24"
+    },
+    {
+     "code": "920690",
+     "name": "捷众科技",
+     "qty": 100,
+     "avg": 22.721,
+     "last": 22.67,
      "strategy": "strongbuy",
-     "open_date": "2026-11-20"
+     "open_date": "2026-11-24"
     }
    ],
-   "realized": 2482.4608000000044
+   "realized": 2349.5698000000048
   }
  ],
  "history": [
@@ -464,130 +401,13 @@
   {
    "ts": "2026-11-20 00:43",
    "equity": 168887.39
+  },
+  {
+   "ts": "2026-11-24 03:25",
+   "equity": 168546.67
   }
  ],
  "trades": [
-  {
-   "date": "2026-09-14",
-   "ts": "2026-09-14 17:06",
-   "code": "603693",
-   "name": "江苏新能",
-   "side": "BUY",
-   "qty": 1400,
-   "price": 12.826,
-   "reason": "daily_picks 信号买入",
-   "account": "cloud-main-A"
-  },
-  {
-   "date": "2026-09-14",
-   "ts": "2026-09-14 17:06",
-   "code": "605069",
-   "name": "正和生态",
-   "side": "BUY",
-   "qty": 100,
-   "price": 11.523,
-   "reason": "daily_picks 信号买入",
-   "account": "cloud-main-A"
-  },
-  {
-   "date": "2026-09-14",
-   "ts": "2026-09-14 17:06",
-   "code": "600032",
-   "name": "浙江新能",
-   "side": "BUY",
-   "qty": 100,
-   "price": 7.455,
-   "reason": "daily_picks 信号买入",
-   "account": "cloud-main-A"
-  },
-  {
-   "date": "2026-09-14",
-   "ts": "2026-09-14 17:06",
-   "code": "301132",
-   "name": "满坤科技",
-   "side": "BUY",
-   "qty": 300,
-   "price": 58.487,
-   "reason": "strongbuy 信号买入",
-   "account": "cloud-main-A"
-  },
-  {
-   "date": "2026-09-14",
-   "ts": "2026-09-14 17:06",
-   "code": "002349",
-   "name": "精华制药",
-   "side": "BUY",
-   "qty": 800,
-   "price": 8.647,
-   "reason": "strongbuy 信号买入",
-   "account": "cloud-main-A"
-  },
-  {
-   "date": "2026-09-14",
-   "ts": "2026-09-14 17:06",
-   "code": "301132",
-   "name": "满坤科技",
-   "side": "BUY",
-   "qty": 100,
-   "price": 58.487,
-   "reason": "strongbuy 信号买入",
-   "account": "cloud-sat-B"
-  },
-  {
-   "date": "2026-09-14",
-   "ts": "2026-09-14 17:06",
-   "code": "002349",
-   "name": "精华制药",
-   "side": "BUY",
-   "qty": 400,
-   "price": 8.647,
-   "reason": "strongbuy 信号买入",
-   "account": "cloud-sat-B"
-  },
-  {
-   "date": "2026-09-14",
-   "ts": "2026-09-14 17:06",
-   "code": "002141",
-   "name": "贤丰控股",
-   "side": "BUY",
-   "qty": 100,
-   "price": 6.984,
-   "reason": "strongbuy 信号买入",
-   "account": "cloud-sat-B"
-  },
-  {
-   "date": "2026-09-15",
-   "ts": "2026-09-15 21:10",
-   "code": "300311",
-   "name": "任子行",
-   "side": "BUY",
-   "qty": 3000,
-   "price": 6.052,
-   "reason": "strong 信号买入",
-   "account": "cloud-main-A"
-  },
-  {
-   "date": "2026-09-15",
-   "ts": "2026-09-15 21:10",
-   "code": "000890",
-   "name": "法尔胜",
-   "side": "BUY",
-   "qty": 2200,
-   "price": 7.455,
-   "reason": "strong 信号买入",
-   "account": "cloud-main-A"
-  },
-  {
-   "date": "2026-09-15",
-   "ts": "2026-09-15 21:10",
-   "code": "002141",
-   "name": "贤丰控股",
-   "side": "SELL",
-   "qty": 100,
-   "price": 6.617,
-   "reason": "止损 -5.1%",
-   "account": "cloud-sat-B"
-  },
   {
    "date": "2026-09-15",
    "ts": "2026-09-15 21:10",
@@ -3656,7 +3476,238 @@
    "price": 21.703,
    "reason": "strongbuy 信号买入",
    "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "600022",
+   "name": "山东钢铁",
+   "side": "SELL",
+   "qty": 200,
+   "price": 1.188,
+   "reason": "止损 -7.2%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "600622",
+   "name": "光大嘉宝",
+   "side": "SELL",
+   "qty": 100,
+   "price": 1.886,
+   "reason": "止损 -8.0%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "300977",
+   "name": "深圳瑞捷",
+   "side": "SELL",
+   "qty": 900,
+   "price": 15.16,
+   "reason": "止损 -5.4%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "600758",
+   "name": "辽宁能源",
+   "side": "SELL",
+   "qty": 100,
+   "price": 2.884,
+   "reason": "止损 -5.5%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "301038",
+   "name": "深水规院",
+   "side": "SELL",
+   "qty": 100,
+   "price": 13.144,
+   "reason": "止损 -6.9%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "002146",
+   "name": "荣盛发展",
+   "side": "SELL",
+   "qty": 1500,
+   "price": 1.018,
+   "reason": "止盈 +9.4%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "001358",
+   "name": "兴欣新材",
+   "side": "SELL",
+   "qty": 200,
+   "price": 27.944,
+   "reason": "止盈 +7.7%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "301348",
+   "name": "蓝箭电子",
+   "side": "SELL",
+   "qty": 100,
+   "price": 23.433,
+   "reason": "止盈 +8.2%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "002535",
+   "name": "林州重机",
+   "side": "SELL",
+   "qty": 100,
+   "price": 2.435,
+   "reason": "止损 -19.1%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "600121",
+   "name": "郑州煤电",
+   "side": "BUY",
+   "qty": 3800,
+   "price": 4.088,
+   "reason": "strong 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "603159",
+   "name": "上海亚虹",
+   "side": "BUY",
+   "qty": 100,
+   "price": 19.389,
+   "reason": "strong 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "002314",
+   "name": "南山控股",
+   "side": "BUY",
+   "qty": 100,
+   "price": 1.834,
+   "reason": "strong 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "920067",
+   "name": "N华晟",
+   "side": "BUY",
+   "qty": 200,
+   "price": 39.178,
+   "reason": "strongbuy 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "000068",
+   "name": "华控赛格",
+   "side": "SELL",
+   "qty": 100,
+   "price": 2.625,
+   "reason": "止损 -8.3%",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "300977",
+   "name": "深圳瑞捷",
+   "side": "SELL",
+   "qty": 300,
+   "price": 15.16,
+   "reason": "止损 -5.4%",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "301038",
+   "name": "深水规院",
+   "side": "SELL",
+   "qty": 100,
+   "price": 13.144,
+   "reason": "止损 -6.9%",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "002146",
+   "name": "荣盛发展",
+   "side": "SELL",
+   "qty": 1100,
+   "price": 1.018,
+   "reason": "止盈 +9.4%",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "301348",
+   "name": "蓝箭电子",
+   "side": "SELL",
+   "qty": 100,
+   "price": 23.433,
+   "reason": "止盈 +8.2%",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "600121",
+   "name": "郑州煤电",
+   "side": "BUY",
+   "qty": 1700,
+   "price": 4.088,
+   "reason": "strong 信号买入",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "002291",
+   "name": "遥望科技",
+   "side": "BUY",
+   "qty": 100,
+   "price": 4.719,
+   "reason": "strong 信号买入",
+   "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24 03:25",
+   "code": "920690",
+   "name": "捷众科技",
+   "side": "BUY",
+   "qty": 100,
+   "price": 22.715,
+   "reason": "strongbuy 信号买入",
+   "account": "cloud-sat-B"
   }
  ],
- "last_run_date": "2026-11-20"
+ "last_run_date": "2026-11-24"
 }
