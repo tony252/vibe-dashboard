@@ -3,43 +3,43 @@
     "indices": [
       {
         "name": "上证指数",
-        "current": 3496.16,
-        "pct": -1.06
+        "current": 3516.77,
+        "pct": -0.48
       },
       {
         "name": "深证成指",
-        "current": 10266.92,
-        "pct": 0.1
+        "current": 10379.37,
+        "pct": 1.2
       },
       {
         "name": "创业板指",
-        "current": 2235.05,
-        "pct": 1.04
+        "current": 2261.78,
+        "pct": 2.24
       },
       {
         "name": "沪深300",
-        "current": 3924.13,
-        "pct": -0.77
+        "current": 3940.3,
+        "pct": -0.36
       },
       {
         "name": "科创50",
-        "current": 1195.04,
-        "pct": -2.93
+        "current": 1216.12,
+        "pct": -1.22
       },
       {
         "name": "上证50",
-        "current": 2746.85,
-        "pct": -1.4
+        "current": 2751.38,
+        "pct": -1.24
       },
       {
         "name": "中证500",
-        "current": 5991.53,
-        "pct": -0.24
+        "current": 6074.69,
+        "pct": 1.14
       },
       {
         "name": "中证1000",
-        "current": 5652.01,
-        "pct": 0.06
+        "current": 5758.0,
+        "pct": 1.94
       }
     ],
     "top_gainers": [
@@ -48,176 +48,169 @@
         "code": "301318",
         "price": 21.53,
         "change_pct": 20.01,
-        "turnover": 7.2
+        "turnover": 7.26
       },
       {
         "name": "菱电电控",
         "code": "688667",
         "price": 95.04,
         "change_pct": 20.0,
-        "turnover": 1.83
+        "turnover": 1.85
       },
       {
         "name": "维宏股份",
         "code": "300508",
         "price": 38.46,
         "change_pct": 20.0,
-        "turnover": 10.32
+        "turnover": 10.43
+      },
+      {
+        "name": "创源股份",
+        "code": "300703",
+        "price": 12.36,
+        "change_pct": 20.0,
+        "turnover": 7.28
       },
       {
         "name": "怡达股份",
         "code": "300721",
         "price": 20.88,
         "change_pct": 20.0,
-        "turnover": 24.75
+        "turnover": 25.13
       },
       {
         "name": "金丹科技",
         "code": "300829",
         "price": 31.44,
         "change_pct": 20.0,
-        "turnover": 25.53
+        "turnover": 25.55
       },
       {
         "name": "肇民科技",
         "code": "301000",
         "price": 30.48,
         "change_pct": 20.0,
-        "turnover": 7.81
+        "turnover": 7.82
+      },
+      {
+        "name": "同星科技",
+        "code": "301252",
+        "price": 35.4,
+        "change_pct": 20.0,
+        "turnover": 5.68
       },
       {
         "name": "恒工精密",
         "code": "301261",
         "price": 66.66,
         "change_pct": 20.0,
-        "turnover": 4.82
+        "turnover": 4.84
       },
       {
         "name": "安培龙",
         "code": "301413",
         "price": 74.76,
         "change_pct": 20.0,
-        "turnover": 15.26
+        "turnover": 15.3
+      },
+      {
+        "name": "华阳智能",
+        "code": "301502",
+        "price": 55.68,
+        "change_pct": 20.0,
+        "turnover": 23.29
       },
       {
         "name": "艾芬达",
         "code": "301575",
         "price": 28.68,
         "change_pct": 20.0,
-        "turnover": 29.06
-      },
-      {
-        "name": "凡拓数创",
-        "code": "301313",
-        "price": 70.99,
-        "change_pct": 20.0,
-        "turnover": 33.45
-      },
-      {
-        "name": "德林海",
-        "code": "688069",
-        "price": 27.61,
-        "change_pct": 19.99,
-        "turnover": 4.98
-      },
-      {
-        "name": "海正生材",
-        "code": "688203",
-        "price": 13.88,
-        "change_pct": 19.96,
-        "turnover": 7.83
-      },
-      {
-        "name": "*ST天宜",
-        "code": "688033",
-        "price": 3.55,
-        "change_pct": 19.93,
-        "turnover": 1.37
+        "turnover": 29.33
       }
     ],
     "sectors": [
       {
         "name": "仪器仪表制造业",
         "code": "ZC40",
-        "pct": 1.6,
-        "amount_yi": 120.0,
+        "pct": 4.04,
+        "amount_yi": 130.3,
         "net_inflow_yi": 0
       },
       {
         "name": "通用设备制造业",
         "code": "ZC34",
-        "pct": 1.41,
-        "amount_yi": 338.3,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "废弃资源利用业",
-        "code": "ZC42",
-        "pct": 1.0,
-        "amount_yi": 9.8,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "家具制造业",
-        "code": "ZC21",
-        "pct": 0.56,
-        "amount_yi": 17.0,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "金属制品业",
-        "code": "ZC33",
-        "pct": 0.44,
-        "amount_yi": 134.1,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "有色金属冶炼业",
-        "code": "ZC32",
-        "pct": 0.36,
-        "amount_yi": 242.0,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "纺织服装服饰业",
-        "code": "ZC18",
-        "pct": 0.32,
-        "amount_yi": 26.7,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "铁路船舶航天业",
-        "code": "ZC37",
-        "pct": 0.28,
-        "amount_yi": 12.9,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "橡胶塑料制品业",
-        "code": "ZC29",
-        "pct": 0.2,
-        "amount_yi": 124.1,
-        "net_inflow_yi": 0
-      },
-      {
-        "name": "汽车制造业",
-        "code": "ZC36",
-        "pct": 0.16,
-        "amount_yi": 284.2,
+        "pct": 3.72,
+        "amount_yi": 369.6,
         "net_inflow_yi": 0
       },
       {
         "name": "食品制造业",
         "code": "ZC14",
-        "pct": 0.13,
-        "amount_yi": 3.2,
+        "pct": 3.14,
+        "amount_yi": 3.6,
         "net_inflow_yi": 0
       },
       {
-        "name": "化学原料制品业",
-        "code": "ZC26",
-        "pct": 0.0,
-        "amount_yi": 442.9,
+        "name": "废弃资源利用业",
+        "code": "ZC42",
+        "pct": 2.61,
+        "amount_yi": 10.9,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "金属制品业",
+        "code": "ZC33",
+        "pct": 2.36,
+        "amount_yi": 145.3,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "文教体育用品业",
+        "code": "ZC24",
+        "pct": 2.16,
+        "amount_yi": 20.6,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "家具制造业",
+        "code": "ZC21",
+        "pct": 2.1,
+        "amount_yi": 18.5,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "铁路船舶航天业",
+        "code": "ZC37",
+        "pct": 1.97,
+        "amount_yi": 14.2,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "橡胶塑料制品业",
+        "code": "ZC29",
+        "pct": 1.83,
+        "amount_yi": 133.4,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "有色金属冶炼业",
+        "code": "ZC32",
+        "pct": 1.58,
+        "amount_yi": 262.6,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "汽车制造业",
+        "code": "ZC36",
+        "pct": 1.47,
+        "amount_yi": 308.5,
+        "net_inflow_yi": 0
+      },
+      {
+        "name": "计算机电子设备业",
+        "code": "ZC39",
+        "pct": 1.38,
+        "amount_yi": 2225.6,
         "net_inflow_yi": 0
       }
     ],
@@ -229,91 +222,84 @@
         "code": "301318",
         "price": 21.53,
         "change_pct": 20.01,
-        "turnover": 7.2
+        "turnover": 7.26
       },
       {
         "name": "菱电电控",
         "code": "688667",
         "price": 95.04,
         "change_pct": 20.0,
-        "turnover": 1.83
+        "turnover": 1.85
       },
       {
         "name": "维宏股份",
         "code": "300508",
         "price": 38.46,
         "change_pct": 20.0,
-        "turnover": 10.32
+        "turnover": 10.43
+      },
+      {
+        "name": "创源股份",
+        "code": "300703",
+        "price": 12.36,
+        "change_pct": 20.0,
+        "turnover": 7.28
       },
       {
         "name": "怡达股份",
         "code": "300721",
         "price": 20.88,
         "change_pct": 20.0,
-        "turnover": 24.75
+        "turnover": 25.13
       },
       {
         "name": "金丹科技",
         "code": "300829",
         "price": 31.44,
         "change_pct": 20.0,
-        "turnover": 25.53
+        "turnover": 25.55
       },
       {
         "name": "肇民科技",
         "code": "301000",
         "price": 30.48,
         "change_pct": 20.0,
-        "turnover": 7.81
+        "turnover": 7.82
+      },
+      {
+        "name": "同星科技",
+        "code": "301252",
+        "price": 35.4,
+        "change_pct": 20.0,
+        "turnover": 5.68
       },
       {
         "name": "恒工精密",
         "code": "301261",
         "price": 66.66,
         "change_pct": 20.0,
-        "turnover": 4.82
+        "turnover": 4.84
       },
       {
         "name": "安培龙",
         "code": "301413",
         "price": 74.76,
         "change_pct": 20.0,
-        "turnover": 15.26
+        "turnover": 15.3
+      },
+      {
+        "name": "华阳智能",
+        "code": "301502",
+        "price": 55.68,
+        "change_pct": 20.0,
+        "turnover": 23.29
       },
       {
         "name": "艾芬达",
         "code": "301575",
         "price": 28.68,
         "change_pct": 20.0,
-        "turnover": 29.06
-      },
-      {
-        "name": "凡拓数创",
-        "code": "301313",
-        "price": 70.99,
-        "change_pct": 20.0,
-        "turnover": 33.45
-      },
-      {
-        "name": "德林海",
-        "code": "688069",
-        "price": 27.61,
-        "change_pct": 19.99,
-        "turnover": 4.98
-      },
-      {
-        "name": "海正生材",
-        "code": "688203",
-        "price": 13.88,
-        "change_pct": 19.96,
-        "turnover": 7.83
-      },
-      {
-        "name": "*ST天宜",
-        "code": "688033",
-        "price": 3.55,
-        "change_pct": 19.93,
-        "turnover": 1.37
+        "turnover": 29.33
       }
     ],
     "yimeng_stocks": [
@@ -593,5 +579,5 @@
       }
     ]
   },
-  "timestamp": "2026-11-23T13:07:59"
+  "timestamp": "2026-11-23T13:22:37"
 }
