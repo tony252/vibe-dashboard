@@ -346,25 +346,11 @@
     ],
     "yimeng_stocks": [
       {
-        "name": "超声电子",
-        "code": "000823",
-        "price": 19.89,
-        "change_pct": 7.46,
-        "turnover": 33.99
-      },
-      {
-        "name": "粤芯半导",
-        "code": "301660",
-        "price": 32.0,
-        "change_pct": 4.54,
-        "turnover": 33.93
-      },
-      {
-        "name": "托伦斯",
-        "code": "301583",
-        "price": 116.97,
-        "change_pct": 7.94,
-        "turnover": 36.89
+        "name": "北纬科技",
+        "code": "002148",
+        "price": 11.41,
+        "change_pct": 3.07,
+        "turnover": 50.95
       }
     ],
     "slowrise": [
@@ -572,5 +558,5 @@
       }
     ]
   },
-  "timestamp": "2026-11-24T15:24:07"
+  "timestamp": "2026-11-24T15:44:32"
 }
