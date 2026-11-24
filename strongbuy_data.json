@@ -62,7 +62,7 @@
       "change_pct": 20.01,
       "turnover": 11.0,
       "change_5d": 12.0,
-      "volume": 2.76,
+      "volume": 2.761,
       "tag": "newhigh",
       "score": 5,
       "reason": "涨幅榜前列(第1名),飙升20.0%"
@@ -74,7 +74,7 @@
       "change_pct": 20.01,
       "turnover": 2.4,
       "change_5d": 12.0,
-      "volume": 1.601,
+      "volume": 1.603,
       "tag": "newhigh",
       "score": 5,
       "reason": "涨幅榜前列(第2名),飙升20.0%"
@@ -86,22 +86,10 @@
       "change_pct": 20.0,
       "turnover": 4.8,
       "change_5d": 12.0,
-      "volume": 2.603,
+      "volume": 2.604,
       "tag": "newhigh",
       "score": 5,
       "reason": "涨幅榜前列(第3名),飙升20.0%"
-    },
-    {
-      "code": "920770",
-      "name": "艾能聚",
-      "price": 11.05,
-      "change_pct": 9.95,
-      "turnover": 15.4,
-      "change_5d": 6.0,
-      "volume": 1.33,
-      "tag": "volume",
-      "score": 5,
-      "reason": "量价齐升,换手15.4%,成交1.3亿"
     },
     {
       "code": "002086",
@@ -110,7 +98,7 @@
       "change_pct": 9.93,
       "turnover": 29.2,
       "change_5d": 6.0,
-      "volume": 20.602,
+      "volume": 20.619,
       "tag": "volume",
       "score": 5,
       "reason": "量价齐升,换手29.2%,成交20.6亿"
@@ -122,47 +110,59 @@
       "change_pct": 9.93,
       "turnover": 17.4,
       "change_5d": 6.0,
-      "volume": 6.367,
+      "volume": 6.383,
       "tag": "volume",
       "score": 5,
       "reason": "量价齐升,换手17.4%,成交6.4亿"
     },
     {
-      "code": "000678",
-      "name": "襄阳轴承",
-      "price": 19.24,
-      "change_pct": 3.0,
-      "turnover": 25.1,
-      "change_5d": 1.8,
-      "volume": 22.099,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手25.1%,成交22.1亿"
-    },
-    {
-      "code": "301052",
-      "name": "果麦文化",
-      "price": 45.48,
-      "change_pct": 2.99,
-      "turnover": 34.8,
-      "change_5d": 1.8,
-      "volume": 12.762,
-      "tag": "resilient",
-      "score": 4,
-      "reason": "高换手34.8%,成交12.8亿"
+      "code": "920770",
+      "name": "艾能聚",
+      "price": 10.99,
+      "change_pct": 9.35,
+      "turnover": 15.5,
+      "change_5d": 5.6,
+      "volume": 1.342,
+      "tag": "volume",
+      "score": 5,
+      "reason": "量价齐升,换手15.5%,成交1.3亿"
     },
     {
       "code": "600261",
       "name": "阳光照明",
       "price": 4.53,
       "change_pct": 2.72,
-      "turnover": 14.8,
+      "turnover": 14.9,
       "change_5d": 1.6,
-      "volume": 8.84,
+      "volume": 8.929,
       "tag": "resilient",
       "score": 4,
-      "reason": "高换手14.8%,成交8.8亿"
+      "reason": "高换手14.9%,成交8.9亿"
+    },
+    {
+      "code": "301052",
+      "name": "果麦文化",
+      "price": 45.33,
+      "change_pct": 2.65,
+      "turnover": 35.0,
+      "change_5d": 1.6,
+      "volume": 12.825,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手35.0%,成交12.8亿"
+    },
+    {
+      "code": "603324",
+      "name": "盛剑科技",
+      "price": 31.28,
+      "change_pct": 2.62,
+      "turnover": 16.7,
+      "change_5d": 1.6,
+      "volume": 7.401,
+      "tag": "resilient",
+      "score": 4,
+      "reason": "高换手16.7%,成交7.4亿"
     }
   ],
-  "updated_at": "2026-11-24 11:25:37"
+  "updated_at": "2026-11-24 11:50:33"
 }
