@@ -1,12 +1,36 @@
 {
   "date": "2026-11-24",
-  "updated_at": "2026-11-24 17:18:06",
+  "updated_at": "2026-11-24 20:03:10",
   "stats": {
-    "processed": 8,
+    "processed": 14,
     "alerts": 0,
-    "filtered": 8
+    "filtered": 9
   },
   "events": [
+    {
+      "time": "2026-11-24 19:12",
+      "type": "archive",
+      "title": "泸州老窖控股股东增持！吃喝板块震荡盘整，机构：食品饮料行业表端大幅出清的阶段或已过去",
+      "content": "吃喝板块今日（11月24日）震荡盘整，截至收盘 ，贵州茅台、莲花控股、重庆啤酒等涨超1%，古井贡酒、青岛啤酒、伊利股份等亦小幅飘红。",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/money/fund/etf/2026-11-24/doc-inizvuze8970131.shtml",
+      "stocks": [
+        {
+          "name": "泸州老窖",
+          "code": "000568",
+          "match_reason": "直接提及[泸州老窖]（选股推荐）"
+        },
+        {
+          "name": "莲花控股",
+          "code": "600186",
+          "match_reason": "直接提及[莲花控股]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
     {
       "time": "2026-11-24 17:05",
       "type": "archive",
@@ -199,7 +223,7 @@
       "现金管理"
     ]
   },
-  "mode": "report",
+  "mode": "scan",
   "week": 48,
   "stock_meta": {
     "600030": "2026-11-24 17:18",
@@ -216,7 +240,9 @@
     "688648": "2026-11-24 17:18",
     "300580": "2026-11-24 17:18",
     "603948": "2026-11-24 17:18",
-    "300421": "2026-11-24 17:18"
+    "300421": "2026-11-24 17:18",
+    "000568": "2026-11-24 20:06",
+    "600186": "2026-11-24 20:06"
   },
   "watchlist": [
     {
@@ -225,9 +251,9 @@
       "keywords": "直接提及[中信证券]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-24 17:18",
+      "selected_at": "2026-11-24 20:06",
       "first_seen": "2026-11-24 17:18",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "九阳股份",
@@ -235,8 +261,28 @@
       "keywords": "直接提及[九阳股份]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-24 17:18",
+      "selected_at": "2026-11-24 20:06",
       "first_seen": "2026-11-24 17:18",
+      "is_new": false
+    },
+    {
+      "name": "泸州老窖",
+      "code": "000568",
+      "keywords": "直接提及[泸州老窖]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-24 20:06",
+      "first_seen": "2026-11-24 20:06",
+      "is_new": true
+    },
+    {
+      "name": "莲花控股",
+      "code": "600186",
+      "keywords": "直接提及[莲花控股]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-24 20:06",
+      "first_seen": "2026-11-24 20:06",
       "is_new": true
     },
     {
@@ -245,9 +291,9 @@
       "keywords": "直接提及[民生银行]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-24 17:18",
+      "selected_at": "2026-11-24 20:06",
       "first_seen": "2026-11-24 17:18",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "大悦城",
@@ -255,9 +301,9 @@
       "keywords": "直接提及[大悦城]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-24 17:18",
+      "selected_at": "2026-11-24 20:06",
       "first_seen": "2026-11-24 17:18",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "江化微",
@@ -265,9 +311,9 @@
       "keywords": "直接提及[江化微]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-24 17:18",
+      "selected_at": "2026-11-24 20:06",
       "first_seen": "2026-11-24 17:18",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "盛剑科技",
@@ -275,9 +321,9 @@
       "keywords": "直接提及[盛剑科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-24 17:18",
+      "selected_at": "2026-11-24 20:06",
       "first_seen": "2026-11-24 17:18",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "华东重机",
@@ -285,9 +331,9 @@
       "keywords": "直接提及[华东重机]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-24 17:18",
+      "selected_at": "2026-11-24 20:06",
       "first_seen": "2026-11-24 17:18",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "和仁科技",
@@ -295,9 +341,9 @@
       "keywords": "涨停 · 缠论买点",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"4.41\">涨幅4.41%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.37%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-24 17:18",
+      "selected_at": "2026-11-24 20:06",
       "first_seen": "2026-11-24 17:18",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "龙版传媒",
@@ -305,9 +351,9 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率7.41%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-24 17:18",
+      "selected_at": "2026-11-24 20:06",
       "first_seen": "2026-11-24 17:18",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "博腾股份",
@@ -315,9 +361,9 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"13.08\">涨幅13.08%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.98%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-24 17:18",
+      "selected_at": "2026-11-24 20:06",
       "first_seen": "2026-11-24 17:18",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "双林股份",
@@ -325,9 +371,9 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"12.62\">涨幅12.62%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.39%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-24 17:18",
+      "selected_at": "2026-11-24 20:06",
       "first_seen": "2026-11-24 17:18",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "中邮科技",
@@ -335,9 +381,9 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"12.42\">涨幅12.42%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.19%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-24 17:18",
+      "selected_at": "2026-11-24 20:06",
       "first_seen": "2026-11-24 17:18",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "贝斯特",
@@ -345,29 +391,9 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"11.57\">涨幅11.57%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.97%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-24 17:18",
+      "selected_at": "2026-11-24 20:06",
       "first_seen": "2026-11-24 17:18",
-      "is_new": true
-    },
-    {
-      "name": "建业股份",
-      "code": "603948",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"10.01\">涨幅10.01%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率5.89%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-24 17:18",
-      "first_seen": "2026-11-24 17:18",
-      "is_new": true
-    },
-    {
-      "name": "力星股份",
-      "code": "300421",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"14.68\">涨幅14.68%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率9.60%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-24 17:18",
-      "first_seen": "2026-11-24 17:18",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
