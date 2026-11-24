@@ -3,43 +3,43 @@
     "indices": [
       {
         "name": "上证指数",
-        "current": 3557.62,
-        "pct": 0.53
+        "current": 3555.49,
+        "pct": 0.47
       },
       {
         "name": "深证成指",
-        "current": 10554.22,
-        "pct": 0.96
+        "current": 10550.87,
+        "pct": 0.92
       },
       {
         "name": "创业板指",
-        "current": 2323.42,
+        "current": 2323.48,
         "pct": 1.9
       },
       {
         "name": "沪深300",
-        "current": 3983.21,
-        "pct": 0.63
+        "current": 3980.91,
+        "pct": 0.57
       },
       {
         "name": "科创50",
-        "current": 1262.25,
-        "pct": 2.8
+        "current": 1261.26,
+        "pct": 2.72
       },
       {
         "name": "上证50",
-        "current": 2775.95,
-        "pct": 0.5
+        "current": 2772.59,
+        "pct": 0.38
       },
       {
         "name": "中证500",
-        "current": 6182.96,
-        "pct": 0.88
+        "current": 6179.76,
+        "pct": 0.83
       },
       {
         "name": "中证1000",
-        "current": 5859.77,
-        "pct": 0.82
+        "current": 5855.96,
+        "pct": 0.75
       }
     ],
     "top_gainers": [
@@ -76,7 +76,7 @@
         "code": "002291",
         "price": 5.37,
         "change_pct": 10.04,
-        "turnover": 5.71
+        "turnover": 5.72
       },
       {
         "name": "高乐股份",
@@ -146,22 +146,22 @@
         "code": "000700",
         "price": 15.86,
         "change_pct": 9.99,
-        "turnover": 6.01
+        "turnover": 6.02
       }
     ],
     "sectors": [
       {
         "name": "钴",
         "code": "BK1620",
-        "pct": 9.1,
+        "pct": 9.01,
         "amount_yi": 6.9,
         "net_inflow_yi": 0.9
       },
       {
         "name": "其他数字媒体",
         "code": "BK1295",
-        "pct": 8.75,
-        "amount_yi": 34.8,
+        "pct": 8.91,
+        "amount_yi": 34.9,
         "net_inflow_yi": 0.8
       },
       {
@@ -181,58 +181,58 @@
       {
         "name": "镍",
         "code": "BK1622",
-        "pct": 5.3,
-        "amount_yi": 25.4,
-        "net_inflow_yi": 3.5
+        "pct": 5.27,
+        "amount_yi": 25.5,
+        "net_inflow_yi": 3.6
       },
       {
         "name": "逆变器",
         "code": "BK1320",
-        "pct": 4.97,
-        "amount_yi": 81.0,
-        "net_inflow_yi": 9.1
-      },
-      {
-        "name": "院线",
-        "code": "BK1300",
-        "pct": 4.17,
-        "amount_yi": 13.1,
-        "net_inflow_yi": 1.1
+        "pct": 4.92,
+        "amount_yi": 81.3,
+        "net_inflow_yi": 9.2
       },
       {
         "name": "电商服务",
         "code": "BK1546",
-        "pct": 4.02,
+        "pct": 4.11,
         "amount_yi": 7.7,
         "net_inflow_yi": 0.4
       },
       {
-        "name": "文娱用品",
-        "code": "BK1266",
-        "pct": 3.86,
-        "amount_yi": 16.3,
-        "net_inflow_yi": 1.5
+        "name": "院线",
+        "code": "BK1300",
+        "pct": 4.06,
+        "amount_yi": 13.1,
+        "net_inflow_yi": 1.1
       },
       {
-        "name": "视频媒体",
-        "code": "BK1296",
-        "pct": 3.84,
-        "amount_yi": 33.6,
-        "net_inflow_yi": 1.9
+        "name": "文娱用品",
+        "code": "BK1266",
+        "pct": 3.94,
+        "amount_yi": 16.4,
+        "net_inflow_yi": 1.5
       },
       {
         "name": "集成电路制造",
         "code": "BK1329",
-        "pct": 3.83,
-        "amount_yi": 181.4,
+        "pct": 3.86,
+        "amount_yi": 181.9,
         "net_inflow_yi": 6.2
       },
       {
         "name": "数字媒体",
         "code": "BK1221",
-        "pct": 3.71,
-        "amount_yi": 120.2,
+        "pct": 3.75,
+        "amount_yi": 120.5,
         "net_inflow_yi": 3.2
+      },
+      {
+        "name": "视频媒体",
+        "code": "BK1296",
+        "pct": 3.61,
+        "amount_yi": 33.6,
+        "net_inflow_yi": 1.9
       }
     ],
     "us_stocks": [],
@@ -271,7 +271,7 @@
         "code": "002291",
         "price": 5.37,
         "change_pct": 10.04,
-        "turnover": 5.71
+        "turnover": 5.72
       },
       {
         "name": "高乐股份",
@@ -341,7 +341,7 @@
         "code": "000700",
         "price": 15.86,
         "change_pct": 9.99,
-        "turnover": 6.01
+        "turnover": 6.02
       }
     ],
     "yimeng_stocks": [
@@ -572,5 +572,5 @@
       }
     ]
   },
-  "timestamp": "2026-11-24T11:28:58"
+  "timestamp": "2026-11-24T11:51:04"
 }
