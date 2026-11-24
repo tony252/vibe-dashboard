@@ -10,7 +10,7 @@
     "strongbuy": 0.25,
     "daily_picks": 0.2
    },
-   "cash": 45187.94699999997,
+   "cash": 46098.09607499997,
    "positions": [
     {
      "code": "000890",
@@ -89,7 +89,7 @@
      "name": "安泰集团",
      "qty": 200,
      "avg": 3.758,
-     "last": 3.75,
+     "last": 3.74,
      "strategy": "strongbuy",
      "open_date": "2026-11-17"
     },
@@ -98,7 +98,7 @@
      "name": "科创信息",
      "qty": 100,
      "avg": 9.23,
-     "last": 9.19,
+     "last": 8.86,
      "strategy": "strong",
      "open_date": "2026-11-19"
     },
@@ -125,7 +125,7 @@
      "name": "郑州煤电",
      "qty": 3800,
      "avg": 4.089,
-     "last": 4.08,
+     "last": 4.18,
      "strategy": "strong",
      "open_date": "2026-11-24"
     },
@@ -134,7 +134,7 @@
      "name": "上海亚虹",
      "qty": 100,
      "avg": 19.394,
-     "last": 19.35,
+     "last": 19.44,
      "strategy": "strong",
      "open_date": "2026-11-24"
     },
@@ -143,21 +143,30 @@
      "name": "南山控股",
      "qty": 100,
      "avg": 1.834,
-     "last": 1.83,
+     "last": 1.82,
      "strategy": "strong",
      "open_date": "2026-11-24"
     },
     {
-     "code": "920067",
-     "name": "N华晟",
+     "code": "301575",
+     "name": "艾芬达",
      "qty": 200,
-     "avg": 39.188,
-     "last": 39.1,
+     "avg": 34.498,
+     "last": 34.42,
      "strategy": "strongbuy",
-     "open_date": "2026-11-24"
+     "open_date": "2026-11-25"
+    },
+    {
+     "code": "002425",
+     "name": "凯撒文化",
+     "qty": 500,
+     "avg": 3.528,
+     "last": 3.52,
+     "strategy": "strongbuy",
+     "open_date": "2026-11-25"
     }
    ],
-   "realized": 16412.35612499999
+   "realized": 18148.37052499999
   },
   {
    "id": "cloud-sat-B",
@@ -200,7 +209,7 @@
      "name": "安泰集团",
      "qty": 100,
      "avg": 3.758,
-     "last": 3.75,
+     "last": 3.74,
      "strategy": "strongbuy",
      "open_date": "2026-11-17"
     },
@@ -209,7 +218,7 @@
      "name": "青山纸业",
      "qty": 1100,
      "avg": 3.358,
-     "last": 3.35,
+     "last": 3.53,
      "strategy": "strongbuy",
      "open_date": "2026-11-18"
     },
@@ -218,7 +227,7 @@
      "name": "科创信息",
      "qty": 100,
      "avg": 9.23,
-     "last": 9.19,
+     "last": 8.86,
      "strategy": "strong",
      "open_date": "2026-11-19"
     },
@@ -227,7 +236,7 @@
      "name": "郑州煤电",
      "qty": 1700,
      "avg": 4.089,
-     "last": 4.08,
+     "last": 4.18,
      "strategy": "strong",
      "open_date": "2026-11-24"
     },
@@ -236,7 +245,7 @@
      "name": "遥望科技",
      "qty": 100,
      "avg": 4.72,
-     "last": 4.71,
+     "last": 4.94,
      "strategy": "strong",
      "open_date": "2026-11-24"
     },
@@ -405,42 +414,13 @@
   {
    "ts": "2026-11-24 03:25",
    "equity": 168546.67
+  },
+  {
+   "ts": "2026-11-25 03:00",
+   "equity": 170990.82
   }
  ],
  "trades": [
-  {
-   "date": "2026-09-15",
-   "ts": "2026-09-15 21:10",
-   "code": "300311",
-   "name": "任子行",
-   "side": "BUY",
-   "qty": 1400,
-   "price": 6.052,
-   "reason": "strong 信号买入",
-   "account": "cloud-sat-B"
-  },
-  {
-   "date": "2026-09-15",
-   "ts": "2026-09-15 21:10",
-   "code": "000890",
-   "name": "法尔胜",
-   "side": "BUY",
-   "qty": 800,
-   "price": 7.455,
-   "reason": "strong 信号买入",
-   "account": "cloud-sat-B"
-  },
-  {
-   "date": "2026-09-15",
-   "ts": "2026-09-15 21:10",
-   "code": "000735",
-   "name": "罗 牛 山",
-   "side": "BUY",
-   "qty": 100,
-   "price": 5.882,
-   "reason": "strong 信号买入",
-   "account": "cloud-sat-B"
-  },
   {
    "date": "2026-09-17",
    "ts": "2026-09-17 22:04",
@@ -3707,7 +3687,40 @@
    "price": 22.715,
    "reason": "strongbuy 信号买入",
    "account": "cloud-sat-B"
+  },
+  {
+   "date": "2026-11-25",
+   "ts": "2026-11-25 03:00",
+   "code": "920067",
+   "name": "N华晟",
+   "side": "SELL",
+   "qty": 200,
+   "price": 47.904,
+   "reason": "止盈 +22.5%",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-25",
+   "ts": "2026-11-25 03:00",
+   "code": "301575",
+   "name": "艾芬达",
+   "side": "BUY",
+   "qty": 200,
+   "price": 34.489,
+   "reason": "strongbuy 信号买入",
+   "account": "cloud-main-A"
+  },
+  {
+   "date": "2026-11-25",
+   "ts": "2026-11-25 03:00",
+   "code": "002425",
+   "name": "凯撒文化",
+   "side": "BUY",
+   "qty": 500,
+   "price": 3.527,
+   "reason": "strongbuy 信号买入",
+   "account": "cloud-main-A"
   }
  ],
- "last_run_date": "2026-11-24"
+ "last_run_date": "2026-11-25"
 }
