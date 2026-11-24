@@ -1,4 +1,23 @@
 {
- "date": "2026-11-23",
- "picks": []
+ "date": "2026-11-24",
+ "picks": [
+  {
+   "code": "601985",
+   "name": "中国核电",
+   "price": 10.05,
+   "change_pct": 2.76,
+   "change_5d": 2.03,
+   "dist_52w_pct": 0.0,
+   "break_pct": 0.7,
+   "dev25_pct": 3.49,
+   "ma25": 9.71,
+   "ma60": 9.33,
+   "trend": true,
+   "amount_5d_yi": 59.53,
+   "consec_days": 1,
+   "score": 10.0,
+   "tag": "fourweek",
+   "reason": "近52周高+0.0% | 4周新高+0.7% | 偏离25日线+3.5% | 连续1日 | 5日均额59.5亿"
+  }
+ ]
 }
