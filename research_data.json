@@ -1,24 +1,100 @@
 {
-  "date": "2026-11-23",
-  "updated_at": "2026-11-24 12:03:15",
+  "date": "2026-11-24",
+  "updated_at": "2026-11-24 17:18:06",
   "stats": {
-    "processed": 17,
+    "processed": 8,
     "alerts": 0,
-    "filtered": 11
+    "filtered": 8
   },
   "events": [
     {
-      "time": "2026-11-23 19:53",
+      "time": "2026-11-24 17:05",
       "type": "archive",
-      "title": "5连板热门股，澄清传闻！人形机器人板块爆火，主力资金加仓多只概念股",
-      "content": "人形机器人产业正处于从技术突破迈向规模化商业化的破晓时刻。 今日（11月23日），市场全天低开回升，创业板指涨超3%。AI漫剧概念拉升，上海电影、横店影视、慈文传媒...",
+      "title": "民生银行29家村镇银行改革收尾！仅剩一家尚待批复，贷款占比不足千分之四",
+      "content": "来源：行长要鉴 进入11月，民生银行村镇银行批量改革进入密集落地期，收尾节奏明显加快。11月10日，四川金融监管局批复同意民生银行收购彭州民生村镇银行...",
       "source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-23/doc-iniztrzw2216375.shtml",
+      "source_url": "https://finance.sina.com.cn/money/bank/gsdt/2026-11-24/doc-inizvqth9007172.shtml",
       "stocks": [
         {
-          "name": "慈文传媒",
-          "code": "002343",
-          "match_reason": "直接提及[慈文传媒]（选股推荐）"
+          "name": "民生银行",
+          "code": "600016",
+          "match_reason": "直接提及[民生银行]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-24 17:04",
+      "type": "archive",
+      "title": "大悦城，准备在三亚动手了",
+      "content": "来源：地产K线 文丨乐居财经 曾树佳 大悦城控股（000031）在海南，设立了新的子公司。 11月23日晚，它发布公告称，根据发展战略和经营规划需要...",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/stock/s/2026-11-24/doc-inizvqtm4845198.shtml",
+      "stocks": [
+        {
+          "name": "大悦城",
+          "code": "000031",
+          "match_reason": "直接提及[大悦城]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-24 16:42",
+      "type": "archive",
+      "title": "2026年上半年半导体业务收入占比突破六成 江化微规模效应有望逐步释放",
+      "content": "出品：新浪财经上市公司研究院 作者：杳 2026年上半年，江化微半导体业务实现销售收入4.04亿元，同比增长24.02%，占主营业务收入的比重达到61.42%...",
+      "source": "新浪财经",
+      "source_url": "https://finance.sina.com.cn/stock/observe/2026-11-24/doc-inizvqtf2212439.shtml",
+      "stocks": [
+        {
+          "name": "江化微",
+          "code": "603078",
+          "match_reason": "直接提及[江化微]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-24 08:08",
+      "type": "archive",
+      "title": "11月24日投资避雷针：上交所向5连板盛剑科技下发监管工作函",
+      "content": "①10月全国二手车市场交易量150.74万辆，环比下降4.16%，同比下降14.25%；\n②上交所向5连板盛剑科技下发监管工作函；\n③WTI原油期货结算价跌3.88%，布伦特原油期货结算价跌3.46%。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2542433",
+      "stocks": [
+        {
+          "name": "盛剑科技",
+          "code": "603324",
+          "match_reason": "直接提及[盛剑科技]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-24 07:51",
+      "type": "archive",
+      "title": "券商晨会精华：AI扩容、政策规划双轮驱动算力投资",
+      "content": "华泰证券认为，AI扩容、政策规划双轮驱动算力投资；中信证券认为，电新多线反转内外需有望共振；中信建投认为，中期配置看弱美元交易。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2542417",
+      "stocks": [
+        {
+          "name": "中信证券",
+          "code": "600030",
+          "match_reason": "直接提及[中信证券]（选股推荐）"
         }
       ],
       "verification": {
@@ -54,52 +130,14 @@
       "source_url": "https://www.cls.cn/detail/2541816",
       "stocks": [
         {
-          "name": "华东重机",
-          "code": "002685",
-          "match_reason": "直接提及[华东重机]（选股推荐）"
-        },
-        {
           "name": "九阳股份",
           "code": "002242",
           "match_reason": "直接提及[九阳股份]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-11-23 16:30",
-      "type": "archive",
-      "title": "5亿元新债发行难解债务滚续压力，山东路桥流动性与业绩双重承压",
-      "content": "来源 ：证券之星 近日，山东路桥（000498.SZ）公告，公司发行的“26山路02”债券正式上市。该债券发行规模5亿元，是公司去年获批40亿元债券注册额度后的第五期发行。",
-      "source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/stock/s/2026-11-23/doc-iniztfna2320083.shtml",
-      "stocks": [
+        },
         {
-          "name": "山东路桥",
-          "code": "000498",
-          "match_reason": "直接提及[山东路桥]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-11-23 15:49",
-      "type": "archive",
-      "title": "工业硅：需求淡季，产量下降边际收窄，工业硅价格承压",
-      "content": "来源：广发期货研究 证监许可【2011】1292号 | 纪元菲 Z0013180 | 2026年11月23日 星期一 2026年11月23日，工业硅期货价格开盘下跌至8200元/吨一线。",
-      "source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-23/doc-iniztfnh0604945.shtml",
-      "stocks": [
-        {
-          "name": "阳光乳业",
-          "code": "001318",
-          "match_reason": "直接提及[阳光乳业]（选股推荐）"
+          "name": "华东重机",
+          "code": "002685",
+          "match_reason": "直接提及[华东重机]（选股推荐）"
         }
       ],
       "verification": {
@@ -119,136 +157,6 @@
           "name": "中信证券",
           "code": "600030",
           "match_reason": "直接提及[中信证券]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-11-22 18:13",
-      "type": "archive",
-      "title": "【图解牛熊股】一只牛股涨超50%，上证50指数逆势上涨",
-      "content": "①本周A股三大指数震荡下跌，创业板指周跌8.82%；\n②卡莱特涨幅超50%，真视通、盛剑科技、清研环境、华东重机涨幅超30%。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2540978",
-      "stocks": [
-        {
-          "name": "华东重机",
-          "code": "002685",
-          "match_reason": "直接提及[华东重机]（选股推荐）"
-        },
-        {
-          "name": "清研环境",
-          "code": "301288",
-          "match_reason": "直接提及[清研环境]（选股推荐）"
-        },
-        {
-          "name": "真视通",
-          "code": "002771",
-          "match_reason": "直接提及[真视通]（选股推荐）"
-        },
-        {
-          "name": "盛剑科技",
-          "code": "603324",
-          "match_reason": "直接提及[盛剑科技]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-11-20 17:52",
-      "type": "archive",
-      "title": "近30股今日逆势年内新高！半数总市值超5000亿元，这7只万亿巨无霸在列",
-      "content": "①今日，27只个股盘中股价创年内新高，10只个股创历史新高。\n②今日创年内新高的个股平均总市值达7242.42亿元，中位数为2493.94亿元。\n③全市场共有5日连涨股17只，其中，交通银行实现8日连涨。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2540288",
-      "stocks": [
-        {
-          "name": "交通银行",
-          "code": "601328",
-          "match_reason": "直接提及[交通银行]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-11-20 17:37",
-      "type": "archive",
-      "title": "【焦点复盘】沪指尾盘回升终结日线6连阴，全市场超300股跌逾9%，芯片产业链全天低迷",
-      "content": "①连板晋级率四成，两只个股晋级4连板，高位股分化依旧，东方海洋、大东方双双涨停，但广百股份等多股遭遇3连跌停； ②上证50指数尾盘展开强力拉升，“工、中、建”三大行、长江电力、中信银行等多股创历史新高，中国神华创19年新高。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2540250",
-      "stocks": [
-        {
-          "name": "广百股份",
-          "code": "002187",
-          "match_reason": "直接提及[广百股份]（选股推荐）"
-        },
-        {
-          "name": "东方海洋",
-          "code": "002086",
-          "match_reason": "直接提及[东方海洋]（选股推荐）"
-        },
-        {
-          "name": "长江电力",
-          "code": "600900",
-          "match_reason": "直接提及[长江电力]（选股推荐）"
-        },
-        {
-          "name": "大东方",
-          "code": "600327",
-          "match_reason": "直接提及[大东方]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-11-20 17:05",
-      "type": "archive",
-      "title": "【数据看盘】上证50ETF、沪深300ETF成交均超230亿刷新历史天量，多路资金联手抢筹PCB人气股",
-      "content": "①上证50ETF华夏、沪深300ETF嘉实今日现天量成交，全天成交额分别为243、234亿元创最高纪录，环比上一交易日分别增长850%、143%。\n②PCB概念股超声电子强势涨停，获一家机构买入4327万，同时深股通买入1.49亿，开源证券西安西大街营业部买入1.26亿。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2540195",
-      "stocks": [
-        {
-          "name": "超声电子",
-          "code": "000823",
-          "match_reason": "直接提及[超声电子]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-11-20 16:46",
-      "type": "archive",
-      "title": "【每日收评】上证50指数尾盘异动收红，红利板块逆势走强，多只权重创下历史新高",
-      "content": "①今日市场延续调整，三大指数全线收跌，全市场超5200股飘绿，猪肉、PCB等板块逆势活跃；\n②上证50指数尾盘快速拉升成功收红，建设银行、长江电力、工商银行等权重创出历史新高。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2540155",
-      "stocks": [
-        {
-          "name": "工商银行",
-          "code": "601398",
-          "match_reason": "直接提及[工商银行]（选股推荐）"
-        },
-        {
-          "name": "长江电力",
-          "code": "600900",
-          "match_reason": "直接提及[长江电力]（选股推荐）"
         }
       ],
       "verification": {
@@ -291,117 +199,75 @@
       "现金管理"
     ]
   },
-  "mode": "scan",
+  "mode": "report",
   "week": 48,
   "stock_meta": {
-    "600900": "2026-11-23 16:33",
-    "000498": "2026-11-23 16:33",
-    "001318": "2026-11-23 16:33",
-    "600030": "2026-11-23 16:33",
-    "002685": "2026-11-23 16:33",
-    "301288": "2026-11-23 16:33",
-    "002771": "2026-11-23 16:33",
-    "603324": "2026-11-23 16:33",
-    "601328": "2026-11-23 16:33",
-    "002187": "2026-11-23 16:33",
-    "002086": "2026-11-23 16:33",
-    "600327": "2026-11-23 16:33",
-    "000823": "2026-11-23 16:33",
-    "601398": "2026-11-23 16:33",
-    "300550": "2026-11-23 16:33",
-    "002343": "2026-11-23 20:06",
-    "002242": "2026-11-24 12:06"
+    "600030": "2026-11-24 17:18",
+    "002242": "2026-11-24 17:18",
+    "600016": "2026-11-24 17:18",
+    "000031": "2026-11-24 17:18",
+    "603078": "2026-11-24 17:18",
+    "603324": "2026-11-24 17:18",
+    "002685": "2026-11-24 17:18",
+    "300550": "2026-11-24 17:18",
+    "605577": "2026-11-24 17:18",
+    "300363": "2026-11-24 17:18",
+    "300100": "2026-11-24 17:18",
+    "688648": "2026-11-24 17:18",
+    "300580": "2026-11-24 17:18",
+    "603948": "2026-11-24 17:18",
+    "300421": "2026-11-24 17:18"
   },
   "watchlist": [
+    {
+      "name": "中信证券",
+      "code": "600030",
+      "keywords": "直接提及[中信证券]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-11-24 17:18",
+      "first_seen": "2026-11-24 17:18",
+      "is_new": true
+    },
     {
       "name": "九阳股份",
       "code": "002242",
       "keywords": "直接提及[九阳股份]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-24 12:06",
-      "first_seen": "2026-11-24 12:06",
+      "selected_at": "2026-11-24 17:18",
+      "first_seen": "2026-11-24 17:18",
       "is_new": true
     },
     {
-      "name": "华东重机",
-      "code": "002685",
-      "keywords": "直接提及[华东重机]（选股推荐）",
-      "reason": "新闻提及 | 2次",
-      "source": "event",
-      "selected_at": "2026-11-24 12:06",
-      "first_seen": "2026-11-23 16:33",
-      "is_new": false
-    },
-    {
-      "name": "长江电力",
-      "code": "600900",
-      "keywords": "直接提及[长江电力]（选股推荐）",
-      "reason": "新闻提及 | 2次",
-      "source": "event",
-      "selected_at": "2026-11-24 12:06",
-      "first_seen": "2026-11-23 16:33",
-      "is_new": false
-    },
-    {
-      "name": "慈文传媒",
-      "code": "002343",
-      "keywords": "直接提及[慈文传媒]（选股推荐）",
+      "name": "民生银行",
+      "code": "600016",
+      "keywords": "直接提及[民生银行]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-24 12:06",
-      "first_seen": "2026-11-23 20:06",
-      "is_new": false
+      "selected_at": "2026-11-24 17:18",
+      "first_seen": "2026-11-24 17:18",
+      "is_new": true
     },
     {
-      "name": "山东路桥",
-      "code": "000498",
-      "keywords": "直接提及[山东路桥]（选股推荐）",
+      "name": "大悦城",
+      "code": "000031",
+      "keywords": "直接提及[大悦城]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-24 12:06",
-      "first_seen": "2026-11-23 16:33",
-      "is_new": false
+      "selected_at": "2026-11-24 17:18",
+      "first_seen": "2026-11-24 17:18",
+      "is_new": true
     },
     {
-      "name": "阳光乳业",
-      "code": "001318",
-      "keywords": "直接提及[阳光乳业]（选股推荐）",
+      "name": "江化微",
+      "code": "603078",
+      "keywords": "直接提及[江化微]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-24 12:06",
-      "first_seen": "2026-11-23 16:33",
-      "is_new": false
-    },
-    {
-      "name": "中信证券",
-      "code": "600030",
-      "keywords": "直接提及[中信证券]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-24 12:06",
-      "first_seen": "2026-11-23 16:33",
-      "is_new": false
-    },
-    {
-      "name": "清研环境",
-      "code": "301288",
-      "keywords": "直接提及[清研环境]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-24 12:06",
-      "first_seen": "2026-11-23 16:33",
-      "is_new": false
-    },
-    {
-      "name": "真视通",
-      "code": "002771",
-      "keywords": "直接提及[真视通]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-24 12:06",
-      "first_seen": "2026-11-23 16:33",
-      "is_new": false
+      "selected_at": "2026-11-24 17:18",
+      "first_seen": "2026-11-24 17:18",
+      "is_new": true
     },
     {
       "name": "盛剑科技",
@@ -409,59 +275,99 @@
       "keywords": "直接提及[盛剑科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-24 12:06",
-      "first_seen": "2026-11-23 16:33",
-      "is_new": false
+      "selected_at": "2026-11-24 17:18",
+      "first_seen": "2026-11-24 17:18",
+      "is_new": true
     },
     {
-      "name": "交通银行",
-      "code": "601328",
-      "keywords": "直接提及[交通银行]（选股推荐）",
+      "name": "华东重机",
+      "code": "002685",
+      "keywords": "直接提及[华东重机]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-24 12:06",
-      "first_seen": "2026-11-23 16:33",
-      "is_new": false
+      "selected_at": "2026-11-24 17:18",
+      "first_seen": "2026-11-24 17:18",
+      "is_new": true
     },
     {
-      "name": "广百股份",
-      "code": "002187",
-      "keywords": "直接提及[广百股份]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-24 12:06",
-      "first_seen": "2026-11-23 16:33",
-      "is_new": false
+      "name": "和仁科技",
+      "code": "300550",
+      "keywords": "涨停 · 缠论买点",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"4.41\">涨幅4.41%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.37%</span>",
+      "source": "杰克",
+      "selected_at": "2026-11-24 17:18",
+      "first_seen": "2026-11-24 17:18",
+      "is_new": true
     },
     {
-      "name": "东方海洋",
-      "code": "002086",
-      "keywords": "直接提及[东方海洋]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-24 12:06",
-      "first_seen": "2026-11-23 16:33",
-      "is_new": false
+      "name": "龙版传媒",
+      "code": "605577",
+      "keywords": "涨停",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率7.41%</span>",
+      "source": "杰克",
+      "selected_at": "2026-11-24 17:18",
+      "first_seen": "2026-11-24 17:18",
+      "is_new": true
     },
     {
-      "name": "大东方",
-      "code": "600327",
-      "keywords": "直接提及[大东方]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-24 12:06",
-      "first_seen": "2026-11-23 16:33",
-      "is_new": false
+      "name": "博腾股份",
+      "code": "300363",
+      "keywords": "涨停",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"13.08\">涨幅13.08%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.98%</span>",
+      "source": "杰克",
+      "selected_at": "2026-11-24 17:18",
+      "first_seen": "2026-11-24 17:18",
+      "is_new": true
     },
     {
-      "name": "超声电子",
-      "code": "000823",
-      "keywords": "直接提及[超声电子]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-24 12:06",
-      "first_seen": "2026-11-23 16:33",
-      "is_new": false
+      "name": "双林股份",
+      "code": "300100",
+      "keywords": "涨停",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"12.62\">涨幅12.62%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.39%</span>",
+      "source": "杰克",
+      "selected_at": "2026-11-24 17:18",
+      "first_seen": "2026-11-24 17:18",
+      "is_new": true
+    },
+    {
+      "name": "中邮科技",
+      "code": "688648",
+      "keywords": "涨停",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"12.42\">涨幅12.42%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.19%</span>",
+      "source": "杰克",
+      "selected_at": "2026-11-24 17:18",
+      "first_seen": "2026-11-24 17:18",
+      "is_new": true
+    },
+    {
+      "name": "贝斯特",
+      "code": "300580",
+      "keywords": "涨停",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"11.57\">涨幅11.57%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.97%</span>",
+      "source": "杰克",
+      "selected_at": "2026-11-24 17:18",
+      "first_seen": "2026-11-24 17:18",
+      "is_new": true
+    },
+    {
+      "name": "建业股份",
+      "code": "603948",
+      "keywords": "涨停",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"10.01\">涨幅10.01%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率5.89%</span>",
+      "source": "杰克",
+      "selected_at": "2026-11-24 17:18",
+      "first_seen": "2026-11-24 17:18",
+      "is_new": true
+    },
+    {
+      "name": "力星股份",
+      "code": "300421",
+      "keywords": "涨停",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"14.68\">涨幅14.68%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率9.60%</span>",
+      "source": "杰克",
+      "selected_at": "2026-11-24 17:18",
+      "first_seen": "2026-11-24 17:18",
+      "is_new": true
     }
   ]
 }
