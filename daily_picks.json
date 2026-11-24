@@ -357565,5 +357565,32 @@
         }
       ]
     }
+  },
+  "2026-11-24": {
+    "高欣资金净流入": {
+      "time": "08:33",
+      "picks": [
+        {
+          "code": "000001",
+          "name": "平安银行",
+          "net_amount_5d": -3518196.0,
+          "net_ratio_avg": -1.06,
+          "positive_days": 1,
+          "change_pct": 0.15,
+          "price": 3538.95,
+          "score": 5.11
+        },
+        {
+          "code": "000002",
+          "name": "万科A",
+          "net_amount_5d": -3516544.0,
+          "net_ratio_avg": -1.06,
+          "positive_days": 1,
+          "change_pct": 0.15,
+          "price": 3710.79,
+          "score": 5.11
+        }
+      ]
+    }
   }
 }
