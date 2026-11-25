@@ -21,6 +21,18 @@
   ],
   "stocks": [
     {
+      "code": "300086",
+      "name": "康芝药业",
+      "price": 4.85,
+      "change_pct": 20.05,
+      "turnover": 15.2,
+      "change_5d": 12.0,
+      "volume": 3.123,
+      "tag": "newhigh",
+      "score": 5,
+      "reason": "涨幅榜前列(第1名),飙升20.1%"
+    },
+    {
       "code": "300703",
       "name": "创源股份",
       "price": 17.8,
@@ -28,33 +40,57 @@
       "turnover": 24.4,
       "change_5d": 12.0,
       "volume": 6.954,
-      "tag": "volume",
+      "tag": "newhigh",
       "score": 5,
-      "reason": "量价齐升,换手24.4%,成交7.0亿"
+      "reason": "涨幅榜前列(第2名),飙升20.0%"
     },
     {
-      "code": "002548",
-      "name": "金新农",
-      "price": 5.01,
-      "change_pct": 10.11,
-      "turnover": 22.6,
-      "change_5d": 6.1,
-      "volume": 8.752,
-      "tag": "volume",
+      "code": "301089",
+      "name": "拓新药业",
+      "price": 21.34,
+      "change_pct": 20.02,
+      "turnover": 7.9,
+      "change_5d": 12.0,
+      "volume": 1.448,
+      "tag": "newhigh",
       "score": 5,
-      "reason": "量价齐升,换手22.6%,成交8.8亿"
+      "reason": "涨幅榜前列(第3名),飙升20.0%"
     },
     {
-      "code": "600467",
-      "name": "好当家",
-      "price": 3.6,
-      "change_pct": 10.09,
-      "turnover": 19.3,
-      "change_5d": 6.1,
-      "volume": 9.975,
+      "code": "001358",
+      "name": "兴欣新材",
+      "price": 33.54,
+      "change_pct": 5.57,
+      "turnover": 34.0,
+      "change_5d": 3.3,
+      "volume": 5.599,
       "tag": "volume",
       "score": 5,
-      "reason": "量价齐升,换手19.3%,成交10.0亿"
+      "reason": "量价齐升,换手34.0%,成交5.6亿"
+    },
+    {
+      "code": "000819",
+      "name": "岳阳兴长",
+      "price": 14.94,
+      "change_pct": 5.06,
+      "turnover": 18.1,
+      "change_5d": 3.0,
+      "volume": 9.628,
+      "tag": "volume",
+      "score": 5,
+      "reason": "量价齐升,换手18.1%,成交9.6亿"
+    },
+    {
+      "code": "300556",
+      "name": "丝路视觉",
+      "price": 19.78,
+      "change_pct": 4.93,
+      "turnover": 24.9,
+      "change_5d": 3.0,
+      "volume": 5.45,
+      "tag": "volume",
+      "score": 5,
+      "reason": "量价齐升,换手24.9%,成交5.4亿"
     },
     {
       "code": "301052",
@@ -93,5 +129,5 @@
       "reason": "高换手17.5%,成交6.8亿"
     }
   ],
-  "updated_at": "2026-11-25 15:04:14"
+  "updated_at": "2026-11-25 15:18:38"
 }
