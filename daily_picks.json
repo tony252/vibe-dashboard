@@ -374827,6 +374827,161 @@
           "reason": "换手14.5% | 涨幅+4.9%"
         }
       ]
+    },
+    "追涨强势股_12:00": {
+      "time": "12:00",
+      "picks": [
+        {
+          "code": "002771",
+          "name": "真视通",
+          "price": 18.24,
+          "change_pct": 5.251,
+          "turnover": 46.93105,
+          "volume_yi": 15.1,
+          "score": 100,
+          "reason": "换手46.9% | 涨幅+5.3%"
+        },
+        {
+          "code": "001358",
+          "name": "兴欣新材",
+          "price": 33.49,
+          "change_pct": 5.414,
+          "turnover": 27.21843,
+          "volume_yi": 4.44,
+          "score": 100,
+          "reason": "换手27.2% | 涨幅+5.4%"
+        },
+        {
+          "code": "301520",
+          "name": "万邦医药",
+          "price": 51.16,
+          "change_pct": 3.187,
+          "turnover": 26.44602,
+          "volume_yi": 4.8,
+          "score": 100,
+          "reason": "换手26.4% | 涨幅+3.2%"
+        },
+        {
+          "code": "000530",
+          "name": "冰山冷热",
+          "price": 14.2,
+          "change_pct": 5.812,
+          "turnover": 24.04847,
+          "volume_yi": 20.4,
+          "score": 100,
+          "reason": "换手24.0% | 涨幅+5.8%"
+        },
+        {
+          "code": "600103",
+          "name": "青山纸业",
+          "price": 3.78,
+          "change_pct": 9.884,
+          "turnover": 23.46995,
+          "volume_yi": 18.93,
+          "score": 100,
+          "reason": "换手23.5% | 涨幅+9.9%"
+        },
+        {
+          "code": "600410",
+          "name": "华胜天成",
+          "price": 17.76,
+          "change_pct": 3.436,
+          "turnover": 22.73918,
+          "volume_yi": 43.5,
+          "score": 100,
+          "reason": "换手22.7% | 涨幅+3.4%"
+        },
+        {
+          "code": "301569",
+          "name": "联亚药业",
+          "price": 16.16,
+          "change_pct": 4.258,
+          "turnover": 21.18749,
+          "volume_yi": 4.05,
+          "score": 100,
+          "reason": "换手21.2% | 涨幅+4.3%"
+        },
+        {
+          "code": "603324",
+          "name": "盛剑科技",
+          "price": 32.27,
+          "change_pct": 9.986,
+          "turnover": 20.11254,
+          "volume_yi": 9.09,
+          "score": 100,
+          "reason": "换手20.1% | 涨幅+10.0%"
+        },
+        {
+          "code": "600722",
+          "name": "金牛化工",
+          "price": 12.93,
+          "change_pct": 8.201,
+          "turnover": 18.75453,
+          "volume_yi": 16.22,
+          "score": 100,
+          "reason": "换手18.8% | 涨幅+8.2%"
+        },
+        {
+          "code": "300556",
+          "name": "丝路视觉",
+          "price": 20.11,
+          "change_pct": 6.684,
+          "turnover": 18.70909,
+          "volume_yi": 4.12,
+          "score": 100,
+          "reason": "换手18.7% | 涨幅+6.7%"
+        },
+        {
+          "code": "001219",
+          "name": "青岛食品",
+          "price": 19.56,
+          "change_pct": 5.105,
+          "turnover": 18.29641,
+          "volume_yi": 6.73,
+          "score": 100,
+          "reason": "换手18.3% | 涨幅+5.1%"
+        },
+        {
+          "code": "002196",
+          "name": "方正电机",
+          "price": 9.41,
+          "change_pct": 4.208,
+          "turnover": 16.38788,
+          "volume_yi": 7.77,
+          "score": 100,
+          "reason": "换手16.4% | 涨幅+4.2%"
+        },
+        {
+          "code": "600127",
+          "name": "金健米业",
+          "price": 8.83,
+          "change_pct": 3.517,
+          "turnover": 16.08633,
+          "volume_yi": 9.06,
+          "score": 100,
+          "reason": "换手16.1% | 涨幅+3.5%"
+        },
+        {
+          "code": "301079",
+          "name": "邵阳液压",
+          "price": 27.79,
+          "change_pct": 6.15,
+          "turnover": 15.84494,
+          "volume_yi": 3.39,
+          "score": 100,
+          "reason": "换手15.8% | 涨幅+6.2%"
+        },
+        {
+          "code": "002187",
+          "name": "广百股份",
+          "price": 6.2,
+          "change_pct": 4.907,
+          "turnover": 14.54138,
+          "volume_yi": 6.27,
+          "score": 90,
+          "reason": "换手14.5% | 涨幅+4.9%"
+        }
+      ]
     }
   }
 }
