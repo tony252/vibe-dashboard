@@ -3856,34 +3856,84 @@
     "capital": 100000,
     "positions": [
       {
-        "code": "000759",
-        "name": "中百集团",
-        "buy_price": 5.05,
+        "code": "300997",
+        "name": "欢乐家",
+        "buy_price": 14.88,
         "buy_date": "2026-11-25",
-        "shares": 1900,
-        "cost": 9595.0,
+        "shares": 600,
+        "cost": 8928.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 5.428
+        "change_at_buy": 5.983
       },
       {
-        "code": "688670",
-        "name": "金迪克",
-        "buy_price": 11.1,
+        "code": "002727",
+        "name": "一心堂",
+        "buy_price": 13.6,
         "buy_date": "2026-11-25",
-        "shares": 900,
+        "shares": 700,
+        "cost": 9520.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.919
+      },
+      {
+        "code": "600488",
+        "name": "津药药业",
+        "buy_price": 4.45,
+        "buy_date": "2026-11-25",
+        "shares": 2200,
+        "cost": 9790.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.701
+      },
+      {
+        "code": "002154",
+        "name": "报 喜 鸟",
+        "buy_price": 3.34,
+        "buy_date": "2026-11-25",
+        "shares": 2900,
+        "cost": 9686.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.696
+      },
+      {
+        "code": "300893",
+        "name": "松原安全",
+        "buy_price": 17.4,
+        "buy_date": "2026-11-25",
+        "shares": 500,
+        "cost": 8700.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.775
+      },
+      {
+        "code": "600691",
+        "name": "潞化科技",
+        "buy_price": 2.22,
+        "buy_date": "2026-11-25",
+        "shares": 4500,
         "cost": 9990.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 5.213
+        "change_at_buy": 5.714
       },
       {
-        "code": "300086",
-        "name": "康芝药业",
-        "buy_price": 4.85,
+        "code": "001338",
+        "name": "永顺泰",
+        "buy_price": 7.97,
         "buy_date": "2026-11-25",
-        "shares": 2000,
-        "cost": 9700.0,
+        "shares": 1200,
+        "cost": 9564.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 20.05
+        "change_at_buy": 5.563
+      },
+      {
+        "code": "001358",
+        "name": "兴欣新材",
+        "buy_price": 33.54,
+        "buy_date": "2026-11-25",
+        "shares": 200,
+        "cost": 6708.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 5.571
       },
       {
         "code": "301066",
@@ -3896,66 +3946,16 @@
         "change_at_buy": 19.962
       },
       {
-        "code": "600280",
-        "name": "中央商场",
-        "buy_price": 2.82,
+        "code": "300824",
+        "name": "北鼎股份",
+        "buy_price": 9.87,
         "buy_date": "2026-11-25",
-        "shares": 3500,
+        "shares": 1000,
         "cost": 9870.0,
         "reason": "黄金区间3-6%",
-        "change_at_buy": 10.156
-      },
-      {
-        "code": "002122",
-        "name": "汇洲智能",
-        "buy_price": 3.59,
-        "buy_date": "2026-11-25",
-        "shares": 2700,
-        "cost": 9693.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 10.123
-      },
-      {
-        "code": "002820",
-        "name": "桂发祥",
-        "buy_price": 8.86,
-        "buy_date": "2026-11-25",
-        "shares": 1100,
-        "cost": 9746.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 10.062
-      },
-      {
-        "code": "002144",
-        "name": "宏达高科",
-        "buy_price": 9.08,
-        "buy_date": "2026-11-25",
-        "shares": 1100,
-        "cost": 9988.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 10.061
-      },
-      {
-        "code": "600865",
-        "name": "百大集团",
-        "buy_price": 10.19,
-        "buy_date": "2026-11-25",
-        "shares": 900,
-        "cost": 9171.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 10.043
-      },
-      {
-        "code": "002275",
-        "name": "桂林三金",
-        "buy_price": 13.82,
-        "buy_date": "2026-11-25",
-        "shares": 700,
-        "cost": 9674.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 10.032
+        "change_at_buy": 13.448
       }
     ],
-    "total_cost": 96345.0
+    "total_cost": 91674.0
   }
 }
