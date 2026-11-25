@@ -3,43 +3,43 @@
     "indices": [
       {
         "name": "上证指数",
-        "current": 3495.74,
-        "pct": -1.48
+        "current": 3488.02,
+        "pct": -1.7
       },
       {
         "name": "深证成指",
-        "current": 10192.8,
-        "pct": -2.21
+        "current": 10167.46,
+        "pct": -2.46
       },
       {
         "name": "创业板指",
-        "current": 2209.65,
-        "pct": -3.04
+        "current": 2205.78,
+        "pct": -3.21
       },
       {
         "name": "沪深300",
-        "current": 3911.15,
-        "pct": -1.33
+        "current": 3902.71,
+        "pct": -1.54
       },
       {
         "name": "科创50",
-        "current": 1210.61,
-        "pct": -3.16
+        "current": 1208.32,
+        "pct": -3.34
       },
       {
         "name": "上证50",
-        "current": 2753.24,
-        "pct": -0.77
+        "current": 2746.11,
+        "pct": -1.02
       },
       {
         "name": "中证500",
-        "current": 5976.83,
-        "pct": -2.22
+        "current": 5957.81,
+        "pct": -2.53
       },
       {
         "name": "中证1000",
-        "current": 5646.44,
-        "pct": -2.63
+        "current": 5626.97,
+        "pct": -2.97
       }
     ],
     "top_gainers": [
@@ -48,42 +48,42 @@
         "code": "000826",
         "price": 1.17,
         "change_pct": 10.38,
-        "turnover": 9.19
+        "turnover": 9.53
       },
       {
         "name": "ST海王",
         "code": "000078",
         "price": 1.18,
         "change_pct": 10.28,
-        "turnover": 3.91
+        "turnover": 4.05
       },
       {
         "name": "胜利股份",
         "code": "000407",
         "price": 3.8,
         "change_pct": 10.14,
-        "turnover": 4.21
+        "turnover": 4.28
       },
       {
         "name": "汇洲智能",
         "code": "002122",
         "price": 3.59,
         "change_pct": 10.12,
-        "turnover": 10.1
+        "turnover": 10.18
       },
       {
         "name": "双鹭药业",
         "code": "002038",
         "price": 4.9,
         "change_pct": 10.11,
-        "turnover": 4.77
+        "turnover": 4.9
       },
       {
         "name": "金新农",
         "code": "002548",
         "price": 5.01,
         "change_pct": 10.11,
-        "turnover": 21.93
+        "turnover": 21.98
       },
       {
         "name": "天圣制药",
@@ -97,142 +97,142 @@
         "code": "000908",
         "price": 4.81,
         "change_pct": 10.07,
-        "turnover": 0.88
-      },
-      {
-        "name": "永顺泰",
-        "code": "001338",
-        "price": 8.31,
-        "change_pct": 10.07,
-        "turnover": 2.63
+        "turnover": 0.89
       },
       {
         "name": "桂发祥",
         "code": "002820",
         "price": 8.86,
         "change_pct": 10.06,
-        "turnover": 5.77
+        "turnover": 5.97
       },
       {
         "name": "宏达高科",
         "code": "002144",
         "price": 9.08,
         "change_pct": 10.06,
-        "turnover": 5.73
+        "turnover": 5.96
       },
       {
         "name": "钛能化学",
         "code": "002145",
         "price": 3.72,
         "change_pct": 10.06,
-        "turnover": 1.04
+        "turnover": 1.06
       },
       {
         "name": "葵花药业",
         "code": "002737",
         "price": 11.94,
         "change_pct": 10.05,
-        "turnover": 2.29
+        "turnover": 2.33
       },
       {
         "name": "新华制药",
         "code": "000756",
         "price": 12.16,
         "change_pct": 10.05,
-        "turnover": 4.53
+        "turnover": 4.71
       },
       {
         "name": "桂林三金",
         "code": "002275",
         "price": 13.82,
         "change_pct": 10.03,
-        "turnover": 7.4
+        "turnover": 7.45
+      },
+      {
+        "name": "东易日盛",
+        "code": "002713",
+        "price": 7.24,
+        "change_pct": 10.03,
+        "turnover": 2.95
       }
     ],
     "sectors": [
       {
         "name": "水产养殖",
         "code": "BK1514",
-        "pct": 6.0,
-        "amount_yi": 14.9,
+        "pct": 5.98,
+        "amount_yi": 15.0,
         "net_inflow_yi": 3.2
       },
       {
         "name": "文化用品",
         "code": "BK1542",
-        "pct": 4.27,
-        "amount_yi": 10.4,
+        "pct": 4.07,
+        "amount_yi": 10.6,
         "net_inflow_yi": 1.2
       },
       {
         "name": "百货",
         "code": "BK1551",
-        "pct": 3.86,
-        "amount_yi": 44.1,
-        "net_inflow_yi": 4.3
+        "pct": 3.72,
+        "amount_yi": 45.8,
+        "net_inflow_yi": 4.4
       },
       {
         "name": "渔业",
         "code": "BK1260",
-        "pct": 3.5,
-        "amount_yi": 17.1,
+        "pct": 3.41,
+        "amount_yi": 17.3,
         "net_inflow_yi": 3.4
       },
       {
         "name": "超市",
         "code": "BK1552",
-        "pct": 3.08,
-        "amount_yi": 11.7,
-        "net_inflow_yi": 0.8
+        "pct": 3.32,
+        "amount_yi": 12.2,
+        "net_inflow_yi": 0.9
       },
       {
         "name": "线下药店",
         "code": "BK1606",
-        "pct": 2.94,
-        "amount_yi": 15.0,
+        "pct": 2.67,
+        "amount_yi": 16.0,
         "net_inflow_yi": 1.5
       },
       {
         "name": "餐饮",
         "code": "BK1559",
-        "pct": 2.4,
-        "amount_yi": 1.1,
+        "pct": 2.18,
+        "amount_yi": 1.2,
         "net_inflow_yi": 0.0
-      },
-      {
-        "name": "粮食种植",
-        "code": "BK1515",
-        "pct": 2.02,
-        "amount_yi": 2.4,
-        "net_inflow_yi": 0.2
-      },
-      {
-        "name": "医药商业",
-        "code": "BK1042",
-        "pct": 1.97,
-        "amount_yi": 33.0,
-        "net_inflow_yi": 2.7
-      },
-      {
-        "name": "一般零售",
-        "code": "BK0482",
-        "pct": 1.87,
-        "amount_yi": 80.9,
-        "net_inflow_yi": 5.3
-      },
-      {
-        "name": "氮肥",
-        "code": "BK1432",
-        "pct": 1.81,
-        "amount_yi": 12.5,
-        "net_inflow_yi": 1.7
       },
       {
         "name": "其他养殖",
         "code": "BK1510",
-        "pct": 1.77,
-        "amount_yi": 2.2,
+        "pct": 1.92,
+        "amount_yi": 2.3,
         "net_inflow_yi": 0.0
+      },
+      {
+        "name": "一般零售",
+        "code": "BK0482",
+        "pct": 1.73,
+        "amount_yi": 84.2,
+        "net_inflow_yi": 5.3
+      },
+      {
+        "name": "医药商业",
+        "code": "BK1042",
+        "pct": 1.68,
+        "amount_yi": 35.3,
+        "net_inflow_yi": 2.7
+      },
+      {
+        "name": "粮食种植",
+        "code": "BK1515",
+        "pct": 1.5,
+        "amount_yi": 2.5,
+        "net_inflow_yi": 0.2
+      },
+      {
+        "name": "多业态零售",
+        "code": "BK1553",
+        "pct": 1.49,
+        "amount_yi": 16.6,
+        "net_inflow_yi": -0.1
       }
     ],
     "us_stocks": [],
@@ -243,42 +243,42 @@
         "code": "000826",
         "price": 1.17,
         "change_pct": 10.38,
-        "turnover": 9.19
+        "turnover": 9.53
       },
       {
         "name": "ST海王",
         "code": "000078",
         "price": 1.18,
         "change_pct": 10.28,
-        "turnover": 3.91
+        "turnover": 4.05
       },
       {
         "name": "胜利股份",
         "code": "000407",
         "price": 3.8,
         "change_pct": 10.14,
-        "turnover": 4.21
+        "turnover": 4.28
       },
       {
         "name": "汇洲智能",
         "code": "002122",
         "price": 3.59,
         "change_pct": 10.12,
-        "turnover": 10.1
+        "turnover": 10.18
       },
       {
         "name": "双鹭药业",
         "code": "002038",
         "price": 4.9,
         "change_pct": 10.11,
-        "turnover": 4.77
+        "turnover": 4.9
       },
       {
         "name": "金新农",
         "code": "002548",
         "price": 5.01,
         "change_pct": 10.11,
-        "turnover": 21.93
+        "turnover": 21.98
       },
       {
         "name": "天圣制药",
@@ -292,56 +292,56 @@
         "code": "000908",
         "price": 4.81,
         "change_pct": 10.07,
-        "turnover": 0.88
-      },
-      {
-        "name": "永顺泰",
-        "code": "001338",
-        "price": 8.31,
-        "change_pct": 10.07,
-        "turnover": 2.63
+        "turnover": 0.89
       },
       {
         "name": "桂发祥",
         "code": "002820",
         "price": 8.86,
         "change_pct": 10.06,
-        "turnover": 5.77
+        "turnover": 5.97
       },
       {
         "name": "宏达高科",
         "code": "002144",
         "price": 9.08,
         "change_pct": 10.06,
-        "turnover": 5.73
+        "turnover": 5.96
       },
       {
         "name": "钛能化学",
         "code": "002145",
         "price": 3.72,
         "change_pct": 10.06,
-        "turnover": 1.04
+        "turnover": 1.06
       },
       {
         "name": "葵花药业",
         "code": "002737",
         "price": 11.94,
         "change_pct": 10.05,
-        "turnover": 2.29
+        "turnover": 2.33
       },
       {
         "name": "新华制药",
         "code": "000756",
         "price": 12.16,
         "change_pct": 10.05,
-        "turnover": 4.53
+        "turnover": 4.71
       },
       {
         "name": "桂林三金",
         "code": "002275",
         "price": 13.82,
         "change_pct": 10.03,
-        "turnover": 7.4
+        "turnover": 7.45
+      },
+      {
+        "name": "东易日盛",
+        "code": "002713",
+        "price": 7.24,
+        "change_pct": 10.03,
+        "turnover": 2.95
       }
     ],
     "yimeng_stocks": [
@@ -558,5 +558,5 @@
       }
     ]
   },
-  "timestamp": "2026-11-25T13:37:16"
+  "timestamp": "2026-11-25T13:51:32"
 }
