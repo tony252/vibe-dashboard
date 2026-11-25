@@ -1,10 +1,10 @@
 {
   "date": "2026-11-24",
-  "updated_at": "2026-11-24 20:03:10",
+  "updated_at": "2026-11-25 12:24:52",
   "stats": {
-    "processed": 14,
+    "processed": 20,
     "alerts": 0,
-    "filtered": 9
+    "filtered": 11
   },
   "events": [
     {
@@ -24,6 +24,30 @@
           "name": "莲花控股",
           "code": "600186",
           "match_reason": "直接提及[莲花控股]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-24 17:32",
+      "type": "archive",
+      "title": "【焦点复盘】普涨反弹后市场现放量分歧，个股炸板率超五成，物理AI概念持续火热",
+      "content": "①连板晋级率降至三成，连板高度降至4连板，“羊字辈”等投机方向表现回暖，东方海洋晋级3连板，海洋王、阳光照明等多股涨停； ②特斯拉发布FSD V15系统，人形机器人、物理AI概念再获提振，克来机电、安培龙、锋龙股份等多股实现连板晋级",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2543050",
+      "stocks": [
+        {
+          "name": "东方海洋",
+          "code": "002086",
+          "match_reason": "直接提及[东方海洋]（选股推荐）"
+        },
+        {
+          "name": "阳光照明",
+          "code": "600261",
+          "match_reason": "直接提及[阳光照明]（选股推荐）"
         }
       ],
       "verification": {
@@ -81,6 +105,25 @@
           "name": "江化微",
           "code": "603078",
           "match_reason": "直接提及[江化微]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-24 12:26",
+      "type": "archive",
+      "title": "【午报】创业板指高开低走涨近2%，全市场超3100股飘红，机器人概念股持续走强",
+      "content": "①今日早盘市场延续修复行情，三大指数虽高开低走但依旧全线收涨，其中机器人概念股延续强势，AI应用、半导体板块反复活跃；\n②个股层面，早盘涨停数量为64家，连板股数量增至34家，中京电子晋级4连板。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2542702",
+      "stocks": [
+        {
+          "name": "中京电子",
+          "code": "002579",
+          "match_reason": "直接提及[中京电子]（选股推荐）"
         }
       ],
       "verification": {
@@ -242,7 +285,12 @@
     "603948": "2026-11-24 17:18",
     "300421": "2026-11-24 17:18",
     "000568": "2026-11-24 20:06",
-    "600186": "2026-11-24 20:06"
+    "600186": "2026-11-24 20:06",
+    "002086": "2026-11-25 12:27",
+    "600261": "2026-11-25 12:27",
+    "002579": "2026-11-25 12:27",
+    "603813": "2026-11-25 12:27",
+    "603206": "2026-11-25 12:27"
   },
   "watchlist": [
     {
@@ -251,7 +299,7 @@
       "keywords": "直接提及[中信证券]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-24 20:06",
+      "selected_at": "2026-11-25 12:27",
       "first_seen": "2026-11-24 17:18",
       "is_new": false
     },
@@ -261,7 +309,7 @@
       "keywords": "直接提及[九阳股份]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-24 20:06",
+      "selected_at": "2026-11-25 12:27",
       "first_seen": "2026-11-24 17:18",
       "is_new": false
     },
@@ -271,9 +319,9 @@
       "keywords": "直接提及[泸州老窖]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-24 20:06",
+      "selected_at": "2026-11-25 12:27",
       "first_seen": "2026-11-24 20:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "莲花控股",
@@ -281,8 +329,28 @@
       "keywords": "直接提及[莲花控股]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-24 20:06",
+      "selected_at": "2026-11-25 12:27",
       "first_seen": "2026-11-24 20:06",
+      "is_new": false
+    },
+    {
+      "name": "东方海洋",
+      "code": "002086",
+      "keywords": "直接提及[东方海洋]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-25 12:27",
+      "first_seen": "2026-11-25 12:27",
+      "is_new": true
+    },
+    {
+      "name": "阳光照明",
+      "code": "600261",
+      "keywords": "直接提及[阳光照明]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-25 12:27",
+      "first_seen": "2026-11-25 12:27",
       "is_new": true
     },
     {
@@ -291,7 +359,7 @@
       "keywords": "直接提及[民生银行]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-24 20:06",
+      "selected_at": "2026-11-25 12:27",
       "first_seen": "2026-11-24 17:18",
       "is_new": false
     },
@@ -301,7 +369,7 @@
       "keywords": "直接提及[大悦城]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-24 20:06",
+      "selected_at": "2026-11-25 12:27",
       "first_seen": "2026-11-24 17:18",
       "is_new": false
     },
@@ -311,9 +379,19 @@
       "keywords": "直接提及[江化微]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-24 20:06",
+      "selected_at": "2026-11-25 12:27",
       "first_seen": "2026-11-24 17:18",
       "is_new": false
+    },
+    {
+      "name": "中京电子",
+      "code": "002579",
+      "keywords": "直接提及[中京电子]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-25 12:27",
+      "first_seen": "2026-11-25 12:27",
+      "is_new": true
     },
     {
       "name": "盛剑科技",
@@ -321,7 +399,7 @@
       "keywords": "直接提及[盛剑科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-24 20:06",
+      "selected_at": "2026-11-25 12:27",
       "first_seen": "2026-11-24 17:18",
       "is_new": false
     },
@@ -331,7 +409,7 @@
       "keywords": "直接提及[华东重机]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-24 20:06",
+      "selected_at": "2026-11-25 12:27",
       "first_seen": "2026-11-24 17:18",
       "is_new": false
     },
@@ -341,59 +419,29 @@
       "keywords": "涨停 · 缠论买点",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"4.41\">涨幅4.41%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.37%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-24 20:06",
+      "selected_at": "2026-11-25 12:27",
       "first_seen": "2026-11-24 17:18",
       "is_new": false
     },
     {
-      "name": "龙版传媒",
-      "code": "605577",
+      "name": "原尚股份",
+      "code": "603813",
       "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率7.41%</span>",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.29%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-24 20:06",
-      "first_seen": "2026-11-24 17:18",
-      "is_new": false
+      "selected_at": "2026-11-25 12:27",
+      "first_seen": "2026-11-25 12:27",
+      "is_new": true
     },
     {
-      "name": "博腾股份",
-      "code": "300363",
+      "name": "嘉环科技",
+      "code": "603206",
       "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"13.08\">涨幅13.08%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.98%</span>",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.27%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-24 20:06",
-      "first_seen": "2026-11-24 17:18",
-      "is_new": false
-    },
-    {
-      "name": "双林股份",
-      "code": "300100",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"12.62\">涨幅12.62%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.39%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-24 20:06",
-      "first_seen": "2026-11-24 17:18",
-      "is_new": false
-    },
-    {
-      "name": "中邮科技",
-      "code": "688648",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"12.42\">涨幅12.42%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.19%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-24 20:06",
-      "first_seen": "2026-11-24 17:18",
-      "is_new": false
-    },
-    {
-      "name": "贝斯特",
-      "code": "300580",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"11.57\">涨幅11.57%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.97%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-24 20:06",
-      "first_seen": "2026-11-24 17:18",
-      "is_new": false
+      "selected_at": "2026-11-25 12:27",
+      "first_seen": "2026-11-25 12:27",
+      "is_new": true
     }
   ]
 }
