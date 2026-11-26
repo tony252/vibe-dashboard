@@ -3973,6 +3973,16 @@
         "change_at_buy": 20.043
       },
       {
+        "code": "300252",
+        "name": "金信诺",
+        "buy_price": 8.59,
+        "buy_date": "2026-11-26",
+        "shares": 1100,
+        "cost": 9449.0,
+        "reason": "黄金区间3-6%",
+        "change_at_buy": 10.553
+      },
+      {
         "code": "002453",
         "name": "华软科技",
         "buy_price": 4.46,
@@ -4023,16 +4033,6 @@
         "change_at_buy": 10.039
       },
       {
-        "code": "002843",
-        "name": "泰嘉股份",
-        "buy_price": 14.15,
-        "buy_date": "2026-11-26",
-        "shares": 700,
-        "cost": 9905.0,
-        "reason": "黄金区间3-6%",
-        "change_at_buy": 10.031
-      },
-      {
         "code": "002639",
         "name": "雪人集团",
         "buy_price": 12.62,
@@ -4063,6 +4063,6 @@
         "change_at_buy": 10.021
       }
     ],
-    "total_cost": 95059.0
+    "total_cost": 94603.0
   }
 }
