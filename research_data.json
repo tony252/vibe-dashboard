@@ -1,24 +1,24 @@
 {
-  "date": "2026-11-26",
-  "updated_at": "2026-11-27 12:05:16",
+  "date": "2026-11-27",
+  "updated_at": "2026-11-27 16:33:23",
   "stats": {
-    "processed": 33,
+    "processed": 10,
     "alerts": 0,
-    "filtered": 20
+    "filtered": 10
   },
   "events": [
     {
-      "time": "2026-11-26 19:41",
+      "time": "2026-11-27 16:13",
       "type": "archive",
-      "title": "上任不足半年，水井坊总经理辞职",
-      "content": "来源：国际金融报 上任不足半年，干晓峰辞去了水井坊总经理的职务。 11月25日晚间，水井坊（600779.SH）公告，董事会收到干晓峰的书面辞职报告，因个人原因...",
+      "title": "从谋求控股到卖股，通策医疗“第二平台”退场",
+      "content": "来源：证券之星 近期，通策医疗（600763.SH）一纸公告，将一段持续四年的资本关系推上舆论的中心：公司拟向深圳市宏旺微电子有限公司（以下简称“宏旺微电子”）转让和仁科技...",
       "source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/stock/s/2026-11-26/doc-inkaaiez1426832.shtml",
+      "source_url": "https://finance.sina.com.cn/stock/s/2026-11-27/doc-inkaefwi3262790.shtml",
       "stocks": [
         {
-          "name": "水井坊",
-          "code": "600779",
-          "match_reason": "直接提及[水井坊]（选股推荐）"
+          "name": "和仁科技",
+          "code": "300550",
+          "match_reason": "直接提及[和仁科技]（选股推荐）"
         }
       ],
       "verification": {
@@ -27,17 +27,17 @@
       }
     },
     {
-      "time": "2026-11-26 19:21",
+      "time": "2026-11-27 15:06",
       "type": "archive",
-      "title": "中国农业银行宣城宣州支行原狸桥分理处副主任王勐接受纪律审查和监察调查",
-      "content": "来源：宣城市纪检监察网站 中国农业银行宣城宣州支行原狸桥分理处副主任王勐涉嫌严重违纪违法，目前正接受中国农业银行宣城分行纪委纪律审查和旌德县监委监察调查。",
+      "title": "国泰君安期货：政策稳市信号+科技成长爆发，股指大幅反弹",
+      "content": "国泰君安期货市场分析师 陈骏昊 投资咨询证号：Z0021546 今天股指大幅反弹，截至发稿，上证指数涨超3%，创业板指一度涨超10%，科创50一度涨超14%；期指方面...",
       "source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/money/bank/gsdt/2026-11-26/doc-inkaaiff3701872.shtml",
+      "source_url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-27/doc-inkaefwc1067925.shtml",
       "stocks": [
         {
-          "name": "农业银行",
-          "code": "601288",
-          "match_reason": "直接提及[农业银行]（选股推荐）"
+          "name": "报 喜 鸟",
+          "code": "002154",
+          "match_reason": "直接提及[报 喜 鸟]（选股推荐）"
         }
       ],
       "verification": {
@@ -46,17 +46,17 @@
       }
     },
     {
-      "time": "2026-11-26 18:53",
+      "time": "2026-11-27 09:30",
       "type": "archive",
-      "title": "干晓峰“闪辞”百亿水井坊总经理，半年前曾遭内部举报！",
-      "content": "来源 | 野马财经 新任总经理干晓峰上任176天“闪电辞职” 作者 | 方璐 高岩 编辑丨叶开 水井坊（600779.SH）半年前的内部举报“回旋镖”，最后还是精准扎中新任总经理？",
-      "source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/stock/s/2026-11-26/doc-inkaaifa8170808.shtml",
+      "title": "券商晨会精华：GPT-6.2真机能力跃升，通用基模加速向具身大脑演进",
+      "content": "中信证券认为，GPT-6.2真机能力跃升，通用基模加速向具身大脑演进；华泰证券认为，具身数据标准提速，关注Optimus亮相与T链；中金公司认为，海外互联网公司风险在累积。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2546040",
       "stocks": [
         {
-          "name": "水井坊",
-          "code": "600779",
-          "match_reason": "直接提及[水井坊]（选股推荐）"
+          "name": "中信证券",
+          "code": "600030",
+          "match_reason": "直接提及[中信证券]（选股推荐）"
         }
       ],
       "verification": {
@@ -65,70 +65,17 @@
       }
     },
     {
-      "time": "2026-11-26 18:34",
+      "time": "2026-11-27 08:05",
       "type": "archive",
-      "title": "研发长达19年，累计投入1.9亿元，最终“哑火”！上市药企终止一款新药研发，全额计提资产减值准备4亿元",
-      "content": " 红星资本局11月26日消息 人福医药（即“ST人福”，600079.SH）旗下一款研发了长达19年、累计投入1.9亿元的新药，最终还是没能走到商业化。",
-      "source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/stock/s/2026-11-26/doc-inkaaifa8157996.shtml",
+      "title": "11月27日投资避雷针：股价涨超60％ 五连板人气股收到上交所监管函",
+      "content": "①近八成中国企业加注AI投入，仅两成高管看到广泛业务价值；\n②上交所向5连板克来机电下发监管工作函；\n③英国央行警告AI融资风险，大型科技公司债务及表外承诺超4万亿美元。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2546034",
       "stocks": [
         {
-          "name": "ST人福",
-          "code": "600079",
-          "match_reason": "直接提及[ST人福]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-11-26 18:02",
-      "type": "archive",
-      "title": "超华科技（002288）索赔案已有胜诉，中核钛白（002145）股民索赔案再提交法院立案",
-      "content": " 上海久诚律师事务所股票索赔律师许峰律师提示，超华科技（002288）虚假陈述投资者索赔案已有胜诉先例。（许峰律师专栏）",
-      "source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-26/doc-inkaaiex8869148.shtml",
-      "stocks": [
-        {
-          "name": "钛能化学",
-          "code": "002145",
-          "match_reason": "直接提及[钛能化学]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-11-26 17:47",
-      "type": "archive",
-      "title": "金牛化工3分钟封涨停，斩获3连板",
-      "content": "记者丨林健民 编辑丨李燕娜 据21财经雷达，11月26日，化工板块异动拉升，截至收盘，金三江、善水科技20cm涨停，金丹科技涨超10%，金牛化工三连板，赤天化两连板...",
-      "source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/stock/s/2026-11-26/doc-inkaaaxc1471030.shtml",
-      "stocks": [
-        {
-          "name": "金丹科技",
-          "code": "300829",
-          "match_reason": "直接提及[金丹科技]（选股推荐）"
-        },
-        {
-          "name": "金牛化工",
-          "code": "600722",
-          "match_reason": "直接提及[金牛化工]（选股推荐）"
-        },
-        {
-          "name": "赤天化",
-          "code": "600227",
-          "match_reason": "直接提及[赤天化]（选股推荐）"
-        },
-        {
-          "name": "金三江",
-          "code": "301059",
-          "match_reason": "直接提及[金三江]（选股推荐）"
+          "name": "克来机电",
+          "code": "603960",
+          "match_reason": "直接提及[克来机电]（选股推荐）"
         }
       ],
       "verification": {
@@ -214,82 +161,6 @@
       }
     },
     {
-      "time": "2026-11-26 16:29",
-      "type": "archive",
-      "title": "“太刺激了”！002148早盘“一”字跌停，尾盘偷袭上板，换手率飙升至54%，此前曾10天6涨停",
-      "content": "来源：华夏时报 11月26日，近期人气股北纬科技开盘“一”字跌停，午后开盘，突然垂直拉升，资金快速涌入，随后多空激烈交战，临近尾盘，资金再度发力封住涨停，报11.30元...",
-      "source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/wm/2026-11-26/doc-inkaaawz8888848.shtml",
-      "stocks": [
-        {
-          "name": "北纬科技",
-          "code": "002148",
-          "match_reason": "直接提及[北纬科技]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-11-26 16:27",
-      "type": "archive",
-      "title": "002148，尾盘上演“地天板”！这一板块，连涨五天！",
-      "content": "又有个股出现“地天板”。 11月26日，A股小幅震荡，主要股指涨跌互现，上证指数、创业板指等微幅飘红，深证成指、北证50等微幅飘绿。全市场成交进一步萎缩至1.33万亿元。",
-      "source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/stock/s/2026-11-26/doc-inkaaawz8920675.shtml",
-      "stocks": [
-        {
-          "name": "北纬科技",
-          "code": "002148",
-          "match_reason": "直接提及[北纬科技]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-11-26 16:26",
-      "type": "archive",
-      "title": "头部房企，密集补血",
-      "content": "来源：乐居财经 文/乐居财经 刘治颖 时隔仅12天，保利发展再抛出200亿元融资计划。 11月25日晚，保利发展发布公告称，计划发行不超过200亿元公司债券，期限不超过10年...",
-      "source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/stock/s/2026-11-26/doc-inkaaaxc1402295.shtml",
-      "stocks": [
-        {
-          "name": "保利发展",
-          "code": "600048",
-          "match_reason": "直接提及[保利发展]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-11-26 16:21",
-      "type": "archive",
-      "title": "年内超220家村镇银行注销，民生银行只剩上海一家",
-      "content": "来源：时代财经APP 民生银行村镇银行改革进入收尾阶段。近日，上海金融监管局发布批复，同意民生银行收购上海松江民生村镇银行，并同步新设民生银行上海文诚路、新桥...",
-      "source": "新浪财经",
-      "source_url": "https://finance.sina.com.cn/money/bank/gsdt/2026-11-26/doc-inkaaaxi3699447.shtml",
-      "stocks": [
-        {
-          "name": "民生银行",
-          "code": "600016",
-          "match_reason": "直接提及[民生银行]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
       "time": "2026-11-26 12:18",
       "type": "archive",
       "title": "【午报】三大指数冲高回落涨跌不一，PCB、先进封装概念再度活跃，化工板块震荡走强",
@@ -345,107 +216,6 @@
         "memory": false,
         "source": true
       }
-    },
-    {
-      "time": "2026-11-25 17:57",
-      "type": "archive",
-      "title": "【数据看盘】沪深300ETF易方达成交额激增超4倍，多路资金联手抢筹九阳股份",
-      "content": "①沪深300ETF易方达（510310）成交额环比增长400.79%，此外沪深300ETF华夏（510330）成交额连续两日大幅增长，环比增长186.76%。\n②九阳股份获三家机构买入1.36亿，同时深股通买入9647万，国泰海通证券上海中山东路营业部买入1.24亿。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2544282",
-      "stocks": [
-        {
-          "name": "九阳股份",
-          "code": "002242",
-          "match_reason": "直接提及[九阳股份]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-11-25 17:34",
-      "type": "archive",
-      "title": "年涨幅升至A股第二！小家电股2个月涨停13次，20余股年内涨翻倍，这些则股价腰斩",
-      "content": "①今日，九阳股份再度涨停，年内涨幅达275%，位列A股第二，仅次于行云科技。\n②从资金面来看，九阳股份近期融资余额先升后降，当前规模较11月12日高点减少近六成。\n③剔除新股、ST股数据，共有13.5%个股年内收涨，其中翻倍股超20只。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2544264",
-      "stocks": [
-        {
-          "name": "九阳股份",
-          "code": "002242",
-          "match_reason": "直接提及[九阳股份]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-11-25 17:26",
-      "type": "archive",
-      "title": "【焦点复盘】科创50低开低走跌超5%，全市场超280股跌超9%，多只红利股逆势创阶段新高",
-      "content": "①连板晋级率降维持三成，资金逆势抱团高位人气股，中京电子晋级5连板，创源股份录得20厘米3连板，九阳股份、全筑股份等实现连板晋级； ②尾盘多只高股息红利股逆势拉升，交通银行、长江电力创历史新高，中国神华刷新2007年11月以来高点。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2544245",
-      "stocks": [
-        {
-          "name": "长江电力",
-          "code": "600900",
-          "match_reason": "直接提及[长江电力]（选股推荐）"
-        },
-        {
-          "name": "九阳股份",
-          "code": "002242",
-          "match_reason": "直接提及[九阳股份]（选股推荐）"
-        },
-        {
-          "name": "中京电子",
-          "code": "002579",
-          "match_reason": "直接提及[中京电子]（选股推荐）"
-        },
-        {
-          "name": "创源股份",
-          "code": "300703",
-          "match_reason": "直接提及[创源股份]（选股推荐）"
-        },
-        {
-          "name": "全筑股份",
-          "code": "603030",
-          "match_reason": "直接提及[全筑股份]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
-    },
-    {
-      "time": "2026-11-25 12:23",
-      "type": "archive",
-      "title": "【午报】三大指数均跌超1%，医药板块逆势爆发，零售股震荡走强",
-      "content": "①今日早盘震荡走弱，三大指数全线调整，医药板块逆势爆发，大消费方向同步走强，半导体芯片陷入调整；\n②个股层面，今日早盘涨停数量为60家，连板股数量为11家，金新农、克来机电晋级4连板。",
-      "source": "财联社",
-      "source_url": "https://www.cls.cn/detail/2543824",
-      "stocks": [
-        {
-          "name": "金新农",
-          "code": "002548",
-          "match_reason": "直接提及[金新农]（选股推荐）"
-        },
-        {
-          "name": "克来机电",
-          "code": "603960",
-          "match_reason": "直接提及[克来机电]（选股推荐）"
-        }
-      ],
-      "verification": {
-        "memory": false,
-        "source": true
-      }
     }
   ],
   "keywords": {
@@ -482,155 +252,75 @@
       "现金管理"
     ]
   },
-  "mode": "scan",
+  "mode": "report",
   "week": 48,
   "stock_meta": {
-    "002242": "2026-11-26 16:50",
-    "002148": "2026-11-26 16:50",
-    "603960": "2026-11-26 16:50",
-    "600048": "2026-11-26 16:50",
-    "600016": "2026-11-26 16:50",
-    "600030": "2026-11-26 16:50",
-    "600900": "2026-11-26 16:50",
-    "002579": "2026-11-26 16:50",
-    "300703": "2026-11-26 16:50",
-    "603030": "2026-11-26 16:50",
-    "002548": "2026-11-26 16:50",
-    "002145": "2026-11-26 16:50",
-    "000158": "2026-11-26 16:50",
-    "600520": "2026-11-26 16:50",
-    "002077": "2026-11-26 16:50",
-    "600779": "2026-11-26 20:06",
-    "601288": "2026-11-26 20:06",
-    "600079": "2026-11-26 20:06",
-    "300829": "2026-11-26 20:06",
-    "600722": "2026-11-26 20:06",
-    "600227": "2026-11-26 20:06",
-    "301059": "2026-11-26 20:06",
-    "600467": "2026-11-27 12:08",
-    "603324": "2026-11-27 12:08",
-    "000530": "2026-11-27 12:08"
+    "603960": "2026-11-27 16:33",
+    "600030": "2026-11-27 16:33",
+    "300550": "2026-11-27 16:33",
+    "002154": "2026-11-27 16:33",
+    "002148": "2026-11-27 16:33",
+    "600467": "2026-11-27 16:33",
+    "603324": "2026-11-27 16:33",
+    "603030": "2026-11-27 16:33",
+    "000530": "2026-11-27 16:33",
+    "002086": "2026-11-27 16:33",
+    "002242": "2026-11-27 16:33",
+    "002246": "2026-11-27 16:33",
+    "000158": "2026-11-27 16:33",
+    "603813": "2026-11-27 16:33",
+    "603206": "2026-11-27 16:33"
   },
   "watchlist": [
-    {
-      "name": "九阳股份",
-      "code": "002242",
-      "keywords": "直接提及[九阳股份]（选股推荐）",
-      "reason": "新闻提及 | 4次",
-      "source": "event",
-      "selected_at": "2026-11-27 12:08",
-      "first_seen": "2026-11-26 16:50",
-      "is_new": false
-    },
-    {
-      "name": "北纬科技",
-      "code": "002148",
-      "keywords": "直接提及[北纬科技]（选股推荐）",
-      "reason": "新闻提及 | 3次",
-      "source": "event",
-      "selected_at": "2026-11-27 12:08",
-      "first_seen": "2026-11-26 16:50",
-      "is_new": false
-    },
     {
       "name": "克来机电",
       "code": "603960",
       "keywords": "直接提及[克来机电]（选股推荐）",
       "reason": "新闻提及 | 3次",
       "source": "event",
-      "selected_at": "2026-11-27 12:08",
-      "first_seen": "2026-11-26 16:50",
-      "is_new": false
+      "selected_at": "2026-11-27 16:33",
+      "first_seen": "2026-11-27 16:33",
+      "is_new": true
     },
     {
-      "name": "水井坊",
-      "code": "600779",
-      "keywords": "直接提及[水井坊]（选股推荐）",
+      "name": "中信证券",
+      "code": "600030",
+      "keywords": "直接提及[中信证券]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-27 12:08",
-      "first_seen": "2026-11-26 20:06",
-      "is_new": false
+      "selected_at": "2026-11-27 16:33",
+      "first_seen": "2026-11-27 16:33",
+      "is_new": true
     },
     {
-      "name": "全筑股份",
-      "code": "603030",
-      "keywords": "直接提及[全筑股份]（选股推荐）",
-      "reason": "新闻提及 | 2次",
-      "source": "event",
-      "selected_at": "2026-11-27 12:08",
-      "first_seen": "2026-11-26 16:50",
-      "is_new": false
-    },
-    {
-      "name": "农业银行",
-      "code": "601288",
-      "keywords": "直接提及[农业银行]（选股推荐）",
+      "name": "和仁科技",
+      "code": "300550",
+      "keywords": "直接提及[和仁科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 12:08",
-      "first_seen": "2026-11-26 20:06",
-      "is_new": false
+      "selected_at": "2026-11-27 16:33",
+      "first_seen": "2026-11-27 16:33",
+      "is_new": true
     },
     {
-      "name": "ST人福",
-      "code": "600079",
-      "keywords": "直接提及[ST人福]（选股推荐）",
+      "name": "报 喜 鸟",
+      "code": "002154",
+      "keywords": "直接提及[报 喜 鸟]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 12:08",
-      "first_seen": "2026-11-26 20:06",
-      "is_new": false
+      "selected_at": "2026-11-27 16:33",
+      "first_seen": "2026-11-27 16:33",
+      "is_new": true
     },
     {
-      "name": "钛能化学",
-      "code": "002145",
-      "keywords": "直接提及[钛能化学]（选股推荐）",
+      "name": "北纬科技",
+      "code": "002148",
+      "keywords": "直接提及[北纬科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 12:08",
-      "first_seen": "2026-11-26 16:50",
-      "is_new": false
-    },
-    {
-      "name": "金丹科技",
-      "code": "300829",
-      "keywords": "直接提及[金丹科技]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-27 12:08",
-      "first_seen": "2026-11-26 20:06",
-      "is_new": false
-    },
-    {
-      "name": "金牛化工",
-      "code": "600722",
-      "keywords": "直接提及[金牛化工]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-27 12:08",
-      "first_seen": "2026-11-26 20:06",
-      "is_new": false
-    },
-    {
-      "name": "赤天化",
-      "code": "600227",
-      "keywords": "直接提及[赤天化]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-27 12:08",
-      "first_seen": "2026-11-26 20:06",
-      "is_new": false
-    },
-    {
-      "name": "金三江",
-      "code": "301059",
-      "keywords": "直接提及[金三江]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-27 12:08",
-      "first_seen": "2026-11-26 20:06",
-      "is_new": false
+      "selected_at": "2026-11-27 16:33",
+      "first_seen": "2026-11-27 16:33",
+      "is_new": true
     },
     {
       "name": "好当家",
@@ -638,8 +328,8 @@
       "keywords": "直接提及[好当家]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 12:08",
-      "first_seen": "2026-11-27 12:08",
+      "selected_at": "2026-11-27 16:33",
+      "first_seen": "2026-11-27 16:33",
       "is_new": true
     },
     {
@@ -648,8 +338,18 @@
       "keywords": "直接提及[盛剑科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 12:08",
-      "first_seen": "2026-11-27 12:08",
+      "selected_at": "2026-11-27 16:33",
+      "first_seen": "2026-11-27 16:33",
+      "is_new": true
+    },
+    {
+      "name": "全筑股份",
+      "code": "603030",
+      "keywords": "直接提及[全筑股份]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-27 16:33",
+      "first_seen": "2026-11-27 16:33",
       "is_new": true
     },
     {
@@ -658,8 +358,68 @@
       "keywords": "直接提及[冰山冷热]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 12:08",
-      "first_seen": "2026-11-27 12:08",
+      "selected_at": "2026-11-27 16:33",
+      "first_seen": "2026-11-27 16:33",
+      "is_new": true
+    },
+    {
+      "name": "东方海洋",
+      "code": "002086",
+      "keywords": "直接提及[东方海洋]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-27 16:33",
+      "first_seen": "2026-11-27 16:33",
+      "is_new": true
+    },
+    {
+      "name": "九阳股份",
+      "code": "002242",
+      "keywords": "直接提及[九阳股份]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-27 16:33",
+      "first_seen": "2026-11-27 16:33",
+      "is_new": true
+    },
+    {
+      "name": "北化股份",
+      "code": "002246",
+      "keywords": "涨停",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率6.90%</span>",
+      "source": "杰克",
+      "selected_at": "2026-11-27 16:33",
+      "first_seen": "2026-11-27 16:33",
+      "is_new": true
+    },
+    {
+      "name": "常山北明",
+      "code": "000158",
+      "keywords": "涨停",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.98\">涨幅9.98%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率6.06%</span>",
+      "source": "杰克",
+      "selected_at": "2026-11-27 16:33",
+      "first_seen": "2026-11-27 16:33",
+      "is_new": true
+    },
+    {
+      "name": "原尚股份",
+      "code": "603813",
+      "keywords": "涨停",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.29%</span>",
+      "source": "杰克",
+      "selected_at": "2026-11-27 16:33",
+      "first_seen": "2026-11-27 16:33",
+      "is_new": true
+    },
+    {
+      "name": "嘉环科技",
+      "code": "603206",
+      "keywords": "涨停",
+      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.27%</span>",
+      "source": "杰克",
+      "selected_at": "2026-11-27 16:33",
+      "first_seen": "2026-11-27 16:33",
       "is_new": true
     }
   ]
