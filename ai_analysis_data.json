@@ -44,108 +44,304 @@
     ],
     "top_gainers": [
       {
-        "name": "科蓝软件",
-        "code": "300663",
-        "price": 6.64,
-        "change_pct": 20.07,
-        "turnover": 11.38
+        "name": "*ST南置",
+        "code": "002305",
+        "price": 1.82,
+        "change_pct": 10.3,
+        "turnover": 2.4
+      },
+      {
+        "name": "海宁皮城",
+        "code": "002344",
+        "price": 3.7,
+        "change_pct": 10.12,
+        "turnover": 0.92
+      },
+      {
+        "name": "远东传动",
+        "code": "002406",
+        "price": 6.0,
+        "change_pct": 10.09,
+        "turnover": 6.95
+      },
+      {
+        "name": "华软科技",
+        "code": "002453",
+        "price": 4.91,
+        "change_pct": 10.09,
+        "turnover": 16.81
+      },
+      {
+        "name": "仁东控股",
+        "code": "002647",
+        "price": 6.44,
+        "change_pct": 10.09,
+        "turnover": 3.66
+      },
+      {
+        "name": "皖通科技",
+        "code": "002331",
+        "price": 6.44,
+        "change_pct": 10.09,
+        "turnover": 4.17
+      },
+      {
+        "name": "群兴玩具",
+        "code": "002575",
+        "price": 4.26,
+        "change_pct": 10.08,
+        "turnover": 10.53
+      },
+      {
+        "name": "中电鑫龙",
+        "code": "002298",
+        "price": 7.76,
+        "change_pct": 10.07,
+        "turnover": 8.69
+      },
+      {
+        "name": "证通电子",
+        "code": "002197",
+        "price": 7.76,
+        "change_pct": 10.07,
+        "turnover": 2.33
+      },
+      {
+        "name": "高乐股份",
+        "code": "002348",
+        "price": 8.09,
+        "change_pct": 10.07,
+        "turnover": 5.97
+      },
+      {
+        "name": "新筑股份",
+        "code": "002480",
+        "price": 5.36,
+        "change_pct": 10.06,
+        "turnover": 3.55
+      },
+      {
+        "name": "小崧股份",
+        "code": "002723",
+        "price": 5.58,
+        "change_pct": 10.06,
+        "turnover": 3.58
+      },
+      {
+        "name": "奥佳华",
+        "code": "002614",
+        "price": 6.13,
+        "change_pct": 10.05,
+        "turnover": 5.92
+      },
+      {
+        "name": "通化金马",
+        "code": "000766",
+        "price": 10.51,
+        "change_pct": 10.05,
+        "turnover": 4.19
+      },
+      {
+        "name": "宏川智慧",
+        "code": "002930",
+        "price": 6.68,
+        "change_pct": 10.05,
+        "turnover": 0.5
       }
     ],
     "sectors": [
       {
-        "name": "仪器仪表制造业",
-        "code": "ZC40",
-        "pct": 12.81,
-        "amount_yi": 237.5,
-        "net_inflow_yi": 0
+        "name": "半导体设备",
+        "code": "BK1326",
+        "pct": 17.6,
+        "amount_yi": 445.1,
+        "net_inflow_yi": 35.5
       },
       {
-        "name": "计算机电子设备业",
-        "code": "ZC39",
-        "pct": 11.91,
-        "amount_yi": 4382.1,
-        "net_inflow_yi": 0
+        "name": "半导体材料",
+        "code": "BK1325",
+        "pct": 16.57,
+        "amount_yi": 276.7,
+        "net_inflow_yi": 25.6
       },
       {
-        "name": "通用设备制造业",
-        "code": "ZC34",
-        "pct": 8.94,
-        "amount_yi": 661.7,
-        "net_inflow_yi": 0
+        "name": "集成电路制造",
+        "code": "BK1329",
+        "pct": 16.49,
+        "amount_yi": 328.1,
+        "net_inflow_yi": 24.3
       },
       {
-        "name": "食品制造业",
-        "code": "ZC14",
-        "pct": 8.92,
-        "amount_yi": 5.3,
-        "net_inflow_yi": 0
+        "name": "半导体",
+        "code": "BK1036",
+        "pct": 15.0,
+        "amount_yi": 2786.6,
+        "net_inflow_yi": 238.2
       },
       {
-        "name": "金属制品业",
-        "code": "ZC33",
-        "pct": 8.26,
-        "amount_yi": 246.3,
-        "net_inflow_yi": 0
+        "name": "电子化学品Ⅲ",
+        "code": "BK1332",
+        "pct": 14.74,
+        "amount_yi": 277.1,
+        "net_inflow_yi": 11.4
       },
       {
-        "name": "橡胶塑料制品业",
-        "code": "ZC29",
-        "pct": 6.81,
-        "amount_yi": 235.5,
-        "net_inflow_yi": 0
+        "name": "电子化学品Ⅱ",
+        "code": "BK1039",
+        "pct": 14.74,
+        "amount_yi": 277.1,
+        "net_inflow_yi": 11.4
       },
       {
-        "name": "非金属矿物制品业",
-        "code": "ZC30",
-        "pct": 6.52,
-        "amount_yi": 340.9,
-        "net_inflow_yi": 0
+        "name": "集成电路封测",
+        "code": "BK1328",
+        "pct": 14.55,
+        "amount_yi": 201.7,
+        "net_inflow_yi": 32.7
       },
       {
-        "name": "化学原料制品业",
-        "code": "ZC26",
-        "pct": 6.47,
-        "amount_yi": 908.5,
-        "net_inflow_yi": 0
+        "name": "数字芯片设计",
+        "code": "BK1331",
+        "pct": 14.32,
+        "amount_yi": 1220.0,
+        "net_inflow_yi": 103.5
       },
       {
-        "name": "有色金属冶炼业",
-        "code": "ZC32",
-        "pct": 6.45,
-        "amount_yi": 540.2,
-        "net_inflow_yi": 0
+        "name": "光学元件",
+        "code": "BK1334",
+        "pct": 14.13,
+        "amount_yi": 149.7,
+        "net_inflow_yi": 11.9
       },
       {
-        "name": "印刷媒介复制业",
-        "code": "ZC23",
-        "pct": 6.24,
-        "amount_yi": 10.6,
-        "net_inflow_yi": 0
+        "name": "分立器件",
+        "code": "BK1327",
+        "pct": 13.72,
+        "amount_yi": 183.3,
+        "net_inflow_yi": 13.4
       },
       {
-        "name": "木材加工业",
-        "code": "ZC20",
-        "pct": 6.15,
-        "amount_yi": 9.1,
-        "net_inflow_yi": 0
+        "name": "通信网络设备及器件",
+        "code": "BK1591",
+        "pct": 13.48,
+        "amount_yi": 1092.6,
+        "net_inflow_yi": 121.9
       },
       {
-        "name": "专用设备制造业",
-        "code": "ZC35",
-        "pct": 6.02,
-        "amount_yi": 7.6,
-        "net_inflow_yi": 0
+        "name": "模拟芯片设计",
+        "code": "BK1330",
+        "pct": 13.34,
+        "amount_yi": 131.6,
+        "net_inflow_yi": 3.2
       }
     ],
     "us_stocks": [],
     "us_indices": [],
     "strong_stocks": [
       {
-        "name": "科蓝软件",
-        "code": "300663",
-        "price": 6.64,
-        "change_pct": 20.07,
-        "turnover": 11.38
+        "name": "*ST南置",
+        "code": "002305",
+        "price": 1.82,
+        "change_pct": 10.3,
+        "turnover": 2.4
+      },
+      {
+        "name": "海宁皮城",
+        "code": "002344",
+        "price": 3.7,
+        "change_pct": 10.12,
+        "turnover": 0.92
+      },
+      {
+        "name": "远东传动",
+        "code": "002406",
+        "price": 6.0,
+        "change_pct": 10.09,
+        "turnover": 6.95
+      },
+      {
+        "name": "华软科技",
+        "code": "002453",
+        "price": 4.91,
+        "change_pct": 10.09,
+        "turnover": 16.81
+      },
+      {
+        "name": "仁东控股",
+        "code": "002647",
+        "price": 6.44,
+        "change_pct": 10.09,
+        "turnover": 3.66
+      },
+      {
+        "name": "皖通科技",
+        "code": "002331",
+        "price": 6.44,
+        "change_pct": 10.09,
+        "turnover": 4.17
+      },
+      {
+        "name": "群兴玩具",
+        "code": "002575",
+        "price": 4.26,
+        "change_pct": 10.08,
+        "turnover": 10.53
+      },
+      {
+        "name": "中电鑫龙",
+        "code": "002298",
+        "price": 7.76,
+        "change_pct": 10.07,
+        "turnover": 8.69
+      },
+      {
+        "name": "证通电子",
+        "code": "002197",
+        "price": 7.76,
+        "change_pct": 10.07,
+        "turnover": 2.33
+      },
+      {
+        "name": "高乐股份",
+        "code": "002348",
+        "price": 8.09,
+        "change_pct": 10.07,
+        "turnover": 5.97
+      },
+      {
+        "name": "新筑股份",
+        "code": "002480",
+        "price": 5.36,
+        "change_pct": 10.06,
+        "turnover": 3.55
+      },
+      {
+        "name": "小崧股份",
+        "code": "002723",
+        "price": 5.58,
+        "change_pct": 10.06,
+        "turnover": 3.58
+      },
+      {
+        "name": "奥佳华",
+        "code": "002614",
+        "price": 6.13,
+        "change_pct": 10.05,
+        "turnover": 5.92
+      },
+      {
+        "name": "通化金马",
+        "code": "000766",
+        "price": 10.51,
+        "change_pct": 10.05,
+        "turnover": 4.19
+      },
+      {
+        "name": "宏川智慧",
+        "code": "002930",
+        "price": 6.68,
+        "change_pct": 10.05,
+        "turnover": 0.5
       }
     ],
     "yimeng_stocks": [
@@ -383,5 +579,5 @@
       }
     ]
   },
-  "timestamp": "2026-11-27T16:11:37"
+  "timestamp": "2026-11-27T16:23:35"
 }
