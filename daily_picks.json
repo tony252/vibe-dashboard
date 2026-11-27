@@ -385858,6 +385858,39 @@
           "eps": 0.8444
         }
       ]
+    },
+    "大力水手菠菜涨停战法": {
+      "time": "09:17",
+      "picks": [
+        {
+          "code": "600132",
+          "name": "重庆啤酒",
+          "base_score": 50,
+          "heat_score": 44.22,
+          "final_score": 46.53,
+          "price": 40.75,
+          "chg_pct": 0.0,
+          "vol_ratio": 1.68,
+          "turnover": 0,
+          "ma60": 38.75,
+          "ma_gap": 5.15,
+          "pullback_pct": 1.28
+        },
+        {
+          "code": "600057",
+          "name": "厦门象屿",
+          "base_score": 50,
+          "heat_score": 38.09,
+          "final_score": 42.85,
+          "price": 6.08,
+          "chg_pct": 0.0,
+          "vol_ratio": 1.57,
+          "turnover": 0,
+          "ma60": 6.14,
+          "ma_gap": 1.02,
+          "pullback_pct": 3.8
+        }
+      ]
     }
   }
 }
