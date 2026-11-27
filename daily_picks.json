@@ -385518,5 +385518,211 @@
         }
       ]
     }
+  },
+  "2026-11-27": {
+    "高欣资金净流入": {
+      "time": "08:49",
+      "picks": [
+        {
+          "code": "000063",
+          "name": "中兴通讯",
+          "net_amount_5d": 235215.0,
+          "net_ratio_avg": 0.56,
+          "positive_days": 3,
+          "change_pct": 0.71,
+          "price": 3650.07,
+          "score": 55.87
+        },
+        {
+          "code": "000961",
+          "name": "中南建设",
+          "net_amount_5d": -151227.0,
+          "net_ratio_avg": -0.6,
+          "positive_days": 2,
+          "change_pct": 2.11,
+          "price": 3956.02,
+          "score": 11.58
+        },
+        {
+          "code": "000066",
+          "name": "中国长城",
+          "net_amount_5d": -13357.0,
+          "net_ratio_avg": -0.07,
+          "positive_days": 2,
+          "change_pct": 1.25,
+          "price": 2981.74,
+          "score": 10.94
+        },
+        {
+          "code": "000100",
+          "name": "TCL科技",
+          "net_amount_5d": -1199723.0,
+          "net_ratio_avg": -0.86,
+          "positive_days": 2,
+          "change_pct": 0.14,
+          "price": 5807.25,
+          "score": 10.11
+        },
+        {
+          "code": "000001",
+          "name": "平安银行",
+          "net_amount_5d": -3726992.0,
+          "net_ratio_avg": -1.14,
+          "positive_days": 2,
+          "change_pct": 0.01,
+          "price": 3476.88,
+          "score": 10.01
+        },
+        {
+          "code": "000002",
+          "name": "万科A",
+          "net_amount_5d": -3726301.0,
+          "net_ratio_avg": -1.14,
+          "positive_days": 2,
+          "change_pct": 0.01,
+          "price": 3645.68,
+          "score": 10.01
+        }
+      ]
+    },
+    "杰克船长": {
+      "time": "08:49",
+      "picks": [
+        {
+          "name": "北化股份",
+          "code": "002246",
+          "price": "20.040",
+          "change": 9.989,
+          "turnover": "6.89757",
+          "score": 108,
+          "limit_score": 33,
+          "total": 108,
+          "level": "⭐⭐⭐强力🔥",
+          "action": "重仓30%",
+          "rules": [
+            "换手温和",
+            "强势",
+            "价格适中",
+            "上涨趋势",
+            "🔥涨停信号",
+            "站上MA5"
+          ],
+          "change_val": 9.989,
+          "chan_score": 0,
+          "chan_buy": null,
+          "chan_buy_price": "20.040",
+          "chan_bottom_div": null,
+          "chan_confidence": 0,
+          "final_score": 108
+        },
+        {
+          "name": "常山北明",
+          "code": "000158",
+          "price": "13.880",
+          "change": 9.984,
+          "turnover": "6.06364",
+          "score": 108,
+          "limit_score": 33,
+          "total": 108,
+          "level": "⭐⭐⭐强力🔥",
+          "action": "重仓30%",
+          "rules": [
+            "换手温和",
+            "强势",
+            "价格适中",
+            "上涨趋势",
+            "🔥涨停信号",
+            "站上MA5"
+          ],
+          "change_val": 9.984,
+          "chan_score": 0,
+          "chan_buy": null,
+          "chan_buy_price": "13.880",
+          "chan_bottom_div": null,
+          "chan_confidence": 0,
+          "final_score": 108
+        },
+        {
+          "name": "三佳科技",
+          "code": "600520",
+          "price": "20.060",
+          "change": 9.978,
+          "turnover": "8.31407",
+          "score": 104,
+          "limit_score": 33,
+          "total": 104,
+          "level": "⭐⭐⭐强力🔥",
+          "action": "重仓30%",
+          "rules": [
+            "换手适中",
+            "强势",
+            "价格适中",
+            "上涨趋势",
+            "🔥涨停信号",
+            "站上MA5"
+          ],
+          "change_val": 9.978,
+          "chan_score": 0,
+          "chan_buy": null,
+          "chan_buy_price": "20.060",
+          "chan_bottom_div": null,
+          "chan_confidence": 0,
+          "final_score": 104
+        },
+        {
+          "name": "大港股份",
+          "code": "002077",
+          "price": "12.790",
+          "change": 9.974,
+          "turnover": "9.98827",
+          "score": 104,
+          "limit_score": 33,
+          "total": 104,
+          "level": "⭐⭐⭐强力🔥",
+          "action": "重仓30%",
+          "rules": [
+            "换手适中",
+            "强势",
+            "价格适中",
+            "上涨趋势",
+            "🔥涨停信号",
+            "站上MA5"
+          ],
+          "change_val": 9.974,
+          "chan_score": 0,
+          "chan_buy": null,
+          "chan_buy_price": "12.790",
+          "chan_bottom_div": null,
+          "chan_confidence": 0,
+          "final_score": 104
+        },
+        {
+          "name": "瑜欣电子",
+          "code": "301107",
+          "price": "18.500",
+          "change": 14.907,
+          "turnover": "6.61553",
+          "score": 103,
+          "limit_score": 33,
+          "total": 103,
+          "level": "⭐⭐⭐强力🔥",
+          "action": "重仓30%",
+          "rules": [
+            "换手温和",
+            "价格适中",
+            "上涨趋势",
+            "🔥涨停信号",
+            "站上MA5"
+          ],
+          "change_val": 14.907,
+          "chan_score": 0,
+          "chan_buy": null,
+          "chan_buy_price": "18.500",
+          "chan_bottom_div": null,
+          "chan_confidence": 0,
+          "final_score": 103
+        }
+      ]
+    }
   }
 }
