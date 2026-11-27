@@ -1,10 +1,10 @@
 {
   "date": "2026-11-27",
-  "updated_at": "2026-11-27 16:33:23",
+  "updated_at": "2026-11-27 20:03:06",
   "stats": {
-    "processed": 10,
+    "processed": 19,
     "alerts": 0,
-    "filtered": 10
+    "filtered": 11
   },
   "events": [
     {
@@ -38,6 +38,35 @@
           "name": "报 喜 鸟",
           "code": "002154",
           "match_reason": "直接提及[报 喜 鸟]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-27 12:19",
+      "type": "archive",
+      "title": "【午报】科创50半日涨超4%，全市场近百股涨停，国产算力概念集体爆发",
+      "content": "①今日早盘震荡反弹，三大指数全线上涨，科创50指数涨超4%，芯片产业链集体走强，半导体设备、先进封装方向涨幅居前，华为产业链同步领涨；\n②个股层面，早盘涨停数量为91家，连板股数量为18家，利君股份、天圣制药、全筑股份晋级4连板。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2546312",
+      "stocks": [
+        {
+          "name": "天圣制药",
+          "code": "002872",
+          "match_reason": "直接提及[天圣制药]（选股推荐）"
+        },
+        {
+          "name": "全筑股份",
+          "code": "603030",
+          "match_reason": "直接提及[全筑股份]（选股推荐）"
+        },
+        {
+          "name": "利君股份",
+          "code": "002651",
+          "match_reason": "直接提及[利君股份]（选股推荐）"
         }
       ],
       "verification": {
@@ -252,7 +281,7 @@
       "现金管理"
     ]
   },
-  "mode": "report",
+  "mode": "scan",
   "week": 48,
   "stock_meta": {
     "603960": "2026-11-27 16:33",
@@ -269,7 +298,9 @@
     "002246": "2026-11-27 16:33",
     "000158": "2026-11-27 16:33",
     "603813": "2026-11-27 16:33",
-    "603206": "2026-11-27 16:33"
+    "603206": "2026-11-27 16:33",
+    "002872": "2026-11-27 20:06",
+    "002651": "2026-11-27 20:06"
   },
   "watchlist": [
     {
@@ -278,9 +309,19 @@
       "keywords": "直接提及[克来机电]（选股推荐）",
       "reason": "新闻提及 | 3次",
       "source": "event",
-      "selected_at": "2026-11-27 16:33",
+      "selected_at": "2026-11-27 20:06",
       "first_seen": "2026-11-27 16:33",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "name": "全筑股份",
+      "code": "603030",
+      "keywords": "直接提及[全筑股份]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-11-27 20:06",
+      "first_seen": "2026-11-27 16:33",
+      "is_new": false
     },
     {
       "name": "中信证券",
@@ -288,9 +329,9 @@
       "keywords": "直接提及[中信证券]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-27 16:33",
+      "selected_at": "2026-11-27 20:06",
       "first_seen": "2026-11-27 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "和仁科技",
@@ -298,9 +339,9 @@
       "keywords": "直接提及[和仁科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 16:33",
+      "selected_at": "2026-11-27 20:06",
       "first_seen": "2026-11-27 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "报 喜 鸟",
@@ -308,8 +349,28 @@
       "keywords": "直接提及[报 喜 鸟]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 16:33",
+      "selected_at": "2026-11-27 20:06",
       "first_seen": "2026-11-27 16:33",
+      "is_new": false
+    },
+    {
+      "name": "天圣制药",
+      "code": "002872",
+      "keywords": "直接提及[天圣制药]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-27 20:06",
+      "first_seen": "2026-11-27 20:06",
+      "is_new": true
+    },
+    {
+      "name": "利君股份",
+      "code": "002651",
+      "keywords": "直接提及[利君股份]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-27 20:06",
+      "first_seen": "2026-11-27 20:06",
       "is_new": true
     },
     {
@@ -318,9 +379,9 @@
       "keywords": "直接提及[北纬科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 16:33",
+      "selected_at": "2026-11-27 20:06",
       "first_seen": "2026-11-27 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "好当家",
@@ -328,9 +389,9 @@
       "keywords": "直接提及[好当家]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 16:33",
+      "selected_at": "2026-11-27 20:06",
       "first_seen": "2026-11-27 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "盛剑科技",
@@ -338,19 +399,9 @@
       "keywords": "直接提及[盛剑科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 16:33",
+      "selected_at": "2026-11-27 20:06",
       "first_seen": "2026-11-27 16:33",
-      "is_new": true
-    },
-    {
-      "name": "全筑股份",
-      "code": "603030",
-      "keywords": "直接提及[全筑股份]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-27 16:33",
-      "first_seen": "2026-11-27 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "冰山冷热",
@@ -358,9 +409,9 @@
       "keywords": "直接提及[冰山冷热]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 16:33",
+      "selected_at": "2026-11-27 20:06",
       "first_seen": "2026-11-27 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "东方海洋",
@@ -368,9 +419,9 @@
       "keywords": "直接提及[东方海洋]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 16:33",
+      "selected_at": "2026-11-27 20:06",
       "first_seen": "2026-11-27 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "九阳股份",
@@ -378,9 +429,9 @@
       "keywords": "直接提及[九阳股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 16:33",
+      "selected_at": "2026-11-27 20:06",
       "first_seen": "2026-11-27 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "北化股份",
@@ -388,9 +439,9 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率6.90%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-27 16:33",
+      "selected_at": "2026-11-27 20:06",
       "first_seen": "2026-11-27 16:33",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "常山北明",
@@ -398,29 +449,9 @@
       "keywords": "涨停",
       "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.98\">涨幅9.98%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率6.06%</span>",
       "source": "杰克",
-      "selected_at": "2026-11-27 16:33",
+      "selected_at": "2026-11-27 20:06",
       "first_seen": "2026-11-27 16:33",
-      "is_new": true
-    },
-    {
-      "name": "原尚股份",
-      "code": "603813",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率4.29%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-27 16:33",
-      "first_seen": "2026-11-27 16:33",
-      "is_new": true
-    },
-    {
-      "name": "嘉环科技",
-      "code": "603206",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率3.27%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-27 16:33",
-      "first_seen": "2026-11-27 16:33",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
