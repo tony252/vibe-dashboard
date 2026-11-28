@@ -1,12 +1,89 @@
 {
   "date": "2026-11-27",
-  "updated_at": "2026-11-27 20:03:06",
+  "updated_at": "2026-11-28 12:02:44",
   "stats": {
-    "processed": 19,
+    "processed": 28,
     "alerts": 0,
-    "filtered": 11
+    "filtered": 15
   },
   "events": [
+    {
+      "time": "2026-11-27 19:08",
+      "type": "archive",
+      "title": "【图解牛熊股】8股本周涨超50%，克来机电连续涨停",
+      "content": "①本周A股三大指数下跌至年内低点后大幅反弹，创业板指周涨10.48%；\n②‌‌CPO概念股全面爆发，克来机电、中京电子、天孚通信周涨幅超50%。\n",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2546472",
+      "stocks": [
+        {
+          "name": "中京电子",
+          "code": "002579",
+          "match_reason": "直接提及[中京电子]（选股推荐）"
+        },
+        {
+          "name": "克来机电",
+          "code": "603960",
+          "match_reason": "直接提及[克来机电]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-27 17:21",
+      "type": "archive",
+      "title": "【焦点复盘】双创指数齐创历史单日第三大涨幅，芯片半导体ETF掀大面积涨停",
+      "content": "①连板晋级率升至五成，最高标克来机电晋级6连板，部分前期高位人气股降温，九阳股份午后跳水一度逼近跌停，东方海洋、金新农等多股盘中触及跌停； ②今日创业板指、科创50均创历史单日第三大涨幅，新易盛、华虹宏力、中微公司等多只权重股录得20厘米涨停。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2546762",
+      "stocks": [
+        {
+          "name": "克来机电",
+          "code": "603960",
+          "match_reason": "直接提及[克来机电]（选股推荐）"
+        },
+        {
+          "name": "九阳股份",
+          "code": "002242",
+          "match_reason": "直接提及[九阳股份]（选股推荐）"
+        },
+        {
+          "name": "东方海洋",
+          "code": "002086",
+          "match_reason": "直接提及[东方海洋]（选股推荐）"
+        },
+        {
+          "name": "金新农",
+          "code": "002548",
+          "match_reason": "直接提及[金新农]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-27 17:21",
+      "type": "archive",
+      "title": "【数据看盘】深股通席位5.09亿元净买入新易盛，多路资金联手抢筹九阳股份",
+      "content": "①CPO概念股今日午后集体爆发，权重新易盛20CM涨停，获深股通净买入5.09亿元。\n②人气股九阳股份午后快速跳水后再度震荡回升，获三家机构买入2.53亿，深股通买入3.46亿。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2546747",
+      "stocks": [
+        {
+          "name": "九阳股份",
+          "code": "002242",
+          "match_reason": "直接提及[九阳股份]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
     {
       "time": "2026-11-27 16:13",
       "type": "archive",
@@ -19,6 +96,25 @@
           "name": "和仁科技",
           "code": "300550",
           "match_reason": "直接提及[和仁科技]（选股推荐）"
+        }
+      ],
+      "verification": {
+        "memory": false,
+        "source": true
+      }
+    },
+    {
+      "time": "2026-11-27 15:38",
+      "type": "archive",
+      "title": "科创50创单日历史第三高涨幅 国产算力领涨 以史为鉴后市怎么看？",
+      "content": "①科创50指数大涨14%，涨15.07%，创下自2024年9月30日、10月8日以来最大单日涨幅；\n②中信证券指出，考虑到科技股EPS高增等强现实因子，一旦2027年融资成本下行、模型能力突破与新应用驱动下一轮ARR等事件发生，科技板块将有巨大的修复弹性。",
+      "source": "财联社",
+      "source_url": "https://www.cls.cn/detail/2546494",
+      "stocks": [
+        {
+          "name": "中信证券",
+          "code": "600030",
+          "match_reason": "直接提及[中信证券]（选股推荐）"
         }
       ],
       "verification": {
@@ -300,16 +396,48 @@
     "603813": "2026-11-27 16:33",
     "603206": "2026-11-27 16:33",
     "002872": "2026-11-27 20:06",
-    "002651": "2026-11-27 20:06"
+    "002651": "2026-11-27 20:06",
+    "002579": "2026-11-28 12:05",
+    "002548": "2026-11-28 12:05"
   },
   "watchlist": [
     {
       "name": "克来机电",
       "code": "603960",
       "keywords": "直接提及[克来机电]（选股推荐）",
+      "reason": "新闻提及 | 5次",
+      "source": "event",
+      "selected_at": "2026-11-28 12:05",
+      "first_seen": "2026-11-27 16:33",
+      "is_new": false
+    },
+    {
+      "name": "九阳股份",
+      "code": "002242",
+      "keywords": "直接提及[九阳股份]（选股推荐）",
       "reason": "新闻提及 | 3次",
       "source": "event",
-      "selected_at": "2026-11-27 20:06",
+      "selected_at": "2026-11-28 12:05",
+      "first_seen": "2026-11-27 16:33",
+      "is_new": false
+    },
+    {
+      "name": "中信证券",
+      "code": "600030",
+      "keywords": "直接提及[中信证券]（选股推荐）",
+      "reason": "新闻提及 | 3次",
+      "source": "event",
+      "selected_at": "2026-11-28 12:05",
+      "first_seen": "2026-11-27 16:33",
+      "is_new": false
+    },
+    {
+      "name": "东方海洋",
+      "code": "002086",
+      "keywords": "直接提及[东方海洋]（选股推荐）",
+      "reason": "新闻提及 | 2次",
+      "source": "event",
+      "selected_at": "2026-11-28 12:05",
       "first_seen": "2026-11-27 16:33",
       "is_new": false
     },
@@ -319,19 +447,29 @@
       "keywords": "直接提及[全筑股份]（选股推荐）",
       "reason": "新闻提及 | 2次",
       "source": "event",
-      "selected_at": "2026-11-27 20:06",
+      "selected_at": "2026-11-28 12:05",
       "first_seen": "2026-11-27 16:33",
       "is_new": false
     },
     {
-      "name": "中信证券",
-      "code": "600030",
-      "keywords": "直接提及[中信证券]（选股推荐）",
-      "reason": "新闻提及 | 2次",
+      "name": "中京电子",
+      "code": "002579",
+      "keywords": "直接提及[中京电子]（选股推荐）",
+      "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 20:06",
-      "first_seen": "2026-11-27 16:33",
-      "is_new": false
+      "selected_at": "2026-11-28 12:05",
+      "first_seen": "2026-11-28 12:05",
+      "is_new": true
+    },
+    {
+      "name": "金新农",
+      "code": "002548",
+      "keywords": "直接提及[金新农]（选股推荐）",
+      "reason": "新闻提及 | 1次",
+      "source": "event",
+      "selected_at": "2026-11-28 12:05",
+      "first_seen": "2026-11-28 12:05",
+      "is_new": true
     },
     {
       "name": "和仁科技",
@@ -339,7 +477,7 @@
       "keywords": "直接提及[和仁科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 20:06",
+      "selected_at": "2026-11-28 12:05",
       "first_seen": "2026-11-27 16:33",
       "is_new": false
     },
@@ -349,7 +487,7 @@
       "keywords": "直接提及[报 喜 鸟]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 20:06",
+      "selected_at": "2026-11-28 12:05",
       "first_seen": "2026-11-27 16:33",
       "is_new": false
     },
@@ -359,9 +497,9 @@
       "keywords": "直接提及[天圣制药]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 20:06",
+      "selected_at": "2026-11-28 12:05",
       "first_seen": "2026-11-27 20:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "利君股份",
@@ -369,9 +507,9 @@
       "keywords": "直接提及[利君股份]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 20:06",
+      "selected_at": "2026-11-28 12:05",
       "first_seen": "2026-11-27 20:06",
-      "is_new": true
+      "is_new": false
     },
     {
       "name": "北纬科技",
@@ -379,7 +517,7 @@
       "keywords": "直接提及[北纬科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 20:06",
+      "selected_at": "2026-11-28 12:05",
       "first_seen": "2026-11-27 16:33",
       "is_new": false
     },
@@ -389,7 +527,7 @@
       "keywords": "直接提及[好当家]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 20:06",
+      "selected_at": "2026-11-28 12:05",
       "first_seen": "2026-11-27 16:33",
       "is_new": false
     },
@@ -399,7 +537,7 @@
       "keywords": "直接提及[盛剑科技]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 20:06",
+      "selected_at": "2026-11-28 12:05",
       "first_seen": "2026-11-27 16:33",
       "is_new": false
     },
@@ -409,47 +547,7 @@
       "keywords": "直接提及[冰山冷热]（选股推荐）",
       "reason": "新闻提及 | 1次",
       "source": "event",
-      "selected_at": "2026-11-27 20:06",
-      "first_seen": "2026-11-27 16:33",
-      "is_new": false
-    },
-    {
-      "name": "东方海洋",
-      "code": "002086",
-      "keywords": "直接提及[东方海洋]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-27 20:06",
-      "first_seen": "2026-11-27 16:33",
-      "is_new": false
-    },
-    {
-      "name": "九阳股份",
-      "code": "002242",
-      "keywords": "直接提及[九阳股份]（选股推荐）",
-      "reason": "新闻提及 | 1次",
-      "source": "event",
-      "selected_at": "2026-11-27 20:06",
-      "first_seen": "2026-11-27 16:33",
-      "is_new": false
-    },
-    {
-      "name": "北化股份",
-      "code": "002246",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.99\">涨幅9.99%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率6.90%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-27 20:06",
-      "first_seen": "2026-11-27 16:33",
-      "is_new": false
-    },
-    {
-      "name": "常山北明",
-      "code": "000158",
-      "keywords": "涨停",
-      "reason": "杰克推荐 | <span class=\"chg-val\" data-chg=\"9.98\">涨幅9.98%</span> | <span class=\"vol-val\" data-vol=\"0.0\">量比0.0</span> | <span class=\"turnover-val\">换手率6.06%</span>",
-      "source": "杰克",
-      "selected_at": "2026-11-27 20:06",
+      "selected_at": "2026-11-28 12:05",
       "first_seen": "2026-11-27 16:33",
       "is_new": false
     }
